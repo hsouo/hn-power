@@ -1,0 +1,8131 @@
+### ASCII strings (7877)
+!This program cannot be run in DOS mode.
+'Rich
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+\$ WH
+t$ UH
+@SUVAVH
+(A^^][
+(A^^][
+@SUWAVH
+(A^_][
+(A^_][
+@SWAUAVH
+8A^A]_[
+UVWATAUAVAWH
+ A_A^A]A\_^]
+L$0H3
+\$ UVWH
+L$ H;
+L$(H3
+L$HH3
+L$HH3
+t$ WH
+GD$(H
+L$`H3
+WAVAWH
+A_A^_
+T$`H;
+WATAUAVAWH
+L$XE3
+t$PE3
+A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+@SWATAUAWH
+ A_A]A\_[
+D$89D$H
+D$<9D$L
+D$@9D$P|
+D$D9D$T
+L$0E3
+L$XH3
+L$xH3
+D$ E3
+L$xH3
+D$ 8L$x
+8\$8u'
+L$HH3
+L$hH3
+|$0H9
+GT$hH
+|$ E3
+SVWATAVAWH
+d$0L9
+d$ E3
+A_A^A\_^[
+L$xE3
+GL$hH
+WATAUAVAWH
+D$0H;
+L$8H+
+A_A^A]A\_
+WAVAWH
+A_A^_
+t$ AWH
+L$(L;
+t$ WH
+D$0D9@ }
+vb'vb'v
+)D$ H
+L;AhL
+BAhL+
+D$ H;
+T$ H;
+T$ H;
+L$`H3
+\$ UVWAVAWH
+ A_A^_^]
+SVWATAUAVAWH
+B842u
+`A_A^A]A\_^[
+t$ WH
+L$8H3
+@SVAVAWH
+|$ H;
+(A_A^^[
+@SVATAWH
+t$ H;
+8A_A\^[
+t$ AWH
+t$(E3
+@SUVWAVH
+ A^_^][
+ A^_^][
+ A^_^][
+\$ UVWATAUAVAWH
+\$0E3
+t$ E3
+)D$ L
+PA_A^A]A\_^]
+\$ UVWH
+SUVAWH
+HA_^][
+L$(H3
+\$ VWAWH
+ A__^
+vb'vb'v
+t$ WH
+\$@H;
+UVWAVAWH
+L$8E3
+t$PH;
+L$XH3
+`A_A^_^]
+UVWAVAWH
+0A_A^_^]
+t$ WH
+L$PH3
+D$ 8L$xu
+8L$pu
+L$PH3
+L9t$`
+xP9t$xuJH
+H9t$0
+L$8E3
+|$ E3
+L$@H3
+\$ H;
+\$ H;
+@SUVWATAVAWH
+\$ I;
+\$ I;
+0A_A^A\_^][
+0A_A^A\_^][
+\$ L;
+\$ H;
+0A_A^A\_^][
+\$ UVWH
+L$@H3
+t$ WATAUAVAWH
+\$ H;
+0A_A^A]A\_
+t$ WATAUAVAWH
+A_A^A]A\_
+\$0H;
+\$0H;
+L$8H3
+t$ WAVAWH
+D$RH9D$@u
+L$XH3
+A_A^_
+WATAUAVAWL
+D$@I;
+t$HA_A^A]A\_
+L$ WATAUAVAWH
+|$PE3
+D$`I9
+D$HI+
+fE9<$u
+t$@A_A^A]A\_
+\$PH;
+T$PH;
+@SWAVH
+|$ H;
+0A^_[
+0A^_[
+@SUVAWH
+(A_^][
+(A_^][
+T$(H+
+D$ I+
+T$(H+
+@SVWH
+t$HH+
+@UVATAVAWH
+pA_A^A\^]
+\$hL+
+|$`L+
+D$@L;
+pA_A^A\^]
+L$hH;
+VWAVH
+ A^_^
+t$ WAVAWH
+ A_A^_
+\$ WH
+\$ WH
+@SVWH
+L$`H+
+l$ VWAVH
+0A^_^
+t$ E3
+@VAVAWH
+0A_A^^
+|$ E3
+0A_A^^
+L$PI;
+@SUVWAWH
+ A__^][
+ A__^][
+\$ E3
+@SVWH
+@SUVWAUAVAWH
+ A_A^A]_^][
+UVWATAUAVAWH
+ A_A^A]A\_^]
+@SVAWH
+l$8H;
+@A_^[
+@VAWH
+\$hI+
+l$0H;
+@USVWATAUAVAWH
+@8yhu
+A_A^A]A\_^[]
+WATAUAVAWH
+@A_A^A]A\_
+L$ SUVWH
+H_^][
+WAVAWH
+A_A^_
+WAVAWH
+A_A^_
+WAVAWH
+A_A^_
+WAVAWH
+A_A^_
+fA98u/I
+@UVWAWH
+t$ H;
+8A__^]
+SUWAUH
+L$ H+
+HA]_][
+@UVWATH
+|$ H;
+8A\_^]
+SWAWH
+L$ H;
+PA__[
+@VWATAWH
+t$ H;
+8A_A\_^
+\$ UVWH
+@SUVAWH
+(A_^][
+UVWAUH
+L$ H+
+HA]_^]
+L$xH3
+L$hH3
+L$hH3
+L$ SUVWH
+8_^][
+L$ SUVWH
+8_^][
+L$ SUVWAVH
+@A^_^][
+L$ SWH
+L$HH3
+L$HH3
+(t$0H
+t$ WH
+)t$0H
+(t$0H
+\$ UVWAVAWH
+A_A^_^]
+)D$ L
+UVWATAUAVAWH
+L$HE3
+D8,>u
+L$pH3
+A_A^A]A\_^]
+U]fff
+U]fff
+UVWATAUAVAWH
+\$pE3
+t$ E3
+G\$XH
+GT$xL
+G\$XH
+GT$xL
+A_A^A]A\_^]
+L$pH3
+UWAVH
+UVWATAUAVAWH
+GL$@H
+A_A^A]A\_^]
+UWAVH
+y =~zH
+WAVAWH
+L$xE3
+A_A^_
+UATAUAVAWH
+L$@E3
+|$|Z}l
+D$0E3
+D$0D9h }
+A_A^A]A\]
+VWATAVAWH
+L$HE3
+GL$8H
+GL$XH
+GL$XH
+GL$8H
+A_A^A\_^
+UVWATAUAVAWH
+fF9,@u
+A_A^A]A\_^]
+VWAVH
+\$8H;
+\$8H;
+\$8H;
+UVWATAUAVAWH
+D$`L;
+svchost.I
+gfffffffH
+NV_GRAPHH9
+svchost.H
+u%H98u f
+svchost.
+t$HE3
+L;l$`
+)D$`L
+A_A^A]A\_^]
+UVWATAUAVAWH
+gfffffffH
+GL$(H
+GT$(L
+svchost.
+GL$(H
+GT$(L
+A_A^A]A\_^]
+UVWATAUAVAWH
+gfffffffH
+svchost.
+GD$hH
+u L9(u
+GT$(L
+y :~{H
+A_A^A]A\_^]
+UVWATAUAVAWH
+svchost.I
+GT$0L
+GT$PL
+y ;~{H
+A_A^A]A\_^]
+GL$0H
+GL$0H
+GL$0H
+|$ ATAVAWH
+A_A^A\
+t$ UWAVH
+L$8E3
+L$XE3
+t$@E3
+t$ UWATAVAWH
+A_A^A\_]
+t$ AWH
+L$hH3
+(D$pf
+D$p9D$xt
+USVWATAUAVAWH
+D$DE3
+t$pE3
+A_A^A]A\_^[]
+USVWATAUAVAWH
+D$xE3
+L$xH;
+L$xH;
+G\$xH
+L$xH;
+G\$xH
+L$xH;
+G\$xH
+L$xH;
+G\$xH
+L$xH;
+G\$xH
+L$xH;
+G\$xH
+L$xH;
+G\$xH
+L$xH;
+G\$xH
+L$xH;
+G\$xH
+L$xH;
+G\$xH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+L$HE3
+L$HE3
+\$0H;
+\$0H;
+d$PE3
+A_A^A]A\_^]
+|$ UAVAWH
+D$PHcH
+D$PHcH
+D$PHcH
+D$PHcH
+D$PHcH
+T$HH+
+EpHcH
+H+|$HH
+EpHcH
+EpHcH
+EpHcH
+EpHcH
+A_A^]
+|$ UATAUAVAWH
+ExH+EpH
+|$ E3
+MxH+MpH
+A_A^A]A\]
+\$ UVWATAUAVAWH
+t$0I9u
+H;\$@u
+H;\$@u
+H;\$@u
+H;\$@u
+H;\$@u
+A_A^A]A\_^]
+d$ UAVAWH
+L$HE3
+A_A^]
+UATAUAVAWH
+GD$pH
+H+T$HH
+A_A^A]A\]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+|$ UATAUAVAWH
+A_A^A]A\]
+t$0E3
+T$PH;
+L$PH3
+t$ WH
+H;\$@u
+L$HH3
+|$p9|$Ht0
+(D$@f
+D$@9D$Ht#
+L$xH3
+|$ UH
+VWATAVAWH
+L$8E3
+GL$xL
+A_A^A\_^
+UWATAVAWH
+D$0E3
+D$0D9x }
+)D$ L
+)D$ L
+)D$ L
+A_A^A\_]
+t$ UWATAVAWH
+d$0L9b
+(D$@f
+)D$pf
+D$@9D$Ht,
+A_A^A\_]
+t$ UWAWH
+GL$(H
+D$PHcH
+D$PHcH
+D$PHcH
+D$PHcH
+D$PHcH
+D$PHcH
+UVWAVAWH
+D$@HcH
+D$@HcH
+D$@HcH
+D$@HcH
+D$@HcH
+D$@HcH
+A_A^_^]
+UVWATAUAVAWH
+D$p9x }
+;{ }yI9O
+)D$pH
+\$(H;
+\$(H;
+A_A^A]A\_^]
+UVWAVAWH
+L9t$0
+D$`HcH
+D$`HcH
+GL$8H
+D$`HcH
+D$`HcH
+A_A^_^]
+UWAVH
+L$pE3
+t$xE3
+UUUUUUU
+D$xH;
+G|$`H
+|$PL9t$X
+fB9<@u
+t$ UH
+L$XE3
+t$ UH
+L$XE3
+L$0E3
+L$@9q }
+)D$ L
+t$ UH
+L$8E3
+UWAVH
+T$xE3
+GT$8L
+WAVAWH
+t$XE3
+A_A^_
+{ AVH
+|$ AVH
+L$PE3
+L$XH3
+L$4@2
+UAVAWH
+L$8E3
+A_A^]
+L$xH3
+UWATAVAWH
+GL$PH
+GT$PL
+GL$0H
+GT$0L
+~xL9g
+)D$0L
+GL$PH
+GT$PL
+GL$0H
+GT$0L
+~yL9g
+)D$0L
+GL$PH
+GL$xH
+A_A^A\_]
+UWAVH
+GL$PH
+GT$PL
+GL$0H
+GT$0L
+)D$0L
+UVWATAUAVAWH
+)D$0L
+gfffffffH
+|$ E3
+GL$XH
+GT$XL
+GT$xL
+gfffffffH
+GL$XH
+A_A^A]A\_^]
+t$ UWAVH
+ttD8u
+{ AUAVAWH
+A_A^A]
+|$ AVH
+\$ VWAVH
+PA^_^
+L$8H3
+@SVWH
+D$ tp
+L$(H3
+@SUVWAVH
+L90u"H
+L$(H3
+0A^_^][
+@SWAWH
+ A__[H
+t$XH+
+ A__[
+@UVAVH
+0A^^]
+0A^^]H
+|$ H;
+0A^^]
+|$ UH
+\$ WH
+D$XH+
+H9D$H
+L$xH3
+@SUVWAVH
+@A^_^][
+I9Khs
+M9Chs
+t$ WAVAWH
+AXHc8H
+ A_A^_
+\$ H;
+\$ H;
+@SUVWAVH
+ A^_^][
+ A^_^][
+l$ VWAVH
+ A^_^
+|$ AVH
+\$0H;
+@SUVWAVH
+ A^_^][
+ A^_^][
+L$XH3
+D$8H+
+L$XH3
+\$8I9
+@SVWH
+L$@H3
+H;yhH
+ByhI+
+APHc8I+
+UWATAVAWH
+@@L;U
+@@L;U
+A_A^A\_]
+\$ H;
+\$ H;
+gfffffffH
+\$ H;
+\$ H;
+\$ H;
+\$ H;
+@UVWAWH
+hA__^]
+hA__^]
+t$ AVH
+|$ UH
+t$ WH
+L$8H3
+GL$8H
+8/t H
+GT$8L
+L$XH3
+\$ UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWAVAWH
+D$0E3
+D$09P }
+)D$ H
+PA_A^_^]
+ATAVAWH
+@A_A^A\
+\$ UVWATAUAVAWH
+0A_A^A]A\_^]
+fB9<@u
+t$ WH
+t$ WATAUAVAWH
+t$$E2
+A_A^A]A\_
+D$ H;
+D$ H;
+(t$@H
+L$8H3
+T$0H;
+uPH9w
+@SUVWAVH
+D$0E3
+D$09P }
+)D$ H
+PA^_^][
+t$ WH
+L$8H3
+|$0H;
+|$0H;
+\$ VWAVH
+3333333
+t$@H;
+L$HH3
+PA^_^
+WAVAWH
+t:fff
+ A_A^_
+|$0H;
+|$0H;
+SUVAWH
+HA_^][
+UUUUUUU
+VWATAVAWH
+\$@H;
+`A_A^A\_^
+@SUVWAVH
+0A^_^][
+\$ UVWH
+t$ UWAVH
+t$ WH
+l$ VAVAWH
+|$HH+
+ A_A^^
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWAVAWH
+T$0H#
+pA_A^_^]
+UATAUAVAWH
+A_A^A]A\]
+t$ WH
+L$@H3
+L$(H3
+D$ trueH
+:D4 u
+D$ fals
+D$$eH
+:D< uYH
+D$ null
+:D< u+H
+L$(H3
+C(@8{
+L$0H;SHt
+l$ WAVAWH
+D$ H;Q
+C(D8{
+D$ H;SHt
+D98uKH
+L$0H3
+@A_A^_
+UWATAVAWH
+H;QHt
+C(D8c
+H;SHt
+A_A^A\_]
+ !!"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$%&&&&&&&&&&&&'&&()))*f
+@SUVWAVAWH
+8A_A^_^][
+8A_A^_^][
+D$0H;Q
+t$ WH
+t$ WH
+D$0H;
+L$0H3
+l$ WH
+UVWAVAWH
+T$0H;
+pA_A^_^]
+ATAVAWH
+@A_A^A\
+SVWATAUAVAWH
+@A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+L$ SVWATAUAVAWH
+@A_A^A]A\_^[
+SVWATAUAVAWH
+0A_A^A]A\_^[
+@SUVWATAVAWH
+L$ E3
+d$@D8`
+D$8D9@ }
+)D$ M
+PA_A^A\_^][
+|$ UH
+UVWAVAWH
+A_A^_^]
+UVWATAUAVAWH
+L$ E3
+l$@D8h
+D$89P }
+)D$ L
+PA_A^A]A\_^]
+@SVWATAUAVAWH
+0A_A^A]A\_^[
+SVWATAUAVAWH
+0A_A^A]A\_^[
+@SVWATAUAVAWH
+A_A^A]A\_^[
+UVWAVAWH
+L$0E3
+A_A^_^]
+UVWAVAWH
+L$xE3
+A_A^_^]
+UVWAVAWH
+L$@E3
+A_A^_^]
+fffffff
+l$ VWAVH
+uNfff
+0A^_^
+\$0H;
+\$0H;
+L$HH3
+|$ UAVAWH
+A_A^]
+t$ UWAVH
+t$ WAVAWH
+\$ H;
+\$ H;
+0A_A^_
+t$ WH
+l$ VAVAWH
+|$HH+
+ A_A^^
+l$ VWAVH
+3333333
+)D$ L
+L$(H3
+L$(H3
+L$(H3
+t$ UWATAVAWH
+A_A^A\_]
+UVWAVAWH
+ A_A^_^]
+L$XH3
+L$0H3
+L$ H3
+t$ WH
+L$(H3
+SUVWAVH
+T$0H;
+pA^_^][
+t$ UWAVH
+HcN H
+L$0H3
+@SVWH
+@USVWAVH
+A^_^[]
+t$ WATAUAVAWH
+\$ H;
+A_A^A]A\_
+VWATAVAWH
+D$ I;
+L$XH3
+`A_A^A\_^
+|$ UH
+UVWAVAWH
+`A_A^_^]
+t$ UWAVH
+)t$0H
+(t$0H
+@A^_]
+UVWAVAWH
+0A_A^_^]
+0A_A^_^]
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+0A_A^_^]
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+0A_A^_^]
+0A_A^_^]
+UVWAVAWH
+`A_A^_^]
+@USVWATAVAWH
+u7H;C
+A_A^A\_^[]
+VWAVH
+L$8H3
+@A^_^
+@USVWATAVAWH
+pA_A^A\_^[]
+UVWAVAWH
+)t$`H
+(t$`H
+pA_A^_^]
+UVWAVAWH
+`A_A^_^]
+UVWAVAWH
+`A_A^_^]
+UVWAVAWH
+`A_A^_^]
+UVWAVAWH
+`A_A^_^]
+3333333
+@USVWAVH
+A^_^[]
+\$0H;
+\$0H;
+3333333
+t$ WAVAWH
+GL$(L
+D$8M;
+L9|$8s
+A_A^_
+UVWAVAWH
+3333333
+A_A^_^]
+UVWATAUAVAWH
+t$0M;
+H9|$H
+H9t$P
+t$@M;
+A_A^A]A\_^]
+UVWATAUAVAWH
+gfffffffH
+3333333
+t$0M;
+H9|$H
+t$@M;
+A_A^A]A\_^]
+UVWATAUAVAWH
+t$0M;
+H9|$H
+H9t$P
+t$@M;
+A_A^A]A\_^]
+UVWATAUAVAWH
+gfffffffH
+3333333
+t$0M;
+H9|$H
+t$@M;
+A_A^A]A\_^]
+\$ WH
+|$ UH
+L$PE3
+@USVWAVH
+A^_^[]
+t$ WATAUAVAWH
+A_A^A]A\_
+I9:u7A
+t$ WATAUAVAWH
+A_A^A]A\_
+@SVWATAUAVAWH
+A_A^A]A\_^[
+t$ WATAUAVAWH
+A_A^A]A\_
+t$ WATAUAVAWH
+A_A^A]A\_
+t$ WATAUAVAWH
+A_A^A]A\_
+t$ WATAUAVAWH
+A_A^A]A\_
+t$ WATAUAVAWH
+A_A^A]A\_
+gfffffffI
+3333333
+VWAVH
+ A^_^
+gfffffffI
+3333333
+t$ WAVAWH
+\$ H;
+\$ H;
+gfffffffH
+0A_A^_
+t$ WAVAWH
+\$ H;
+\$ H;
+0A_A^_
+t$ WAVAWH
+\$ H;
+\$ H;
+0A_A^_
+@SVWATAUAVAWH
+|$pHk
+0A_A^A]A\_^[
+@SVWATAUAVAWH
+gfffffffI
+3333333
+0A_A^A]A\_^[
+@SVWATAUAVAWH
+@A_A^A]A\_^[
+@SVWATAUAVAWH
+gfffffffI
+3333333
+0A_A^A]A\_^[
+t$ WH
+L$8H3
+L$ H3
+L$ H3
+L$ H3
+L$ H3
+\$0H;
+\$0H;
+\$0H;
+\$0H;
+t$ WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+gfffffffH
+3333333
+t$0M;
+H9|$H
+H9t$P
+t$@M;
+A_A^A]A\_^]
+gfffffffI
+3333333
+@SVWATAUAVAWH
+gfffffffI
+3333333
+0A_A^A]A\_^[
+L$ H3
+t$ WH
+L$0H3
+|$ AWH
+\$@E3
+VWATAVAWH
+|$ E3
+A_A^A\_^
+UVWAVAWH
+A_A^_^]
+@SVWATAUAVAWH
+T$ E3
+L$xE3
+|$ E3
+A_A^A]A\_^[
+UVWATAUAVAWH
+`A_A^A]A\_^]
+D$`fA
+L$pH3
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAVAWH
+A_A^A\_^[]
+t$ WAVAWH
+L$(E3
+D$ZL;
+\$ZI+
+L$`H3
+A_A^_
+L$0H3
+u+H9{Pt
+{PH9{Xt
+{XH9{pt
+{p@8{xt
+H9APt
+APH9AXt
+AXH9Apt
+Ap8Axt
+|$ ATAVAWH
+L$@E3
+L$xH3
+A_A^A\
+t$ AWH
+|$ E3
+L$pH3
+WATAUAVAWH
+t$hH9>u
+|$ E3
+A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+@USVWATAVAWH
+A_A^A\_^[]
+@SVWATAUAVAWH
+T$ E3
+|$ E3
+A_A^A]A\_^[
+SVWATAUAVAWH
+A_A^A]A\_^[
+L$pE3
+GL$`H
+GL$@H
+L$pE3
+GL$`H
+GL$@H
+GL$`H
+|$ AWH
+D$`HcH
+D$`HcH
+D$`HcH
+D$`HcH
+D$`HcH
+L$HE3
+L$PE3
+L$PE3
+L$PE3
+L$PE3
+L$PE3
+L$ SVWH
+ATAUH
+D;d$ 
+|$ UH
+L$`H3
+L$`H3
+s WAVAWH
+L$xH3
+A_A^_
+UVWATAUAVAWH
+A_A^A]A\_^]
+L$ SUVH
+@SUVH
+)t$ H
+(t$ H
+)t$ H
+(t$ H
+)t$ H
+(t$ H
+)t$ H
+(t$ H
+)t$ H
+(t$ H
+)t$ H
+(t$ H
+L$ 9H
+HcD$ H
+HcT$ D
+L$@H3
+L$HH3
+L$XH3
+L$HH#
+L$PH#
+iD$ A4
+D$,HcD$,H
+H9D$(
+L$ H+
+H;D$0r
+D$HH9D$hwpH
+HkD$8
+L$8H#
+D$@HkD$H
+D$HHkD$P
+D$HH9D$8w
+<$dsS3
+D$ 9D$$
+eHcD$ HcL$$H+
+D$(HcL$$H
+0HcD$ H
+fHcD$$HcL$ H+
+HcL$ H
+HcT$ H
+HcD$ H
+.HcD$$H
+D$ 9D$x
+HcD$$
+HcL$$H
+WHcD$$H
+.HcD$$H
+L$hH3
+D$0Hk@
+D$0Hk@
+D$0Hk@
+D$0Hk@
+D$0Hk@
+D$0Hk@
+D$0Hk@
+D$0Hk@
+D$0Hk@
+H9D$ tI
+H9D$ t<H
+D$(9D$8
+D$,9D$<
+D$09D$@|
+D$49D$D|
+L$HH3
+D$ E3
+L$8H+
+HcD$0H
+u#HcD$0H
+HcD$0H
+uJHcD$0H
+HcD$0H
+uJHcD$0H
+HcD$0H
+uJHcD$0H
+D$@H9D$(t.H
+D$8H9D$(
+D$8H9D$(tQH
+D$8H9D$(t:H
+D$0H9D$ 
+L$xH3
+L$(H3
+D$0H9D$ t>H
+L$`H3
+H9D$(
+9D$ u=H
+L$@H3
+D$HH9D$(
+D$`H9D$0
+D$@E3
+L$`H3
+|$$d}
+L$`H3
+H;D$ v'H
+H;D$Hw
+H9D$Pu
+H9D$Pu
+D$hH9
+H9D$@u
+H9D$@u
+L$0H3
+(HiD$@
+D$hH9D$@
+L$0H#A0H
+L$@H;
+L$pH3
+(HiD$@
+(HkD$@(H
+(HiD$@`
+L$8H3
+(HiD$@0
+(HiD$@
+L$@H3
+D$ H=
+D$ H=
+L$8H3
+L$8H3
+L$HH3
+L$8H3
+L$pH3
+L$XH3
+L$@H9
+L$`H3
+L$HH3
+L$@H3
+L$`H3
+L$XH3
+L$@H9
+L$XH3
+L$@H9
+L$`H3
+L$XH3
+L$@H9
+L$`H3
+L$XH3
+L$@H9
+L$`H3
+L$XH3
+L$@H9
+L$`H3
+L$XH3
+L$@H9
+L$pH3
+L$XH3
+L$@H9
+L$XH3
+L$@H9
+D$0H9D$ t
+L$8H3
+L$XH3
+L$@H9
+L$XH3
+L$@H9
+L$XH3
+L$@H9
+L$XH3
+L$@H9
+L$pH3
+T$(H+
+D$(H9D$ t
+L$hH3
+L$hH3
+D$8H9D$0t
+L$PH3
+L$PH3
+L$PH3
+L$8H3
+D$8H9D$0t
+D$8H9D$0t
+D$8H9D$0t
+D$8H9D$0t
+D$8H9D$0t
+D$8H9D$0t
+D$PH9D$Ht
+D$8H9D$0t
+D$(H9D$8t
+L$@H3
+L$(H3
+H9D$ u
+L$xH#
+L$@H9
+L$HH9
+L$PH3
+(HkD$@8H
+H9D$8v
+H9D$8v
+L$(H9
+H9D$ u
+H9D$ u
+L$ H;H
+H9D$(wyH
+HcD$<H
+L$0H;
+H9D$@
+H9D$H
+L$4H;
+L$8H;
+D$PH9
+D$(H9D$ r
+H;D$(r
+HkD$h(H
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+L$(H3
+H9D$@
+H+D$0H
+H+D$0H
+L$(H3
+fffffff
+UUUUUUU
+(HkD$@0H
+L$0H+
+H9D$Xu
+D$ HiD$0
+D$pHiL$0
+HiD$0
+D$HHiD$0
+HiD$0
+L$XH3
+L$XH+
+L$(H+
+T$XH+
+L$ H;
+L$8H3
+L$hH#
+D$(H9D$ u$H
+D$8H9D$ u!H
+H9D$Xu
+D$ HiD$0
+D$pHiL$0
+HiD$0
+D$HHiD$0
+HiD$0
+D$0H9D$(t
+L$XH3
+L$HH+
+D$HH9D$@t
+L$hH3
+L$HH+
+D$HH9D$@t
+L$hH3
+L$PH3
+H9D$Xu
+D$ HiD$00
+D$pHiL$00
+HiD$00
+D$HHiD$00
+HiD$00
+L$(H3
+L$(H3
+L$`H3
+L$@H3
+L$XH3
+zHuFH
+L$@H3
+|$(ds
+(HkD$@hH
+(HkD$@@H
+HiD$p
+HiD$x
+L$(H+
+H9D$ v
+D$XH9D$0s
+D$0E3
+HiD$p
+HiD$x
+L$(H+
+H9D$ v
+D$XH9D$0s
+HiD$p0
+HiD$x0
+L$(H+
+H9D$ v
+D$XH9D$0s
+D$@E3
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+D$(H9D$ t
+L$PH3
+L$8H3
+HcL$HH
+HcL$HH
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+HcL$HH
+HcL$HH
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+HcL$HH
+HcL$HH
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+H9D$(
+D$0H-
+D$0HiD$0
+D$8H-
+L$8H+
+D$@H9D$xs^H
+D$@H-
+H9D$HsNL
+H9D$ 
+D$ H9D$Ht!H
+D$(H-
+D$(H9D$x
+D$@H-
+D$0H9D$@t
+D$xH9D$(u-H
+H9D$ u
+D$xH9D$(u_H
+D$ H9D$Ht
+H9D$ u\H
+D$(H-
+D$@H-
+D$@H9D$(t
+D$HH-
+D$(H-
+L$PH3
+D$(H9D$ t
+L$PH3
+L$PH+
+D$0H9D$(t
+L$XH3
+D$(H9D$ t
+L$PH3
+L$hH3
+L$PH3
+D$XH9D$Pt
+L$8H3
+L$(H+
+H9D$@v
+HiD$@
+(HkD$@
+H9D$pr
+D$PH9D$ tWH
+H9D$pr
+D$PH9D$ tWH
+H9D$pr
+H9D$pr
+D$PH9D$ tWH
+H9D$pr
+H9D$pr
+H9D$pr
+D$8H9D$0t9H
+D$8H-
+D$@H-
+D$8H9D$0
+HiL$0
+D$0HiD$0
+HiL$h
+D$8H9D$0uaH
+HiL$h
+L$`H+
+D$0HiD$0
+HiL$ 
+HiD$ 
+HiL$ 
+T$XH+
+HiD$ 
+L$`H+
+HiL$0
+T$`H+
+HiD$ 
+L$`H+
+HiL$ 
+D$$9D$ s
+L$(H3
+L$8H#
+D$0-3
+H9D$@v
+HiD$@
+H9D$@v
+HiD$@
+H9D$@v
+HiD$@0
+H9D$8v%H
+H9D$8v
+H9D$8v%H
+H9D$8v
+H9D$8v%H
+H9D$8v
+H9D$8v%H
+H9D$8v
+D$XH9D$(
+$HkD$(
+D$HH9D$P}tHiD$ 
+tGHiD$ 
+HiL$H
+HiL$H
+T$XH+
+L$@H3
+L$@H3
+D$@H9D$xsVH
+D$@H9D$x
+D$XH9D$xv
+L$xH+
+D$(H9D$ t
+L$@H3
+L$XH3
+HkD$p(H
+HkD$x(H
+HiD$p
+HiD$x
+L$(H3
+H9D$Xu
+D$ HkD$0 H
+D$pHkL$0 H
+HkD$0 H
+D$HHkD$0 H
+HkD$0 H
+H9D$Xu
+D$ HiD$0
+D$pHiL$0
+HiD$0
+D$HHiD$0
+HiD$0
+H9D$Xu
+D$ HkD$0(H
+D$pHkL$0(H
+HkD$0(H
+D$HHkD$0(H
+HkD$0(H
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+D$(H9D$ t
+L$PH3
+L$pH3
+L$HH3
+D$(H9D$ t
+L$PH3
+H9D$Xu
+D$ HkD$0
+D$pHkL$0
+HkD$0
+D$HHkD$0
+HkD$0
+L$(H+
+H9D$ v
+D$XH9D$0s
+L$(H+
+H9D$ v
+D$XH9D$0s
+L$(H+
+H9D$ v
+D$XH9D$0s
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+HcL$HH
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$XHc
+L$0H3
+L$(H+
+D$(H9D$ t
+L$PH3
+L$PH3
+L$PH3
+H9D$8v
+HkD$h
+(HcD$8H
+L$@H3
+L$@H3
+L$@H3
+L$PH3
+L$HH+
+D$HH9D$@t
+L$hH3
+L$@H3
+L$@H3
+L$@H3
+HcD$ H
+D$0H9D$(t
+L$XH3
+L$PH3
+D$0E3
+L$8H3
+D$ H9D$Hw
+L$HH+
+H9D$@v
+HkD$@8H
+L$`9A
+D$0H9D$ t
+L$PH3
+D$PE3
+L$8H3
+L$0H3
+L$PH3
+L$0H3
+L$@H3
+L$0H3
+L$(H+
+H9D$ v
+D$XH9D$0s
+H9D$0t!H
+HkL$ @H
+L$8H3
+L$XH3
+D$(H9D$ t
+L$PH3
+D$8H9D$0t
+HkD$p
+HkD$x
+H9D$Xu
+D$ HkD$0
+D$pHkL$0
+HkD$0
+D$HHkD$0
+HkD$0
+D$HH9D$ s
+L$0H3
+L$xH3
+D$0H9
+L$ H3
+D$xH9D$h
+D$xH9D$hr
+L$@H3
+D$PH9D$Ht
+D$PH9D$Ht
+D$PH9
+L$0H#A0H
+H;D$ v'H
+D$hH9
+L$hH#
+D$(H9D$ u$H
+D$8H9D$ u!H
+L$ H3
+D$hH9D$(t2H
+D$pH9D$0t-H
+D$xH9D$8t%H
+D$XH9D$ t>H
+D$pH9D$(tCH
+H9D$0t|H
+L$HH3
+L$(H3
+D$@H9D$(
+H9D$8tqH
+H9D$@
+L$@H3
+L$@H3
+D$0H9D$ t*H
+L$hH3
+D$0H9D$ t'H
+L$xH3
+D$8H9D$(
+L$(H3
+L$(H3
+L$(H3
+H9D$Pu
+H;D$ v'H
+D$hH9
+(HiD$@
+L$@H3
+L$@H3
+L$@H3
+D$0E3
+D$0H=
+L$8H3
+D$$9D$ s
+L$(H3
+L$PH3
+L$`H3
+L$hH3
+D$8H9D$0t
+D$hH9
+D$PH9
+H9D$@t
+D$8H9D$0t
+H9D$@v
+HiD$@
+H9D$@v
+HiD$@
+H9D$hv
+H9D$ u
+(HiD$@
+H9D$ u
+(HiD$@
+$HiD$(`
+HiD$h
+L$(H+
+H9D$ v
+D$XH9D$0s
+D$PH9
+D$PH9
+D$PH9
+L$0H#A0H
+L$0H#A0H
+H9D$Xu
+D$ HkD$00H
+D$pHkL$00H
+HkD$00H
+D$HHkD$00H
+HkD$00H
+L$PH3
+H9D$Xu
+D$ HiD$0
+D$pHiL$0
+HiD$0
+D$HHiD$0
+HiD$0
+L$hH#
+D$(H9D$ u$H
+D$8H9D$ u!H
+L$hH#
+D$(H9D$ u$H
+D$8H9D$ u!H
+H9D$Xu
+D$ HiD$0`
+D$pHiL$0`
+HiD$0`
+D$HHiD$0`
+HiD$0`
+H9D$Xu
+D$ HiD$0
+D$pHiL$0
+HiD$0
+D$HHiD$0
+HiD$0
+H9D$Xu
+D$ HiD$0
+D$pHiL$0
+HiD$0
+D$HHiD$0
+HiD$0
+H9D$Xu
+D$ HiD$0
+D$pHiL$0
+HiD$0
+D$HHiD$0
+HiD$0
+D$@H9D$xsVHiD$x`
+D$@H9D$x
+D$XH9D$xv
+L$xH+
+HkD$p0H
+HkD$x0H
+L$(H+
+H9D$ v
+D$XH9D$0s
+HiD$p
+HiD$x
+HiD$p`
+HiD$x`
+L$(H+
+H9D$ v
+D$XH9D$0s
+HiD$p
+HiD$x
+HcL$HH
+HcL$HH
+HcL$HH
+D$(H9D$ t
+L$PH3
+D$(H9D$ t
+L$PH3
+D$(H9D$ t
+L$PH3
+D$(H9D$ t
+L$PH3
+D$(HiD$@`
+L$pH3
+L$@H3
+H9D$@v
+HiD$@
+H9D$@v
+HiD$@`
+L$ H3
+L$ H9H(s
+L$ H9H(
+D$(H9D$ 
+L$(H9H(sFH
+L$(H9H(sFH
+L$(H9H(sFH
+L$(H9H(r
+H9D$ sCH
+D$@E3
+@(H9D$8
+L$0H9H(sFH
+L$0E3
+L$0H9H(ubH
+D$8H9D$0sVH
+D$ H;D$8s_H
+D$(H;D$8siH
+L$(H+
+L$PH3
+D$xH%
+L$HH3
+9D$D}
+D$d9D$h
+L$ E3
+D$0H9D$ 
+D$hH9
+D$HH9
+H9D$@t
+H9D$hv
+L$PH3
+D$ E3
+L$xH3
+H9D$Xu
+D$ HiD$0
+D$pHiL$0
+HiD$0
+D$HHiD$0
+HiD$0
+HiD$p
+HiD$x
+D$(H9D$ t
+L$PH3
+I(H9H(u
+L$PH3
+L$ E3
+L$hH3
+H9D$X
+H9D$8
+H9D$H
+H9D$0t$H
+L$0H3
+L$0H3
+(HkD$@xH
+(HkD$@pH
+L$8H3
+L$@H3
+L$@H3
+L$8H+
+L$PH3
+D$8H9D$0t
+D$8H9D$0t
+D$PH9D$Ht
+L$(H3
+H9D$ u
+(HkD$@PH
+H9D$ u
+(HkD$@HH
+H9D$8v
+D$PH9
+D$PH9
+HiD$h
+3333333
+H;D$ v'H
+H;D$ v'H
+D$hH9
+D$hH9
+L$0H+
+H+D$pH9
+L$ H+
+D$0H9D$ u
+L$0H+
+L$0H+
+L$0H+
+L$@H3
+L$@H3
+D$0H9D$(t
+L$XH3
+L$ H;H
+L$PH3
+D$8H9D$0t0H
+D$8H9D$0t
+D$8H9D$0t
+L$hH3
+H9D$Xu
+D$ HkD$0xH
+D$pHkL$0xH
+HkD$0xH
+D$HHkD$0xH
+HkD$0xH
+H9D$Xu
+D$ HkD$0pH
+D$pHkL$0pH
+HkD$0pH
+D$HHkD$0pH
+HkD$0pH
+HkD$pxH
+HkD$xxH
+L$(H+
+H9D$ v
+D$XH9D$0s
+HkD$ppH
+HkD$xpH
+L$(H+
+H9D$ v
+D$XH9D$0s
+"""""""
+L$HH+
+L$PH+
+L$PH+
+L$PH3
+D$(H9D$ t
+L$PH3
+D$(H9D$ t
+L$PH3
+"""""""
+"""""""
+H9D$@v
+HkD$@xH
+H9D$@v
+HkD$@pH
+L$PH3
+H9D$8v
+L$HH+
+D$HH9D$@t
+L$hH3
+L$pH3
+L$(H+
+L$HH3
+D$@H9D$xsRH
+D$@H9D$x
+D$XH9D$xv
+L$xH+
+@SVWH
+SVWATAUAVAWH
+0A_A^A]A\_^[
+UATAUAVAWH
+L;0fD
+D$HfD
+D$HfD
+D$HfD
+A_A^A]A\]
+{ AVH
+D$@HcH
+D$@HcH
+D$@HcH
+D$@HcH
+|$ UATAUAVAWH
+A_A^A]A\]
+t$ WH
+H9t$H
+L$xH3
+WATAUAVAWH
+D$PHcH
+D$PHcH
+A_A^A]A\_
+H;\$ 
+H;\$ 
+?"tt;
+L$HH3
+l$ VWAVH
+L$PE3
+GD$PH
+L$pH3
+WATAUAVAWH
+ A_A^A]A\_
+UVWATAWH
+H9Ehs
+ A_A\_^]
+@SVWAVH
+H9Fhs
+(A^_^[
+SVWAVH
+8A^_^[
+WAVAWH
+\$8H;
+A_A^_
+|$ AVH
+VWAVH
+@A^_^
+@SVWH
+x AVH
+ntelA
+ineID
+UWAVH
+e A^_]
+x AVH
+c:\recovery\OEM\version.txt
+SystemEnvironment::IsAgreeClause
+current agreeClause is expired 
+SystemEnvironment::GetDeviceTypeEx
+fail to get product name. result:
+#dQ2ST
+bad allocation
+K.$( 
+Unknown exception
+bad array new length
+string too long
+<?xml version="1.0" encoding="gb2312" standalone="yes" ?>
+plugins\
+HnSync\
+config\
+config\AppUpdateStatus.xml
+plugin-list
+plugin
+process
+version
+clsid
+description
+loadorder
+%s%s%s
+%s%s%s%s
+PluginsManager.dll
+x3InitializePlugin
+x3UninitializePlugin
+x3CreateObject
+logging.cfg
+PCManager
+hwa_plugin_setting
+PCManagerMainService
+MBAMessageCenter
+HWLoginGuide
+MonPowerPlugin
+MonProcessPlugin
+MonWndPlugin
+MonSysStatePlugin
+PowerPolicyPlugin
+PowerManagerUIPlugin
+HWAccountPlugin
+hwa_plugin_account
+CommonFrame
+DoctorPlugin
+MBAUpdater
+AppMgPlugin
+MBADownload
+MBAUpdaterCheck
+hwa_plugin_NPS
+MsgCenter
+MsgCenterMobile
+DataReport
+ProtocolUnit
+BackupStorePlugin
+OSDMainService
+OSDListener
+DumpReport
+RegisterPlugin
+UnRegisterPlugin
+D1013878-C992-4706-A7C1-8CB9DD9246F8
+ !"#$%&'
+Marconi
+Pascal
+Volta
+Wright
+Kepler
+Darwin
+MachA
+MachR
+Kelvin
+Planck
+NobelB
+BohrB
+KeplerR
+NobelK
+Hubble
+BohrK
+VoltaR
+900002001
+config\DeviceFuncSwitchConf.xml
+901005001
+902001005
+900002002
+901000001
+902001008
+902001009
+902001006
+902001007
+903001004
+903001006
+903001001
+903001003
+903001011
+903001012
+903001007
+903001010
+903001017
+903002001
+903001015
+903001016
+903998997
+903998998
+903002003
+903002005
+903999999
+904000003
+903998999
+903999998
+904001003
+905000003
+904001001
+904001002
+905000006
+905000007
+905000004
+905000005
+905000010
+905000011
+905000008
+905000009
+905000014
+905000015
+905000012
+905000013
+905000019
+905000020
+905000017
+905000018
+905000031
+905000100
+905000025
+905000029
+905001002
+905001003
+905000200
+905001001
+905001006
+905001007
+905001004
+905001005
+905001010
+905001011
+905001008
+905001009
+905001014
+905001015
+905001012
+905001013
+905003001
+905003002
+905001016
+905001017
+905003005
+905003006
+905003003
+905003004
+905003009
+905003010
+905003007
+905003008
+905003017
+905003018
+905003011
+905003016
+907001003
+907001004
+906001001
+907001001
+907002002
+907002003
+907001005
+907002001
+907003003
+908000001
+907003001
+907003002
+908000004
+908000005
+908000002
+908000003
+908000008
+908000009
+908000006
+908000007
+908000012
+908000013
+908000010
+908000011
+908000016
+908001007
+908000014
+908000015
+908001011
+908004004
+908001008
+908001010
+909001032
+909001033
+909001029
+909001030
+909002001
+909002002
+909001034
+909001035
+916001001
+916001002
+909002003
+915001001
+601000001
+954040001
+916001003
+917001003
+601001002
+601001003
+954001026
+601001001
+601001006
+601001007
+601001004
+601001005
+601001101
+601001102
+601001008
+601001100
+601002001
+601002002
+601001103
+601001104
+601002005
+601002006
+601002003
+601002004
+601002009
+601002010
+601002007
+601002008
+601003003
+601003004
+601003001
+601003002
+601003007
+601003008
+601003005
+601003006
+601003011
+601004001
+601003009
+601003010
+601004004
+601004005
+601004002
+601004003
+601004008
+601004009
+601004006
+601004007
+601004012
+601004013
+601004010
+601004011
+601004016
+601005001
+601004014
+601004015
+601005004
+601005005
+601005002
+601005003
+601006002
+601006003
+601005006
+601006001
+601006006
+601006007
+601006004
+601006005
+601006010
+601006011
+601006008
+601006009
+601007001
+601007002
+601006012
+601006013
+601007005
+601007006
+601007003
+601007004
+601008002
+601008003
+601007007
+601008001
+601008102
+601008103
+601008004
+601008101
+601008106
+601008107
+601008104
+601008105
+601008110
+601009001
+601008108
+601008109
+601009004
+603001001
+601009002
+601009003
+603001006
+603001010
+603001003
+603001004
+603001013
+603001014
+603001011
+603001012
+603001018
+603002001
+603001015
+603001017
+603002004
+603002005
+603002002
+603002003
+603003003
+603003004
+603003001
+603003002
+603011002
+604000001
+603011000
+603011001
+604000004
+604000005
+604000002
+604000003
+605000004
+605000005
+604000006
+605000003
+605000008
+605000009
+605000006
+605000007
+605000012
+605000013
+605000010
+605000011
+605000017
+605000018
+605000014
+605000015
+605000021
+605000022
+605000019
+605000020
+605000025
+605000026
+605000023
+605000024
+605000030
+605000032
+605000027
+605000028
+605000200
+605001001
+605000033
+605000100
+605001004
+605001005
+605001002
+605001003
+605001008
+605001009
+605001006
+605001007
+605001012
+605001013
+605001010
+605001011
+605001016
+605001017
+605001014
+605001015
+605001103
+605001104
+605001101
+605001102
+605001107
+605001108
+605001105
+605001106
+605001111
+605001112
+605001109
+605001110
+605001115
+605001116
+605001113
+605001114
+605001119
+605001120
+605001117
+605001118
+605001123
+605001124
+605001121
+605001122
+605001127
+605001128
+605001125
+605001126
+605002002
+605002003
+605001129
+605002001
+605003001
+605003002
+605002004
+605002005
+605003006
+605003007
+605003004
+605003005
+605003010
+605003011
+605003008
+605003009
+605003014
+605003015
+605003012
+605003013
+605003018
+605003019
+605003016
+605003017
+605003022
+605003023
+605003020
+605003021
+605003026
+605003027
+605003024
+605003025
+606001023
+606001024
+605003028
+606001022
+606001033
+606001034
+606001031
+606001032
+606001037
+606001038
+606001035
+606001036
+606001041
+606001042
+606001039
+606001040
+606002012
+606002013
+606001043
+606002011
+606002016
+606002017
+606002014
+606002015
+606003002
+606003003
+606002018
+606003001
+606004004
+606004005
+606004001
+606004003
+606004502
+606004503
+606004500
+606004501
+606004506
+606004507
+606004504
+606004505
+606004510
+606004511
+606004508
+606004509
+606004514
+606004515
+606004512
+606004513
+606004518
+606004519
+606004516
+606004517
+606004522
+606004523
+606004520
+606004521
+606004526
+606004527
+606004524
+606004525
+606005501
+606005502
+606004528
+606005500
+606005505
+606005506
+606005503
+606005504
+606005509
+606005510
+606005507
+606005508
+606006002
+606006003
+606006000
+606006001
+606006006
+606006007
+606006004
+606006005
+606006502
+606006503
+606006500
+606006501
+606006506
+606006507
+606006504
+606006505
+606006510
+606006511
+606006508
+606006509
+606007001
+606007002
+606006512
+606007000
+606007005
+606007006
+606007003
+606007004
+606007009
+606007010
+606007007
+606007008
+606007013
+606007014
+606007011
+606007012
+606008000
+606008001
+606007015
+606007016
+606008004
+606008005
+606008002
+606008003
+606008008
+606008009
+606008006
+606008007
+606008012
+606008013
+606008010
+606008011
+606008016
+606008017
+606008014
+606008015
+606008020
+606008021
+606008018
+606008019
+606008201
+606008202
+606008022
+606008200
+606008205
+606008206
+606008203
+606008204
+606008209
+606008210
+606008207
+606008208
+606008213
+606008300
+606008211
+606008212
+606008303
+606008304
+606008301
+606008302
+606008307
+606008308
+606008305
+606008306
+606008311
+606008312
+606008309
+606008310
+606008315
+606008316
+606008313
+606008314
+606009100
+606009101
+606008400
+606008401
+606009200
+606009201
+606009102
+606009103
+606009701
+606009702
+606009301
+606009700
+606009705
+606009706
+606009703
+606009704
+606010001
+606010002
+606009707
+606010000
+606010005
+606010006
+606010003
+606010004
+607001002
+607001003
+606010007
+607001001
+607002001
+607003001
+607001004
+607001005
+607003004
+607003005
+607003002
+607003003
+607003008
+607003009
+607003006
+607003007
+607003012
+607003013
+607003010
+607003011
+607003016
+607003017
+607003014
+607003015
+607003020
+607003021
+607003018
+607003019
+607003024
+607003025
+607003022
+607003023
+607003028
+607004001
+607003026
+607003027
+607004004
+607004005
+607004002
+607004003
+607004008
+607004009
+607004006
+607004007
+607004012
+607004013
+607004010
+607004011
+607004016
+607004017
+607004014
+607004015
+607004020
+607004021
+607004018
+607004019
+607005003
+607005004
+607005001
+607005002
+607005007
+607005008
+607005005
+607005006
+607005011
+607005012
+607005009
+607005010
+607006003
+607007001
+607006001
+607006002
+607007004
+607007005
+607007002
+607007003
+608000002
+608000003
+607007006
+608000001
+608000006
+608000007
+608000004
+608000005
+608000010
+608000011
+608000008
+608000009
+608000014
+608000015
+608000012
+608000013
+608001007
+608001008
+608000016
+608001006
+608001011
+608001012
+608001009
+608001010
+608001015
+608001016
+608001013
+608001014
+608004005
+608004007
+608004003
+608004004
+608004012
+608004013
+608004010
+608004011
+608005011
+608005012
+608005001
+608005010
+609001006
+609001022
+608005013
+608005014
+609001029
+609001030
+609001027
+609001028
+609001034
+609001035
+609001032
+609001033
+609001038
+609001039
+609001036
+609001037
+609001042
+609001043
+609001040
+609001041
+609002003
+609005001
+609002001
+609002002
+609005004
+609005005
+609005002
+609005003
+609005008
+609005009
+609005006
+609005007
+609005012
+609005013
+609005010
+609005011
+609005016
+609005017
+609005014
+609005015
+609005020
+609005021
+609005018
+609005019
+609005025
+609005026
+609005023
+609005024
+609006003
+609006004
+609006001
+609006002
+609006007
+609006008
+609006005
+609006006
+609006011
+609006012
+609006009
+609006010
+609006015
+609006016
+609006013
+609006014
+609007004
+610001001
+609006017
+609006018
+610001004
+610001005
+610001002
+610001003
+610002100
+610002101
+610001006
+610001007
+610002104
+610002105
+610002102
+610002103
+610002108
+610002109
+610002106
+610002107
+610002201
+610002202
+610002110
+610002200
+610003001
+610004001
+610002203
+610002204
+610007001
+610007002
+610005001
+610006001
+610007005
+610007006
+610007003
+610007004
+610007009
+610007010
+610007007
+610007008
+610008005
+610008008
+610008001
+610008002
+610008011
+610008012
+610008009
+610008010
+610008020
+610008021
+610008013
+610008014
+615001001
+618001001
+610007011
+610009000
+619000000
+619000001
+618002001
+618002002
+619000004
+619000005
+619000002
+619000003
+619001100
+619001101
+619000006
+619001000
+619002001
+619002002
+619011001
+619002000
+619002010
+619002011
+619002003
+619002004
+619002014
+619002015
+619002012
+619002013
+619003001
+619003002
+619002016
+619003000
+619003005
+619003006
+619003003
+619003004
+619004002
+619004003
+619004000
+619004001
+619004006
+619004007
+619004004
+619004005
+619004010
+619005000
+619004008
+619004009
+619005003
+619005004
+619005001
+619005002
+619006001
+619006002
+619005005
+619005006
+619006005
+619006007
+619006003
+619006004
+620000000
+620000001
+619008002
+619008003
+620000004
+620000005
+620000002
+620000003
+620000010
+620000020
+620000006
+620000007
+620000023
+620000024
+620000021
+620000022
+620000027
+620000028
+620000025
+620000026
+620000105
+620000107
+620000029
+620000030
+620000112
+620000113
+620000108
+620000111
+620000208
+620000211
+620000205
+620000207
+620000303
+620000309
+620000212
+620000213
+621000002
+621000003
+621000000
+621000001
+621000006
+621000007
+621000004
+621000005
+621000010
+621000011
+621000008
+621000009
+621000014
+622000000
+621000012
+621000013
+622000003
+622000004
+622000001
+622000002
+622000007
+623000000
+622000005
+622000006
+623000003
+623000004
+623000001
+623000002
+623000007
+623000008
+623000005
+623000006
+623002001
+623002002
+623001000
+623001001
+624000003
+624000004
+624000001
+624000002
+624000007
+624000008
+624000005
+624000006
+624000011
+624000012
+624000009
+624000010
+624000015
+624000016
+624000013
+624000014
+624000019
+624000020
+624000017
+624000018
+624004000
+624004001
+624000021
+624000022
+626000001
+626000002
+625001001
+626000000
+626000005
+626000006
+626000003
+626000004
+626000009
+626000010
+626000007
+626000008
+627001001
+627002001
+626000011
+627000001
+628002011
+628002021
+628002001
+628002002
+628003002
+628003003
+628002022
+628003001
+628003006
+628003007
+628003004
+628003005
+603001027
+603001028
+628003008
+628003009
+619013000
+619013050
+603001029
+607009000
+HwCreateInstance
+NVIDIA
+MonProcess.dll
+Office
+OobePCManager.exe
+\config\system\OsRelationConf.xml
+C:\ProgramData\Comms\PCManager\Startup.db
+ReportBootTime
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+write boot time fail
+void __cdecl ReportBootTime(void)
+StartupManagerPlugin get data error
+void __cdecl ReportBootTime(void)
+ReportBootTime
+ReportBootTime
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+ClearLastOptimizedItemInfo fail
+void __cdecl ReportBootTime(void)
+StartupManagerPlugin::UsageTimeOfComputer
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+Query OOBECompleteTimestamp reg size failed
+bool __cdecl StartupManagerPlugin::UsageTimeOfComputer(void)
+ now: 
+StartupManagerPlugin::UsageTimeOfComputer
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+OOBECompleteTimestamp complete timet: 
+bool __cdecl StartupManagerPlugin::UsageTimeOfComputer(void)
+void __cdecl StartupManagerPlugin::ThreadOobeWndFunction(void)
+StartupManagerPlugin::ThreadOobeWndFunction
+StartupManagerPlugin::ThreadOobeWndFunction
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+do not show OobeRemind window because of fullscreen
+void __cdecl StartupManagerPlugin::ThreadOobeWndFunction(void)
+GetValue failed. regName=
+StartupManagerPlugin::GetLastBootTime
+unsigned long __cdecl StartupManagerPlugin::GetLastBootTime(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+ClearLastOptimizedItemInfo Open DataBase Error, db is nullptr
+bool __cdecl StartupManagerPlugin::ClearLastOptimizedItemInfo(void)
+StartupManagerPlugin::ClearLastOptimizedItemInfo
+StartupManagerPlugin::ClearLastOptimizedItemInfo
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+UPDATE StartupOptimizeStatus SET isNeedReport = 0;
+bool __cdecl StartupManagerPlugin::ClearLastOptimizedItemInfo(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+update Data Error, ret = 
+OpenDataBase Error, ret = 
+StartupManagerPlugin::OpenDataBase
+StartupManagerPlugin::InitTable
+int __cdecl StartupManagerPlugin::OpenDataBase(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+int __cdecl StartupManagerPlugin::InitTable(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+Init Table Error, db is nullptr
+StartupManagerPlugin::InitTable
+CREATE TABLE IF NOT EXISTS StartupOptimizeStatus (itemName TEXT PRIMARY KEY,     isOptimized INTEGER, type INTEGER, isNeedReport INTEGER);
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+InitDataBaseTable StartupOptimizeStatus Error, ret = 
+int __cdecl StartupManagerPlugin::InitTable(void)
+Insert Data Error, db is nullptr
+int __cdecl StartupManagerPlugin::InsertData(struct StartUpSoftwareItemUpdateData &,int)
+StartupManagerPlugin::InsertData
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+REPLACE INTO StartupOptimizeStatus (itemName, isOptimized, type, isNeedReport) VALUES ('
+StartupManagerPlugin::InsertData
+int __cdecl StartupManagerPlugin::InsertData(struct StartUpSoftwareItemUpdateData &,int)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+Insert startup item isoptimized status data Error, ret = 
+StartupManagerPlugin::GetData
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+SELECT * from StartupOptimizeStatus;
+Read Data Open DataBase Error, db is nullptr
+int __cdecl StartupManagerPlugin::GetData(void)
+Read Data Error, ret = 
+StartupManagerPlugin::GetData
+itemName
+int __cdecl StartupManagerPlugin::GetData(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+isNeedReport
+isOptimized
+dataToMap colName error
+int __cdecl StartupManagerPlugin::dataToMap(void *,int,char **,char **)
+StartupManagerPlugin::dataToMap
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+\Startup
+Start() CreateDeepDirectory is Failed
+bool __cdecl StartupManagerPlugin::Start(void)
+StartupManagerPlugin::Start
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+\Startup.xml
+StartupManagerPlugin::HandleQueryBootTime
+void __cdecl StartupManagerPlugin::HandleQueryBootTime(struct TagIPCMessageItem &)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+startBootTime = 
+StartupManagerPlugin::OnRecvBootTime
+ZH-CN
+ZH_CN
+void __cdecl StartupManagerPlugin::OnRecvBootTime(struct TagIPCMessageItem &)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+MessageLen==0 or Message is null
+china
+HWLoginGuide
+process not exist:
+bool __cdecl StartupManagerPlugin::GetPCManagerOobeEXEPath(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+StartupManagerPlugin::GetPCManagerOobeEXEPath
+StartupManagerPlugin::OnRecvBootEventId
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+MessageLen==0 or Message is null
+void __cdecl StartupManagerPlugin::OnRecvBootEventId(struct TagIPCMessageItem &)
+MessageLen==0 or Message is null
+void __cdecl StartupManagerPlugin::OnRecvWinLogonEventId(struct TagIPCMessageItem &)
+StartupManagerPlugin::OnRecvWinLogonEventId
+china
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+HWLoginGuide
+LocalInformation
+StartItems
+<?xml version="1.0" encoding="UTF-8"?>
+LocalInformation
+LocalInformation
+StartItems
+BootTimeThreshold
+\config\policy\StartupWhiteList.xml
+config
+Get InitBoot Null 
+StartupManagerPlugin::InitRemindWndConfig
+void __cdecl StartupManagerPlugin::InitRemindWndConfig(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupManagerPlugin.cpp
+../res/drawable/powermanage/SoftIcon/startupdefault.png
+../res/drawable/powermanage/SoftIcon/startupdefault.png
+config
+Modules
+NVIDIA
+OFFICE365
+value
+IsEnable
+Param
+Keyname
+IsEnable
+NVIDIA
+OFFICE365
+type must be number, but is 
+type must be string, but is 
+type must be number, but is 
+HKEY_CLASSES_ROOT
+HKEY_CURRENT_USER
+HKEY_PERFORMANCE_DATA
+HKEY_PERFORMANCE_TEXT
+HKEY_LOCAL_MACHINE
+HKEY_USERS
+HKEY_DYN_DATA
+HKEY_CURRENT_USER_LOCAL_SETTINGS
+HKEY_PERFORMANCE_NLSTEXT
+HKEY_CURRENT_CONFIG
+HKEY_LOCAL_MACHINE
+HKEY_USERS
+HKEY_CLASSES_ROOT
+HKEY_CURRENT_USER
+HKEY_PERFORMANCE_NLSTEXT
+HKEY_CURRENT_CONFIG
+HKEY_PERFORMANCE_DATA
+HKEY_PERFORMANCE_TEXT
+HKEY_DYN_DATA
+HKEY_CURRENT_USER_LOCAL_SETTINGS
+Marconi
+Pascal
+Volta
+Wright
+Kepler
+Darwin
+MachA
+MachR
+Kelvin
+Planck
+NobelB
+BohrB
+KeplerR
+NobelK
+Hubble
+BohrK
+VoltaR
+900002001
+config\DeviceFuncSwitchConf.xml
+901005001
+902001005
+900002002
+901000001
+902001008
+902001009
+902001006
+902001007
+903001004
+903001006
+903001001
+903001003
+903001011
+903001012
+903001007
+903001010
+903001017
+903002001
+903001015
+903001016
+903998997
+903998998
+903002003
+903002005
+903999999
+904000003
+903998999
+903999998
+904001003
+905000003
+904001001
+904001002
+905000006
+905000007
+905000004
+905000005
+905000010
+905000011
+905000008
+905000009
+905000014
+905000015
+905000012
+905000013
+905000019
+905000020
+905000017
+905000018
+905000031
+905000100
+905000025
+905000029
+905001002
+905001003
+905000200
+905001001
+905001006
+905001007
+905001004
+905001005
+905001010
+905001011
+905001008
+905001009
+905001014
+905001015
+905001012
+905001013
+905003001
+905003002
+905001016
+905001017
+905003005
+905003006
+905003003
+905003004
+905003009
+905003010
+905003007
+905003008
+905003017
+905003018
+905003011
+905003016
+907001003
+907001004
+906001001
+907001001
+907002002
+907002003
+907001005
+907002001
+907003003
+908000001
+907003001
+907003002
+908000004
+908000005
+908000002
+908000003
+908000008
+908000009
+908000006
+908000007
+908000012
+908000013
+908000010
+908000011
+908000016
+908001007
+908000014
+908000015
+908001011
+908004004
+908001008
+908001010
+909001032
+909001033
+909001029
+909001030
+909002001
+909002002
+909001034
+909001035
+916001001
+916001002
+909002003
+915001001
+601000001
+954040001
+916001003
+917001003
+601001002
+601001003
+954001026
+601001001
+601001006
+601001007
+601001004
+601001005
+601001101
+601001102
+601001008
+601001100
+601002001
+601002002
+601001103
+601001104
+601002005
+601002006
+601002003
+601002004
+601002009
+601002010
+601002007
+601002008
+601003003
+601003004
+601003001
+601003002
+601003007
+601003008
+601003005
+601003006
+601003011
+601004001
+601003009
+601003010
+601004004
+601004005
+601004002
+601004003
+601004008
+601004009
+601004006
+601004007
+601004012
+601004013
+601004010
+601004011
+601004016
+601005001
+601004014
+601004015
+601005004
+601005005
+601005002
+601005003
+601006002
+601006003
+601005006
+601006001
+601006006
+601006007
+601006004
+601006005
+601006010
+601006011
+601006008
+601006009
+601007001
+601007002
+601006012
+601006013
+601007005
+601007006
+601007003
+601007004
+601008002
+601008003
+601007007
+601008001
+601008102
+601008103
+601008004
+601008101
+601008106
+601008107
+601008104
+601008105
+601008110
+601009001
+601008108
+601008109
+601009004
+603001001
+601009002
+601009003
+603001006
+603001010
+603001003
+603001004
+603001013
+603001014
+603001011
+603001012
+603001018
+603002001
+603001015
+603001017
+603002004
+603002005
+603002002
+603002003
+603003003
+603003004
+603003001
+603003002
+603011002
+604000001
+603011000
+603011001
+604000004
+604000005
+604000002
+604000003
+605000004
+605000005
+604000006
+605000003
+605000008
+605000009
+605000006
+605000007
+605000012
+605000013
+605000010
+605000011
+605000017
+605000018
+605000014
+605000015
+605000021
+605000022
+605000019
+605000020
+605000025
+605000026
+605000023
+605000024
+605000030
+605000032
+605000027
+605000028
+605000200
+605001001
+605000033
+605000100
+605001004
+605001005
+605001002
+605001003
+605001008
+605001009
+605001006
+605001007
+605001012
+605001013
+605001010
+605001011
+605001016
+605001017
+605001014
+605001015
+605001103
+605001104
+605001101
+605001102
+605001107
+605001108
+605001105
+605001106
+605001111
+605001112
+605001109
+605001110
+605001115
+605001116
+605001113
+605001114
+605001119
+605001120
+605001117
+605001118
+605001123
+605001124
+605001121
+605001122
+605001127
+605001128
+605001125
+605001126
+605002002
+605002003
+605001129
+605002001
+605003001
+605003002
+605002004
+605002005
+605003006
+605003007
+605003004
+605003005
+605003010
+605003011
+605003008
+605003009
+605003014
+605003015
+605003012
+605003013
+605003018
+605003019
+605003016
+605003017
+605003022
+605003023
+605003020
+605003021
+605003026
+605003027
+605003024
+605003025
+606001023
+606001024
+605003028
+606001022
+606001033
+606001034
+606001031
+606001032
+606001037
+606001038
+606001035
+606001036
+606001041
+606001042
+606001039
+606001040
+606002012
+606002013
+606001043
+606002011
+606002016
+606002017
+606002014
+606002015
+606003002
+606003003
+606002018
+606003001
+606004004
+606004005
+606004001
+606004003
+606004502
+606004503
+606004500
+606004501
+606004506
+606004507
+606004504
+606004505
+606004510
+606004511
+606004508
+606004509
+606004514
+606004515
+606004512
+606004513
+606004518
+606004519
+606004516
+606004517
+606004522
+606004523
+606004520
+606004521
+606004526
+606004527
+606004524
+606004525
+606005501
+606005502
+606004528
+606005500
+606005505
+606005506
+606005503
+606005504
+606005509
+606005510
+606005507
+606005508
+606006002
+606006003
+606006000
+606006001
+606006006
+606006007
+606006004
+606006005
+606006502
+606006503
+606006500
+606006501
+606006506
+606006507
+606006504
+606006505
+606006510
+606006511
+606006508
+606006509
+606007001
+606007002
+606006512
+606007000
+606007005
+606007006
+606007003
+606007004
+606007009
+606007010
+606007007
+606007008
+606007013
+606007014
+606007011
+606007012
+606008000
+606008001
+606007015
+606007016
+606008004
+606008005
+606008002
+606008003
+606008008
+606008009
+606008006
+606008007
+606008012
+606008013
+606008010
+606008011
+606008016
+606008017
+606008014
+606008015
+606008020
+606008021
+606008018
+606008019
+606008201
+606008202
+606008022
+606008200
+606008205
+606008206
+606008203
+606008204
+606008209
+606008210
+606008207
+606008208
+606008213
+606008300
+606008211
+606008212
+606008303
+606008304
+606008301
+606008302
+606008307
+606008308
+606008305
+606008306
+606008311
+606008312
+606008309
+606008310
+606008315
+606008316
+606008313
+606008314
+606009100
+606009101
+606008400
+606008401
+606009200
+606009201
+606009102
+606009103
+606009701
+606009702
+606009301
+606009700
+606009705
+606009706
+606009703
+606009704
+606010001
+606010002
+606009707
+606010000
+606010005
+606010006
+606010003
+606010004
+607001002
+607001003
+606010007
+607001001
+607002001
+607003001
+607001004
+607001005
+607003004
+607003005
+607003002
+607003003
+607003008
+607003009
+607003006
+607003007
+607003012
+607003013
+607003010
+607003011
+607003016
+607003017
+607003014
+607003015
+607003020
+607003021
+607003018
+607003019
+607003024
+607003025
+607003022
+607003023
+607003028
+607004001
+607003026
+607003027
+607004004
+607004005
+607004002
+607004003
+607004008
+607004009
+607004006
+607004007
+607004012
+607004013
+607004010
+607004011
+607004016
+607004017
+607004014
+607004015
+607004020
+607004021
+607004018
+607004019
+607005003
+607005004
+607005001
+607005002
+607005007
+607005008
+607005005
+607005006
+607005011
+607005012
+607005009
+607005010
+607006003
+607007001
+607006001
+607006002
+607007004
+607007005
+607007002
+607007003
+608000002
+608000003
+607007006
+608000001
+608000006
+608000007
+608000004
+608000005
+608000010
+608000011
+608000008
+608000009
+608000014
+608000015
+608000012
+608000013
+608001007
+608001008
+608000016
+608001006
+608001011
+608001012
+608001009
+608001010
+608001015
+608001016
+608001013
+608001014
+608004005
+608004007
+608004003
+608004004
+608004012
+608004013
+608004010
+608004011
+608005011
+608005012
+608005001
+608005010
+609001006
+609001022
+608005013
+608005014
+609001029
+609001030
+609001027
+609001028
+609001034
+609001035
+609001032
+609001033
+609001038
+609001039
+609001036
+609001037
+609001042
+609001043
+609001040
+609001041
+609002003
+609005001
+609002001
+609002002
+609005004
+609005005
+609005002
+609005003
+609005008
+609005009
+609005006
+609005007
+609005012
+609005013
+609005010
+609005011
+609005016
+609005017
+609005014
+609005015
+609005020
+609005021
+609005018
+609005019
+609005025
+609005026
+609005023
+609005024
+609006003
+609006004
+609006001
+609006002
+609006007
+609006008
+609006005
+609006006
+609006011
+609006012
+609006009
+609006010
+609006015
+609006016
+609006013
+609006014
+609007004
+610001001
+609006017
+609006018
+610001004
+610001005
+610001002
+610001003
+610002100
+610002101
+610001006
+610001007
+610002104
+610002105
+610002102
+610002103
+610002108
+610002109
+610002106
+610002107
+610002201
+610002202
+610002110
+610002200
+610003001
+610004001
+610002203
+610002204
+610007001
+610007002
+610005001
+610006001
+610007005
+610007006
+610007003
+610007004
+610007009
+610007010
+610007007
+610007008
+610008005
+610008008
+610008001
+610008002
+610008011
+610008012
+610008009
+610008010
+610008020
+610008021
+610008013
+610008014
+615001001
+618001001
+610007011
+610009000
+619000000
+619000001
+618002001
+618002002
+619000004
+619000005
+619000002
+619000003
+619001100
+619001101
+619000006
+619001000
+619002001
+619002002
+619011001
+619002000
+619002010
+619002011
+619002003
+619002004
+619002014
+619002015
+619002012
+619002013
+619003001
+619003002
+619002016
+619003000
+619003005
+619003006
+619003003
+619003004
+619004002
+619004003
+619004000
+619004001
+619004006
+619004007
+619004004
+619004005
+619004010
+619005000
+619004008
+619004009
+619005003
+619005004
+619005001
+619005002
+619006001
+619006002
+619005005
+619005006
+619006005
+619006007
+619006003
+619006004
+620000000
+620000001
+619008002
+619008003
+620000004
+620000005
+620000002
+620000003
+620000010
+620000020
+620000006
+620000007
+620000023
+620000024
+620000021
+620000022
+620000027
+620000028
+620000025
+620000026
+620000105
+620000107
+620000029
+620000030
+620000112
+620000113
+620000108
+620000111
+620000208
+620000211
+620000205
+620000207
+620000303
+620000309
+620000212
+620000213
+621000002
+621000003
+621000000
+621000001
+621000006
+621000007
+621000004
+621000005
+621000010
+621000011
+621000008
+621000009
+621000014
+622000000
+621000012
+621000013
+622000003
+622000004
+622000001
+622000002
+622000007
+623000000
+622000005
+622000006
+623000003
+623000004
+623000001
+623000002
+623000007
+623000008
+623000005
+623000006
+623002001
+623002002
+623001000
+623001001
+624000003
+624000004
+624000001
+624000002
+624000007
+624000008
+624000005
+624000006
+624000011
+624000012
+624000009
+624000010
+624000015
+624000016
+624000013
+624000014
+624000019
+624000020
+624000017
+624000018
+624004000
+624004001
+624000021
+624000022
+626000001
+626000002
+625001001
+626000000
+626000005
+626000006
+626000003
+626000004
+626000009
+626000010
+626000007
+626000008
+627001001
+627002001
+626000011
+627000001
+628002011
+628002021
+628002001
+628002002
+628003002
+628003003
+628002022
+628003001
+628003006
+628003007
+628003004
+628003005
+603001027
+603001028
+628003008
+628003009
+619013000
+619013050
+603001029
+607009000
+\drawable\powermanage\SoftIcon\
+\config\policy\StartupWhiteList.xml
+\drawable\powermanage\SoftIcon\systemRounded.png
+\drawable\powermanage\SoftIcon\systemRounded.png
+\drawable\powermanage\SoftIcon\systemRounded.png
+QuerySoftwareInfo-->LoadSoftwareXml fail
+struct StartUpSoftwareInfos __cdecl StartUpSoftwareManager::OriQuerySoftwareInfo(void)
+StartUpSoftwareManager::OriQuerySoftwareInfo
+PureSecurityManagerPlugin
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartUpSoftwareManager.cpp
+power software xml not exist
+StartUpSoftwareManager::LoadSoftwareXml
+StartUpSoftwareManager::LoadSoftwareXml
+bool __cdecl StartUpSoftwareManager::LoadSoftwareXml(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartUpSoftwareManager.cpp
+bool __cdecl StartUpSoftwareManager::LoadSoftwareXml(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartUpSoftwareManager.cpp
+err load xml
+root is null
+StartUpSoftwareManager::LoadSoftwareXml
+bool __cdecl StartUpSoftwareManager::LoadSoftwareXml(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartUpSoftwareManager.cpp
+softId
+operate
+suggestion
+optimizationTime
+displayName
+description
+regPath
+regHkeyStatus
+isOptimized
+regHkey
+PureSecurityManagerPlugin
+regPathStatus
+Pascal
+Kepler
+Marconi
+Kelvin
+Wright
+Volta
+Darwin
+KeplerR
+MachR
+MachA
+Planck
+BohrK
+BohrB
+NobelB
+NobelK
+config\DeviceFuncSwitchConf.xml
+Hubble
+VoltaR
+900002002
+900002001
+902001006
+902001005
+901005001
+901000001
+903001001
+902001009
+902001008
+902001007
+903001007
+903001006
+903001004
+903001003
+903001015
+903001012
+903001011
+903001010
+903002003
+903002001
+903001017
+903001016
+903998999
+903998998
+903998997
+903002005
+904001001
+904000003
+903999999
+903999998
+905000004
+905000003
+904001003
+904001002
+905000008
+905000007
+905000006
+905000005
+905000012
+905000011
+905000010
+905000009
+905000017
+905000015
+905000014
+905000013
+905000025
+905000020
+905000019
+905000018
+905000200
+905000100
+905000031
+905000029
+905001004
+905001003
+905001002
+905001001
+905001008
+905001007
+905001006
+905001005
+905001012
+905001011
+905001010
+905001009
+905001016
+905001015
+905001014
+905001013
+905003003
+905003002
+905003001
+905001017
+905003007
+905003006
+905003005
+905003004
+905003011
+905003010
+905003009
+905003008
+906001001
+905003018
+905003017
+905003016
+907001005
+907001004
+907001003
+907001001
+907003001
+907002003
+907002002
+907002001
+908000002
+908000001
+907003003
+907003002
+908000006
+908000005
+908000004
+908000003
+908000010
+908000009
+908000008
+908000007
+908000014
+908000013
+908000012
+908000011
+908001008
+908001007
+908000016
+908000015
+909001029
+908004004
+908001011
+908001010
+909001034
+909001033
+909001032
+909001030
+909002003
+909002002
+909002001
+909001035
+916001003
+916001002
+916001001
+915001001
+954001026
+954040001
+601000001
+917001003
+601001004
+601001003
+601001002
+601001001
+601001008
+601001007
+601001006
+601001005
+601001103
+601001102
+601001101
+601001100
+601002003
+601002002
+601002001
+601001104
+601002007
+601002006
+601002005
+601002004
+601003001
+601002010
+601002009
+601002008
+601003005
+601003004
+601003003
+601003002
+601003009
+601003008
+601003007
+601003006
+601004002
+601004001
+601003011
+601003010
+601004006
+601004005
+601004004
+601004003
+601004010
+601004009
+601004008
+601004007
+601004014
+601004013
+601004012
+601004011
+601005002
+601005001
+601004016
+601004015
+601005006
+601005005
+601005004
+601005003
+601006004
+601006003
+601006002
+601006001
+601006008
+601006007
+601006006
+601006005
+601006012
+601006011
+601006010
+601006009
+601007003
+601007002
+601007001
+601006013
+601007007
+601007006
+601007005
+601007004
+601008004
+601008003
+601008002
+601008001
+601008104
+601008103
+601008102
+601008101
+601008108
+601008107
+601008106
+601008105
+601009002
+601009001
+601008110
+601008109
+603001003
+603001001
+601009004
+601009003
+603001011
+603001010
+603001006
+603001004
+603001015
+603001014
+603001013
+603001012
+603002002
+603002001
+603001018
+603001017
+603003001
+603002005
+603002004
+603002003
+603011000
+603003004
+603003003
+603003002
+604000002
+604000001
+603011002
+603011001
+604000006
+604000005
+604000004
+604000003
+605000006
+605000005
+605000004
+605000003
+605000010
+605000009
+605000008
+605000007
+605000014
+605000013
+605000012
+605000011
+605000019
+605000018
+605000017
+605000015
+605000023
+605000022
+605000021
+605000020
+605000027
+605000026
+605000025
+605000024
+605000033
+605000032
+605000030
+605000028
+605001002
+605001001
+605000200
+605000100
+605001006
+605001005
+605001004
+605001003
+605001010
+605001009
+605001008
+605001007
+605001014
+605001013
+605001012
+605001011
+605001101
+605001017
+605001016
+605001015
+605001105
+605001104
+605001103
+605001102
+605001109
+605001108
+605001107
+605001106
+605001113
+605001112
+605001111
+605001110
+605001117
+605001116
+605001115
+605001114
+605001121
+605001120
+605001119
+605001118
+605001125
+605001124
+605001123
+605001122
+605001129
+605001128
+605001127
+605001126
+605002004
+605002003
+605002002
+605002001
+605003004
+605003002
+605003001
+605002005
+605003008
+605003007
+605003006
+605003005
+605003012
+605003011
+605003010
+605003009
+605003016
+605003015
+605003014
+605003013
+605003020
+605003019
+605003018
+605003017
+605003024
+605003023
+605003022
+605003021
+605003028
+605003027
+605003026
+605003025
+606001031
+606001024
+606001023
+606001022
+606001035
+606001034
+606001033
+606001032
+606001039
+606001038
+606001037
+606001036
+606001043
+606001042
+606001041
+606001040
+606002014
+606002013
+606002012
+606002011
+606002018
+606002017
+606002016
+606002015
+606004001
+606003003
+606003002
+606003001
+606004500
+606004005
+606004004
+606004003
+606004504
+606004503
+606004502
+606004501
+606004508
+606004507
+606004506
+606004505
+606004512
+606004511
+606004510
+606004509
+606004516
+606004515
+606004514
+606004513
+606004520
+606004519
+606004518
+606004517
+606004524
+606004523
+606004522
+606004521
+606004528
+606004527
+606004526
+606004525
+606005503
+606005502
+606005501
+606005500
+606005507
+606005506
+606005505
+606005504
+606006000
+606005510
+606005509
+606005508
+606006004
+606006003
+606006002
+606006001
+606006500
+606006007
+606006006
+606006005
+606006504
+606006503
+606006502
+606006501
+606006508
+606006507
+606006506
+606006505
+606006512
+606006511
+606006510
+606006509
+606007003
+606007002
+606007001
+606007000
+606007007
+606007006
+606007005
+606007004
+606007011
+606007010
+606007009
+606007008
+606007015
+606007014
+606007013
+606007012
+606008002
+606008001
+606008000
+606007016
+606008006
+606008005
+606008004
+606008003
+606008010
+606008009
+606008008
+606008007
+606008014
+606008013
+606008012
+606008011
+606008018
+606008017
+606008016
+606008015
+606008022
+606008021
+606008020
+606008019
+606008203
+606008202
+606008201
+606008200
+606008207
+606008206
+606008205
+606008204
+606008211
+606008210
+606008209
+606008208
+606008301
+606008300
+606008213
+606008212
+606008305
+606008304
+606008303
+606008302
+606008309
+606008308
+606008307
+606008306
+606008313
+606008312
+606008311
+606008310
+606008400
+606008316
+606008315
+606008314
+606009102
+606009101
+606009100
+606008401
+606009301
+606009201
+606009200
+606009103
+606009703
+606009702
+606009701
+606009700
+606009707
+606009706
+606009705
+606009704
+606010003
+606010002
+606010001
+606010000
+606010007
+606010006
+606010005
+606010004
+607001004
+607001003
+607001002
+607001001
+607003002
+607003001
+607002001
+607001005
+607003006
+607003005
+607003004
+607003003
+607003010
+607003009
+607003008
+607003007
+607003014
+607003013
+607003012
+607003011
+607003018
+607003017
+607003016
+607003015
+607003022
+607003021
+607003020
+607003019
+607003026
+607003025
+607003024
+607003023
+607004002
+607004001
+607003028
+607003027
+607004006
+607004005
+607004004
+607004003
+607004010
+607004009
+607004008
+607004007
+607004014
+607004013
+607004012
+607004011
+607004018
+607004017
+607004016
+607004015
+607005001
+607004021
+607004020
+607004019
+607005005
+607005004
+607005003
+607005002
+607005009
+607005008
+607005007
+607005006
+607006001
+607005012
+607005011
+607005010
+607007002
+607007001
+607006003
+607006002
+607007006
+607007005
+607007004
+607007003
+608000004
+608000003
+608000002
+608000001
+608000008
+608000007
+608000006
+608000005
+608000012
+608000011
+608000010
+608000009
+608000016
+608000015
+608000014
+608000013
+608001009
+608001008
+608001007
+608001006
+608001013
+608001012
+608001011
+608001010
+608004003
+608001016
+608001015
+608001014
+608004010
+608004007
+608004005
+608004004
+608005001
+608004013
+608004012
+608004011
+608005013
+608005012
+608005011
+608005010
+609001027
+609001022
+609001006
+608005014
+609001032
+609001030
+609001029
+609001028
+609001036
+609001035
+609001034
+609001033
+609001040
+609001039
+609001038
+609001037
+609002001
+609001043
+609001042
+609001041
+609005002
+609005001
+609002003
+609002002
+609005006
+609005005
+609005004
+609005003
+609005010
+609005009
+609005008
+609005007
+609005014
+609005013
+609005012
+609005011
+609005018
+609005017
+609005016
+609005015
+609005023
+609005021
+609005020
+609005019
+609006001
+609005026
+609005025
+609005024
+609006005
+609006004
+609006003
+609006002
+609006009
+609006008
+609006007
+609006006
+609006013
+609006012
+609006011
+609006010
+609006017
+609006016
+609006015
+609006014
+610001002
+610001001
+609007004
+609006018
+610001006
+610001005
+610001004
+610001003
+610002102
+610002101
+610002100
+610001007
+610002106
+610002105
+610002104
+610002103
+610002110
+610002109
+610002108
+610002107
+610002203
+610002202
+610002201
+610002200
+610005001
+610004001
+610003001
+610002204
+610007003
+610007002
+610007001
+610006001
+610007007
+610007006
+610007005
+610007004
+610008001
+610007010
+610007009
+610007008
+610008009
+610008008
+610008005
+610008002
+610008013
+610008012
+610008011
+610008010
+610007011
+610008021
+610008020
+610008014
+618002001
+618001001
+615001001
+610009000
+619000002
+619000001
+619000000
+618002002
+619000006
+619000005
+619000004
+619000003
+619011001
+619001101
+619001100
+619001000
+619002003
+619002002
+619002001
+619002000
+619002012
+619002011
+619002010
+619002004
+619002016
+619002015
+619002014
+619002013
+619003003
+619003002
+619003001
+619003000
+619004000
+619003006
+619003005
+619003004
+619004004
+619004003
+619004002
+619004001
+619004008
+619004007
+619004006
+619004005
+619005001
+619005000
+619004010
+619004009
+619005005
+619005004
+619005003
+619005002
+619006003
+619006002
+619006001
+619005006
+619008002
+619006007
+619006005
+619006004
+620000002
+620000001
+620000000
+619008003
+620000006
+620000005
+620000004
+620000003
+620000021
+620000020
+620000010
+620000007
+620000025
+620000024
+620000023
+620000022
+620000029
+620000028
+620000027
+620000026
+620000108
+620000107
+620000105
+620000030
+620000205
+620000113
+620000112
+620000111
+620000212
+620000211
+620000208
+620000207
+621000000
+620000309
+620000303
+620000213
+621000004
+621000003
+621000002
+621000001
+621000008
+621000007
+621000006
+621000005
+621000012
+621000011
+621000010
+621000009
+622000001
+622000000
+621000014
+621000013
+622000005
+622000004
+622000003
+622000002
+623000001
+623000000
+622000007
+622000006
+623000005
+623000004
+623000003
+623000002
+623001000
+623000008
+623000007
+623000006
+624000001
+623002002
+623002001
+623001001
+624000005
+624000004
+624000003
+624000002
+624000009
+624000008
+624000007
+624000006
+624000013
+624000012
+624000011
+624000010
+624000017
+624000016
+624000015
+624000014
+624000021
+624000020
+624000019
+624000018
+625001001
+624004001
+624004000
+624000022
+626000003
+626000002
+626000001
+626000000
+626000007
+626000006
+626000005
+626000004
+626000011
+626000010
+626000009
+626000008
+628002001
+627002001
+627001001
+627000001
+628002022
+628002021
+628002011
+628002002
+628003004
+628003003
+628003002
+628003001
+628003008
+628003007
+628003006
+628003005
+603001029
+603001028
+603001027
+628003009
+619013050
+619013000
+607009000
+<?xml version="1.0" encoding="gb2312" standalone="yes" ?>
+HnSync\
+plugins\
+config\AppUpdateStatus.xml
+config\
+HWLoginGuide.exe
+PCManager.exe
+HnCloudService.exe
+MBAMessageCenter.exe
+HnLinkTime.exe
+StorageDeviceScan.exe
+config\plugincfg.xml
+D:\config\plugincfg.xml
+StartMBAServerQuery
+process
+plugin
+plugin-list
+description
+clsid
+version
+%s%s%s%s
+%s%s%s
+loadorder
+x3CreateObject
+x3UninitializePlugin
+x3InitializePlugin
+PluginsManager.dll
+PCManagerMainService
+hwa_plugin_setting
+PCManager
+logging.cfg
+MonProcessPlugin
+MonPowerPlugin
+HWLoginGuide
+MBAMessageCenter
+PowerManagerUIPlugin
+PowerPolicyPlugin
+MonSysStatePlugin
+MonWndPlugin
+DoctorPlugin
+CommonFrame
+hwa_plugin_account
+HWAccountPlugin
+MBAUpdaterCheck
+MBADownload
+AppMgPlugin
+MBAUpdater
+DataReport
+MsgCenterMobile
+MsgCenter
+hwa_plugin_NPS
+OSDListener
+OSDMainService
+BackupStorePlugin
+ProtocolUnit
+DumpReport
+void __cdecl StartupRemindWnd::InitWindow(void)
+layoutTop bkImage is null
+StartupRemindWnd::InitWindow
+StartupRemindWnd::InitWindow
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupRemindWnd.cpp
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupRemindWnd.cpp
+void __cdecl StartupRemindWnd::InitWindow(void)
+layoutTop bkImage is not exist
+StartupRemindWnd::ShowStartupMainUI() msg send failed
+StartupRemindWnd::ShowStartupMainUI
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartupRemindWnd.cpp
+void __cdecl StartupRemindWnd::ShowStartupMainUI(void)
+ServiceManager::Init
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\ServiceManager.cpp
+bool __cdecl ServiceManager::Init(void)
+[ServiceManager]init OpenSCManager failed!ERRORCODE=
+bool __cdecl ServiceManager::EnumServiceStatus(class std::vector<struct ServiceItem,class std::allocator<struct ServiceItem> > &)
+[ServiceManager]EnumServiceStatus EnumServicesStatus failed!ERRORCODE=
+ServiceManager::EnumServiceStatus
+ServiceManager::EnableService
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\ServiceManager.cpp
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\ServiceManager.cpp
+bool __cdecl ServiceManager::EnableService(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,int)
+EnableService OpenService failed!ERRORCODE=
+bool __cdecl ServiceManager::EnableService(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,int)
+EnableService ChangeServiceConfig failed!ERRORCODE=
+ServiceManager::EnableService
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\ServiceManager.cpp
+RegistrationInfo
+Actions
+Description
+Author
+Cannot get Root Folder pointer: %lx
+Command
+SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\StartupFolder
+SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run32
+SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run
+StartupApprovedEntry::Read memcpy_s is failed err = 
+StartupApprovedEntry::Read
+HKEY_LOCAL_MACHINE
+HKEY_CURRENT_USER
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\StartupManagerPlugin\StartupManagerPlugin\StartUpInfo.cpp
+bool __cdecl StartupApprovedEntry::Read(void)
+HKEY_CLASSES_ROOT
+HKEY_PERFORMANCE_DATA
+HKEY_USERS
+HKEY_LOCAL_MACHINE
+HKEY_CURRENT_USER
+HKEY_DYN_DATA
+HKEY_CURRENT_CONFIG
+HKEY_PERFORMANCE_NLSTEXT
+HKEY_PERFORMANCE_TEXT
+HKEY_CURRENT_USER_LOCAL_SETTINGS
+HKEY_LOCAL_MACHINE
+HKEY_CURRENT_USER
+HKEY_CLASSES_ROOT
+HKEY_PERFORMANCE_NLSTEXT
+HKEY_PERFORMANCE_TEXT
+HKEY_PERFORMANCE_DATA
+HKEY_USERS
+HKEY_CURRENT_USER_LOCAL_SETTINGS
+HKEY_DYN_DATA
+HKEY_CURRENT_CONFIG
+bad cast
+invalid stoi argument
+stoi argument out of range
+generic
+map/set too long
+Pascal
+Marconi
+Kepler
+Darwin
+Volta
+Wright
+Kelvin
+Planck
+MachA
+MachR
+KeplerR
+NobelK
+NobelB
+BohrB
+BohrK
+VoltaR
+Hubble
+config\DeviceFuncSwitchConf.xml
+C:\ProgramData\Comms\PCManager\BrightnessData.db
+\config\policy\AutoBrightness.xml
+LowPowerPolicy::Init
+load xml failed or is not support or isEnable
+int __cdecl LowPowerPolicy::Init(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\PowerPolicyPlugin\LowPowerPolicy.cpp
+opendatabase failed
+init table failed
+CreateEvent actionEventHandle failed
+LowPowerPolicy::LoadXml
+file is not exist
+bool __cdecl LowPowerPolicy::LoadXml(void)
+doc loadfile failed
+get xml version failed
+Params
+Param
+KeyName
+Value
+machinetype
+add support machine type 
+isenable
+ value = 
+get param = 
+param node is null
+params node is null
+root node is null
+LowPowerPolicy::ActionThread
+enter
+void __cdecl LowPowerPolicy::ActionThread(void)
+start loop
+LowPowerPolicy::OnRecvIntelligentBright
+RegOpenKeyEx failed...
+void __cdecl LowPowerPolicy::OnRecvIntelligentBright(struct TagIPCMessageItem &)
+RegSetValueEx failed...
+LowPowerPolicy::GetBrightSwitch
+bool __cdecl LowPowerPolicy::GetBrightSwitch(void)
+LowPowerPolicy::GetMonitorBright
+unsigned int __cdecl LowPowerPolicy::GetMonitorBright(void)
+PowerGetActiveScheme is Failed
+GetSystemPowerStatus is Failed
+GetMonitorBright PowerReadDCValueIndex is Failed
+GetMonitorBright PowerReadACValueIndex is Failed
+LowPowerPolicy::OpenDataBase
+open database success
+int __cdecl LowPowerPolicy::OpenDataBase(void)
+OpenDataBase Error
+LowPowerPolicy::InitTable
+Init Table Error
+int __cdecl LowPowerPolicy::InitTable(void)
+CREATE TABLE IF NOT EXISTS Brightness (ID INTEGER PRIMARY KEY,     originBright INT,     curBright INT,     finish BOOLEAN,     curTime INTEGER);
+InitDataBaseTable Error
+LowPowerPolicy::InsertData
+Insert Data Error
+int __cdecl LowPowerPolicy::InsertData(int,int,bool)
+INSERT INTO Brightness (originBright, curBright, finish, curTime) VALUES ('
+Insert Brightness Error
+LowPowerPolicy::ReadData
+Read Data Open DataBase Error
+int __cdecl LowPowerPolicy::ReadData(void)
+SELECT * from Brightness where ID=(SELECT max(ID) from Brightness);
+Read Data Error
+LowPowerPolicy::CheckBrightFinish
+null pointer error
+int __cdecl LowPowerPolicy::CheckBrightFinish(void *,int,char **,char **)
+originBright
+finish
+LowPowerPolicy::HiddenWindowThread
+void __cdecl LowPowerPolicy::HiddenWindowThread(void)
+register window failed
+china
+LowPowerPolicy::IsSupport
+non-china mainland area
+bool __cdecl LowPowerPolicy::IsSupport(void)
+no machine support
+invalid string position
+deque<T> too long
+MonProcess.dll
+HwCreateInstance
+WmiException
+InitConnectServer
+InitProxyBlanket
+UnInit
+Mba::Power::PowerPolicyExecutor::GetMonitorBright
+PowerGetActiveScheme failed: 
+unsigned int __cdecl Mba::Power::PowerPolicyExecutor::GetMonitorBright(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\PowerPolicyPlugin\PowerPolicyExecutor.cpp
+GetSystemPowerStatus failed: err = 
+PowerRead failed: 
+Mba::Power::PowerPolicyExecutor::SetMonitorBright
+bool __cdecl Mba::Power::PowerPolicyExecutor::SetMonitorBright(signed char)
+PowerWriteValueIndex failed: err = 
+PowerSetActiveScheme failed: err = 
+Mba::Power::PowerPolicyExecutor::IsPlayingSound
+GetAudioSessionManager2 initial failed.
+bool __cdecl Mba::Power::PowerPolicyExecutor::IsPlayingSound(unsigned long)
+vector too long
+HiggsE
+bad conversion
+CheckPluginPowerManager::CheckPluginPowerManager
+machineType:
+__cdecl CheckPluginPowerManager::CheckPluginPowerManager(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Common\CheckPluginPowerManager.h
+CheckPluginPowerManager SoftShelf not support.
+processId
+processName
+processVersion
+gpuUsage
+gpuName
+gpuVideoDecode
+gpuVideoProcessing
+gpuCopy
+mapGpuUsage
+cpuUsage
+memUsage
+diskReadPerSec
+diskWritePerSec
+cDiskUsage
+ioInfoList
+memInfoList
+gpuInfoList
+cpuInfoList
+cpuCoreUsageStr
+954040001
+BatteryAndSleepReport
+displayName
+displayNameUtf8
+iconPath
+status
+suggestion
+ignore
+optimizationTime
+isOptimized
+regHkey
+regPath
+regHkeyStatus
+regPathStatus
+operate
+startUpSoftwareInfo
+operateType
+itemName
+isNeedReport
+itemVec
+optimizedStatusToChange
+Mba::Power::PowerPolicyPlugin::Init
+PowerPolicyPlugin SoftShelf not support.
+bool __cdecl Mba::Power::PowerPolicyPlugin::Init(class InitContext *)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\PowerPolicyPlugin\PowerPolicyPlugin.cpp
+Mba::Power::PowerPolicyPlugin::Start
+SoftShelf not support.
+bool __cdecl Mba::Power::PowerPolicyPlugin::Start(void)
+invalid stoul argument
+stoul argument out of range
+false
+604000005
+604000006
+607005006
+607005008
+610002204
+618002001
+618002002
+607009000
+\config\commoncfg.xml
+MessageTips
+patch
+ProductPatch
+EmergencyPatch
+SOFTWARE\PCManager\
+SOFTWARE\HONOR\
+Version
+invalid char filename argument
+file_size(p): invalid argument
+version = 1
+performance
+trigger
+script
+track
+define
+id = 1
+value
+delay
+cache
+ontime
+thread
+latency
+ne = 1
+frozen
+unfrozen
+frozenbysence
+unfrozenbysence
+unfrozenbysid
+onekey
+sence
+notify
+cpuset
+screenset
+screenclose
+powerlimit
+socsetting
+push_unactive
+push_lost
+push_high
+unfilter
+report
+reset
+logout
+prepare
+num = 1
+[json.exception.
+, column 
+ at line 
+CPUTEMP
+SOCPACKTEMP
+SOCNTCTEMP
+CHARGENTCTEMP
+CPUPower
+POWERLIMIT1
+CPUFreq
+CHARGESTATE
+BATTERYCAP
+SCREENSTATE
+CPUTOP5APP
+dGPUTemp
+GPUNTCTemp
+SOCNTC2Temp
+BatteryNTCTemp
+BatteryMosTemp
+TypeCNTCTemp
+TypeCNTC2Temp
+AmbienceNTCTemp
+DDRNTCTemp
+DGpuFreq
+Voltage_Battery0
+Current_Battery0
+Fan0Speed
+Fan1Speed
+SsdNTc
+SocNtcFt
+GpuNtcFt
+VirtualAmbienceTemp
+VirtualCCaseTemp1
+VirtualCCaseTemp2
+VirtualCCaseLeftEdgeTemp
+VirtualCCaseRightEdgeTemp
+VirtualKeyboardTemp1
+VirtualKeyboardTemp2
+VirtualLeftPalmTemp
+VirtualRightPalmTemp
+VirtualTouchpadTemp
+VirtualDCaseCpuTemp
+VirtualDCaseGpuTemp
+VirtualDCaseAiroutTemp
+GddrNtcTemp
+CpuVrNtcTemp
+GpuVrNtcTemp
+OptNtcTemp
+PerfMode
+DGpuPower
+620002001
+604001003
+620002000
+620002002
+604001013
+620007000
+610001050
+\plugins\OS2SOCService.dll
+GalileoF
+GalileoN
+GalileoG
+HiggsF
+SetAC_OUT
+ReportPDStatus
+,0.46.23,
+,0.46.23
+%Y%m%d%H%M%S
+ReadIntelMsrReg
+EC_32
+Mba::Power::AddCpuBatteryScreenMsg
+cpuFreq: 
+void __cdecl Mba::Power::AddCpuBatteryScreenMsg(struct LogInfo &)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\PowerDataReport\PowerDataReport.cpp
+get Power info error!
+Limited by temperature limit
+ Not limit
+Not limit
+GetCurrentPlxByMMIO
+Mba::Power::PowerDataReport::InitMsg
+get cpu type failed
+struct LogInfo __cdecl Mba::Power::PowerDataReport::InitMsg(bool &)
+NtQueryInformationProcess
+Mba::Power::PowerDataReport::GetPerMonData
+GetPerfMonData fail!
+void __cdecl Mba::Power::PowerDataReport::GetPerMonData(bool)
+SendIPC GetPerfData failed
+{"GpuType":"
+";"GpuUsage":"
+";"Process":"
+{"TotalCPUUsage":"
+{"TotalMemUsage":"
+","Process":"
+{"ProcName":"
+","version":"
+","diskReadPerSec":"
+","diskWritePerSec":"
+Mba::Power::PowerDataReport::CreateHideWnd
+void __cdecl Mba::Power::PowerDataReport::CreateHideWnd(void) noexcept
+/config/policy/Reason.xml
+Reason
+HiSight-
+%d %s
+GetBatteryAndSysPowerInfo:CallNtPowerInformation failed
+Mba::Power::PowerDataReport::AnalyzePowerEventReport
+void __cdecl Mba::Power::PowerDataReport::AnalyzePowerEventReport(struct TagIPCMessageItem &)
+Mba::Power::PowerDataReport::CreateDFXPowerThread
+PowerDataReport:CreateDFXPowerThread failed.
+void __cdecl Mba::Power::PowerDataReport::CreateDFXPowerThread(void) noexcept
+CreateMonPowerThread failed
+Mba::Power::PowerDataReport::CreateMonPowerThread
+void __cdecl Mba::Power::PowerDataReport::CreateMonPowerThread(void) noexcept
+Phases
+PhaseBlockers
+Blocker
+Blockers
+ActivityLevel
+moderate
+ScenarioActiveTimePercent
+SegmentActiveTimePercent
+LocalTimestamp
+UnKnown
+EntryReason
+CsEnterReason
+CsExitReason
+LowPowerStateTime
+HwLowPowerStateTime
+Duration
+EntryRemainingCapacity
+EntryFullCapacity
+ExitRemainingCapacity
+ExitFullCapacity
+IsHibernateEnabled
+HibernateTimeoutInSec
+HibernateBudgetPercentage
+TopBlockers
+Phase
+Fx Device
+Devices
+Activatior
+Activatiors
+Processor
+Processors
+PEP Pre-Vetoe
+PepPreVetoes
+SOC Subsystem
+SocSubsystems
+lastSleepReportTime
+sleep-report_
+powercfg /sleepstudy /xml
+ /duration 
+ /output 
+EventID
+SystemTime
+TargetState
+LidOpenState
+.html
+battery-report_
+powercfg /batteryreport /duration 7 /output 
+powercfg /sleepstudy /duration 7 /output 
+Mba::Power::PowerDataReport::AbnormalPowerUploadReport
+MonitorPowerSleepAndBatteryReport:ExecuteCommand failed
+void __cdecl Mba::Power::PowerDataReport::AbnormalPowerUploadReport(void)
+MonitorPowerSleepAndBatteryReport:Produce sleep or battery report failure
+PowerDataReport:GetRegistryPowerInfo VIDEO_CHILD_GUID failed
+Mba::Power::PowerDataReport::RepoPowerSettingInfo
+void __cdecl Mba::Power::PowerDataReport::RepoPowerSettingInfo(void)
+PowerDataReport:GetRegistryPowerInfo SLEEP_CHILD_GUID failed
+PowerDataReport:GetRegistryPowerInfo HIBERNATE_CHILD_GUID failed
+PowerDataReport:GetRegistryPowerInfo LIDACTION_CHILD_GUID failed
+PowerDataReport:GetRegistryPowerInfo POWERBTN_ACTION_CHILD_GUID failed
+get HiberbootEnabled failed
+Mba::Power::PowerDataReport::GetStartupPoint
+stop 5min datareport cycle
+void __cdecl Mba::Power::PowerDataReport::GetStartupPoint(struct TagIPCMessageItem &)
+startup 1min datareport cycle, current cyclecount:
+start 5min datareport cycle
+IGCC.exe
+</td><td>
+</td>
+COMPUTER NAME
+ComputerName
+BIEVENTID
+HighTemp
+HOTSTATE
+LowTemp
+\Power
+\HotRecord.json
+ReportOledStatus
+Mba::Power::PowerDataReport::WmiGetOledStatus
+WMI Get OledStatus failed.
+int __cdecl Mba::Power::PowerDataReport::WmiGetOledStatus(void) const
+PD_DEVICE_Realtek
+Realtek
+PD_DEVICE_Cypress
+Cypress
+PD_DEVICE_TI
+Unknown
+Mba::Power::PowerDataReport::ReportDFXStatus
+void __cdecl Mba::Power::PowerDataReport::ReportDFXStatus(void)
+RegistWmiNotify
+Mba::Power::PowerDataReport::RegistWmiNotify
+is not support RegistWmiNotify
+bool __cdecl Mba::Power::PowerDataReport::RegistWmiNotify(bool)
+wmi init faild
+Mba::Power::PowerDataReport::GetWmiPowerStatusCallBack
+GetWmiPowerStatusCallBack,eventID = 
+void __cdecl Mba::Power::PowerDataReport::GetWmiPowerStatusCallBack(unsigned int)
+HEAT_PROTECTION_IN event id = 
+HEAT_PROTECTION_OUT event id = 
+Mba::Power::PowerDataReport::SetAC_OUT
+is not support setacout
+void __cdecl Mba::Power::PowerDataReport::SetAC_OUT(void)
+SetAC_OUT failed
+Mba::Power::PowerDataReport::WmiSetAC_OUT
+WMI Set AC_OUT failed.
+bool __cdecl Mba::Power::PowerDataReport::WmiSetAC_OUT(unsigned __int64) const
+Mba::Power::PowerDataReport::WmiGetAC_OUT
+WMI Get AC_OUT failed.
+int __cdecl Mba::Power::PowerDataReport::WmiGetAC_OUT(void) const
+,"GPUVideoProcessingUsage":"
+,"GPUVideoDecodeUsage":"
+,"GPUCopyUsage":"
+,"GPU3DUsage":"
+"GPUName":"
+EC_32_OLD
+GetEcProchotLog
+Mba::Power::PowerDataReport::WmiGetEcProchotLog
+WMI  get EC prochot log failed.
+void __cdecl Mba::Power::PowerDataReport::WmiGetEcProchotLog(struct LogInfo &)
+Mba::Power::PowerDataReport::WmiGetChargerTurboStatus
+WMI Get Charger Turbo Status failed.
+void __cdecl Mba::Power::PowerDataReport::WmiGetChargerTurboStatus(struct LogInfo &)
+vector<bool> too long
+961c151d2e87f2686a955a9be24d316f1362bf21 3.10.5
+list too long
+parse error
+parse_error
+other_error
+syntax error 
+while parsing 
+; last read: '
+unexpected 
+; expected 
+<U+%.4X>
+invalid BOM; must be 0xEF 0xBB 0xBF if given
+invalid literal
+<uninitialized>
+true literal
+false literal
+null literal
+string literal
+number literal
+<parse error>
+end of input
+'[', '{', or a literal
+unknown token
+invalid number; expected digit after '-'
+invalid number; expected digit after '.'
+invalid number; expected '+', '-', or digit after exponent
+invalid number; expected digit after exponent sign
+invalid comment; missing closing '*/'
+invalid comment; expecting '/' or '*' after '/'
+invalid string: missing closing quote
+invalid string: '\u' must be followed by 4 hex digits
+invalid string: surrogate U+D800..U+DBFF must be followed by U+DC00..U+DFFF
+invalid string: surrogate U+DC00..U+DFFF must follow U+D800..U+DBFF
+invalid string: forbidden character after backslash
+invalid string: control character U+0000 (NUL) must be escaped to \u0000
+invalid string: control character U+0001 (SOH) must be escaped to \u0001
+invalid string: control character U+0002 (STX) must be escaped to \u0002
+invalid string: control character U+0003 (ETX) must be escaped to \u0003
+invalid string: control character U+0004 (EOT) must be escaped to \u0004
+invalid string: control character U+0005 (ENQ) must be escaped to \u0005
+invalid string: control character U+0006 (ACK) must be escaped to \u0006
+invalid string: control character U+0007 (BEL) must be escaped to \u0007
+invalid string: control character U+0008 (BS) must be escaped to \u0008 or \b
+invalid string: control character U+0009 (HT) must be escaped to \u0009 or \t
+invalid string: control character U+000A (LF) must be escaped to \u000A or \n
+invalid string: control character U+000B (VT) must be escaped to \u000B
+invalid string: control character U+000C (FF) must be escaped to \u000C or \f
+invalid string: control character U+000D (CR) must be escaped to \u000D or \r
+invalid string: control character U+000E (SO) must be escaped to \u000E
+invalid string: control character U+000F (SI) must be escaped to \u000F
+invalid string: control character U+0010 (DLE) must be escaped to \u0010
+invalid string: control character U+0011 (DC1) must be escaped to \u0011
+invalid string: control character U+0012 (DC2) must be escaped to \u0012
+invalid string: control character U+0013 (DC3) must be escaped to \u0013
+invalid string: control character U+0014 (DC4) must be escaped to \u0014
+invalid string: control character U+0015 (NAK) must be escaped to \u0015
+invalid string: control character U+0016 (SYN) must be escaped to \u0016
+invalid string: control character U+0017 (ETB) must be escaped to \u0017
+invalid string: control character U+0018 (CAN) must be escaped to \u0018
+invalid string: control character U+0019 (EM) must be escaped to \u0019
+invalid string: control character U+001A (SUB) must be escaped to \u001A
+invalid string: control character U+001B (ESC) must be escaped to \u001B
+invalid string: control character U+001C (FS) must be escaped to \u001C
+invalid string: control character U+001D (GS) must be escaped to \u001D
+invalid string: control character U+001E (RS) must be escaped to \u001E
+invalid string: control character U+001F (US) must be escaped to \u001F
+invalid string: ill-formed UTF-8 byte
+object key
+object separator
+number overflow parsing '
+array
+object
+cannot get value
+out_of_range
+iterator does not fit current value
+iterator out of range
+cannot use erase() with 
+invalid_iterator
+string
+boolean
+binary
+discarded
+number
+cannot use operator[] with a string argument with 
+cannot compare iterators of different containers
+type_error
+type must be string, but is 
+type must be boolean, but is 
+type must be number, but is 
+Entry
+VAmbTemp
+VCLeftTemp
+VCRightTemp
+VCHingeTemp1
+VCHingeTemp2
+VDAiroutTemp
+VDCpuTemp
+VDGpuTemp
+VKeyTemp1
+VKeyTemp2
+VLeftPalmTemp
+VRightPalmTemp
+VTouchpadTemp
+VstInterface::CreateVstCrcThread
+Sleep begin by Tcon CRC Check
+void __cdecl VstInterface::CreateVstCrcThread(void) noexcept
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\PowerDataReport\VstInterface.cpp
+CreateLcdCrcThread failed by Tcon CRC Check.
+VstInterface::GetOutPutUIntEx
+[VstInterface]memcpy_s SafeArrayAccessData fail
+bool __cdecl VstInterface::GetOutPutUIntEx(unsigned char *,unsigned int,unsigned char *,unsigned int)
+VstInterface::WmiGetGVNT
+WMI GVNT failed.
+int __cdecl VstInterface::WmiGetGVNT(void)
+VstInterface::WmiSetWVST
+WMI WVST failed.
+int __cdecl VstInterface::WmiSetWVST(void)
+Virtual_
+\config\system\
+VstInterface::LoadXMLConfig
+VstInterface::LoadXMLConfig xml LoadFile is Failed
+bool __cdecl VstInterface::LoadXMLConfig(void)
+Keyname
+Zero_seconds
+Five_seconds
+Ten_seconds
+Fifteen_seconds
+Twenty_seconds
+Twenty_five_seconds
+Thirty_seconds
+Thirty_five_seconds
+Forty_five_seconds
+WMIInterface::InitCom
+WMI CoInitializeEx hres: 
+bool __cdecl WMIInterface::InitCom(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\PowerDataReport\WMIInterface.cpp
+WMIInterface::InitSecurity
+WMI CoInitializeSecurity hres: 
+bool __cdecl WMIInterface::InitSecurity(void)
+WMIInterface::InitCreateInstance
+CoCreateInstance res:
+bool __cdecl WMIInterface::InitCreateInstance(void)
+WMIInterface::InitConnectServer
+WMI ConnectServer resultObj: 
+bool __cdecl WMIInterface::InitConnectServer(void)
+WMIInterface::InitProxyBlanket
+WMI CoSetProxyBlanket resultObj: 
+bool __cdecl WMIInterface::InitProxyBlanket(void)
+WMIInterface::GetOutPutUIntEx
+[WMIInterface]memcpy_s SafeArrayAccessData fail
+bool __cdecl WMIInterface::GetOutPutUIntEx(unsigned char *,unsigned int,unsigned char *,unsigned int)
+WMIInterface::StartCatchOemEvent
+WMI StartCatchOemEvent release
+int __cdecl WMIInterface::StartCatchOemEvent(void (__cdecl *)(unsigned int))
+WMIInterface::CatchOemEvent
+WMI CoCreateInstance resultObj :
+void __cdecl WMIInterface::CatchOemEvent(int &,struct IUnsecuredApartment *&,class EventSink *&,struct IUnknown *&,void (__cdecl *)(unsigned int))
+WMI CoCreateInstance error
+WMI CreateObjectStub resultObj:
+WMI CreateObjectStub error
+WMI QueryInterface resultObj:
+WMI QueryInterface error
+WMI ExecNotificationQueryAsync resultObj:
+WMI ExecNotificationQueryAsync error
+604001004
+604001005
+604001006
+604001007
+604001008
+604001009
+604001010
+604001011
+C:\ProgramData\Comms\PCManager\NotifyID.txt
+BatteryNTCTemp:
+CycleCount:
+RemainCapacity:
+RSOC:
+Voltage_Battery0:
+Current_Battery0:
+FullChargeCapacity:
+CellVoltage4:
+CellVoltage3:
+CellVoltage2:
+CellVoltage1:
+PsysPL1:
+PsysPL2:
+CPUPOWER:
+GPUPower:
+AmbienceNTCTemp:
+Time:
+SmartPowerEvent::ReadNotifyIDMessage
+ is not exist
+NotifyID file
+class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl SmartPowerEvent::ReadNotifyIDMessage(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PowerManager\Policy\PowerDataReport\SmartPowerEvent.cpp
+remove NotifyIDMessage file,fail 
+SmartPowerEvent::ReportRSOCToShotdown
+ReadNotifyIDMessage,message = 
+void __cdecl SmartPowerEvent::ReportRSOCToShotdown(void)
+message is empty,out put Battery  Health
+hDisplayOutput
+ctlGetDisplayProperties
+Memory Allocation Failed: %s 
+Display %d is not attached, skipping the call for this display
+%s returned failure code: 0x%X
+ctlEnumerateDisplayOutputs returned failure code: 0x%X
+Attached Display Count: %d
+EnumerateDisplayHandles returned failure code: 0x%X
+Invalid Display Count. skipping display enumration for adapter:%d
+PSR is not supported
+ctlGetPowerOptimizationCaps (PSR)
+PSR is supported
+not supported
+ctlGetPowerOptimizationSetting (PSR)
+ctlSetPowerOptimizationSetting (PSR)
+enabled
+PSR Enable = %d
+ctlGetPowerOptimizationCaps (DPST)
+disabled
+ctlGetPowerOptimizationSetting (DPST)
+DPST is not supported
+DPST Enable = %d
+DPST is supported
+ctlGetPowerOptimizationSetting
+ctlGetPowerOptimizationCaps
+ctlInit
+LRR is not supported.
+hDevices
+ctlEnumerateDevices
+Overrall test result is 0x%X
+EnumerateTargetDisplays returned failure code: 0x%X
+Event Occur
+OemWMIEvent Occur
+Call complete. hResult = 0x%X
+The Event ID : 
+Call in progress.
+ctlSetRuntimePath
+ctlClose
+ctlReservedCall
+ctlWaitForPropertyChange
+ctlGetSet3DFeature
+ctlGetSupported3DCapabilities
+ctlEnumerateDisplayOutputs
+ctlCheckDriverVersion
+ctlGetAdaperDisplayEncoderProperties
+ctlGetDeviceProperties
+ctlGetSharpnessCaps
+ctlGetZeDevice
+ctlSetCurrentSharpness
+ctlGetCurrentSharpness
+ctlAUXAccess
+ctlI2CAccess
+ctlSetBrightnessSetting
+ctlSetPowerOptimizationSetting
+ctlPixelTransformationGetConfig
+ctlGetBrightnessSetting
+ctlPanelDescriptorAccess
+ctlPixelTransformationSetConfig
+ctlGetSetRetroScaling
+ctlGetSupportedRetroScalingCapability
+ctlGetCurrentScaling
+ctlGetSupportedScalingCapability
+ctlGetLACEConfig
+ctlSetCurrentScaling
+ctlSoftwarePSR
+ctlSetLACEConfig
+ctlEnumerateMuxDevices
+ctlGetIntelArcSyncInfoForMonitor
+ctlSwitchMux
+ctlGetMuxProperties
+ctlSetIntelArcSyncProfile
+ctlGetIntelArcSyncProfile
+ctlGetSetCustomMode
+ctlEdidManagement
+ctlGetSetDisplayGenlock
+ctlGetSetCombinedDisplay
+ctlEngineGetProperties
+ctlEnumEngineGroups
+ctlEnumFans
+ctlEngineGetActivity
+ctlFanGetConfig
+ctlFanGetProperties
+ctlFanSetFixedSpeedMode
+ctlFanSetDefaultMode
+ctlFanGetState
+ctlFanSetSpeedTableMode
+ctlFrequencyGetProperties
+ctlEnumFrequencyDomains
+ctlFrequencyGetRange
+ctlFrequencyGetAvailableClocks
+ctlFrequencyGetState
+ctlFrequencySetRange
+ctlGetSupportedVideoProcessingCapabilities
+ctlFrequencyGetThrottleTime
+ctlEnumMemoryModules
+ctlGetSetVideoProcessingFeature
+ctlMemoryGetState
+ctlMemoryGetProperties
+ctlOverclockGetProperties
+ctlMemoryGetBandwidth
+ctlOverclockGpuFrequencyOffsetGet
+ctlOverclockWaiverSet
+ctlOverclockGpuVoltageOffsetGet
+ctlOverclockGpuFrequencyOffsetSet
+ctlOverclockGpuLockGet
+ctlOverclockGpuVoltageOffsetSet
+ctlOverclockVramFrequencyOffsetGet
+ctlOverclockGpuLockSet
+ctlOverclockVramVoltageOffsetGet
+ctlOverclockVramFrequencyOffsetSet
+ctlOverclockPowerLimitGet
+ctlOverclockVramVoltageOffsetSet
+ctlOverclockTemperatureLimitGet
+ctlOverclockPowerLimitSet
+ctlPowerTelemetryGet
+ctlOverclockTemperatureLimitSet
+ctlPciGetState
+ctlPciGetProperties
+ctlPowerGetProperties
+ctlEnumPowerDomains
+ctlPowerGetLimits
+ctlPowerGetEnergyCounter
+ctlEnumTemperatureSensors
+ctlPowerSetLimits
+ctlTemperatureGetState
+ctlTemperatureGetProperties
+appName
+taskPath
+taskState
+commad
+taskName
+scheduledTaskEntries
+state
+enqueue on stopped ThreadPool
+SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
+SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Run
+SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run32
+SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run
+SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\StartupFolder
+invalid vector subscript
+"bytes": [
+"subtype": 
+],"subtype":
+{"bytes":[
+<discarded>
+null}
+\u%04x\u%04x
+\u%04x
+invalid UTF-8 byte at index 
+\ufffd
+incomplete UTF-8 string; last byte: 0x
+HKEY_CURRENT_USER
+cannot create object from initializer list
+cannot use push_back() with 
+cannot use operator[] with a numeric argument with 
+rootKey
+keyName
+regKey
+startCmd
+imagePath
+start
+entries
+serviceList
+00010203040506070809101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899
+invalid hash bucket count
+unordered_map/set too long
+future
+broken promise
+promise already satisfied
+future already retrieved
+no state
+U1(\Q
+~)p$w
+11eU%
+invalid unordered_map<K, T> key
+8AffvA
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\output_temp\pdb\PowerPolicyPlugin.pdb
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$T
+.rdata$r
+.rdata$voltmd
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.tls$
+.tls$ZZZ
+.xdata
+.xdata$x
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.data$rs
+.pdata
+.rsrc$01
+.rsrc$02
+"2(|*""R
+N,:.*, 0
+6<8(6
+<v>r4 
+8 n"  l,80
+8><n>8B
+DJF.HZFdJ
+NVL(J&F&D
+Bh\8^0B
+F.RZFQ
+XVV*T
+dVb(`
+ldj*h
+(d&($
+tdr(p
+.P,"*
+&P$""
+$d"( 
+phva0
+^ ^"^$^&^(^*^,^.^0^2^4^6^8^:^<^>^@^B^D^F^H^J^L^N^P^R^T^V^X^Z^\^^^
+:8::08
+68:<08
+68:>08
+684@08
+684B08
+684D08
+684F08
+684H08
+684J08
+684L08
+684N08
+686P08
+686R08
+8pFr" 
+..0b4
+&j$r((* $
+p 8",
+$|*8.v0P204
+688,0h204
+0r:2<
+0<BlD
+B|J"L<JtN<JbPBR`P<JdV2X
+Z<Jj\<Jn^"J
+f<Jjh<Jnj"JPB
+0dn2p,0
+r8t,.
+p&8(,
+v*8.y
+0Z2Z4
+6\8(6
+<8@^B2F
+H\JRL2N
+T<JfV"J
+^<Jf`"J
+h<Jfj"J
+r<Jft"J
+|2~,J
+$`&D(&4
+ $&YK
+>BDaK
+:<<<>
+DdB"@
+&d$""
+nPLRHP
+VNT"P,Z
+` `"`$`&`(`*`,`.`0`2`4`6`8>:=
+>f@$<L:
+$ $""$ &
+,d0z2`0*,
+:*<hB
+XF0H0F
+(P&"$
+D6F\J
+D6F\J
+, * ( &H0
+2*4`8
+<.>`B
+\.^bb
+fPZdt
+*H,H.H0H2
+ "( d
+ 4(2d02.2
+B$D,FPH
+B @^T@@ 
+2 P" $""
+4*6.8(:
+jP:$:
+:<:PQ
+ ""$$"&
+(&* ,
+.j084
+0 P" $
+4*6.8(:
+jZ:$:
+:<:ZI
+,*.(0$2.0
+*V("&
+@V>"<
+HVF*D
+2V0".&
+@20442
+>2*642
+>2*842
+>20:42
+N Z"l$*"
+">&v(>,D.>2n,
+&&2.4J6}
+8T:(8
+&& F<T>(<
+*H($*f,T.(,
+D">&N
+0&\(:&D*>.N&
+0.\0:.D2>6N.
+06V8<6D:>>V6
+0>J@<>DB>FV>
+0FJH<FDJ>NVF
+0NJP8NDR>VVN
+0VJX8VDZ>^VV
+0^P`>^Db>fV^
+0f\h>f$^
+$T,*.
+&n(>,D&
+$,*.>2L,
+$2*4h6(:
+PowerPolicyPlugin.dll
+??0?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAA@XZ
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@$$QEAV01@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@$$QEAV01@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@_K1AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@_KAEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_W@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_WAEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_W_K@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_W_KAEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@U_String_constructor_concat_tag@1@AEAV01@1@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@U_String_constructor_concat_tag@1@AEBV01@QEB_W_K23@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@V?$initializer_list@_W@1@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@XZ
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@_K_W@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@_K_WAEBV?$allocator@_W@1@@Z
+??0EventDRprtConfig@@QEAA@$$QEAV0@@Z
+??0EventDRprtConfig@@QEAA@AEBV0@@Z
+??0EventDRprtConfig@@QEAA@XZ
+??0MBATipsManager@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+??0PolicyDataMsgManager@Power@Mba@@QEAA@AEBV012@@Z
+??0PowerPolicyExecutor@Power@Mba@@QEAA@XZ
+??0SmartPowerEvent@@AEAA@XZ
+??0TipsBase@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+??0TipsHicast@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+??0TipsMessage@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+??0TipsNormal@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+??0TipsPower@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+??0TipsProcess@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+??0TipsRemoteControl@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+??0TipsReport@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+??0TipsSuperNotification@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+??0VstInterface@@QEAA@AEBV0@@Z
+??0VstInterface@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
+??0WMIInterface@@QEAA@AEBV0@@Z
+??0WMIInterface@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
+??1?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAA@XZ
+??1?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAA@XZ
+??1?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@XZ
+??1PowerPolicyExecutor@Power@Mba@@QEAA@XZ
+??1SmartPowerEvent@@AEAA@XZ
+??1VstInterface@@QEAA@XZ
+??1WMIInterface@@QEAA@XZ
+??4?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAAAEAV01@$$QEAV01@@Z
+??4?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAAAEAV01@AEBV01@@Z
+??4?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAAEAV01@$$QEAV01@@Z
+??4?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAAEAV01@AEBV01@@Z
+??4?$_Wrap_alloc@V?$allocator@_W@std@@@std@@QEAAAEAU01@$$QEAU01@@Z
+??4?$_Wrap_alloc@V?$allocator@_W@std@@@std@@QEAAAEAU01@AEBU01@@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@$$QEAV01@@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@AEBV01@@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@QEB_W@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@V?$initializer_list@_W@1@@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@_W@Z
+??4Battery@@QEAAAEAV0@AEBV0@@Z
+??4Cpu@@QEAAAEAV0@AEBV0@@Z
+??4EventDRprtConfig@@QEAAAEAV0@$$QEAV0@@Z
+??4EventDRprtConfig@@QEAAAEAV0@AEBV0@@Z
+??4FirmwarePropertyExecutor@@QEAAAEAV0@AEBV0@@Z
+??4LogPerform@@QEAAAEAV0@AEBV0@@Z
+??4MBATipsManager@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+??4MonSysStateListener@@QEAAAEAV0@AEBV0@@Z
+??4PolicyDataMsgManager@Power@Mba@@QEAAAEAV012@AEBV012@@Z
+??4SmartPowerEvent@@QEAAAEAV0@AEBV0@@Z
+??4TipsBase@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+??4TipsHicast@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+??4TipsMessage@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+??4TipsNormal@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+??4TipsPower@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+??4TipsProcess@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+??4TipsRemoteControl@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+??4TipsReport@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+??4TipsSuperNotification@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+??4VstInterface@@QEAAAEAV0@AEBV0@@Z
+??4WMIInterface@@QEAAAEAV0@AEBV0@@Z
+??A?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_W_K@Z
+??A?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_W_K@Z
+??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@AEBV01@@Z
+??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@QEB_W@Z
+??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@V?$initializer_list@_W@1@@Z
+??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@_W@Z
+??_7EventDRprtConfig@@6B@
+??_7TipsBase@TipsSdk@Hwa@@6B@
+??_7TipsHicast@TipsSdk@Hwa@@6B@
+??_7TipsMessage@TipsSdk@Hwa@@6B@
+??_7TipsNormal@TipsSdk@Hwa@@6B@
+??_7TipsPower@TipsSdk@Hwa@@6B@
+??_7TipsProcess@TipsSdk@Hwa@@6B@
+??_7TipsRemoteControl@TipsSdk@Hwa@@6B@
+??_7TipsReport@TipsSdk@Hwa@@6B@
+??_7TipsSuperNotification@TipsSdk@Hwa@@6B@
+??_7VstInterface@@6B@
+?AddDataReport@SmartPowerEvent@@AEAAXAEAULogInfo@@@Z
+?AffinityProcessCpu@PowerPolicyExecutor@Power@Mba@@QEAA_NK@Z
+?AudioCaptureAndEncodeThreadProcWapper@VstInterface@@SAKPEAX@Z
+?BIOSPutUintContent@VstInterface@@QEAAJPEAEAEAUIWbemClassObject@@I@Z
+?BIOSPutUintContent@WMIInterface@@QEAAJPEAEAEAUIWbemClassObject@@I@Z
+?CPU_DTS_Temp_Save@VstInterface@@AEAAXHHHPEAHH@Z
+?Cal_Virtul_temp@VstInterface@@QEAAXXZ
+?CatchOemEvent@WMIInterface@@AEAAXAEAHAEAPEAUIUnsecuredApartment@@AEAPEAVEventSink@@AEAPEAUIUnknown@@P6AXI@Z@Z
+?ClearSoftConsumers@PolicyDataMsgManager@Power@Mba@@QEAAXXZ
+?CloseScreen@PowerPolicyExecutor@Power@Mba@@QEAA_NXZ
+?CreateVstCrcThread@VstInterface@@QEAAXXZ
+?EnumHookProcesses@PowerPolicyExecutor@Power@Mba@@QEAAXAEAV?$vector@KV?$allocator@K@std@@@std@@@Z
+?ExcutePowerPolicy@PowerPolicyExecutor@Power@Mba@@QEAA_NAEBUPowerExecuteItem@23@@Z
+?ExpandArgs@CBIDataReport@@AEAAXAEAV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z
+?FrozenProcess@PowerPolicyExecutor@Power@Mba@@QEAA_NKKKK@Z
+?GetAudioSessionManager2@PowerPolicyExecutor@Power@Mba@@QEAAJPEAPEAUIAudioSessionManager2@@@Z
+?GetAveCpuPower@PowerPolicyExecutor@Power@Mba@@QEAAMXZ
+?GetAvePSysPower@PowerPolicyExecutor@Power@Mba@@QEAAMXZ
+?GetCoreNumber@PowerPolicyExecutor@Power@Mba@@QEAACXZ
+?GetCoreNums@PowerPolicyExecutor@Power@Mba@@QEAAXXZ
+?GetCpuPower@PowerPolicyExecutor@Power@Mba@@QEAAMXZ
+?GetCpuSensorTemperature@PowerPolicyExecutor@Power@Mba@@QEAA_NAEAI@Z
+?GetCpuTemperature@PowerPolicyExecutor@Power@Mba@@QEAAXAEAH0@Z
+?GetCurTemperature@VstInterface@@QEAAXXZ
+?GetInstance@PowerPolicyExecutor@Power@Mba@@SAAEAV123@XZ
+?GetItemsChooseStatus@PolicyDataMsgManager@Power@Mba@@QEAAAEBV?$map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@EU?$less@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@E@std@@@2@@std@@XZ
+?GetMonitorBright@PowerPolicyExecutor@Power@Mba@@QEAAIXZ
+?GetObjectPath@VstInterface@@AEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEA_W@Z
+?GetObjectPath@WMIInterface@@AEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEA_W@Z
+?GetOriginPL1@PowerPolicyExecutor@Power@Mba@@QEAAMXZ
+?GetOutPutUIntEx@VstInterface@@QEAA_NPEAEI0I@Z
+?GetOutPutUIntEx@WMIInterface@@QEAA_NPEAEI0I@Z
+?GetPSysPower@PowerPolicyExecutor@Power@Mba@@QEAAMXZ
+?GetPowerLimit2@PowerPolicyExecutor@Power@Mba@@QEAAIXZ
+?GetPowerLimitScale@PowerPolicyExecutor@Power@Mba@@QEAAHAEAM0@Z
+?GetSocTemperature@PowerPolicyExecutor@Power@Mba@@QEAAXAEAH@Z
+?GetSoftChooseCount@PolicyDataMsgManager@Power@Mba@@QEAAIXZ
+?GetSoftConsumers@PolicyDataMsgManager@Power@Mba@@QEAAAEBV?$vector@UPowerBoxItem@Power@Mba@@V?$allocator@UPowerBoxItem@Power@Mba@@@std@@@std@@XZ
+?GetTempConfig@VstInterface@@EEAA_NAEAVHnXMLDocument@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEAUVSTstruct@@_KAEAH@Z
+?GetVAmbTemp@VstInterface@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?GetVAmbTempConfig@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+?GetVCHingeTemp1@VstInterface@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?GetVCHingeTemp1Config@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+?GetVCHingeTemp2@VstInterface@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?GetVCHingeTemp2Config@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+?GetVCLeftTemp@VstInterface@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?GetVCLeftTempConfig@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+?GetVCRightTemp@VstInterface@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?GetVCRightTempConfig@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+?GetVDAiroutTemp@VstInterface@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?GetVDAiroutTempConfig@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+?GetVDCpuTemp@VstInterface@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?GetVDCpuTempConfig@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+?GetVDGpuTemp@VstInterface@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?GetVDGpuTempConfig@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+?GetVKeyTemp1@VstInterface@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?GetVKeyTemp1Config@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+?GetVKeyTemp2@VstInterface@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?GetVKeyTemp2Config@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+?GetVLeftPalmTemp@VstInterface@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?GetVLeftPalmTempConfig@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+?GetVRightPalmTemp@VstInterface@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?GetVRightPalmTempConfig@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+?GetVTouchpadTemp@VstInterface@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?GetVTouchpadTempConfig@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+?GetVirtulTemp@VstInterface@@AEAAHPEAUVSTstruct@@_KH@Z
+?GetZero_seconds@VstInterface@@EEAA_NAEAVHnXmlElement@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@IPEAUVSTstruct@@@Z
+?Init@VstInterface@@QEAA_NXZ
+?Init@WMIInterface@@QEAA_NXZ
+?InitCom@VstInterface@@AEAA_NXZ
+?InitCom@WMIInterface@@AEAA_NXZ
+?InitConnectServer@WMIInterface@@AEAA_NXZ
+?InitCreateInstance@WMIInterface@@AEAA_NXZ
+?InitInstance@VstInterface@@AEAA_NAEAPEAUIWbemLocator@@AEAPEAUIWbemServices@@@Z
+?InitProxyBlanket@WMIInterface@@AEAA_NXZ
+?InitSecurity@VstInterface@@AEAA_NXZ
+?InitSecurity@WMIInterface@@AEAA_NXZ
+?Instance@SmartPowerEvent@@SAAEAV1@XZ
+?Instance@VstInterface@@SAAEAV1@XZ
+?Int_Double@VstInterface@@AEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z
+?IsInitialized@BiosWmi@@QEAA_NXZ
+?IsPlayingSound@PowerPolicyExecutor@Power@Mba@@QEAA_NK@Z
+?IsProcessFrozen@PowerPolicyExecutor@Power@Mba@@QEAA_NK@Z
+?KillProcess@PowerPolicyExecutor@Power@Mba@@QEAA_NK@Z
+?LoadXMLConfig@VstInterface@@AEAA_NXZ
+?NTC_Temp_Save@VstInterface@@AEAAXHHHPEAHH@Z
+?ReadNotifyIDMessage@SmartPowerEvent@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?ReadVSTTemp@VstInterface@@QEAAXXZ
+?ReportCellVoltageAbnormal@SmartPowerEvent@@QEAAXXZ
+?ReportCellVoltageHigh@SmartPowerEvent@@QEAAXXZ
+?ReportChargingAbnormal@SmartPowerEvent@@QEAAXXZ
+?ReportCurrentAbonormal@SmartPowerEvent@@QEAAXXZ
+?ReportNTCTempAbnormal@SmartPowerEvent@@QEAAXXZ
+?ReportPFStatus@SmartPowerEvent@@QEAAXXZ
+?ReportRSOCToShotdown@SmartPowerEvent@@QEAAXXZ
+?ReportVoltageAbonormal@SmartPowerEvent@@QEAAXXZ
+?SaveNotifyIDMessage@SmartPowerEvent@@QEAAXXZ
+?SaveSoftConsumers@PolicyDataMsgManager@Power@Mba@@QEAAXAEBV?$vector@UPowerBoxItem@Power@Mba@@V?$allocator@UPowerBoxItem@Power@Mba@@@std@@@std@@@Z
+?SetCpuCoreNumber@PowerPolicyExecutor@Power@Mba@@QEAA_NC@Z
+?SetFrozenFrontProcess@PowerPolicyExecutor@Power@Mba@@QEAA_NKAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
+?SetMonitorBright@PowerPolicyExecutor@Power@Mba@@QEAA_NC@Z
+?SetPowerLimit2@PowerPolicyExecutor@Power@Mba@@QEAA_NC@Z
+?StartCatchOemEvent@WMIInterface@@QEAAHP6AXI@Z@Z
+?StopCatchOemEvent@WMIInterface@@QEAAXXZ
+?StopVstCrcThread@VstInterface@@QEAAXXZ
+?UnAffinityProcessCpu@PowerPolicyExecutor@Power@Mba@@QEAA_NK@Z
+?UnFrozenProcess@PowerPolicyExecutor@Power@Mba@@QEAA_NKKKK@Z
+?UnInit@WMIInterface@@QEAAXXZ
+?VST_Temp_Save@VstInterface@@QEAAXXZ
+?WmiGetGVNT@VstInterface@@QEAAHXZ
+?WmiSetWVST@VstInterface@@QEAAHXZ
+?_Activate_SSO_buffer@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAXXZ
+?_Become_small@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXXZ
+?_Calculate_growth@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBA_K_K@Z
+?_Calculate_growth@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@CA_K_K00@Z
+?_Check_offset@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBAX_K@Z
+?_Check_offset_exclusive@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBAX_K@Z
+?_Clamp_suffix_size@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBA_K_K0@Z
+?_Copy_s@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEA_W_K_K1@Z
+?_Deallocate_for_capacity@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@CAXAEAV?$allocator@_W@2@QEA_W_K@Z
+?_Eos@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAX_K@Z
+?_Equal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_NAEBV12@@Z
+?_Equal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_NQEB_W@Z
+?_Erase_noexcept@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAAEAV12@_K_K@Z
+?_Get_first@?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAAAEAU?$_Wrap_alloc@V?$allocator@_W@std@@@2@XZ
+?_Get_first@?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEBAAEBU?$_Wrap_alloc@V?$allocator@_W@std@@@2@XZ
+?_Getal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAAEAV?$allocator@_W@2@XZ
+?_Getal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBAAEBV?$allocator@_W@2@XZ
+?_Large_mode_engaged@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBA_NXZ
+?_Memcpy_val_from@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXAEBV12@@Z
+?_Myptr@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAPEA_WXZ
+?_Myptr@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBAPEB_WXZ
+?_Orphan_all@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?_Swap_bx_large_with_small@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@SAXAEAV?$_String_val@U?$_Simple_types@_W@std@@@2@0@Z
+?_Swap_data@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXAEAV12@@Z
+?_Swap_proxy_and_iterators@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXAEAV12@@Z
+?_Take_contents@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXAEAV12@@Z
+?_Tidy_deallocate@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXXZ
+?_Tidy_init@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXXZ
+?_Unchecked_begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAPEA_WXZ
+?_Unchecked_begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?_Unchecked_end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAPEA_WXZ
+?_Unchecked_end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?_Xran@?$_String_val@U?$_Simple_types@_W@std@@@std@@SAXXZ
+?__autoclassinit2@BiosWmi@@QEAAX_K@Z
+?__autoclassinit2@CBIDataReport@@QEAAX_K@Z
+?__autoclassinit2@EventDataReport@@QEAAX_K@Z
+?__autoclassinit2@FirmwarePropertyExecutor@@QEAAX_K@Z
+?__autoclassinit2@LogPerform@@QEAAX_K@Z
+?__autoclassinit2@MBATipsManager@TipsSdk@Hwa@@QEAAX_K@Z
+?__autoclassinit2@MachineType@ProductAdapt@@QEAAX_K@Z
+?__autoclassinit2@PolicyDataMsgManager@Power@Mba@@QEAAX_K@Z
+?__autoclassinit2@PowerPolicyExecutor@Power@Mba@@QEAAX_K@Z
+?__autoclassinit2@TipsBase@TipsSdk@Hwa@@QEAAX_K@Z
+?__autoclassinit2@TipsHicast@TipsSdk@Hwa@@QEAAX_K@Z
+?__autoclassinit2@TipsMessage@TipsSdk@Hwa@@QEAAX_K@Z
+?__autoclassinit2@TipsNormal@TipsSdk@Hwa@@QEAAX_K@Z
+?__autoclassinit2@TipsPower@TipsSdk@Hwa@@QEAAX_K@Z
+?__autoclassinit2@TipsProcess@TipsSdk@Hwa@@QEAAX_K@Z
+?__autoclassinit2@TipsRemoteControl@TipsSdk@Hwa@@QEAAX_K@Z
+?__autoclassinit2@TipsReport@TipsSdk@Hwa@@QEAAX_K@Z
+?__autoclassinit2@TipsSuperNotification@TipsSdk@Hwa@@QEAAX_K@Z
+?__autoclassinit2@VideoCard@@QEAAX_K@Z
+?__autoclassinit2@VstInterface@@QEAAX_K@Z
+?__autoclassinit2@WMIInterface@@QEAAX_K@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@_K_K@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W_K@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$initializer_list@_W@2@@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_W@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@$$QEAV12@@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@_K_K@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W_K@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$initializer_list@_W@2@@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_W@Z
+?at@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_W_K@Z
+?at@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_W_K@Z
+?back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_WXZ
+?back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_WXZ
+?begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?c_str@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?capacity@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?cbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?cend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?clear@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAHAEBV12@@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAHQEB_W@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0AEBV12@00@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0AEBV12@@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0QEB_W0@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0QEB_W@Z
+?copy@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEA_W_K_K@Z
+?crbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?crend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?data@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?empty@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_NXZ
+?end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0@Z
+?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@@Z
+?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0@Z
+?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?front@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_WXZ
+?front@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_WXZ
+?get_allocator@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$allocator@_W@2@XZ
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$initializer_list@_W@2@@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@_K_W@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@_W@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0_W@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KAEBV12@0_K@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KAEBV12@@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KQEB_W0@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KQEB_W@Z
+?length@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?max_size@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?pop_back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?push_back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_W@Z
+?rbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$reverse_iterator@V?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?rbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?rend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$reverse_iterator@V?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?rend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0AEBV12@@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0QEB_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0QEB_W_K@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0V?$initializer_list@_W@2@@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0_K_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0AEBV12@@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0QEB_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_K0_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_KAEBV12@01@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_KQEB_W0@Z
+?reserve@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_K@Z
+?resize@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_K_W@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?shrink_to_fit@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?size@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?substr@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV12@_K0@Z
+?swap@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXAEAV12@@Z
+InitializePluginModule
+UninitializePluginModule
+ctlAUXAccess
+ctlCheckDriverVersion
+ctlClose
+ctlEdidManagement
+ctlEngineGetActivity
+ctlEngineGetProperties
+ctlEnumEngineGroups
+ctlEnumFans
+ctlEnumFrequencyDomains
+ctlEnumMemoryModules
+ctlEnumPowerDomains
+ctlEnumTemperatureSensors
+ctlEnumerateDevices
+ctlEnumerateDisplayOutputs
+ctlEnumerateMuxDevices
+ctlFanGetConfig
+ctlFanGetProperties
+ctlFanGetState
+ctlFanSetDefaultMode
+ctlFanSetFixedSpeedMode
+ctlFanSetSpeedTableMode
+ctlFrequencyGetAvailableClocks
+ctlFrequencyGetProperties
+ctlFrequencyGetRange
+ctlFrequencyGetState
+ctlFrequencyGetThrottleTime
+ctlFrequencySetRange
+ctlGetAdaperDisplayEncoderProperties
+ctlGetBrightnessSetting
+ctlGetCurrentScaling
+ctlGetCurrentSharpness
+ctlGetDeviceProperties
+ctlGetDisplayProperties
+ctlGetIntelArcSyncInfoForMonitor
+ctlGetIntelArcSyncProfile
+ctlGetLACEConfig
+ctlGetMuxProperties
+ctlGetPowerOptimizationCaps
+ctlGetPowerOptimizationSetting
+ctlGetSet3DFeature
+ctlGetSetCombinedDisplay
+ctlGetSetCustomMode
+ctlGetSetDisplayGenlock
+ctlGetSetRetroScaling
+ctlGetSetVideoProcessingFeature
+ctlGetSharpnessCaps
+ctlGetSupported3DCapabilities
+ctlGetSupportedRetroScalingCapability
+ctlGetSupportedScalingCapability
+ctlGetSupportedVideoProcessingCapabilities
+ctlGetZeDevice
+ctlI2CAccess
+ctlInit
+ctlMemoryGetBandwidth
+ctlMemoryGetProperties
+ctlMemoryGetState
+ctlOverclockGetProperties
+ctlOverclockGpuFrequencyOffsetGet
+ctlOverclockGpuFrequencyOffsetSet
+ctlOverclockGpuLockGet
+ctlOverclockGpuLockSet
+ctlOverclockGpuVoltageOffsetGet
+ctlOverclockGpuVoltageOffsetSet
+ctlOverclockPowerLimitGet
+ctlOverclockPowerLimitSet
+ctlOverclockTemperatureLimitGet
+ctlOverclockTemperatureLimitSet
+ctlOverclockVramFrequencyOffsetGet
+ctlOverclockVramFrequencyOffsetSet
+ctlOverclockVramVoltageOffsetGet
+ctlOverclockVramVoltageOffsetSet
+ctlOverclockWaiverSet
+ctlPanelDescriptorAccess
+ctlPciGetProperties
+ctlPciGetState
+ctlPixelTransformationGetConfig
+ctlPixelTransformationSetConfig
+ctlPowerGetEnergyCounter
+ctlPowerGetLimits
+ctlPowerGetProperties
+ctlPowerSetLimits
+ctlPowerTelemetryGet
+ctlReservedCall
+ctlSetBrightnessSetting
+ctlSetCurrentScaling
+ctlSetCurrentSharpness
+ctlSetIntelArcSyncProfile
+ctlSetLACEConfig
+ctlSetPowerOptimizationSetting
+ctlSetRuntimePath
+ctlSoftwarePSR
+ctlSwitchMux
+ctlTemperatureGetProperties
+ctlTemperatureGetState
+ctlWaitForPropertyChange
+?Instance@EventDataReport@@SAAEAV1@XZ
+?SendMsg@EventDataReport@@QEAA_NAEAULogInfo@@@Z
+?GetMsg@EventDataReport@@QEAA?AULogInfo@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z
+DataReport.dll
+?IsElementNull@HnXmlElement@@QEBA_NXZ
+?NextSiblingElement@HnXmlElement@@QEBA?AV1@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?FirstAttribute@HnXmlElement@@QEBA?AVHnXmlAttribute@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?FirstNode@HnXmlElement@@QEBA?AV1@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?Value@HnXmlElement@@QEBA?BV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?GetCurrentDir4Config@LogUtil@@SA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?IsAttributeNull@HnXmlAttribute@@QEBA_NXZ
+?Value@HnXmlAttribute@@QEBA?BV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?LoadFile@HnXMLDocument@@QEAA?AW4HnXmlError@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?RootElement@HnXMLDocument@@QEAA?AVHnXmlElement@@XZ
+??1HnXMLDocument@@QEAA@XZ
+?Trim@DE@@YAXAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?LowerCase@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z
+?FileExists@DE@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?IsSupportProperty@MBASoftShelf@@QEBA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z
+?GetInstance@MBASoftShelf@@SAPEAV1@XZ
+??0HnXMLDocument@@QEAA@XZ
+??4HnXmlElement@@QEAAAEAV0@AEBV0@@Z
+??1HnXmlElement@@QEAA@XZ
+??1HnXmlAttribute@@QEAA@XZ
+?GetOutPutUInt@WMI@@QEAA_N_KPEAEI@Z
+??1WMI@@QEAA@XZ
+??0WMI@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
+?StringToWStringByUTF8@StringProc@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z
+?WStringToStringByUTF8@StringProc@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z
+?SetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@11K@Z
+?GetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEAV45@K@Z
+?IsCommercial@LogUtil@@SA_NXZ
+?IsSupportPlugin@MBASoftShelf@@QEBA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?GetSecType@SmBiosHelper@@QEAAEXZ
+?GetInstance@SmBiosHelper@@SAPEAV1@XZ
+?Attribute@HnXmlElement@@QEBA?BV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z
+?WStringToString@StringProc@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z
+?StringToWString@StringProc@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z
+?GetGpuFrequency@NvGpuInfo@@QEAAMXZ
+?GetGpuPower@NvGpuInfo@@QEAAMXZ
+?Instance@NvGpuInfo@@SAAEAV1@XZ
+?RemoveCntCharacter@LogUtil@@SAXAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?ExecuteCommand@LogUtil@@SAHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?LogMonitorDir@LogUtil@@SA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z
+?GetEslStatus@BiosWmi@@QEAA_NPEAEH@Z
+?GetEagStatus@BiosWmi@@QEAA_NPEAEH@Z
+?GetChargeICStatus@BiosWmi@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_K@Z
+?GetBatteryStatus@BiosWmi@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_K@Z
+?GetODVP@BiosWmi@@QEAAH_K@Z
+?GetGpuNtcTemp@BiosWmi@@QEAAHXZ
+?GetDdrNtcTemp@BiosWmi@@QEAAHXZ
+?GetAmbienceNtcTemp@BiosWmi@@QEAAHXZ
+?GetTypeNtcTemp2@BiosWmi@@QEAAHXZ
+?GetTypeNtcTemp@BiosWmi@@QEAAHXZ
+?GetBatteryNtcTemp@BiosWmi@@QEAAHXZ
+?GetSocNtcTemp2@BiosWmi@@QEAAHXZ
+?GetTempInfo@BiosWmi@@QEAAH_K@Z
+?GetGpuTemp@BiosWmi@@QEAAHXZ
+?GetChargerNtcTemp@BiosWmi@@QEAAHXZ
+?GetSocNtcTemp@BiosWmi@@QEAAHXZ
+?GetCpuTemp@BiosWmi@@QEAAMXZ
+?Instance@BiosWmi@@SAAEAV1@XZ
+?GetJsonStringValueByKey@JsonSdk@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0AEAV23@@Z
+?VectorToJson@JsonSdk@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$vector@U?$pair@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V12@@std@@V?$allocator@U?$pair@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V12@@std@@@2@@3@@Z
+??1JsonSdk@@QEAA@XZ
+??0JsonSdk@@QEAA@XZ
+?Parse@HnXMLDocument@@QEAA?AW4HnXmlError@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?FirstNode@HnXMLDocument@@QEAA?AVHnXmlElement@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?GetInstance@SysCpuCalc@@SAPEAV1@XZ
+?GetCpuGhz@SysCpuCalc@@QEAAMXZ
+?Init@SysCpuCalc@@QEAA_NXZ
+?GetCurrentPathA@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?DirectoryExists@DE@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?Now@DE@@YA_JXZ
+?GetCurrentPathW@DE@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ
+?ForceDirectories@DE@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?FileExists@DE@@YA_NPEBD@Z
+?FileExists@DE@@YA_NAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
+?FormatDateTime@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEBD_J@Z
+?UnicodeToANSI@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z
+?ANSIToUTF8@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z
+?UTF8ToUnicode@DE@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z
+?GetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEAKK@Z
+?GetCurrentUserSidstr@HNPROCESS@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ
+?QueryProcessNameByPid@HELPER@HNPROCESS@@YAHKAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?GetOutPutUIntEx@WMI@@QEAA_NPEAEI0I@Z
+?GetBootInfo@WMI@@QEAA_NAEAI0@Z
+?SelectUInt@WMI@@QEAAIV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@0@Z
+?GetMonitorBrightness@WMI@@QEAAIXZ
+?IsSupportfeature@MBASoftShelf@@QEBA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?ANSIToUnicode@DE@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z
+Util.dll
+?SubscribeIPCMessage@IPCMessageClient@@QEAA_NII@Z
+??1IPCMessageClient@@QEAA@XZ
+??0IPCMessageClient@@QEAA@H_N0@Z
+?UnSubscribeIPCMessage@IPCMessageClient@@QEAA_NII@Z
+?SendIPCMessage@IPCMessageClient@@QEBA_NAEAUTagIPCMessageItem@@0I@Z
+?PostIPCMessage@IPCMessageClient@@QEBA_NAEBUTagIPCMessageItem@@@Z
+?UnRegisterMessageCallbackAll@IPCMessageClient@@QEAA_NXZ
+IPCMessage.dll
+?GetCurSysState@MonSysStateListener@@QEAA?AW4SysStateEventIndex@@XZ
+?GetInstance@MonSysStateListener@@SAAEAV1@XZ
+MonSysStatePlugin.dll
+?TerminalProcessByPid@FirmwarePropertyExecutor@@QEAAJK@Z
+?SetFrozenFrontProcess@FirmwarePropertyExecutor@@QEAA_NKAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
+?GetOriginPL1@FirmwarePropertyExecutor@@QEAAMXZ
+?GetSocTemperature@FirmwarePropertyExecutor@@QEAAXAEAH@Z
+?GetPowerLimitScale@FirmwarePropertyExecutor@@QEAAHAEAM0@Z
+?QuerySuspendPid@FirmwarePropertyExecutor@@QEAAJK@Z
+?GetAvePSysPower@FirmwarePropertyExecutor@@QEAAMXZ
+?GetPSysPower@FirmwarePropertyExecutor@@QEAAMXZ
+?GetAveCpuPower@FirmwarePropertyExecutor@@QEAAMXZ
+?GetCpuPower@FirmwarePropertyExecutor@@QEAAMXZ
+?StartEnumHook@FirmwarePropertyExecutor@@QEAAJAEAV?$vector@KV?$allocator@K@std@@@std@@@Z
+?GetCpuTemperature@FirmwarePropertyExecutor@@QEAAXAEAH0@Z
+?GetInstance@FirmwarePropertyExecutor@@SAAEAV1@XZ
+?GetOriginPL2@FirmwarePropertyExecutor@@QEAAMXZ
+MonPowerPlugin.dll
+sqlite3_open_v2
+sqlite3_exec
+sqlite3_close_v2
+sqlite3.dll
+??1TipsMessage@TipsSdk@Hwa@@UEAA@XZ
+??1TipsBase@TipsSdk@Hwa@@UEAA@XZ
+??1TipsPower@TipsSdk@Hwa@@UEAA@XZ
+??1TipsNormal@TipsSdk@Hwa@@UEAA@XZ
+??1TipsReport@TipsSdk@Hwa@@UEAA@XZ
+??1TipsProcess@TipsSdk@Hwa@@UEAA@XZ
+??1TipsHicast@TipsSdk@Hwa@@UEAA@XZ
+??1TipsSuperNotification@TipsSdk@Hwa@@UEAA@XZ
+??1TipsRemoteControl@TipsSdk@Hwa@@UEAA@XZ
+?Init@TipsBase@TipsSdk@Hwa@@UEAA_NXZ
+?Init@TipsPower@TipsSdk@Hwa@@UEAA_NXZ
+?Init@TipsNormal@TipsSdk@Hwa@@UEAA_NXZ
+?Init@TipsReport@TipsSdk@Hwa@@UEAA_NXZ
+?Init@TipsProcess@TipsSdk@Hwa@@UEAA_NXZ
+?Init@TipsHicast@TipsSdk@Hwa@@UEAA_NXZ
+?Init@TipsSuperNotification@TipsSdk@Hwa@@UEAA_NXZ
+?Init@TipsRemoteControl@TipsSdk@Hwa@@UEAA_NXZ
+MBATipsSDK.dll
+memset_s
+wcsncpy_s
+secure_c.dll
+GetModuleFileNameW
+LoadLibraryW
+GetProcAddress
+GetModuleHandleW
+FreeLibrary
+GetSystemPowerStatus
+WaitForSingleObject
+CreateEventW
+Sleep
+SetEvent
+CloseHandle
+ResetEvent
+LocalFree
+EnterCriticalSection
+SetProcessAffinityMask
+LeaveCriticalSection
+InitializeCriticalSectionEx
+OpenProcess
+GetLastError
+GetSystemInfo
+DeleteCriticalSection
+GetDiskSpaceInformationA
+FindFirstFileW
+GetPhysicallyInstalledSystemMemory
+FindNextFileW
+FindClose
+MultiByteToWideChar
+GetTickCount64
+LoadLibraryA
+DeleteFileA
+DeleteFileW
+CreateThread
+ReadProcessMemory
+WideCharToMultiByte
+K32GetPerformanceInfo
+GetTickCount
+CreateMutexW
+ReleaseMutex
+OpenMutexW
+OutputDebugStringW
+LoadLibraryExW
+OOBEComplete
+GetLocalTime
+ExpandEnvironmentStringsW
+GetSystemTimeAsFileTime
+ExpandEnvironmentStringsA
+KERNEL32.dll
+GetDesktopWindow
+PostQuitMessage
+RegisterPowerSettingNotification
+LoadCursorW
+LoadIconW
+TranslateMessage
+GetForegroundWindow
+RegisterClassW
+DispatchMessageW
+GetShellWindow
+CreateWindowExW
+GetWindowRect
+DefWindowProcW
+GetMessageW
+FindWindowW
+UnregisterClassW
+PostMessageW
+EnumDisplaySettingsW
+KillTimer
+SetTimer
+PostMessageA
+CloseWindow
+GetWindowThreadProcessId
+IsWindow
+IsWindowVisible
+ScreenToClient
+SetWindowPos
+GetMonitorInfoW
+MonitorFromWindow
+USER32.dll
+GetStockObject
+GDI32.dll
+RegQueryValueExW
+RegOpenKeyExW
+RegSetValueExW
+RegCloseKey
+CloseServiceHandle
+OpenSCManagerW
+EnumServicesStatusW
+OpenServiceA
+ChangeServiceConfigA
+QueryServiceConfigW
+QueryServiceConfig2W
+RegCreateKeyExA
+RegSetValueExA
+RegQueryValueExA
+RegQueryInfoKeyA
+RegEnumValueA
+ADVAPI32.dll
+ShellExecuteW
+SHELL32.dll
+CoCreateInstance
+StringFromGUID2
+CoTaskMemFree
+CoSetProxyBlanket
+CoInitializeSecurity
+CoInitializeEx
+CoUninitialize
+ole32.dll
+OLEAUT32.dll
+?_Xbad_alloc@std@@YAXXZ
+?_Xlength_error@std@@YAXPEBD@Z
+_Cnd_signal
+_Cnd_init_in_situ
+??1_Lockit@std@@QEAA@XZ
+??0_Lockit@std@@QEAA@H@Z
+?_Throw_Cpp_error@std@@YAXH@Z
+?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ
+?uncaught_exception@std@@YA_NXZ
+?id@?$ctype@_W@std@@2V0locale@2@A
+?_Xinvalid_argument@std@@YAXPEBD@Z
+?_Xout_of_range@std@@YAXPEBD@Z
+?_Syserror_map@std@@YAPEBDH@Z
+_Mtx_destroy_in_situ
+_Mtx_lock
+_Mtx_init_in_situ
+_Cnd_do_broadcast_at_thread_exit
+_Cnd_wait
+_Thrd_detach
+_Mtx_unlock
+_Cnd_destroy_in_situ
+?tie@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEBAPEAV?$basic_ostream@_WU?$char_traits@_W@std@@@2@XZ
+?_Osfx@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAXXZ
+?flush@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV12@XZ
+?setstate@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEAAXH_N@Z
+?rdbuf@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEBAPEAV?$basic_streambuf@_WU?$char_traits@_W@std@@@2@XZ
+?fill@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEBA_WXZ
+?sputc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEAAG_W@Z
+?eback@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?gptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?pptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?egptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?epptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?getloc@ios_base@std@@QEBA?AVlocale@2@XZ
+?width@ios_base@std@@QEAA_J_J@Z
+?width@ios_base@std@@QEBA_JXZ
+?flags@ios_base@std@@QEBAHXZ
+?good@ios_base@std@@QEBA_NXZ
+?_Getcat@?$ctype@_W@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z
+?widen@?$ctype@_W@std@@QEBA_WD@Z
+??Bid@locale@std@@QEAA_KXZ
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@K@Z
+??_7?$codecvt@_WDU_Mbstatet@@@std@@6B@
+??_7_Facet_base@std@@6B@
+?_New_Locimp@_Locimp@locale@std@@CAPEAV123@AEBV123@@Z
+?_Init@locale@std@@CAPEAV_Locimp@12@_N@Z
+?id@?$codecvt@_WDU_Mbstatet@@@std@@2V0locale@2@A
+??_7codecvt_base@std@@6B@
+??_7facet@locale@std@@6B@
+?sputn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEAA_JPEB_W_J@Z
+??4?$_Yarn@D@std@@QEAAAEAV01@PEBD@Z
+??1?$codecvt@_WDU_Mbstatet@@@std@@MEAA@XZ
+??0?$codecvt@_WDU_Mbstatet@@@std@@QEAA@_K@Z
+?out@?$codecvt@_WDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEB_W1AEAPEB_WPEAD3AEAPEAD@Z
+??1codecvt_base@std@@UEAA@XZ
+?_Addfac@_Locimp@locale@std@@AEAAXPEAVfacet@23@_K@Z
+??1facet@locale@std@@MEAA@XZ
+?_Decref@facet@locale@std@@UEAAPEAV_Facet_base@3@XZ
+?_Incref@facet@locale@std@@UEAAXXZ
+??1_Facet_base@std@@UEAA@XZ
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@H@Z
+_Query_perf_frequency
+_File_size
+_To_wide
+_Stat
+?_Xbad_function_call@std@@YAXXZ
+?id@?$codecvt@DDU_Mbstatet@@@std@@2V0locale@2@A
+?_Fiopen@std@@YAPEAU_iobuf@@PEBDHH@Z
+?id@?$ctype@D@std@@2V0locale@2@A
+_Thrd_sleep
+_Query_perf_counter
+_Xtime_get_ticks
+?_Getcat@?$codecvt@DDU_Mbstatet@@@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z
+?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z
+?sgetc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHXZ
+?snextc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHXZ
+?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z
+?unshift@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEAD1AEAPEAD@Z
+??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAA@XZ
+?getloc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEBA?AVlocale@2@XZ
+?_Init@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXXZ
+?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ
+?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ
+?_Ipfx@?$basic_istream@DU?$char_traits@D@std@@@std@@QEAA_N_N@Z
+?in@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEBD1AEAPEBDPEAD3AEAPEAD@Z
+?out@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEBD1AEAPEBDPEAD3AEAPEAD@Z
+?_Gninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ
+?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ
+?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z
+??0?$basic_ios@DU?$char_traits@D@std@@@std@@IEAA@XZ
+??0?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
+??0?$basic_istream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
+??0?$basic_iostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z
+??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ
+?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JXZ
+?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z
+?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z
+?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAPEAV12@PEAD_J@Z
+?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAXAEBVlocale@2@@Z
+??1?$basic_ios@DU?$char_traits@D@std@@@std@@UEAA@XZ
+?clear@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z
+??1?$basic_ostream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@_J@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@I@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@M@Z
+??1?$basic_istream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??5?$basic_istream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@AEA_J@Z
+?read@?$basic_istream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@PEAD_J@Z
+??1?$basic_iostream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+?fail@ios_base@std@@QEBA_NXZ
+?_Getcat@?$ctype@D@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z
+?always_noconv@codecvt_base@std@@QEBA_NXZ
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@J@Z
+?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@D@Z
+?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z
+?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@I@Z
+??0?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAA@XZ
+??1?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+?gbump@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAXH@Z
+?setg@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAXPEA_W00@Z
+?setp@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAXPEA_W0@Z
+?setp@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAXPEA_W00@Z
+?_Pninc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAPEA_WXZ
+?xsgetn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JPEA_W_J@Z
+?xsputn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JPEB_W_J@Z
+?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAADD@Z
+??1?$basic_ios@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+?widen@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEBA_WD@Z
+??0?$basic_ios@_WU?$char_traits@_W@std@@@std@@IEAA@XZ
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z
+?put@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV12@_W@Z
+??0?$basic_iostream@_WU?$char_traits@_W@std@@@std@@QEAA@PEAV?$basic_streambuf@_WU?$char_traits@_W@std@@@1@@Z
+??1?$basic_iostream@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+?setw@std@@YA?AU?$_Smanip@_J@1@_J@Z
+?imbue@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAXAEBVlocale@2@@Z
+?sync@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAHXZ
+?setbuf@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAPEAV12@PEA_W_J@Z
+?uflow@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAGXZ
+?showmanyc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JXZ
+?_Unlock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ
+?_Lock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ
+_Cnd_unregister_at_thread_exit
+?__ExceptionPtrDestroy@@YAXPEAX@Z
+_Cnd_broadcast
+_Cnd_register_at_thread_exit
+?__ExceptionPtrCopy@@YAXPEAXPEBX@Z
+?__ExceptionPtrRethrow@@YAXPEBX@Z
+?__ExceptionPtrToBool@@YA_NPEBX@Z
+?__ExceptionPtrAssign@@YAXPEAXPEBX@Z
+?__ExceptionPtrCurrentException@@YAXPEAX@Z
+?__ExceptionPtrCreate@@YAXPEAX@Z
+_Thrd_join
+_Thrd_id
+?setf@ios_base@std@@QEAAHH@Z
+?setf@ios_base@std@@QEAAHHH@Z
+?__ExceptionPtrCopyException@@YAXPEAXPEBX1@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAVios_base@1@AEAV21@@Z@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@_N@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@G@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@K@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@_J@Z
+MSVCP140.dll
+?GetLogger@@YAAEBVLogger@log4cplus@@XZ
+??1Logger@log4cplus@@UEAA@XZ
+??0Logger@log4cplus@@QEAA@AEBV01@@Z
+?isEnabledFor@Logger@log4cplus@@QEBA_NH@Z
+?get_macro_body_oss@detail@log4cplus@@YAAEAV?$basic_ostringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ
+?macro_forced_log@detail@log4cplus@@YAXAEBVLogger@2@HAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEBDH2@Z
+log4cplus.dll
+PathCchRemoveFileSpec
+PathCchCanonicalize
+api-ms-win-core-path-l1-1-0.dll
+PathRemoveArgsA
+PathUnquoteSpacesA
+SHLWAPI.dll
+PowerSetActiveScheme
+CallNtPowerInformation
+PowerReadACValueIndex
+PowerGetActiveScheme
+PowerWriteACValueIndex
+PowerWriteDCValueIndex
+PowerReadDCValueIndex
+PowerReadDCValue
+PowerReadACValue
+POWRPROF.dll
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+ntdll.dll
+__CxxFrameHandler4
+__std_exception_destroy
+__std_exception_copy
+_purecall
+__std_type_info_hash
+strstr
+__RTtypeid
+__std_terminate
+_CxxThrowException
+memchr
+memcmp
+memcpy
+memmove
+memset
+__current_exception
+__current_exception_context
+__C_specific_handler
+__std_type_info_destroy_list
+VCRUNTIME140_1.dll
+VCRUNTIME140.dll
+_invalid_parameter_noinfo_noreturn
+_beginthreadex
+terminate
+_errno
+strtol
+_time64
+__stdio_common_vsnwprintf_s
+atoll
+fputc
+fflush
+strtod
+_getpid
+_wfopen_s
+fclose
+strtoul
+strtoll
+strcspn
+__stdio_common_vsprintf_s
+fgetc
+_invalid_parameter_noinfo
+__stdio_common_vsnprintf_s
+fgets
+_unlock_file
+_lock_file
+localeconv
+fwrite
+__stdio_common_vsprintf
+strtoull
+fgetpos
+fputs
+setvbuf
+ungetc
+fsetpos
+fread
+_fseeki64
+_get_stream_buffer_pointers
+remove
+__acrt_iob_func
+__stdio_common_vfprintf
+malloc
+__stdio_common_vswprintf
+wcstoul
+ceilf
+toupper
+abort
+_dsign
+_callnewh
+_seh_filter_dll
+_configure_narrow_argv
+_initialize_narrow_environment
+_initialize_onexit_table
+_register_onexit_function
+_execute_onexit_table
+_crt_atexit
+_cexit
+_initterm
+_initterm_e
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+?GetBatteryDesignCapacity@Battery@@QEAAKXZ
+?GetBatteryFullCapacity@Battery@@QEAAKXZ
+??1Battery@@QEAA@XZ
+??0Battery@@QEAA@XZ
+?GetCputype@Cpu@@QEAA?AW4EnmHalCpuType@@XZ
+??1Cpu@@QEAA@XZ
+??0Cpu@@QEAA@XZ
+?GetCurrentBattery0@HotInterface@@QEAAHXZ
+?GetVoltageBattery0@HotInterface@@QEAAHXZ
+?GetFan1Speed@HotInterface@@QEAAIXZ
+?GetFan0Speed@HotInterface@@QEAAIXZ
+?GetSensorTemperature@HotInterface@@QEAAH_K@Z
+??1HotInterface@@QEAA@XZ
+??0HotInterface@@QEAA@XZ
+?GetUnUsedVideoCardName@VideoCard@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ
+??1VideoCard@@QEAA@XZ
+??0VideoCard@@QEAA@XZ
+?CheckBattery@Battery@@QEAAHXZ
+?GetCurrentUSB1@HotInterface@@QEAAHXZ
+?GetCurrentUSB0@HotInterface@@QEAAHXZ
+?GetVoltageUSB1@HotInterface@@QEAAHXZ
+?GetVoltageUSB0@HotInterface@@QEAAHXZ
+HardwareSdk.dll
+?GetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEAHK@Z
+?SetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEBHK@Z
+?SelectStr@WMI@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@V23@0@Z
+??0SystemInfo@@QEAA@XZ
+??1SystemInfo@@QEAA@XZ
+?GetInstance@MachineType@ProductAdapt@@SAAEBV12@XZ
+?GetProductName@MachineType@ProductAdapt@@QEBAHAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?JudgeAgreementSign@AgreementSign@@SAHXZ
+?ReplacePlaceholder@StringProc@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV23@00@Z
+?GetUserLanguage@SystemInfo@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ
+?SystemTimeToTimet@DE@@YAHPEBU_SYSTEMTIME@@PEA_J@Z
+?GetCurrentDir@LogUtil@@SA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z
+?CreateDeepDirectory@DE@@YAHPEBDPEAU_SECURITY_ATTRIBUTES@@@Z
+?GetSelfFullFilePath@HELPER@HNPROCESS@@YA_NAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV34@@Z
+?DelKey@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@K@Z
+?SetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEBKK@Z
+?CreateNewXmlFile@HnXMLDocument@@QEAA?AW4HnXmlError@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V34@@Z
+?NewElement@HnXMLDocument@@QEAA?AVHnXmlElement@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?InsertEndChild@HnXMLDocument@@QEAAXPEAVHnXmlElement@@@Z
+?SaveFile@HnXMLDocument@@QEAA?AW4HnXmlError@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?AppendAttribute@HnXmlElement@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z
+?AppendNode@HnXmlElement@@QEAAXPEAV1@@Z
+??0Registry@DE@@QEAA@XZ
+??1Registry@DE@@UEAA@XZ
+?SetRootKey@Registry@DE@@QEAAXPEAUHKEY__@@@Z
+?KeyExists@Registry@DE@@QEAA_NAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
+??0ServiceUtils@DE@@QEAA@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@00@Z
+??1ServiceUtils@DE@@UEAA@XZ
+?GetStatus@ServiceUtils@DE@@QEAAHAEAK@Z
+?Start@ServiceUtils@DE@@QEAAHXZ
+?Init@WMI@@QEAA_NXZ
+?UnRegisterMessageCallback@IPCMessageClient@@QEAA_NH@Z
+?PublishIPCMessage@IPCMessageClient@@QEBA_NAEAUTagIPCMessageItem@@@Z
+??1CDuiString@DuiLib@@QEAA@XZ
+??BCDuiString@DuiLib@@QEBAPEB_WXZ
+?GetData@CDuiString@DuiLib@@QEBAPEB_WXZ
+?GetString@UICulture@DuiLib@@QEAA?AVCDuiString@2@PEB_W@Z
+?GetInstance@UICulture@DuiLib@@SAPEAV12@XZ
+?GetMultiVarStr@UICulture@DuiLib@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@V34@V?$vector@HV?$allocator@H@std@@@4@H@Z
+?Create@CWindowWnd@DuiLib@@QEAAPEAUHWND__@@PEAU3@PEB_WKKHHHHPEAUHMENU__@@@Z
+?ShowWindow@CWindowWnd@DuiLib@@QEAAX_N0@Z
+?dispatch@UIMainQueue@DuiLib@@QEAA_NAEBV?$function@$$A6AXXZ@std@@@Z
+?getInstance@UIMainQueue@DuiLib@@SAAEAV12@XZ
+??0CDuiString@DuiLib@@QEAA@PEB_WH@Z
+?OnNcPreHitTest@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?GetHWND@CWindowWnd@DuiLib@@QEBAPEAUHWND__@@XZ
+?FindControl@CPaintManagerUI@DuiLib@@QEBAPEAVCControlUI@2@UtagPOINT@@@Z
+?messageMap@CNotifyPump@DuiLib@@1UDUI_MSGMAP@2@B
+??0WindowImplBase@DuiLib@@QEAA@XZ
+??1WindowImplBase@DuiLib@@UEAA@XZ
+?FindControl@CPaintManagerUI@DuiLib@@QEBAPEAVCControlUI@2@PEB_W@Z
+?GetBkImage@CControlUI@DuiLib@@QEAAPEB_WXZ
+?GetScale@CResourceManager@DuiLib@@QEAAIXZ
+?DrawTextW@CRenderEngine@DuiLib@@SAXPEAUHDC__@@PEAVCPaintManagerUI@2@AEAUtagRECT@@PEB_WKHI_N@Z
+?GetFont@CLabelUI@DuiLib@@QEBAHXZ
+?GetTextColor@CLabelUI@DuiLib@@QEBAKXZ
+?GetPaintDC@CPaintManagerUI@DuiLib@@QEBAPEAUHDC__@@XZ
+??8CDuiString@DuiLib@@QEBA_NPEB_W@Z
+?Close@CWindowWnd@DuiLib@@QEAAXI@Z
+?GetSuperClassName@CWindowWnd@DuiLib@@MEBAPEB_WXZ
+?GetClassStyle@WindowImplBase@DuiLib@@UEBAIXZ
+?HandleMessage@WindowImplBase@DuiLib@@UEAA_JI_K_J@Z
+?OnFinalMessage@WindowImplBase@DuiLib@@UEAAXPEAUHWND__@@@Z
+?ResponseDefaultKeyEvent@WindowImplBase@DuiLib@@MEAA_J_K@Z
+?OnClose@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnDestroy@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnNcActivate@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnNcCalcSize@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnNcPaint@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnGetMinMaxInfo@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnMouseWheel@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnMouseHover@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnMouseLeave@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnInput@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnSize@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnChar@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnSysCommand@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnCreate@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnKeyDown@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnKillFocus@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnSetFocus@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnLButtonDown@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnLButtonUp@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnMouseMove@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?HandleCustomMessage@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?MessageSysTreat@WindowImplBase@DuiLib@@UEAA_NI_K_JAEA_JAEAH@Z
+?MessageDeviceTreat@WindowImplBase@DuiLib@@UEAA_NI_K_JAEA_JAEAH@Z
+?MessageNormalTreat@WindowImplBase@DuiLib@@UEAA_NI_K_JAEA_JAEAH@Z
+?GetStyle@WindowImplBase@DuiLib@@UEAAJXZ
+?Notify@WindowImplBase@DuiLib@@UEAAXAEAUtagTNotifyUI@2@@Z
+?MessageHandler@WindowImplBase@DuiLib@@UEAA_JI_K_JAEA_N@Z
+?CreateControl@WindowImplBase@DuiLib@@UEAAPEAVCControlUI@2@PEB_W@Z
+?QueryControlText@WindowImplBase@DuiLib@@UEAAPEB_WPEB_W0@Z
+?OnMoveAnimationEnd@WindowImplBase@DuiLib@@UEAAXXZ
+?OnResizeAnimationEnd@WindowImplBase@DuiLib@@UEAAXXZ
+?OnResize@WindowImplBase@DuiLib@@UEAAXAEBUtagSIZE@@@Z
+?OnDisplayResolutionChanged@WindowImplBase@DuiLib@@UEAAXII@Z
+?OnActivate@WindowImplBase@DuiLib@@UEAAXW4ActivateState@12@W4MinimizedState@12@@Z
+?GetManagerName@WindowImplBase@DuiLib@@MEAAPEB_WXZ
+?GetSkinType@WindowImplBase@DuiLib@@MEAA?AVCDuiString@2@XZ
+?InitResource@WindowImplBase@DuiLib@@UEAAXXZ
+?GetInstance@CResourceManager@DuiLib@@SAPEAV12@XZ
+DuiLib.dll
+GetCurrentProcess
+InitOnceBeginInitialize
+InitOnceComplete
+ReleaseSRWLockExclusive
+AcquireSRWLockExclusive
+WakeAllConditionVariable
+SleepConditionVariableSRW
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+TerminateProcess
+IsProcessorFeaturePresent
+IsDebuggerPresent
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+InitializeSListHead
+GetLastInputInfo
+strcmp
+num = 1,str,
+id = 1,eval,value,type,trigger,delay,cache,ontime,thread,latency,
+version = 1,performance,cond,trigger,fact,script,track,or,and,loop,define,
+ne = 1,eq,lt,gt,le,ge,add,sub,mul,div,mod,and,or,not,kill,frozen,unfrozen,frozenbysence,unfrozenbysence,unfrozenbysid,onekey,sence,notify,cpuset,screenset,screenclose,powerlimit,socsetting,push_unactive,push_lost,push_high,pop,unfilter,pull,report,reset,logout,prepare,full,
+.?AV_com_error@@
+.?AVbad_alloc@std@@
+.P6A?AV?$shared_ptr@VMBAPlugin@@@std@@XZ
+.?AVexception@std@@
+.?AVbad_array_new_length@std@@
+.?AVruntime_error@std@@
+.?AVsystem_error@std@@
+.?AV?$_Binder@U_Unforced@std@@AEAP8LowPowerPolicy@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV3@AEBU?$_Ph@$00@2@@std@@
+.?AVbad_cast@std@@
+.?AV_System_error@std@@
+.?AVCAtlException@ATL@@
+.?AVrange_error@std@@
+.?AVother_error@detail@nlohmann@@
+.?AVfilesystem_error@v1@filesystem@experimental@std@@
+.?AVexception@detail@nlohmann@@
+.?AVinvalid_iterator@detail@nlohmann@@
+.?AVtype_error@detail@nlohmann@@
+.?AV?$_Binder@U_Unforced@std@@AEAP8PowerDataReport@Power@Mba@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV345@AEBU?$_Ph@$00@2@@std@@
+.?AVout_of_range@detail@nlohmann@@
+.?AVparse_error@detail@nlohmann@@
+.?AV?$_Binder@U_Unforced@std@@V<lambda_0f607dfd1d13bd756703adcd5ed9f1ef>@@$$V@std@@
+.?AV?$_Binder@U_Unforced@std@@V<lambda_c5042b2aa8a7c1b7fe920ccb7448c253>@@$$V@std@@
+.?AV?$_Binder@U_Unforced@std@@V<lambda_bb4467beddbf3adabeeed684ae6aa8c3>@@$$V@std@@
+.?AV?$_Binder@U_Unforced@std@@V<lambda_6f593da9799a8da29e56efaff873f346>@@$$V@std@@
+.?AV?$_Binder@U_Unforced@std@@V<lambda_dd0db638ba9079a3bd5310819ba6bc22>@@$$V@std@@
+.?AV?$_Binder@U_Unforced@std@@V<lambda_bc2f622c62522fc7b06c6b3236153f32>@@$$V@std@@
+.?AV?$_Binder@U_Unforced@std@@V<lambda_c7daefc2bff91676d911c081945843f1>@@$$V@std@@
+.?AV?$_Binder@U_Unforced@std@@V<lambda_598902aab02b592ea6d775d20be6cbd6>@@$$V@std@@
+.?AV?$_Binder@U_Unforced@std@@A6AXXZ$$V@std@@
+.?AV?$_Binder@U_Unforced@std@@V<lambda_931cead0350f172d88f23a0874c9de50>@@$$V@std@@
+.?AV?$_Binder@U_Unforced@std@@V<lambda_40a0ef8b552ea9eccd5f544a535013d4>@@$$V@std@@
+.?AV?$_Binder@U_Unforced@std@@V<lambda_05317192b50c8fbbbee57191b4e9ed3d>@@$$V@std@@
+.?AV?$_Binder@U_Unforced@std@@V<lambda_90fa55db5d5dff7bff3071a9c1702e12>@@$$V@std@@
+.?AV?$_Binder@U_Unforced@std@@AEAP8IPCServerProcBase@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV3@AEBU?$_Ph@$00@2@@std@@
+.?AV<lambda_b657c198faef85294667e4b35077bedf>@@
+.?AV?$_Binder@U_Unforced@std@@AEAP8StartupManagerPlugin@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV3@AEBU?$_Ph@$00@2@@std@@
+.?AV<lambda_f3abd72558a0ff637b606c3edd0f871f>@@
+.?AV<lambda_98c05c5a6e075bb50cb986e259566135>@@
+.?AV<lambda_bfae08d6f3a48231368de4429bbedf07>@@
+.?AV<lambda_665e3e643583a95d873de7cb70c326ae>@@
+.?AV<lambda_37441d88d325c0474cda696c727e6c58>@@
+.?AV<lambda_a0aa46991560b6ef7c51b0945182ee5a>@@
+.?AV<lambda_f877e3021ebb2da15b867a0eca403532>@@
+.?AV<lambda_8fb4233d0cd7c3b9f3e88413f00ea80d>@@
+.?AV<lambda_f9089ce26777f821f0d08c874fb51f9b>@@
+.?AV<lambda_10b9ad62cf074203492a4543c8369feb>@@
+.?AV<lambda_23258cd393413ca1f07440adc5c2ef8e>@@
+.?AV<lambda_7359dfeab2496caa2cfe2e9328bdc64b>@@
+.?AV<lambda_91623b8804176b9fd94f0cfe9c3f9b02>@@
+.?AVfuture_error@std@@
+.?AVlogic_error@std@@
+.?AV?$basic_stringbuf@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AV?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_ostream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_ios@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_stringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AV?$basic_iostream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_istream@_WU?$char_traits@_W@std@@@std@@
+.?AVtype_info@@
+.?AV?$_Func_base@V?$shared_ptr@VMBAPlugin@@@std@@$$V@std@@
+.?AV?$_Func_impl_no_alloc@P6A?AV?$shared_ptr@VMBAPlugin@@@std@@XZV12@$$V@std@@
+.?AVMBAPlugin@@
+.?AV_Ref_count_base@std@@
+.?AV?$_Ref_count_obj2@VPowerPolicyPlugin@Power@Mba@@@std@@
+.?AVPowerPolicyPlugin@Power@Mba@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@AEAP8LowPowerPolicy@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV3@AEBU?$_Ph@$00@2@@std@@XAEAUTagIPCMessageItem@@@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV?$_Func_base@XAEAUTagIPCMessageItem@@@std@@
+.?AVEventDRprtConfig@@
+.?AVcodecvt_base@std@@
+.?AV_Facet_base@std@@
+.?AU_Crt_new_delete@std@@
+.?AV?$codecvt_utf8_utf16@_W$0BAPPPP@$0A@@std@@
+.?AV?$wstring_convert@V?$codecvt_utf8_utf16@_W$0BAPPPP@$0A@@std@@_WV?$allocator@_W@2@V?$allocator@D@2@@std@@
+.?AVfacet@locale@std@@
+.?AV?$codecvt@_WDU_Mbstatet@@@std@@
+.?AVVstInterface@@
+.?AV?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_filebuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_fstream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ifstream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AVios_base@std@@
+.?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@
+.?AU?$HolderImpl@_J@HwAny@DE@@
+.?AV?$_Iosb@H@std@@
+.?AV?$basic_ofstream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ostringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@AEAP8PowerDataReport@Power@Mba@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV345@AEBU?$_Ph@$00@2@@std@@XAEAUTagIPCMessageItem@@@std@@
+.?AUHolderInterface@HwAny@DE@@
+.?AV?$basic_istringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AU?$HolderImpl@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@HwAny@DE@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AVHwAny@DE@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AUIUnknown@@
+.?AVEventSink@@
+.?AUIWbemObjectSink@@
+.?AV?$_Func_base@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@V<lambda_90fa55db5d5dff7bff3071a9c1702e12>@@$$V@std@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@V<lambda_40a0ef8b552ea9eccd5f544a535013d4>@@$$V@std@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@V<lambda_05317192b50c8fbbbee57191b4e9ed3d>@@$$V@std@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@A6AXXZ$$V@std@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@V<lambda_931cead0350f172d88f23a0874c9de50>@@$$V@std@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@V<lambda_598902aab02b592ea6d775d20be6cbd6>@@$$V@std@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@V<lambda_bc2f622c62522fc7b06c6b3236153f32>@@$$V@std@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@V<lambda_c7daefc2bff91676d911c081945843f1>@@$$V@std@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@V<lambda_6f593da9799a8da29e56efaff873f346>@@$$V@std@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@V<lambda_dd0db638ba9079a3bd5310819ba6bc22>@@$$V@std@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@V<lambda_c5042b2aa8a7c1b7fe920ccb7448c253>@@$$V@std@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@V<lambda_bb4467beddbf3adabeeed684ae6aa8c3>@@$$V@std@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@V<lambda_0f607dfd1d13bd756703adcd5ed9f1ef>@@$$V@std@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_7359dfeab2496caa2cfe2e9328bdc64b>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_10b9ad62cf074203492a4543c8369feb>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_23258cd393413ca1f07440adc5c2ef8e>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_8fb4233d0cd7c3b9f3e88413f00ea80d>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_f9089ce26777f821f0d08c874fb51f9b>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_f877e3021ebb2da15b867a0eca403532>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_37441d88d325c0474cda696c727e6c58>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_a0aa46991560b6ef7c51b0945182ee5a>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_bfae08d6f3a48231368de4429bbedf07>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_665e3e643583a95d873de7cb70c326ae>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_f3abd72558a0ff637b606c3edd0f871f>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_98c05c5a6e075bb50cb986e259566135>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_b657c198faef85294667e4b35077bedf>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@AEAP8StartupManagerPlugin@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV3@AEBU?$_Ph@$00@2@@std@@XAEAUTagIPCMessageItem@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@AEAP8IPCServerProcBase@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV3@AEBU?$_Ph@$00@2@@std@@XAEAUTagIPCMessageItem@@@std@@
+.?AV?$_Ref_count_obj2@V?$output_string_adapter@DV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@detail@nlohmann@@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_91623b8804176b9fd94f0cfe9c3f9b02>@@X$$V@std@@
+.?AV?$output_string_adapter@DV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@detail@nlohmann@@
+.?AV?$IPCServerProc@VStartupManagerPlugin@@XV?$vector@HV?$allocator@H@std@@@std@@@@
+.?AV?$_Ref_count_obj2@V?$packaged_task@$$A6AXXZ@std@@@std@@
+.?AV?$_Packaged_state@$$A6AXXZ@std@@
+.?AVTipsRemoteControl@TipsSdk@Hwa@@
+.?AVTipsSuperNotification@TipsSdk@Hwa@@
+.?AVTipsHicast@TipsSdk@Hwa@@
+.?AVTipsProcess@TipsSdk@Hwa@@
+.?AVTipsReport@TipsSdk@Hwa@@
+.?AVTipsNormal@TipsSdk@Hwa@@
+.?AVTipsPower@TipsSdk@Hwa@@
+.?AVTipsBase@TipsSdk@Hwa@@
+.?AVTipsMessage@TipsSdk@Hwa@@
+.?AU?$output_adapter_protocol@D@detail@nlohmann@@
+.?AVStartupManagerPlugin@@
+.?AVIPCServerProcBase@@
+.?AUIIPCDataIO@@
+.?AVIPCDataIO@@
+.?AV?$_Associated_state@H@std@@
+.?AV_Future_error_category2@std@@
+.?AVToSendMsgPureSecurityPlugin@@
+.?AVWindowImplBase@DuiLib@@
+.?AVIQueryControlText@DuiLib@@
+.?AVIDialogBuilderCallback@DuiLib@@
+.?AVIMessageFilterUI@DuiLib@@
+.?AVINotifyUI@DuiLib@@
+.?AVCNotifyPump@DuiLib@@
+.?AVCWindowWnd@DuiLib@@
+.?AVStartupRemindWnd@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' processorArchitecture='amd64' publicKeyToken='6595b64144ccf1df' language='*' />
+    </dependentAssembly>
+  </dependency>
+</assembly>
+.]&{~
+0L1 0
+GlobalSign Root CA - R31
+GlobalSign1
+GlobalSign0
+200728000000Z
+290318000000Z0S1
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+p\$x %
+Bng~B
+tsg1z
+n0l0-
+!http://ocsp.globalsign.com/rootr30;
+/http://secure.globalsign.com/cacert/root-r3.crt06
+/0-0+
+%http://crl.globalsign.com/root-r3.crl0G
+@0>0<
+&https://www.globalsign.com/repository/0
+b wul
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+200728000000Z
+300728000000Z0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+-http://ocsp.globalsign.com/codesigningrootr450F
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+:0806
+0http://crl.globalsign.com/codesigningrootr45.crl0U
+N0L0A
+&https://www.globalsign.com/repository/0
+jh4%B
+wF*=#}(s
+1R95)
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+231215073510Z
+261128091510Z0
+Private Organization1
+91440300MA5G49LC9K1
+Guangdong1
+Shenzhen1
+Guangdong1
+Shenzhen1^0\
+34011
+Honor Device Co., Ltd.1
+Honor Device Co., Ltd.0
+6![%~u
+,IT1(Ct
+UCd.d6
+@http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+3http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+N0L0A
+&https://www.globalsign.com/repository/0
+@0>0<
+6http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+{<5T.
+>^WX6z
+8N7cm
+ACJL9
+9V8qDXJ
+0l0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 2020
+;A5F 
+7QUfR
+(.S"{I
+<l^mk
+I/Iql
+#?n?-
+20250214045806Z0
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 2025
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+250109084043Z
+360107084043Z0P1
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 20250
+xc#|(
+[fC@*82
+i0g0;
+/http://subca.repository.certum.pl/ctsca2021.cer0(
+http://subca.ocsp-certum.com0
+2000.
+(http://subca.crl.certum.pl/ctsca2021.crl0
+\8=x;
+&n|<j
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+210519053207Z
+360518053207Z0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+g!5 e
+)0'0%
+http://crl.certum.pl/ctnca2.crl0l
+`0^0(
+http://subca.ocsp-certum.com02
+&http://repository.certum.pl/ctnca2.cer09
+2000.
+http://www.certum.pl/CPS0
+iMi=}B
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1"0 
+Certum Trusted Network CA0
+210531064306Z
+290917064306Z0
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+dg?":
+cyD~Kc$
+.4?)LR
+(0&0$
+http://crl.certum.pl/ctnca.crl0k
+_0]0(
+http://subca.ocsp-certum.com01
+%http://repository.certum.pl/ctnca.cer09
+2000.
+http://www.certum.pl/CPS0
+[.&iB<
+Se"u-
+0k0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+250214045806Z07
+/1(0&0$0"
+jj0o0Z
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+S C*8
+
+### UTF16 strings (248)
+HARDWARE\DESCRIPTION\System\Product
+Software\HONOR\BIOS
+Software\Microsoft\Windows NT\CurrentVersion
+HARDWARE\DESCRIPTION\System\BIOS
+SOFTWARE\PCManager\HNLoginGuide
+\Software\PCManager\LastestSetting
+\Control Panel\Desktop\PerMonitorSettings
+DpiValue
+LastestOSVersion
+LastestDPIValue
+LastestDPIIndex
+\SOFTWARE\PCManager\HNLoginGuide
+Protocol
+\SOFTWARE\PCManager\HWLoginGuide
+PCManagerOobe
+SOFTWARE\PCManager\setting
+\SOFTWARE\PCManager\setting\expireLogin
+ ProtocolVer
+DeviceTypeEx
+ERROR : Unable to initialize critical section in CAtlBaseModule
+plugins\
+\HnSync\
+skin\
+..\BasicService\
+..\PCManager\
+..\OfficeCenter\
+MBAPluginsManager.dll
+CF_MOVECONTROL
+MonProcess.dll
+.DEFAULT\Software\HONOR\PCManager\Performance
+NVExcuteNumber
+Directory\Background\shellex\ContextMenuHandlers\NvCplDesktopContext
+SOFTWARE\HONOR\PCManager\setting
+SOFTWARE\PCManager\setting
+Software\PCManager\MBAPowerManager
+IsSystemBootTimePromptSupport
+file='drawable/powermanage/ico_open.png'
+IDS_STARTUP_STARTMAINUI_MODULE_NAME
+PowerManagerBootTime
+file='drawable/powermanage/index_startup.png'
+../../res/drawable/powermanage/ico_startup_title.png
+IDS_POWER_MAINUI_STARTUP_MANAGER_TIP_OVER
+IDS_POWER_MAINUI_STARTUP_MANAGER_TIP_ITEMS
+IDS_STARTUP_STARTMAINUI_MODULE_NAME
+../../res/drawable/powermanage/ico_startup_title.png
+IDS_POWER_MAINUI_STARTUP_MANAGER_TIP_INFO2
+IDS_POWER_MAINUI_STARTUP_MANAGER_TIP_INFO1
+IDS_POWER_MAINUI_STARTUP_MANAGER_TIP_INFO1_DIVIDE
+IDS_POWER_MAINUI_MAIN_BUTTON_DEAL
+SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE\OOBECompleteTimestamp
+OOBECompleteTimestamp
+OOBECompleteTimestamp
+OobeRemindWnd Show
+%I64d
+IDS_STARTUP_STARTMAINUI_MODULE_QUES_SUMMARY
+IDS_DRVUP_M07_S01
+IDS_STARTUP_STARTMAINUI_MODULE_OPERATOR_SUGGESTION
+IDS_STARTUP_STARTMAINUI_MODULE_OPERATOR_SUGGESTION_OPEN
+IDS_HARDWARE_DETECT_ITEM_OPERAT_RESATRT_TRY_AGAIN
+IDS_HARDWARE_DIAGNOSE_REPAIR_FAIL
+IDS_HARDWARE_DETECT_ITEM_OPERAT_SUCCESS_NEED_RESTART
+IDS_HARDWARE_DETECT_ITEM_REPAIR_COMMAND
+IDS_STARTUP_STARTMAINUI_MODULE_OPERATOR_SUGGESTION
+IDS_HARDWARE_DETECT_ITEM_OPERAT_RESATRT_TRY_AGAIN
+IDS_HARDWARE_DIAGNOSE_REPAIR_FAIL
+IDS_STARTUP_STARTMAINUI_MODULE_QUES_NVIDIA_SUMMARY
+IDS_STARTUP_STARTMAINUI_MODULE_QUES_NVIDIA_SUMMARY_DIVIDE
+IDS_STARTUP_STARTMAINUI_MODULE_OPERATOR_SUGGESTION_OPEN
+IDS_STARTUP_STARTMAINUI_MODULE_QUES_SUMMARY
+IDS_DRVUP_M07_S01
+IDS_STARTUP_STARTMAINUI_MODULE_ONLY_NVIDIA_SUMMARY
+NVDisplay.ContainerLocalSystem
+IDS_STARTUP_NVIDIA_DESCRIPTION
+IDS_HARDWARE_DETECT_ITEM_REPAIR_COMMAND
+../res/drawable/powermanage/SoftIcon/startupdefault.png
+../res/drawable/powermanage/SoftIcon/startupdefault.png
+IDS_STARTUP_NVIDIA_DISPALY
+IDS_STARTUP_OFFICE365_DISPALY
+IDS_HARDWARE_DETECT_ITEM_REPAIR_COMMAND
+CF_MOVECONTROL
+CF_MOVECONTROL
+HnSync\
+\plugins\
+PrivateScreenCast.exe
+\skin\
+AISupportCenter.exe
+MagicTouchPadSettingUI.exe
+HnCloudService.exe
+MBAMessageCenter.exe
+StorageDeviceScan.exe
+MBAAntiVirus.exe
+HnLinkTime.exe
+AppStoreLoader.exe
+ManagerUpdate.exe
+PCManager.exe
+Honor PC Manager
+MBAProcessWatcher.exe
+PCManagerTray.exe
+LinkTurbo.exe
+SPES.exe
+SPES5.exe
+C:\Program Files (x86)\SPES5.0\Composites\SPES\
+HONORDeviceClone.exe
+MBAUpdaterCheck.dll
+MsgCenter
+PCManagerMainService
+HwHiCenter
+OSDMainService
+UninstallGuide
+MBAUpdater
+HWLoginGuide
+MBALogSampleService
+MBAMonitorService
+DumpReport
+OSDListener
+DragFileProgress
+MessageCenterUI
+HNVCR
+MBAInstallPre
+MBADataMigration
+HonorShareSaveAs
+HWAccountUI
+GetClipContent
+MagicTextService
+MagicText
+PCSyncUI
+ManagerUpdate
+..\BasicService\
+ContinuousDownload
+MagicTextInjector
+MagicTextInjector32
+click
+..\OfficeCenter\
+..\PCManager\
+layoutTop
+txtContent
+IDS_STARTUP_TIPS_BOOTTIME_OPTIMIZE
+IDS_STARTUP_TIPS_BOOTTIME_OPTIMIZE_TOO_LONG
+IDS_STARTUP_TIPS_BOOTTIME_OPTIMIZE_DIVIDE_2
+IDS_STARTUP_TIPS_BOOTTIME_OPTIMIZE_DIVIDE_1
+para / startupManager
+doneBtn
+actBtn
+remindIcon
+lMonitorEvent
+Software\PCManager\MBAPowerManager
+ScreenBrightStatus
+HiddenWndClass
+MonProcess.dll
+ROOT\WMI
+MBARightMobileMsgUI
+PowerManagerIntellMode
+PowerManagerHistorySavingTime
+PowerManagerBeforeSavingTime
+PowerManagerCancelIntellModeTime
+PowerSafeManagerStatus
+PowerSafeManagerMode
+Software\PCManager\MBAPowerManager\ConsumerChooseStatus
+Software\PCManager\MBAPowerManager\SoftID
+JackStatus
+DeviceType
+RenderStreamStatus
+CaptureStreamStatus
+Software\Realtek\Audio\RtkAudUService\Others\
+\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize
+AppsUseLightTheme
+SystemUsesLightTheme
+ROOT\CIMV2
+CurrentClockSpeed
+SELECT CurrentClockSpeed FROM Win32_Processor
+Ntdll.dll
+svchost.exe
+MonPowerUsage
+battery-report
+sleep-report
+.html
+SYSTEM\CurrentControlSet\Control\Session Manager\Power
+HiberbootEnabled
+SYSTEM\CurrentControlSet\Control\Power\User\PowerSchemes\
+SYSTEM\CurrentControlSet\Control\Power\PowerSettings\
+\DefaultPowerSchemeValues\
+DCSettingIndex
+ACSettingIndex
+381b4222-f694-41f0-9685-ff5bb260df2e\
+7516b95f-f776-4464-8c53-06167f40cc99
+3c0bc021-c8a8-4e07-a973-6b14cbcb2b7e
+238c9fa8-0aad-41ed-83f4-97be242c8f20
+29f6c1db-86da-48c5-9fdb-f2b67b1f44da
+9d7815a6-7ee4-497e-8888-515a05f02364
+4f971e89-eebd-4455-a8de-9e59040e7347
+5ca83367-6e45-459f-a27b-476b1d01c936
+7648efa3-dd9c-4e3e-b566-50f929386280
+ACPI\PNP0C14\HWMI_0
+OemWMIMethod
+OemWMIfun
+OemWMIfunEx
+.InstanceName='
+u64Input
+u8Input
+MutexWMI
+u8Output
+eCPU_DTS
+dGPU_DTS
+SOC_NTC
+GPU_NTC
+TYPE_C_NTC
+CHARGER_NTC
+DDR_NTC
+GDDR_NTC
+Ambience_NTC
+CPU_VR_NTC_Temp
+GPU_VR_NTC_Temp
+OPT_NTC_Temp
+SELECT * FROM OemWMIEvent 
+CEventSink::Indicate Event Occur
+OemWMIEvent
+__Class
+Force
+ControlLib
+%s.dll
+StartupRemindWnd
+ true
+layout/powermanage_startup_remind_wnd.xml
+ySELECT Name FROM Win32_Process WHERE Name = 'LogonUI.exe'
+LogonUI.exe
+////////\\\\\\\\
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+VS_VERSION_INFO
+StringFileInfo
+080404b0
+CompanyName
+Honor Device Co., Ltd.
+FileDescription
+PowerPolicyPlugin
+FileVersion
+11.0.0.0
+InternalName
+PowerPolicyPlugin.dll
+LegalCopyright
+Copyright (C) Honor Device Co., Ltd. 2016-2020. All rights reserved.
+OriginalFilename
+PowerPolicyPlugin.dll
+ProductName
+PowerPolicyPlugin
+ProductVersion
+11.0.0.0
+VarFileInfo
+Translation
+
+### GUIDs found (1)
+D1013878-C992-4706-A7C1-8CB9DD9246F8

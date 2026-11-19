@@ -1,0 +1,2824 @@
+### ASCII strings (2796)
+!This program cannot be run in DOS mode.
+RichHR
+.text
+`.rdata
+@.data
+.pdata
+@_RDATA
+@.rsrc
+@.reloc
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+UATAUAVAWH
+upL9-
+)t$PL
+A_A^A]A\]
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+L$=fff
+L$@H3
+UVWAVAWH
+T$XE3
+A_A^_^]
+@SUVWAVH
+A^_^][
+)t$@H
+L$0H3
+(t$@H
+UVWATAUAVAWH
+D$@L;}@
+A_A^A]A\_^]
+UVWATAUAVAWH
+L$PH3
+`A_A^A]A\_^]
+@SUWH
+@SUWAVAWH
+L$0H3
+@A_A^_][
+@SUATAVAWH
+l$ I;
+0A_A^A\][
+UVWATAUAVAWH
+D$0E3
+L$0H3
+@A_A^A]A\_^]
+UVWAVAWH
+A_A^_^]
+|$ UH
+L$@H3
+t$ WAVAWH
+A_A^_
+@SVWH
+@SVWH
+@SVWAVAWH
+A_A^_^[
+|$ AWH
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SVWAVAWH
+A_A^_^[
+|$ AWH
+UVWATAUAVAWH
+A_A^A]A\_^]
+t$ WAVAWH
+A_A^_
+VWAVH
+SVWAVH
+ffffff
+D$,D;
+D$ D;
+A^_^[
+L$ SVWATAUAVAWH
+A_A^A]A\_^[
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+(D$@f
+(D$Pf
+(D$`f
+A_A^A]A\_^]
+@SVATAUH
+L$0H3
+XA]A\^[
+UVWATAUAVAWH
+L$0H3
+@A_A^A]A\_^]
+@SVATAVH
+L$0H3
+HA^A\^[
+|$ ATAVAWH
+A_A^A\
+UVWATAUAVAWH
+A_A^A]A\_^]
+|$ AVH
+\$8H;\$@t\
+D$ H;
+D$HH+
+L$PH3
+@SVWATAUAVAWH
+L$ E3
+A_A^A]A\_^[
+WATAUAVAWH
+A_A^A]A\_
+UVWAVAWH
+`A_A^_^]
+|$ AWH
+UVWAVAWH
+`A_A^_^]
+UWAVH
+D$xH;
+D$`E3
+t$ WAVAWH
+A_A^_
+WATAUAVAWH
+)T$PH
+A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAVAWH
+A_A^A\_^[]
+\$ UVWATAUAVAWH
+u*H;C
+D$XE3
+D$`H;
+L$xH3
+A_A^A]A\_^]
+T$PH+
+WATAUAVAWH
+T$HH+
+A_A^A]A\_
+UWATAVAWH
+\$0E2
+\$@E2
+A_A^A\_]
+|$ AWH
+UVWAVAWH
+`A_A^_^]
+l$ VWAVH
+|$@H;|$H
+H;|$H
+T$PH+
+L$XH3
+t$ WH
+UVWATAUAVAWH
+A_A^A]A\_^]
+\$ UVWATAUAVAWH
+D$XH9P s
+D$8H;A sqH
+A_A^A]A\_^]
+t$ UWATAVAWH
+A_A^A\_]
+[ VWAVH
+[ VWAVH
+[ VWAVH
+WAVAWH
+A_A^_
+|$ AVH
+VWAUAVAWH
+T$ E3
+A_A^A]_^
+UVWAVAWH
+`A_A^_^]
+t$ WH
+|$ AWH
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWAVAWH
+ A_A^_^]
+@UVAVH
+\$PH+
+ A^^]
+t$ WH
+t$ WH
+@UWAVH
+0A^_]
+t$ WH
+I9:u*A
+@SVWH
+@SVWH
+VWATAVAWH
+@A_A^A\_^
+SUVWATAVAWH
+(D$ f
+pA_A^A\_^][
+UVWATAUAVAWH
+(D$Pf
+(D$`f
+(D$pf
+(D$@f
+A_A^A]A\_^]
+L$8H3
+L$8H3
+CD$ H
+L$XH3
+\$ UVWH
+)t$PH
+(t$PH
+UVWAVAWH
+A_A^_^]
+\$ UVAVH
+ A^^]
+l$ VWAVH
+ A^_^
+@VATAVAWH
+(A_A^A\^
+t$ WATAUAVAWH
+L$0E3
+A_A^A]A\_
+@VAVAWH
+0A_A^^
+L$0H3
+L$ SUVWH
+8_^][
+UWAVH
+\$ VH
+\$ VH
+L$@H3
+L$PHcQ
+D$PHcH
+\$ WH
+L$PHcQ
+D$PHcH
+I9Jhs
+|$ AVL
+I9Jhs
+VWATAVAWH
+ A_A^A\_^
+t$ AVH
+t$HH+
+t$ AVH
+t$HH+
+VWAVH
+(D$Pf
+(t$pH
+D$@Hc
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@SUWAVAWH
+L$0H3
+@A_A^_][
+UVWATAUAVAWH
+C@H98t$H
+C@H90t$H
+A_A^A]A\_^]
+UVWATAUAVAWH
+(D$03
+)D$0M
+C@H98t$H
+)D$0H
+(D$03
+)D$0M
+(D$0H
+)D$0M+
+(D$0H
+)D$0H
+(D$0H
+A_A^A]A\_^]
+VWAVH
+0A^_^
+L$8H3
+L$8H3
+L$8H3
+@SVAVAWH
+L$(H;
+L$0H3
+XA_A^^[
+@SUVAUH
+L$ H+
+L$8H3
+XA]^][
+@USVWAVH
+t$HfD
+t$XfD
+A^_^[]
+UWAVH
+D$PHcH
+D$PHcH
+|$ AVH
+@SVWATAUAVAWH
+L$(E3
+@A_A^A]A\_^[
+\$ WH
+D$EL;
+L$HH3
+@SVWH
+WAVAWH
+(D$Pf
+A_A^_
+|$ AVH
+t$ UWAVH
+D$PHcH
+D$PHcH
+D$PHcH
+D$PHcH
+WAVAWH
+(D$Pf
+A_A^_
+t$ WATAUAVAWH
+L$(E3
+B842u
+A_A^A]A\_
+t$ WH
+T$@H+
+WAVAWH
+(D$Pf
+A_A^_
+SUVWATAUAVAWH
+A_A^A]A\_^][
+t$ WH
+\$(H;\$0tK
+H;\$0u
+T$8H+
+L$@H3
+@SUVWATAVAWH
+t$`H;t$htf
+H;t$hu
+D$pH+
+L$xH3
+A_A^A\_^][
+@SUVWAVH
+\$8H;\$@tOf
+H;\$@u
+T$HH+
+L$PH3
+`A^_^][
+\$ UVWH
+\$(H;\$0tN
+H;\$0u
+T$8H+
+L$@H3
+\$(H;\$0tJ
+H;\$0u
+\$(@2
+T$8H+
+L$@H3
+\$(H;\$0tJ
+H;\$0u
+\$(@2
+T$8H+
+L$@H3
+t$ WAVAWH
+L$HH3
+A_A^_
+l$ VWAVH
+L$HH3
+t$ WAVAWH
+T$PE3
+D$(9P
+)D$`H
+A_A^_
+t$ WAVAWH
+T$PE3
+D$(9P
+)D$`H
+A_A^_
+@WATAVAWH
+t$ I;
+(A_A^A\_
+UVWATAUAVAWH
+L$pE3
+\$@H;
+H9t$@
+D$@L;
+L;E L
+BE L+
+CT$PI
+D$`H+
+CT$PH
+L;E L
+BE L+
+A_A^A]A\_^]
+L$0H3
+9Q(u6
+9sXu9H
+UVWAVAWH
+D9~,u
+D9~\u
+ A_A^_^]
+D9A,u
+I09QXu
+D9A\u
+D9A0u
+D9A`u
+9GXu7H
+9G\u"H
+D9@ }
+u#D;B |
+ !"#$%&'))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))(
+@UVWH
+t$ E3
+D9H }7H
+D;H |sI
+$9P }
+E;K |
+@SVWATAUAVAWH
+D$}L;
+D$}M+
+A_A^A]A\_^[
+t$8H+
+@SWATAVAWH
+l$ I;
+0A_A^A\_[
+VWAVH
+L$ WH
+D9A }
+D9@ }
+D9A }
+D9@ }
+t$8H+
+t$ WH
+D$ D9@ }
+)D$PH
+t$ WAVAWH
+D$(9P
+9C }YL9~
+)D$`H
+A_A^_
+UVWAVAWH
+A_A^_^]
+t$ UWAVH
+t$ WH
+L$8H3
+L$@H3
+QXH;Q`t+3
+L$(H3
+|$ UAVAWH
+C\$(H
+tLH9T$8
+CL$(H
+D$8L+
+A_A^]
+\$ UVWH
+@USVWATAVAWH
+GXH9GP
+CT$(L
+CT$HL
+CT$(L
+CT$HL
+CT$(L
+CT$(L
+L;E0L
+BE0L+
+A_A^A\_^[]
+@USVWAVH
+CT$hL
+CT$HL
+CT$(L
+L;E0L
+BE0L+
+A^_^[]
+UVWATAUAVAWH
+T$HE3
+_PI;_X
+CT$(L
+A_A^A]A\_^]
+@UVAVAWH
+(A_A^^]
+VWAVH
+ A^_^
+@SUVATAVH
+|$ H;
+0A^A\^][
+UVWAVAWH
+@A_A^_^]
+t$ WH
+WAVAWH
+A_A^_
+WAVAWH
+A_A^_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+SVWATAVH
+A^A\_^[
+SVWATAVH
+A^A\_^[
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+SVWATAVH
+A^A\_^[
+t$ UWAVH
+T$hE3
+CT$HL
+CT$ L
+L;EpL
+BEpL+
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+VWATAVAWH
+A_A^A\_^H
+VWATAVAWH
+A_A^A\_^H
+VWATAVAWH
+A_A^A\_^H
+VWATAVAWH
+A_A^A\_^H
+VWATAVAWH
+A_A^A\_^H
+VWATAVAWH
+A_A^A\_^H
+VWATAVAWH
+A_A^A\_^H
+VWATAVAWH
+A_A^A\_^H
+VWATAVAWH
+A_A^A\_^H
+VWATAVAWH
+A_A^A\_^H
+VWATAVAWH
+A_A^A\_^H
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+SVWAUAVAWH
+A_A^A]_^[
+@SVWATAVAWH
+A_A^A\_^[
+t$ UWATAVAWH
+A_A^A\_]
+SVWAUAVAWH
+A_A^A]_^[
+SVWAUAVAWH
+A_A^A]_^[
+SVWAUAVAWH
+A_A^A]_^[
+@SVWATAVAWH
+A_A^A\_^[
+t$ WH
+@SVWATAVAWH
+A_A^A\_^[
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+VWATAVAWH
+A_A^A\_^
+VWATAVAWH
+A_A^A\_^H
+VWATAVAWH
+A_A^A\_^H
+WAVAWH
+A_A^_
+WAVAWH
+A_A^_
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+VWAUAVAWH
+A_A^A]_^H
+t$ WH
+@SVWATAUAVAWH
+A_A^A]A\_^[
+VWATAVAWH
+A_A^A\_^H
+VWATAVAWH
+A_A^A\_^H
+t$ WATAVH
+A^A\_
+t$ WH
+\$ VWAUAVAWH
+A_A^A]_^
+t$ UWAVH
+s WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+SVWATAVH
+A^A\_^[
+t$ UWAVH
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WH
+t$ WATAVH
+A^A\_
+WAVAWH
+A_A^_H
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+VWATAVAWH
+A_A^A\_^H
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WH
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WH
+WAVAWH
+A_A^_H
+t$ WATAVH
+A^A\_
+WATAVH
+A^A\_
+t$ WH
+t$ WATAVH
+A^A\_
+t$ UWATAVAWH
+A_A^A\_]
+t$ WATAVH
+A^A\_
+t$ WH
+t$ WATAVH
+A^A\_
+t$ WATAVH
+A^A\_
+t$ WH
+WAVAWH
+A_A^_H
+WAVAWH
+A_A^_H
+t$ WATAVH
+A^A\_
+t$ UWATAVAWH
+A_A^A\_]
+t$ WATAVH
+A^A\_
+t$ WH
+t$ WATAVH
+A^A\_
+t$ WH
+|$ ATAVAWH
+A_A^A\
+CT$@L
+t$ WATAVH
+A^A\_
+t$ WH
+@USVWATAUAVAWH
+D$TfA
+D9z t
+A_A^A]A\_^[]
+UVWAVAWH
+A_A^_^]
+VWATAVAWH
+0A_A^A\_^
+WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+T$@H+
+`A_A^A]A\_^]
+t$ WH
+@SUVWH
+L$HH3
+X_^][
+@SVWH
+L$8H3
+@SVWH
+uF;Z |A
+;z$r:I;
+ _^[H
+H;\$8u
+L$HH3
+H9X s
+u6H;Z r0H;
+A;R$rGM;
+VWAVH
+pA^_^
+SVWATAUAVAWH
+T$XE3
+t$(H;
+D9`$r
+A_A^A]A\_^[
+VWAVH
+T$hE3
+H9x s
+SVWATAUAVAWH
+l$ E3
+D$@D9@ |
+D9H$r
+D;A |
+vb'vb'v
+A_A^A]A\_^[
+t$ UWAVH
+T$hE3
+CT$(H
+@SVWATAUAVAWH
+D$@E3
+D$@H9x s
+vb'vb'v
+A_A^A]A\_^[
+CT$(H
+VWAVH
+H;H s
+L$ H3
+0A^_^
+VWAVH
+A9@$r
+A;I |
+L$ H3
+0A^_^
+t$ WH
+@SVWH
+VWATAVAWH
+@A_A^A\_^
+D$ E3
+T$`D8@
+D$ 9P s
+;Q stH
+)D$PL
+L$(H3
+un;Y riH
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+l$ VAVAWH
+|$XI;
+L$ H3
+0A_A^^
+?H+)H
+l$ VWATAVAWH
+A_A^A\_^
+@SUATAVAWH
+l$ I;
+0A_A^A\][
+@SUVH
+@SUVH
+l$ VWAVH
+yxxxxxxxH
+L$@H3
+yxxxxxxxH
+t$8H+
+UUUUUUU
+@UWAVH
+0A^_]
+t$ WH
+@SVWH
+VWATAVAWH
+@A_A^A\_^
+VWATAVAWH
+@A_A^A\_^
+L$xH3
+t$ WH
+t$ WH
+VWATAVAWH
+A_A^A\_^
+t$ WH
+t$ WH
+t$ UWAVH
+t$ UWATAVAWH
+A_A^A\_]
+|$ E3
+t$ WH
+T$ E3
+\$ E3
+t$ UWATAVAWH
+A_A^A\_]
+t$ WAVAWH
+D$mL;
+D$mM+
+D$HI+
+C\$0H
+L$pH3
+A_A^_
+t$ UWATAVAWH
+A_A^A\_]
+t$ WAVAWH
+D$mL;
+D$mM+
+D$HI+
+C\$0H
+L$pH3
+A_A^_
+t$ WH
+T$ E3
+t$ E3
+t$ UWATAVAWH
+A_A^A\_]
+t$ UWATAVAWH
+A_A^A\_]
+)D$pL
+t$ WH
+C$9D$$
+8C tG
+L$@H3
+UWAVH
+C8H9E
+t$ WH
+D$ D9@ }
+)D$PH
+t$ WH
+D$ D9@
+fffffff
+)D$PH
+@SVWH
+@SVWH
+t$ UWAVH
+t$ UWAVH
+t$ UWAVH
+t$ UWAVH
+t$ UWAVH
+T$8H+
+t$ UWAVH
+T$8H+
+|$ UH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+|$ UH
+t$ UWAVH
+VWAVH
+UWATAVAWH
+A_A^A\_]
+s WAVAWH
+A_A^_
+UWATAVAWH
+A_A^A\_]
+s WAVAWH
+A_A^_
+UWATAVAWH
+A_A^A\_]
+{ AVH
+UWATAVAWH
+A_A^A\_]
+VWAVH
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+VWAVH
+UWATAVAWH
+A_A^A\_]
+UVWAVAWH
+T$xH+
+A_A^_^]
+t$ WH
+\$ UVWH
+uF;Z rA
+D$ 9X s
+;Y svH
+)D$`L
+L$0H3
+t$ UWATAVAWH
+T$xE3
+A_A^A\_]
+L$8H3
+L$(H+L$ H
+gfffffffH
+L$8H3
+UVWAVAWH
+T$pH+
+A_A^_^]
+|$ UAVAWH
+T$@H+
+A_A^]
+|$ UAVAWH
+T$@H+
+A_A^]
+UVWAVAWH
+T$xH+
+A_A^_^]
+t$ UWAVH
+(D$ H
+)D$ f
+)D$ H
+L$HH3
+@SVWH
+/L$(v
+t$ UWAVH
+VWAVH
+L$ H3
+0A^_^
+gfffffffH+
+WATAUAVAWH
+A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+L$(H3
+t$ WH
+|$ AVH
+t$ UWAVH
+T$8H+
+t$ UWAVH
+T$8H+
+t$ UWAVH
+T$8H+
+t$ UWAVH
+t$ UWAVH
+t$ UWAVH
+t$ UWAVH
+t$ UWAVH
+|$ UAVAWH
+T$8H+
+A_A^]
+|$ UH
+t$ UWAVH
+t$ UWAVH
+t$ UWAVH
+T$8H+
+|$ UH
+UhH;Upt
+H;Upt
+H;Upt
+H;Upt
+H;Upt
+H;Upt
+H;Upt
+H;Upt
+H;Upt
+@SVWATH
+|$ E3
+(A\_^[
+L$pH3
+UhH;Upt
+|$ UH
+UhH;Upt
+H;Upt
+{ AVH
+VWAVH
+ A^_^
+t$ WH
+L$0H3
+D;H s
+VWAVH
+PA^_^
+@SVWATAUAVAWH
+A_A^A]A\_^[
+t$ UWAVH
+D80t0
+CT$hL
+CT$HL
+CT$(H
+t$ WH
+t$ WH
+t$ WH
+|$ AWH
+UVWATAUAVAWH
+D8(t0
+CT$xL
+C\$8H
+CT$XL
+L;E L
+BE L+
+A_A^A]A\_^]
+T$(E3
+D9H s
+t$ UWATAVAWH
+A_A^A\_]
+t$ UWATAVAWH
+A_A^A\_]
+t$ UWATAVAWH
+A_A^A\_]
+UVWATAUAVAWH
+A_A^A]A\_^]
+t$ WH
+D$ D9@ s
+)D$PH
+VWAVH
+ A^_^
+ A^_^
+yxxxxxxxH+
+\$ WH
+|$ UH
+VWAVH
+@A^_^
+UWAVH
+\$ UVWAVAWH
+D$0E3
+UUUUUUU
+L$0H3
+@A_A^_^]
+UVWATAUAVAWH
+mgfff
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+@A_A^A]A\_
+l$ VH
+tAH9S
+UVWATAUAVAWH
+@A_A^A]A\_^]
+@VWAVAWH
+xA_A^_^
+d$`I+
+xA_A^_^
+@SUVAWH
+L$0H;
+L$8H3
+XA_^][
+t$ WH
+t$ WH
+t$ WH
+t$ UWAVH
+@89t 
+|$ UAVAWH
+gfffffffH
+A_A^]
+gfffffffH
+@SVATAUH
+gfffffffH
+t$(I;
+gfffffffH
+gfffffff
+8A]A\^[
+@SUVWATAVAWH
+gffffffff
+L$0D;
+L$XL;
+gfffffffI
+L$pH3
+A_A^A\_^][
+@SVWAVH
+gfffffffH
+r'w.L;
+r'w2H
+(A^_^[
+\$ VWI
+gfffffffI
+UVWAVAWH
+A_A^_^]
+T$@H+
+T$@H+
+T$@H+
+UVWAVAWH
+A_A^_^]
+t$ UWATAVAWH
+A_A^A\_]
+@SUVH
+l$ VWAVH
+L$@H3
+D$0E3
+D$ I;
+T$@H+
+L$HH3
+fA99}
+l$ VWAVH
+@A^_^
+@UAVAWH
+A_A^]
+|$ AVH
+VWAVH
+@A^_^
+SVWAVH
+8A^_^[
+WAVAWH
+\$8H;
+A_A^_
+x AVH
+@SVWH
+ntelA
+GenuD
+\$ UH
+M H1E
+ H3E H3E
+D8L$0uP
+|$(A^
+UAVAWH
+A_A^]
+HcE_L
+HcEgH
+H;XXs
+H;xXu5
+t7HcP
+t$ WH
+ v.H+
+ffffff
+AUAVAWH
+u4I9}(
+;I9}(tiH
+0A_A^A]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+@USVWATAUAVAWH
+K0HcQ
+D$pHc
+d$dD;d$lta
+L$h;M
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+L$`;M
+A_A^A]A\_^[]
+x AVH
+x AVH
+WAVAWH
+9p@u+
+9t$Pu
+C0HcH
+A_A^_
+tEHcR
+SVWATAUAWH
+A_A]A\_^[
+< u\A
+B(I9A(u
+SVWATAUAVAWH
+t@HcS
+t$8L;
+L;t$X
+(D$0f
+A_A^A]A\_^[
+t$ WATAUAVAWH
+E0Lc`
+E0HcH
+ A_A^A]A\_
+9)~P3
+UVWATAUAVAWH
+99~CE
+ A_A^A]A\_^]
+x AVH
+VWATAUAVAWL
+|$XHcU
+D$8HcJ
+H;D$Pu
+l$HA_A^A]A\_^
+x AVHcA
+|$(A^
+SUVWATAUAVAWL
+t$pE3
+H;D$`
+H9D$PuCH
+A_A^A]A\_^][
+WATAUAVAWH
+A_A^A]A\_
+L9AHA
+L9AHA
+L9AHA
+L9AHA
+SUVWH
+(_^][
+SUVWH
+(_^][
+SUVWAVH
+ A^_^][
+SUVWH
+8_^][
+SUVWH
+8_^][
+SUVWH
+8_^][
+SUVWH
+8_^][
+SUVWH
+8_^][
+SUVWH
+8_^][
+SUVWH
+(_^][
+bad allocation
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+cross device link
+destination address required
+device or resource busy
+directory not empty
+executable format error
+file exists
+file too large
+filename too long
+function not supported
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+interrupted
+invalid argument
+invalid seek
+io error
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no lock available
+no message available
+no message
+no protocol option
+no space on device
+no stream resources
+no such device or address
+no such device
+no such file or directory
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not enough memory
+not supported
+operation canceled
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+permission denied
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+resource unavailable try again
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many files open
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+unknown error
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefghijklmnopqrstuvwxyz
+bad exception
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__swift_1
+__swift_2
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`RTTI
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+operator co_await
+operator<=>
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+`anonymous namespace'
+Unknown exception
+bad array new length
+string too long
+TPWR (default scope)
+CPU (default scope)
+Could not find any entries for participant index: 
+There is no table data to process.
+Revision Field is Missing. (PSHA)
+Expected binary data size mismatch. (PSHA)
+vector too long
+psha_entry
+participant_scope
+participant_index
+domain
+domain_index
+default_bias
+/features
+/shared
+/tables
+/export
+/aupp_controls
+/nopersist
+/participants
+/workload_hints/
+/do_not_rebalance_unused_pid_budget/
+/pl1_time_window/
+/proc_ps_pl1_time_window/
+/gfx_ps_pl1_time_window/
+/powershare_params_logging/
+/tpg_lower_gfx_util_threshold/
+/tpg_ewma_gfx_util_threshold/
+/tpg_slowpoll_period/
+/tpg_default_poll_period/
+/tpg_util_ewma_alpha/
+/above_2c_time_constraint_stepsize
+/vs2/
+/psvt/
+/_art/
+/_trt/
+/pida/
+/psha/
+/acpr/
+/psh2/
+/itmt/
+/itmt3/
+/epot/
+/ewpt/
+/tpga/
+/opbt/
+/hwpf
+/pl2_pl4_sharing
+/psh2_gfx_perf_hint_disabled
+/epo_customization_disabled
+/psh2_closed_loop_enabled
+/psh2_gpu_pl_threshold_ratio
+/extended_workload_prediction
+/survivability
+/opp_boost_dc_support
+/current_ddr_frequency_feature_state
+/ewpt
+/vs2_participants_created
+No participant found with Multifunction/DgfxCore domain type
+PowerShareCalculator::calculatePowerShareUtilizationAndEnergy
+C:\jenkins\workspace\dptf\Src\DPTF\Sources\Policies\PowerSharePolicy\PowerShareCalculator.cpp
+Failed to get Processor Utilization
+Failed to get Processor Power
+PowerShareCalculator::calculateProcessorUtilizationAndEnergy
+Failed to get Graphics Utilization
+Failed to get Graphics Power
+PowerShareCalculator::calculateGraphicsUtilizationAndEnergy
+Previous Processor Energy Counter > Current Processor Energy Counter
+PowerShareCalculator::calculateProcessorPower
+Current Processor Power Calculation Start Time = 
+Previous Processor Power Calculation Start Time = 
+PowerShareCalculator::calculateProcessorPowerCalculationTimeDelta
+Previous Graphics Energy Counter > Current Graphics Energy Counter
+PowerShareCalculator::calculateGraphicsPower
+Current Graphics Power Calculation Start Time = 
+Previous Graphics Power Calculation Start Time = 
+PowerShareCalculator::calculateGraphicsPowerCalculationTimeDelta
+Invalid Counter Width
+PowerShareCalculator::calculateEnergyDelta
+Failed to update CPU and Graphics TDP Budget since we failed to read either graphics utilization or power
+PowerShareCalculator::calculatePowerBudget
+Not programming processor temperature threshold since Current Processor Temperature > Current Processor Temperature Threshold
+Failed to program CPU Temperature Threshold
+Set Energy Threshold Flag = 
+Set Energy Threshold = 
+Current Graphics Energy Threshold = 
+Current Graphics Energy = 
+Failed to program Graphics Energy Threshold
+Set Temperature Threshold Flag = 
+PowerShareCalculator::programPowerShareParticipantThresholds
+power_share_participant_status
+participantStatus
+CPU Utilization
+value
+Graphics Utilization
+CPU Energy
+Graphics Energy
+CPU Power Calculation Time Delta
+CPU Power
+Graphics Power Calculation Time Delta
+Graphics Power
+Total MCP Power
+PID Budget
+Available TDP headroom
+Effective CPU Bias
+Effective Graphics Bias
+CPU TDP Budget
+Graphics TDP Budget
+Graphics Instantaneous Power
+EWMA PID Budget Slope
+EWMA Processor Utilization
+EWMA Graphics Utilization
+EWMA Power
+Callback Time Delta
+Power Share Is Active (MCP,CPU and Discrete Graphics are active)
+invalid string position
+map/set too long
+Power Share Policy
+Do Not Rebalance Unused Pid Budget config value not set
+PowerSharePolicy::onCreate
+C:\jenkins\workspace\dptf\Src\DPTF\Sources\Policies\PowerSharePolicy\PowerSharePolicy.cpp
+format_id=
+power_share_policy_status
+Power Share Policy Diagnostics Not Yet Implemented
+Disabled Temperature Threshold Interrupt, Set Temperature Threshold Flag = 
+PowerSharePolicy::checkAndDisableTemperatureThresholdCrossedInterrupt
+Disabled Energy Threshold Interrupt, Set Energy Threshold Flag = 
+Failed to disable Energy Threshold Interrupt
+PowerSharePolicy::checkAndDisableEnergyThresholdCrossedInterrupt
+Failed to set PID Target as PL1 Power Limit for CPU
+PowerSharePolicy::rebalancePower
+PowerSharePolicy::getActivityStatusParticipantTemperatures
+Programmed Temperature and Energy Threshold, Set Temperature Threshold Flag = 
+PowerSharePolicy::evaluateSlowPollConditionAndTakeRequiredAction
+PSHA Table is the same, no action required.
+PowerSharePolicy::reloadPshaTable
+Domain Temperature Threshold Crossed, Set Temperature Threshold Flag = 
+PowerSharePolicy::hasProcessorTemperatureCrossedThreshold
+Failed to get MCP Pl1 Min and Max
+PowerSharePolicy::getMcpPl1MinAndMax
+Failed to get Processor Pl1 Min and Max
+PowerSharePolicy::getProcessorPl1MinAndMax
+Failed to get Graphics Pl1 Min and Max
+PowerSharePolicy::getGraphicsPl1MinAndMax
+PowerSharePolicy::setEntirePowerToProcessor
+Failed to set CPU TDP Budget
+Failed to set Graphics TDP Budget
+PowerSharePolicy::setIndividualPowerBudgets
+Set Pl1 Time Window to: 
+Failed to set Pl1 Time Window
+PowerSharePolicy::setPowerLimitTimeWindow
+Failed to set Pid Target as Processor Power Limit
+Failed to set Max Power Limit as Processor Power Limit
+PowerSharePolicy::setProcessorPowerLimit
+Power Share Participant Status: 
+PowerSharePolicy::logPowerSharePolicyData
+power_share_variables
+variable
+PID Target
+Alpha
+Fast Polling Interval
+ msec
+Slow Polling Interval
+Graphics Energy Threshold
+Processor Temperature Threshold
+Graphics Utilization Threshold
+Processor Utilization Threshold
+Weighted SlowPoll Averaging Constant
+SlowPoll Power Threshold
+The feature is not implemented.
+iostream stream error
+iostream
+ios_base::badbit set
+ios_base::failbit set
+ios_base::eofbit set
+Requested byte number from DPTF Buffer is outside of the valid range.
+invalid vector subscript
+bad cast
+bad locale name
+false
+Percentage is not valid.
+Buffer given to Percentage class has invalid length.
+ out of valid range.
+Power value 
+Power is invalid.
+Buffer given to Power class has invalid length.
+TimeSpan is not valid.
+Temperature is not valid.
+Buffer given to Temperature class has invalid length.
+Size of read requested from buffer stream is too large.
+Processor
+Graphics
+Memory
+Temperature
+Chipset
+Ethernet
+Wireless
+Storage
+MultiFunction
+Display
+Charger
+Battery
+Audio
+Other
+Power
+Thermistor
+Infrared
+Virtual
+Ambient
+M2Cnv
+SocCnv
+IVCam
+DgfxCore
+DgfxMem
+DgfxMcp
+Cam2D
+WwanAnalog
+WwanDigital
+WwanRfim
+IdgfxCore
+Idgfx2
+Nvdgx
+DomainType::Type is invalid.
+Received unknown esif_domain_type.
+Message
+9.0.11701.44281
+May 23 2024
+23:27:44
+Unknown
+No power control capabilities for 
+Power control dynamic capabilities is not valid.
+domain_properties
+index
+enabled
+description
+bus_type
+participant_properties
+acpi_scope
+acpi_device
+<!-- 
+&amp;
+&apos;
+&quot;
+: Policy enable event received.
+C:\jenkins\workspace\dptf\Src\DPTF\Sources\Policies\PolicyLib\PolicyBase.cpp
+PolicyBase::enable
+PolicyBase::disable
+: Policy disable event received.
+PolicyBase::bindParticipant
+: Binding participant. ParticipantIndex = 
+PolicyBase::unbindParticipant
+: Unbinding participant. ParticipantIndex = 
+: Binding domain for participant. ParticipantIndex = 
+. DomainIndex=
+. DomainIndex =
+PolicyBase::bindDomain
+PolicyBase::unbindDomain
+: Unbinding domain for participant. ParticipantIndex = 
+PolicyBase::domainTemperatureThresholdCrossed
+: Temperature threshold crossed for participant. ParticipantIndex = 
+PolicyBase::domainPowerControlCapabilityChanged
+: Power Control Capabilities Changed for participant. ParticipantIndex = 
+PolicyBase::domainPerformanceControlCapabilityChanged
+: Performance Control Capabilities Changed for participant. ParticipantIndex = 
+PolicyBase::domainPerformanceControlsChanged
+: Performance control set changed for participant. ParticipantIndex = 
+PolicyBase::domainCoreControlCapabilityChanged
+: Core control capabilities changed for participant. ParticipantIndex = 
+PolicyBase::domainPriorityChanged
+: Domain priority changed for participant. ParticipantIndex = 
+PolicyBase::domainDisplayControlCapabilityChanged
+: Display control capabilities changed for participant. ParticipantIndex = 
+PolicyBase::domainDisplayStatusChanged
+: Display status changed for participant. ParticipantIndex = 
+: Radio Connection Status Changed to 
+. ParticipantIndex = 
+: RF Profile Changed for participant. ParticipantIndex = 
+PolicyBase::domainRadioConnectionStatusChanged
+: Specific info changed for participant. ParticipantIndex = 
+PolicyBase::domainRfProfileChanged
+: VSCT changed for participant. ParticipantIndex = 
+PolicyBase::participantSpecificInfoChanged
+: VSPT changed for participant. ParticipantIndex = 
+PolicyBase::domainVirtualSensorCalibrationTableChanged
+: Virtual Sensor recalculation requested for participant. ParticipantIndex = 
+PolicyBase::domainVirtualSensorPollingTableChanged
+: Battery status changed for participant. ParticipantIndex = 
+PolicyBase::domainVirtualSensorRecalcChanged
+: Battery information changed for participant. ParticipantIndex = 
+PolicyBase::domainBatteryStatusChanged
+: Battery high frequency impedance changed for participant. ParticipantIndex = 
+PolicyBase::domainBatteryInformationChanged
+: Battery no-load voltage changed for participant. ParticipantIndex = 
+PolicyBase::domainBatteryHighFrequencyImpedanceChanged
+: Max battery peak current changed for participant. ParticipantIndex = 
+PolicyBase::domainBatteryNoLoadVoltageChanged
+: Platform power source (PSRC) changed.
+PolicyBase::domainMaxBatteryPeakCurrentChanged
+: Adapter power rating (ARTG) changed.
+PolicyBase::domainPlatformPowerSourceChanged
+: Charger type (CTYP) changed.
+PolicyBase::domainAdapterPowerRatingChanged
+: Rest of Platform Power (PROP) changed.
+PolicyBase::domainChargerTypeChanged
+: Battery Max Peak Power (PMAX) changed.
+PolicyBase::domainPlatformRestOfPowerChanged
+: Battery Sustained Peak Power (PBSS) changed.
+PolicyBase::domainMaxBatteryPowerChanged
+: AC Nominal Voltage (AVOL) changed.
+PolicyBase::domainPlatformBatterySteadyStateChanged
+: AC Operational Current (ACUR) changed.
+PolicyBase::domainACNominalVoltageChanged
+: AC 1ms Percentage Overload (AP01) changed.
+PolicyBase::domainACOperationalCurrentChanged
+: AC 2ms Percentage Overload (AP02) changed.
+PolicyBase::domainAC1msPercentageOverloadChanged
+: AC 10ms Percentage Overload (AP10) changed.
+PolicyBase::domainAC2msPercentageOverloadChanged
+: Energy threshold crossed for participant. ParticipantIndex = 
+PolicyBase::domainAC10msPercentageOverloadChanged
+: Fan Capabilities changed for participant. ParticipantIndex = 
+PolicyBase::domainEnergyThresholdCrossed
+ and DomainIndex = 
+PolicyBase::domainFanCapabilityChanged
+PolicyBase::domainSocWorkloadClassificationChanged
+: Workload Classification changed for ParticipantIndex = 
+PolicyBase::domainSocPowerFloorChanged
+: SoC Power Floor State changed to 
+PolicyBase::domainEppSensitivityHintChanged
+: EPP Sensitivity Hint changed for ParticipantIndex = 
+PolicyBase::domainExtendedWorkloadPredictionV2Changed
+: Extended Workload Prediction (Version 2) changed for ParticipantIndex = 
+PolicyBase::domainExtendedWorkloadPredictionV3Changed
+: Extended Workload Prediction (Version 3) changed for ParticipantIndex = 
+PolicyBase::domainFanOperatingModeChanged
+: Fan operating mode changed to 
+PolicyBase::domainPcieThrottleRequested
+: PCIe Throttle Requested 
+PolicyBase::activeRelationshipTableChanged
+: Active Relationship Table changed.
+PolicyBase::thermalRelationshipTableChanged
+: Thermal Relationship Table changed
+PolicyBase::adaptivePerformanceConditionsTableChanged
+: Adaptive Performance Conditions Table changed.
+PolicyBase::ddrfTableChanged
+: DDRF Table changed.
+PolicyBase::rfimTableChanged
+: RFIM Table changed.
+PolicyBase::tpgaTableChanged
+: TPGA Table changed.
+PolicyBase::opbtTableChanged
+: OPBT Table changed.
+PolicyBase::adaptivePerformanceActionsTableChanged
+: Adaptive Performance Actions Table changed.
+PolicyBase::intelligentThermalManagementTableChanged
+: Intelligent Thermal Management Table changed.
+PolicyBase::intelligentThermalManagementTable3Changed
+: Intelligent Thermal Management Table 3 changed.
+PolicyBase::energyPerformanceOptimizerTableChanged
+: Energy Performance Optimizer Table changed.
+PolicyBase::pidAlgorithmTableChanged
+: PID Algorithm Table changed.
+PolicyBase::activeControlPointRelationshipTableChanged
+: Active Control Point Relationship Table changed.
+PolicyBase::powerShareAlgorithmTableChanged
+: Power Share Algorithm Table changed.
+PolicyBase::workloadHintConfigurationChanged
+: Workload Hint Configuration changed.
+PolicyBase::powerShareAlgorithmTable2Changed
+: Power Share Algorithm Table 2 changed.
+PolicyBase::igccBroadcastReceived
+: Policy IGCC Broadcast event received.
+PolicyBase::iaoBroadcastReceived
+: Policy IAO Broadcast event received.
+PolicyBase::environmentProfileChanged
+: Policy Environment Profile Changed event received.
+PolicyBase::connectedStandbyEntry
+: Connected standby entry event received.
+PolicyBase::connectedStandbyExit
+: Connected standby exit event received.
+PolicyBase::lowPowerModeEntry
+: Low Power Mode Entry.
+PolicyBase::lowPowerModeExit
+: Low Power Mode Exit.
+PolicyBase::suspend
+: Policy suspend event received.
+PolicyBase::resume
+: Policy resume event received.
+PolicyBase::foregroundApplicationChanged
+: Foreground application changed to 
+PolicyBase::policyInitiatedCallback
+: Policy Initiated Callback.
+PolicyBase::extendedWorkloadPredictionV2EventRegistrationChanged
+: Extended Workload Prediction (Version 2) Event Registration Changed.
+PolicyBase::extendedWorkloadPredictionV3EventRegistrationChanged
+: Extended Workload Prediction (Version 3) Event Registration Changed.
+PolicyBase::operatingSystemPowerSourceChanged
+: OS Power Source changed to 
+: Process loaded 
+ with ID: 
+: Process unloaded with ID: 
+PolicyBase::processLoaded
+: OS Lid state changed to 
+PolicyBase::processUnLoaded
+: OS battery percentage changed to 
+PolicyBase::operatingSystemLidStateChanged
+: OS Power Scheme Personality changed to 
+PolicyBase::operatingSystemBatteryPercentageChanged
+: OS Platform Type changed to 
+PolicyBase::operatingSystemPowerSchemePersonalityChanged
+: OS Dock Mode changed to 
+PolicyBase::operatingSystemPlatformTypeChanged
+: OS Emergency Call Mode State changed to 
+PolicyBase::operatingSystemDockModeChanged
+ changed to 
+PolicyBase::operatingSystemEmergencyCallModeStateChanged
+PolicyBase::operatingSystemMobileNotification
+: OS Mobile Notification for 
+PolicyBase::operatingSystemMixedRealityModeChanged
+: OS Mixed Reality mode changed to 
+PolicyBase::operatingSystemUserPresenceChanged
+: OS User Presence changed to 
+PolicyBase::operatingSystemSessionStateChanged
+: OS Session State changed to 
+PolicyBase::operatingSystemScreenStateChanged
+: OS Screen State changed to 
+PolicyBase::operatingSystemBatteryCountChanged
+: OS battery count changed to 
+PolicyBase::operatingSystemPowerSliderChanged
+: OS power slider changed to 
+PolicyBase::systemModeChanged
+: System Mode changed to 
+PolicyBase::coolingModePolicyChanged
+: Cooling mode changed to 
+PolicyBase::passiveTableChanged
+: Passive Table changed.
+PolicyBase::sensorOrientationChanged
+: Sensor orientation changed to 
+PolicyBase::sensorSpatialOrientationChanged
+: Sensor spatial orientation changed to 
+PolicyBase::sensorMotionChanged
+: Sensor motion state changed to 
+PolicyBase::oemVariablesChanged
+: OEM variable(s) changed.
+PolicyBase::swOemVariablesChanged
+: SW OEM variable(s) changed.
+PolicyBase::powerBossConditionsTableChanged
+: Power Boss Conditions Table changed.
+PolicyBase::powerBossActionsTableChanged
+: Power Boss Actions Table changed.
+PolicyBase::powerBossMathTableChanged
+: Power Boss Math Table changed.
+PolicyBase::voltageThresholdMathTableChanged
+: Voltage Threshold Math Table changed.
+PolicyBase::emergencyCallModeTableChanged
+: Emergency Call Mode Table changed.
+PolicyBase::powerLimitChanged
+: Power Limit Changed.
+PolicyBase::powerLimitTimeWindowChanged
+: Power Limit Time Window Changed.
+PolicyBase::performanceCapabilitiesChanged
+: Performance Capabilities Changed.
+PolicyBase::platformUserPresenceChanged
+: Platform User Presence changed to 
+PolicyBase::externalMonitorStateChanged
+: External Monitor State changed to 
+PolicyBase::userInteractionChanged
+: User Interaction changed to 
+PolicyBase::foregroundRatioChanged
+: Foreground ratio changed to 
+PolicyBase::collaborationModeChanged
+: Collaboration Mode state changed to 
+: TPG Power State changed to [
+: TPG TPP Limit changed for power source: [
+PolicyBase::thirdPartyGraphicsPowerStateChanged
+: System Configuration Feature Table Changed
+PolicyBase::thirdPartyGraphicsTPPLimitChanged
+: System In Bag changed to 
+PolicyBase::systemConfigurationFeatureTableChanged
+PolicyBase::systemInBagChanged
+PolicyBase::thirdPartyGraphicsReservedTgpChanged
+: Third Party Graphics Reserved TGP Changed to: 
+PolicyBase::thirdPartyGraphicsOppBoostModeChanged
+: Third Party Graphics Opportunistic Boost Mode changed to: 
+PolicyBase::scenarioModeChanged
+: Scenario Mode changed to 
+PolicyBase::dttGamingModeChanged
+: DTT Gaming Mode changed to 
+PolicyBase::applicationOptimizationChanged
+: Application Optimization request with active status changed to 
+PolicyBase::extendedWorkloadPredictionTableChanged
+: Extended Workload Prediction Table Changed
+PolicyBase::sensorThermalControlTableChanged
+: Sensor Thermal Control Table Changed
+PolicyBase::temperatureChangeRateStateChanged
+: Temperature Change Rate State Changed to
+PolicyBase::ipAlignmentStateChanged
+: IP Alignment state changed to 
+PolicyBase::lastHidSourceLocationChanged
+: Last HID Source Location changed to 
+The policy has been disabled.
+Policy Services does not have an implementation 
+  for platformConfigurationData interface.
+: Failed to set _OSC.
+: Failed to set _OSC: 
+trip_point_statistics
+PolicyBase::sendOscRequest
+PolicyBase::operatingSystemGameModeChanged
+: OS game mode changed to 
+participant_callback
+policy_callback_scheduler
+time_until_expires
+participant_role
+timer_status
+current_polling_period
+ with event code = 
+ ParticipantIndex = 
+Scheduled a callback in 
+ ms for participant 
+C:\jenkins\workspace\dptf\Src\DPTF\Sources\Policies\PolicyLib\PolicyCallbackScheduler.cpp
+PolicyCallbackScheduler::scheduleCallback
+PolicyCallbackScheduler::scheduleTimerCallback
+ ms with event code = 
+The participant at the given index is not valid: 
+ not found.
+Domain 
+invalid map<K, T> key
+Cached value is not valid.
+Failed to get PL1 time window for participant 
+Cannot perform power status action because power status in not supported on the domain.
+PowerControlFacade::setPowerLimitPL1
+Failed to set PL1 time window without updating enabled for participant 
+Failed to get PL1 for participant 
+C:\jenkins\workspace\dptf\Src\DPTF\Sources\Policies\PolicyLib\PowerControlFacade.cpp
+PowerControlFacade::setPowerLimitTimeWindowPL1
+Failed to set PL1 without updating enabled for participant 
+Cannot perform power control action because power controls 
+ are not supported on the domain.
+Cannot perform BiasControl action because the domain does not support the control.
+Domain does not support Soc workload classification(Extended Workload Prediction Version 2) interface.
+Domain does not support Soc workload classification interface.
+Domain does not support Soc workload classification(Extended Workload Prediction Version 3) interface.
+Cannot perform EnergyControl action because the domain does not support the control.
+Invalid
+Domain does not support the display control interface.
+Failed to get PMAX for participant 
+C:\jenkins\workspace\dptf\Src\DPTF\Sources\Policies\PolicyLib\BatteryStatusFacade.cpp
+BatteryStatusFacade::getMaxBatteryPower
+Failed to get battery status for participant 
+No support for battery status interface
+Failed to get battery information for participant 
+BatteryStatusFacade::getBatteryStatus
+Failed to get CTYP for participant 
+BatteryStatusFacade::getBatteryInformation
+Failed to get PBSS for participant 
+BatteryStatusFacade::getChargerType
+Failed to get RBHF for participant 
+BatteryStatusFacade::getPlatformBatterySteadyState
+Failed to get VBNL for participant 
+BatteryStatusFacade::getBatteryHighFrequencyImpedance
+Failed to get CMPP for participant 
+BatteryStatusFacade::getBatteryNoLoadVoltage
+Failed to get battery percentage for participant 
+BatteryStatusFacade::getBatteryMaxPeakCurrent
+BatteryStatusFacade::getBatteryPercentage
+active_cooling_control
+speed
+Domain does not support the active control fan interface.
+fine_grain
+Domain does not support the active cooling control interface.
+Domain does not support the active control interface.
+Adjusting performance limit to maximum allowed.
+Adjusting performance limit to minimum allowed.
+Domain does not support the performance control interface.
+Performance control initialization started.
+C:\jenkins\workspace\dptf\Src\DPTF\Sources\Policies\PolicyLib\PerformanceControlFacade.cpp
+Performance control initialization finished.
+PerformanceControlFacade::initializeControlsIfNeeded
+Adjusting active core limit to minimum allowed.
+Core control initialization finished.
+Core control initialization started.
+Domain does not support the core control interface.
+CoreControlFacade::initializeControlsIfNeeded
+C:\jenkins\workspace\dptf\Src\DPTF\Sources\Policies\PolicyLib\CoreControlFacade.cpp
+Cannot perform processor control action because processor controls are not supported by the domain.
+Domain does not support the temperature threshold interface.
+Domain does not support the temperature interface.
+Target
+Source
+Timer
+<?xml version="1.0" encoding="ISO-8859-1"?>
+C:\jenkins\workspace\dptf\Src\DPTF\Sources\Policies\PolicyLib\CriticalTripPointsCachedProperty.cpp
+No valid Warm, Hot and Critical trip points.
+CriticalTripPointsCachedProperty::supportsProperty
+Setting thresholds to 
+ParticipantProxy::setTemperatureThresholds
+ for participant 
+Set Device Temperature Indication failed with error "
+C:\jenkins\workspace\dptf\Src\DPTF\Sources\Policies\PolicyLib\ParticipantProxy.cpp
+Failed to get temperature thresholds for participant 
+Temperature threshold crossed for participant with temperature 
+ParticipantProxy::setThresholdCrossed
+Set Device Temperature Indication failed.
+ParticipantProxy::notifyPlatformOfDeviceTemperature
+temperature
+Error
+The domain at the given index is not valid: 
+participant
+supports_trip_points
+time_since_last_trip
+participant_trip_point_statistics
+participant_name
+temperature_of_last_trip
+Domain does not support the power control interface.
+Domain does not support the power status interface.
+Specific info key 
+ not present.
+specific_info
+Platform
+BusType::Type is invalid.
+Sysfs
+Conjure
+Power Control Type is invalid.
+Closed
+OsLidState::Type is invalid
+Balanced
+Best Power Efficiency
+Battery Saver
+OsPowerSlider::Type is invalid
+Best Performance
+UserInteraction::Type is invalid
+Interactive
+Not Interactive
+Engaged
+Disengaged
+Not Present
+SensorUserPresence::Type is invalid
+Face Engaged
+DTT Gaming Mode type is unknown
+EnduranceGaming
+MaxPerformance
+ActionRequestShutdown
+ServiceState
+AirplaneMode
+EmergencyCallMode
+ScreenState
+ConnectivityState
+Default
+Maintenance
+Quiet
+Performance
+OsPowerSource::Type is invalid
+Short Term DC
+Unlock
+CPU Boost
+GPU Boost
+Upright
+Flat Down
+Flat Up
+SensorSpatialOrientation::Type is invalid
+Upright Inverted
+OverThreshold
+UnderThreshold
+In Bag
+SystemInBag::Type is unknown
+Not In Bag
+OsPlatformType::Type is invalid
+Tablet
+Clamshell
+Radio Not Connected
+RadioConnectionStatus::Type is invalid.
+Radio Connected
+OnOffToggle::Type is invalid
+OsPowerSchemePersonality::Type is invalid
+PowerSaver
+HighPerformance
+SystemMode::Type is unknown
+Portrait
+Landscape
+SensorOrientation::Type is invalid
+Indeterminate
+Portrait Inverted
+Landscape Inverted
+Inactive
+NotPresent
+Present
+OsUserPresence::Type is invalid
+Undocked
+Docked
+OsDockMode::Type is invalid
+Collaboration
+Gaming
+OverClock
+Scenario Mode Type is unknown
+Active
+CoolingMode::Type is invalid
+Passive
+Buffer given to ChargerType class has invalid length.
+Expected binary data size mismatch. (FCDC)
+minFanSpeed percentage is not valid
+maxFanSpeed percentage is not valid
+minFanSpeed > maxFanSpeed
+Received empty buffer.
+Cannot get smallest non zero fan speed.  Active control set is empty.
+Received empty FPS buffer.
+Expected binary data size mismatch. (FPS)
+Received empty FIF buffer.
+Expected binary data size mismatch. (FIF)
+Received empty FST buffer.
+Expected binary data size mismatch. (FST)
+hysteresis
+Buffer given to Temperature Thresholds class has invalid length.
+temperature_thresholds
+Temperature Threshold
+control_name
+Buffer given to Temperature Status class has invalid length.
+ does not exist.
+Domain properties for domain index of 
+critical
+passive
+ParticipantSpecificInfoKey::Type is invalid
+Data is not of UInt32 length.
+Data is not of Bool length.
+?ffffff
+Access violation - no RTTI data!
+Bad dynamic_cast!
+C:\jenkins\workspace\dptf\Src\DPTF\Windows\Solution\Build\x64\Release\DptfPolicyPowerShare.pdb
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCC
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.gfids
+.rdata
+.rdata$r
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata
+.xdata$x
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.pdata
+_RDATA
+.rsrc$01
+.rsrc$02
+(463}
+&68<}
+,Z.P0<2
+f @",$0" &%
+*6,"*
+p.P0*.
+b2@4,6,4 8%
+<6>"<
+p@PB*@
+fD@F,H0F J%
+N6P"N
+fR@T,V0T X)
+xZP\*Z
+J^:`&b,`
+,f~h6j"h
+@n(pTnN
+.r,t.v*t
+@z(|TzN
+`8@HPX
+ P"f$f&V(V*
+0P2P4X6X84:4<4>4@4B4DBFBHVJ
+LXNXP
+ZF\F^T`
+bzd2fzh2jzl0nzp0rzt.vzx6zz|6~z
+f @",$0" &%
+j(.*"(
+p,P.*,
+b0@2,4.2 6%
+j8.:"8
+p<P>*<
+b@@B,D,B F%
+J6L"J
+pNPP*N
+bR@T,V.T X%
+\6^"\
+p`Pb(`
+Hd:f&h0f
+.l,n(p"n
+@t(vTtN
+.x,z.|*z
+`08F,H
+v r"v$r&v(r*v,r.v0r2v4r6v8r:v<r>v@rBvDrFvHrJvLrN6P6R=
+*t,H.>0J2
+6`8":"<
+tvv~z
+@f(h(j l
+ (08@
+F"0$2""&E
+D(0*2(",E
+D.002."2-
+D40624"8I
+D:0<2:">-
+$n&n(H*~,<*
+4n6n8H:~<<:
+$n&n(H*~,<*
+4n6n8H:~<<:
+ N": 
+@X`hpx
+@8@HPX`hpx
+DptfPolicyPowerShare.dll
+CreatePolicyInstance
+DestroyPolicyInstance
+GetAppVersion
+_invalid_parameter_noinfo_noreturn
+api-ms-win-crt-runtime-l1-1-0.dll
+WideCharToMultiByte
+EnterCriticalSection
+LeaveCriticalSection
+InitializeCriticalSectionEx
+DeleteCriticalSection
+EncodePointer
+DecodePointer
+MultiByteToWideChar
+LCMapStringEx
+__C_specific_handler
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+IsDebuggerPresent
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+KERNEL32.dll
+RtlUnwindEx
+RtlPcToFileHeader
+RaiseException
+InterlockedFlushSList
+GetLastError
+SetLastError
+FlsAlloc
+FlsGetValue
+FlsSetValue
+FlsFree
+calloc
+strcspn
+__stdio_common_vsprintf_s
+localeconv
+frexp
+round
+_lock_locales
+_unlock_locales
+malloc
+setlocale
+__pctype_func
+isupper
+_wcsdup
+___lc_locale_name_func
+___lc_codepage_func
+___mb_cur_max_func
+islower
+abort
+__strncnt
+_callnewh
+_seh_filter_dll
+_configure_narrow_argv
+_initialize_narrow_environment
+_initialize_onexit_table
+_register_onexit_function
+_execute_onexit_table
+_crt_atexit
+_cexit
+_initterm
+_initterm_e
+terminate
+strcpy_s
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll
+QueryPerformanceFrequency
+_localtime64_s
+_time64
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AV_Locimp@locale@std@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+.?AV?$_Ref_count_obj2@VPowerShareAlgorithmTableEntry@@@std@@
+.?AVbad_alloc@std@@
+.?AVdptf_exception@@
+.?AVPowerShareAlgorithmTableEntry@@
+.?AVRelationshipTableEntryBase@@
+.?AVPowerShareAlgorithmTable@@
+.?AVlogic_error@std@@
+.?AVDptfBuffer@@
+.?AVPowerShareAlgorithmTableInterface@@
+.?AVRelationshipTableInterface@@
+.?AV_Ref_count_base@std@@
+.?AVRelationshipTableBase@@
+.?AVexception@std@@
+.?AVbad_array_new_length@std@@
+.?AVRelationshipTableEntryInterface@@
+.?AVTimeSpan@@
+.?AVPolicyInterface@@
+.?AVPowerControlDynamicCapsSet@@
+.?AV?$_Ref_count@VPowerShareCalculator@@@std@@
+.?AV?$_Ref_count@VPowerShareVariables@@@std@@
+.?AV?$_Ref_count_obj2@VPowerShareAlgorithmTable@@@std@@
+.?AV?$_Ref_count_obj2@VDomainProxy@@@std@@
+.?AVPolicyBase@@
+.?AVPowerControlDynamicCaps@@
+.?AV?$_Ref_count@VPowerShareAlgorithmTable@@@std@@
+.?AV?$_Ref_count@VPolicyCallbackScheduler@@@std@@
+.?AVPowerSharePolicy@@
+.?AVtemperature_out_of_range@@
+.?AVnot_implemented@@
+.?AVfailure@ios_base@std@@
+.?AVruntime_error@std@@
+.?AVerror_category@std@@
+.?AVsystem_error@std@@
+.?AV_Iostream_error_category2@std@@
+.?AV_System_error@std@@
+.?AV?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AVios_base@std@@
+.?AV?$ctype@D@std@@
+.?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@
+.?AV_Facet_base@std@@
+.?AU_Crt_new_delete@std@@
+.?AV?$_Iosb@H@std@@
+.?AV?$numpunct@D@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AVbad_cast@std@@
+.?AUctype_base@std@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AVfacet@locale@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$num_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AVDptfMessage@@
+.?AVPolicyMessage@@
+.?AVXmlNode@@
+.?AV?$_Ref_count_obj2@VXmlNode@@@std@@
+.?AV?$_Ref_count@VDptfTime@@@std@@
+.?AVDptfTime@@
+.?AVDptfRequest@@
+.?AV?$_Ref_count@VParticipantTracker@@@std@@
+.?AVTimeInterface@@
+.?AV?$_Ref_count_obj2@VSocWorkloadClassificationFacade@@@std@@
+.?AV?$_Ref_count_obj2@VBiasControlFacade@@@std@@
+.?AV?$_Ref_count_obj2@VCoreControlFacade@@@std@@
+.?AV?$_Ref_count_obj2@VEnergyControlFacade@@@std@@
+.?AV?$_Ref_count_obj2@VProcessorControlFacade@@@std@@
+.?AV?$_Ref_count_obj2@VTemperatureControlFacade@@@std@@
+.?AV?$_Ref_count_obj2@VDisplayControlFacade@@@std@@
+.?AV?$_Ref_count_obj2@VSystemPowerControlFacade@@@std@@
+.?AV?$_Ref_count_obj2@VPerformanceControlFacade@@@std@@
+.?AV?$_Ref_count_obj2@VActiveCoolingControl@@@std@@
+.?AVDomainProxyInterface@@
+.?AV?$_Ref_count_obj2@VRadioFrequencyControlFacade@@@std@@
+.?AV?$_Ref_count_obj2@VPeakPowerControlFacade@@@std@@
+.?AV?$_Ref_count_obj2@VPlatformPowerStatusFacade@@@std@@
+.?AV?$_Ref_count_obj2@VBatteryStatusFacade@@@std@@
+.?AVDomainProxy@@
+.?AV?$_Ref_count_obj2@VDynamicEppFacade@@@std@@
+.?AV?$_Ref_count_obj2@VPowerControlFacade@@@std@@
+.?AVParticipantCallback@@
+.?AVPolicyCallbackScheduler@@
+.?AVPolicyCallbackSchedulerInterface@@
+.?AVParticipantProxy@@
+.?AVParticipantPropertiesCachedProperty@@
+.?AVActiveTripPointsCachedProperty@@
+.?AVDomainSetCachedProperty@@
+.?AVPassiveTripPointsCachedProperty@@
+.?AVParticipantProxyInterface@@
+.?AVParticipantTracker@@
+.?AVParticipantProperty@@
+.?AVCachedProperty@@
+.?AVParticipantTrackerInterface@@
+.?AVSpecificInfo@@
+.?AVCriticalTripPointsCachedProperty@@
+.?AVPeakPowerControlFacade@@
+.?AV?$_Ref_count_obj2@VPower@@@std@@
+.?AVPeakPowerControlFacadeInterface@@
+.?AV?$CachedValue@VPower@@@@
+.?AVPowerControlFacadeInterface@@
+.?AVPowerControlFacade@@
+.?AVBiasControlFacadeInterface@@
+.?AVBiasControlFacade@@
+.?AVSocWorkloadClassificationFacadeInterface@@
+.?AVSocWorkloadClassificationFacade@@
+.?AVEnergyControlFacade@@
+.?AVEnergyControlFacadeInterface@@
+.?AV?$CachedValue@VTimeSpan@@@@
+.?AVSystemPowerControlFacadeInterface@@
+.?AVSystemPowerControlFacade@@
+.?AV?$_Ref_count_obj2@VPercentage@@@std@@
+.?AV?$_Ref_count_obj2@_N@std@@
+.?AV?$CachedValue@_N@@
+.?AV?$_Ref_count_obj2@VTimeSpan@@@std@@
+.?AV?$CachedValue@VPercentage@@@@
+.?AVDomainPriorityCachedProperty@@
+.?AVDomainProperty@@
+.?AVDynamicEppFacadeInterface@@
+.?AVDynamicEppFacade@@
+.?AVDisplayControlFacadeInterface@@
+.?AVDisplayControlFacade@@
+.?AVBatteryStatusFacadeInterface@@
+.?AVBatteryStatusFacade@@
+.?AVActiveCoolingControlFacadeInterface@@
+.?AVActiveCoolingControl@@
+.?AVPerformanceControlFacadeInterface@@
+.?AVPerformanceControlFacade@@
+.?AVCoreControlFacadeInterface@@
+.?AVCoreControlFacade@@
+.?AVProcessorControlFacadeInterface@@
+.?AVProcessorControlFacade@@
+.?AV?$CachedValue@VTemperatureThresholds@@@@
+.?AVTemperatureControlFacade@@
+.?AVTemperatureControlFacadeInterface@@
+.?AV?$_Ref_count_obj2@VTemperatureThresholds@@@std@@
+.?AVPlatformPowerStatusFacadeInterface@@
+.?AVPlatformPowerStatusFacade@@
+.?AVRfStatusCachedProperty@@
+.?AVPowerControlCapabilitiesCachedProperty@@
+.?AVPowerStatusProperty@@
+.?AVDisplayControlCapabilitiesCachedProperty@@
+.?AVDisplayControlSetCachedProperty@@
+.?AVActiveControlDynamicCapsCachedProperty@@
+.?AVActiveControlStaticCapsCachedProperty@@
+.?AVPerformanceControlCapabilitiesCachedProperty@@
+.?AVPerformanceControlSetCachedProperty@@
+.?AVCoreControlPreferencesCachedProperty@@
+.?AVCoreControlCapabilitiesCachedProperty@@
+.?AV__non_rtti_object@std@@
+.?AVbad_typeid@std@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+j0h03
+Greater Manchester1
+Salford1
+Comodo CA Limited1!0
+AAA Certificate Services0
+210525000000Z
+281231235959Z0V1
+Sectigo Limited1-0+
+$Sectigo Public Code Signing Root R460
+tFkG5
+E>nZ_
+H/(@Bp 6
+<0:08
+2http://crl.comodoca.com/AAACertificateServices.crl04
+(0&0$
+http://ocsp.comodoca.com0
+L=l9s
+Lf}/c
+Sectigo Limited1+0)
+"Sectigo Public Code Signing CA R360
+240306000000Z
+250306235959Z0Z1
+California1
+Intel Corporation1
+Intel Corporation0
+E0~);
+C0A05
+https://sectigo.com/CPS0
+B0@0>
+8http://crl.sectigo.com/SectigoPublicCodeSigningCAR36.crl0y
+m0k0D
+8http://crt.sectigo.com/SectigoPublicCodeSigningCAR36.crt0#
+http://ocsp.sectigo.com0#
+pkiengineering@intel.com0
+" aI9
+L;k8}!
+Sectigo Limited1-0+
+$Sectigo Public Code Signing Root R460
+210322000000Z
+360321235959Z0T1
+Sectigo Limited1+0)
+"Sectigo Public Code Signing CA R360
+FFlCx@
+^5hu9
+H/(@Bp 6
+D0B0@
+:http://crl.sectigo.com/SectigoPublicCodeSigningRootR46.crl0{
+o0m0F
+:http://crt.sectigo.com/SectigoPublicCodeSigningRootR46.p7c0#
+http://ocsp.sectigo.com0
+wc6n{
+ts7!:o
+n0PPd}
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Code Verification Root0
+150722210349Z
+250722210349Z0
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+%&k3m
+]:l5\
+N0L0J
+Dhttp://crl.microsoft.com/pki/crl/products/MicrosoftCodeVerifRoot.crl0
+<=9Tqdk
+Vs5sE
+0i0T1
+Sectigo Limited1+0)
+"Sectigo Public Code Signing CA R36
+x~#Bl
+9{T^w
+$UTCHy[
+20240524062952Z
+Manchester1
+Sectigo Limited1,0*
+#Sectigo RSA Time Stamping Signer #4
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA0
+230503000000Z
+340802235959Z0j1
+Manchester1
+Sectigo Limited1,0*
+#Sectigo RSA Time Stamping Signer #40
+ r dAl
+C0A05
+https://sectigo.com/CPS0
+=0;09
+3http://crl.sectigo.com/SectigoRSATimeStampingCA.crl0t
+h0f0?
+3http://crt.sectigo.com/SectigoRSATimeStampingCA.crt0#
+http://ocsp.sectigo.com0
+O_(ql
+&tv\7
+OYDeKCd
+gg$\P
+v}{hO
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+190502000000Z
+380118235959Z0}1
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA0
+]IMrV
+I0G0E
+?http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
+j0h0?
+3http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+http://ocsp.usertrust.com0
+rRj;B7|
+oZ%pb
+[C]e=P
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA
+240524062952Z0?
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority
+@WYX4
+X;pvA
+5cWF40
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+230914191423Z
+240904191423Z0
+Washington1
+Redmond1
+Microsoft Corporation1;09
+2Microsoft Windows Hardware Compatibility Publisher0
+'V:VAP
+Microsoft Corporation1
+232825+5014930
+m0k0i
+chttp://www.microsoft.com/pkiops/crl/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crl0
+u0s0q
+ehttp://www.microsoft.com/pkiops/certs/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crt0
+ItEPxe
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+120418234838Z
+270418235838Z0
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+-g<'<V
+}PH.=C
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+ip(sf
+p%|Yi1$
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 2012
+(https://www.microsoft.com/en-us/windows 0
+4EB0o
+-S{@^
+K=(5B
+2_(sv)U
+20240524220840.904Z0
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:2AD4-4B92-FA011%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+231012190712Z
+250110190712Z0
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:2AD4-4B92-FA011%0#
+Microsoft Time-Stamp Service0
+_jMg}
+@\}mT<!nt
+vD.(u
+nuhze\
+Xbqt+
+s=NKTU
+X0V0T
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+`0^0\
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+hXgoi
+uZyZ ,
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+q\Q17
+&S|9a
+!]_0t
+U0S0Q
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>NGdx
+fg:SM
+xSu$W
+as.,k{n?,
+J>f;O
+!TkjE
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:2AD4-4B92-FA011%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20240524191927Z
+20240525191927Z0t0:
+1,0*0
+1(0&0
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+r;5#0
+H2G4|
+<9tXi
+k:pH@
+
+### UTF16 strings (23)
+VS_VERSION_INFO
+StringFileInfo
+040904b0
+CompanyName
+Intel Corporation
+FileDescription
+Intel(R) Dynamic Tuning Power Share Policy DLL
+FileVersion
+9.0.11701.44281
+InternalName
+DptfPolicyPowerShare.dll
+LegalCopyright
+Copyright (c) 2013-2024 Intel Corporation All Rights Reserved 
+OriginalFilename
+DptfPolicyPowerShare.dll
+ProductName
+Intel(R) Dynamic Tuning
+ProductVersion
+9.0.11701.44281
+VarFileInfo
+Translation
+<<<Obsolete>>
+"Intel Corporatio
+
+### GUIDs found (0)

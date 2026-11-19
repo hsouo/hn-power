@@ -1,0 +1,80 @@
+﻿========== HNSDK_SetGPUWattData  0x180038400-0x18003844d (77 bytes)
+180038400 mov     r11, rsp
+180038403 push    rbp
+180038404 lea     rbp, [r11 - 0x118]
+18003840b sub     rsp, 0x210
+180038412 mov     rax, qword ptr [rip + 0x88ca7]
+180038419 xor     rax, rsp
+18003841c mov     qword ptr [rbp + 0x100], rax
+180038423 lea     eax, [rcx - 0x3c]
+180038426 cmp     eax, 0x37
+180038429 ja      0x180038719
+18003842f lea     eax, [rdx - 0x4b]
+180038432 cmp     eax, 0xc
+180038435 ja      0x180038719
+18003843b lea     eax, [r8 - 0x1e]
+18003843f cmp     eax, 0x82
+180038444 ja      0x180038719
+18003844a xorps   xmm0, xmm0
+========== HNSDK_SetNVCPPowerManagerMode  0x180037910-0x18003797a (106 bytes)
+180037910 push    rdi
+180037912 sub     rsp, 0xc0
+180037919 mov     rax, qword ptr [rip + 0x897a0]
+180037920 xor     rax, rsp
+180037923 mov     qword ptr [rsp + 0xb0], rax
+18003792b mov     r8, qword ptr [rip + 0x8f56e]
+180037932 movzx   edi, dl
+180037935 mov     rdx, r8
+180037938 mov     rax, qword ptr [r8 + 8]
+18003793c cmp     byte ptr [rax + 0x19], 0
+180037940 jne     0x180037959
+180037942 cmp     dword ptr [rax + 0x20], ecx
+180037945 jae     0x18003794d
+180037947 mov     rax, qword ptr [rax + 0x10]
+18003794b jmp     0x180037953
+18003794d mov     rdx, rax
+180037950 mov     rax, qword ptr [rax]
+180037953 cmp     byte ptr [rax + 0x19], 0
+180037957 je      0x180037942
+180037959 cmp     byte ptr [rdx + 0x19], 0
+18003795d jne     0x180037964
+18003795f cmp     ecx, dword ptr [rdx + 0x20]
+180037962 jae     0x180037967
+180037964 mov     rdx, r8
+180037967 cmp     rdx, r8
+18003796a jne     0x180037976
+18003796c mov     eax, 0xffffffff
+180037971 jmp     0x180037ae2
+180037976 add     rdx, 0x28
+========== HNSDK_GetNVCPPowerManagerMode  0x1800376d0-0x180037747 (119 bytes)
+1800376d0 sub     rsp, 0xc8
+1800376d7 mov     rax, qword ptr [rip + 0x899e2]
+1800376de xor     rax, rsp
+1800376e1 mov     qword ptr [rsp + 0xb0], rax
+1800376e9 mov     r8, qword ptr [rip + 0x8f7b0]
+1800376f0 mov     rdx, r8
+1800376f3 mov     rax, qword ptr [r8 + 8]
+1800376f7 cmp     byte ptr [rax + 0x19], 0
+1800376fb jne     0x180037717
+1800376fd nop     dword ptr [rax]
+180037700 cmp     dword ptr [rax + 0x20], ecx
+180037703 jae     0x18003770b
+180037705 mov     rax, qword ptr [rax + 0x10]
+180037709 jmp     0x180037711
+18003770b mov     rdx, rax
+18003770e mov     rax, qword ptr [rax]
+180037711 cmp     byte ptr [rax + 0x19], 0
+180037715 je      0x180037700
+180037717 cmp     byte ptr [rdx + 0x19], 0
+18003771b jne     0x180037722
+18003771d cmp     ecx, dword ptr [rdx + 0x20]
+180037720 jae     0x180037725
+180037722 mov     rdx, r8
+180037725 cmp     rdx, r8
+180037728 jne     0x180037747
+18003772a mov     eax, 0xffffffff
+18003772f mov     rcx, qword ptr [rsp + 0xb0]
+180037737 xor     rcx, rsp
+18003773a call    0x1800631c0
+18003773f add     rsp, 0xc8
+180037746 ret     

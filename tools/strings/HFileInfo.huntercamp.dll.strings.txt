@@ -1,0 +1,481 @@
+### ASCII strings (448)
+!This program cannot be run in DOS mode.
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+L$ SUVWH
+8_^][
+UVWAVAWH
+t$@E3
+\tDL;
+fD9<~u
+L$PH3
+`A_A^_^]
+t$ WATAUAVAWH
+T$xE3
+l$@@2
+L$hH;
+A_A^A]A\_
+\$ UVWATAUH
+D$ H;
+D$ H;
+(t$PA
+`A]A\_^]
+X UVWATAUAVAWH
+Gt$8I
+D$8E3
+A_A^A]A\_^]
+VWAVH
+\$0E3
+\$(E3
+L$XH3
+l$ VWAVH
+GD$@H
+L$`H3
+@SUATAUAVH
+D$PH;
+GD$PI
+L$pH3
+A^A]A\][
+VWAVH
+GL$ 3
+L$0E3
+L$8H3
+@UVAVH
+t$ UWAVH
+@USVH
+GL$0H
+L$(H;
+@SUWAVAWH
+fD9<Zu
+ A_A^_][
+l$ VWAVH
+GL$8H
+8/tIH
+8\t6L;
+GL$8H
+L$XH3
+t$ WATAUAVAWH
+L$pH3
+A_A^A]A\_
+@UVAVH
+@A^^]
+@SVAVAWH
+(A_A^^[
+@SVWH
+@SUWAVH
+(A^_][
+(A^_][
+@SVAVAWH
+d$ E3
+8A_A^^[
+@VWAUAVH
+\$pE3
+8A^A]_^
+@SVATAWH
+t$ H;
+8A_A\^[
+@SVAVAWH
+|$ H;
+(A_A^^[
+@SVATAWH
+t$ H;
+8A_A\^[
+@SVATAVH
+(A^A\^[
+\$ WH
+@SVWH
+|$ AVH
+VWAVH
+@A^_^
+ntelA
+ineID
+x AVH
+bad allocation
+Unknown exception
+bad array new length
+string too long
+bad cast
+%d.%d.%d.%d
+FileInfo::GetFileVersion
+sprintf_s tempVersion error
+bool __cdecl FileInfo::GetFileVersion(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\Util\FileInfo\FileInfo.cpp
+%a, %d %b %Y %H:%M:%S GMT
+FileInfo::GetFileLastModified
+strftime timeBuf fail
+class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl FileInfo::GetFileLastModified(const char *)
+FileInfo::FilePathAppend
+wcscpy_s fail
+bool __cdecl FileInfo::FilePathAppend(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+ error:
+ appendFilePath:
+FilePathAppend fail filePath: 
+FileInfo::CreateRecursiveDirectory
+CreateDirectory failed
+int __cdecl FileInfo::CreateRecursiveDirectory(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &)
+invalid string position
+vector too long
+RSDSJ
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\output_temp\pdb\HFileInfo.pdb
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCL
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$r
+.rdata$voltmd
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata
+.xdata$x
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.data$rs
+.pdata
+.rsrc$01
+.rsrc$02
+HFileInfo.dll
+?CompareFileVersion@FileInfo@@YAHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z
+?ConvertVersionToNum@FileInfo@@YAJAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?CopyFileFunc@FileInfo@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@Z
+?CreateRecursiveDirectory@FileInfo@@YAHAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
+?FilePathAppend@FileInfo@@YA_NAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z
+?FindPathSeparator@FileInfo@@YAHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z
+?GetFileLastModified@FileInfo@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEBD@Z
+?GetFileLastModifiedEx@FileInfo@@YA_JPEBD@Z
+?GetFileSize@FileInfo@@YAJAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?GetFileVersion@FileInfo@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAV23@@Z
+?MakeDirectory@FileInfo@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?VerifyCurProcessSignature@FileInfo@@YA_NXZ
+?VerifyDigitalSignature@FileInfo@@YA_NPEB_W_N@Z
+?VerifyDigitalSignatureEx@FileInfo@@YA_NPEB_WPEA_W_N@Z
+PathRemoveFileSpecW
+PathFileExistsA
+PathIsDirectoryW
+SHLWAPI.dll
+??1_Lockit@std@@QEAA@XZ
+??0_Lockit@std@@QEAA@H@Z
+_Stat
+?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ
+?uncaught_exception@std@@YA_NXZ
+?id@?$ctype@_W@std@@2V0locale@2@A
+?_Xout_of_range@std@@YAXPEBD@Z
+?_Xlength_error@std@@YAXPEBD@Z
+?sputc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEAAG_W@Z
+?_Osfx@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAXXZ
+?flush@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV12@XZ
+?setstate@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEAAXH_N@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@J@Z
+?getloc@ios_base@std@@QEBA?AVlocale@2@XZ
+?good@ios_base@std@@QEBA_NXZ
+?_Getcat@?$ctype@_W@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z
+?widen@?$ctype@_W@std@@QEBA_WD@Z
+??Bid@locale@std@@QEAA_KXZ
+MSVCP140.dll
+?GetLogger@@YAAEBVLogger@log4cplus@@XZ
+??1Logger@log4cplus@@UEAA@XZ
+??0Logger@log4cplus@@QEAA@AEBV01@@Z
+?isEnabledFor@Logger@log4cplus@@QEBA_NH@Z
+?get_macro_body_oss@detail@log4cplus@@YAAEAV?$basic_ostringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ
+?macro_forced_log@detail@log4cplus@@YAXAEBVLogger@2@HAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEBDH2@Z
+log4cplus.dll
+CertGetNameStringW
+CRYPT32.dll
+WinVerifyTrust
+WTHelperGetProvCertFromChain
+WTHelperProvDataFromStateData
+WTHelperGetProvSignerFromChain
+WINTRUST.dll
+VerQueryValueW
+GetFileVersionInfoSizeA
+GetFileVersionInfoA
+VERSION.dll
+CreateDirectoryW
+lstrlenW
+GetModuleFileNameW
+LocalAlloc
+MultiByteToWideChar
+CopyFileA
+CreateFileA
+CloseHandle
+LocalFree
+GetFileSize
+WideCharToMultiByte
+CreateDirectoryA
+GetFileTime
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+DisableThreadLibraryCalls
+InitializeSListHead
+IsDebuggerPresent
+KERNEL32.dll
+__CxxFrameHandler4
+__std_exception_destroy
+__std_exception_copy
+wcsstr
+__std_terminate
+strchr
+__C_specific_handler
+_CxxThrowException
+__std_type_info_destroy_list
+memset
+VCRUNTIME140_1.dll
+VCRUNTIME140.dll
+_gmtime64_s
+strftime
+wcscpy_s
+__stdio_common_vsprintf_s
+_invalid_parameter_noinfo_noreturn
+_callnewh
+malloc
+_initterm
+_initterm_e
+_seh_filter_dll
+_configure_narrow_argv
+_initialize_narrow_environment
+_initialize_onexit_table
+_register_onexit_function
+_execute_onexit_table
+_crt_atexit
+_cexit
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+memchr
+memcpy
+memmove
+api-ms-win-crt-math-l1-1-0.dll
+.?AVbad_alloc@std@@
+.?AVbad_cast@std@@
+.?AVexception@std@@
+.?AVbad_array_new_length@std@@
+.?AVtype_info@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' processorArchitecture='amd64' publicKeyToken='6595b64144ccf1df' language='*' />
+    </dependentAssembly>
+  </dependency>
+</assembly>
+0L1 0
+GlobalSign Root CA - R31
+GlobalSign1
+GlobalSign0
+200728000000Z
+290318000000Z0S1
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+p\$x %
+Bng~B
+tsg1z
+n0l0-
+!http://ocsp.globalsign.com/rootr30;
+/http://secure.globalsign.com/cacert/root-r3.crt06
+/0-0+
+%http://crl.globalsign.com/root-r3.crl0G
+@0>0<
+&https://www.globalsign.com/repository/0
+b wul
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+200728000000Z
+300728000000Z0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+-http://ocsp.globalsign.com/codesigningrootr450F
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+:0806
+0http://crl.globalsign.com/codesigningrootr45.crl0U
+N0L0A
+&https://www.globalsign.com/repository/0
+jh4%B
+wF*=#}(s
+1R95)
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+231215073510Z
+261128091510Z0
+Private Organization1
+91440300MA5G49LC9K1
+Guangdong1
+Shenzhen1
+Guangdong1
+Shenzhen1^0\
+34011
+Honor Device Co., Ltd.1
+Honor Device Co., Ltd.0
+6![%~u
+,IT1(Ct
+UCd.d6
+@http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+3http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+N0L0A
+&https://www.globalsign.com/repository/0
+@0>0<
+6http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+{<5T.
+>^WX6z
+8N7cm
+ACJL9
+9V8qDXJ
+0l0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 2020
+8:vXL&
+#zVa|
+oSD<N
+d#).s
+5T_z4
+20250214052204Z0
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 2025
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+250109084043Z
+360107084043Z0P1
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 20250
+xc#|(
+[fC@*82
+i0g0;
+/http://subca.repository.certum.pl/ctsca2021.cer0(
+http://subca.ocsp-certum.com0
+2000.
+(http://subca.crl.certum.pl/ctsca2021.crl0
+\8=x;
+&n|<j
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+210519053207Z
+360518053207Z0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+g!5 e
+)0'0%
+http://crl.certum.pl/ctnca2.crl0l
+`0^0(
+http://subca.ocsp-certum.com02
+&http://repository.certum.pl/ctnca2.cer09
+2000.
+http://www.certum.pl/CPS0
+iMi=}B
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1"0 
+Certum Trusted Network CA0
+210531064306Z
+290917064306Z0
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+dg?":
+cyD~Kc$
+.4?)LR
+(0&0$
+http://crl.certum.pl/ctnca.crl0k
+_0]0(
+http://subca.ocsp-certum.com01
+%http://repository.certum.pl/ctnca.cer09
+2000.
+http://www.certum.pl/CPS0
+[.&iB<
+Se"u-
+0k0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+250214052204Z07
+/1(0&0$0"
+jj0o0Z
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+C,Lf%:
+11\g1H
+0FD(C&
+sKckQpg
+v0i0(F
+
+### UTF16 strings (28)
+Honor Device Co., Ltd.
+Zhuhai Kingsoft Office Software Co., Ltd.
+Chengdu Qilu Technology Co. Ltd.
+BeiJing IQIYI Science & Techonology Co.,Ltd
+DingTalk Technology Co.,Ltd.
+Beijing Yinxiang Biji Technologies Co. Ltd
+////////\\\\\\\\
+VS_VERSION_INFO
+StringFileInfo
+080404b0
+CompanyName
+Honor Device Co., Ltd.
+FileDescription
+HSharedMemory.dll
+FileVersion
+1.0.0.1
+InternalName
+HSharedM.dll
+LegalCopyright
+Copyright (C) Honor Device Co., Ltd. 2016-2020. All rights reserved.
+OriginalFilename
+HSharedMemory.dll
+ProductName
+HSharedMemory
+ProductVersion
+1.0.0.1
+VarFileInfo
+Translation
+
+### GUIDs found (0)

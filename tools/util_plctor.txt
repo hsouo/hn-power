@@ -1,0 +1,44 @@
+﻿### 1 exports matched in Util.dll
+==============================================================================================================
+### ??0PowerLimit@@AEAA@XZ   func 0x1800e2190-0x1800e2248 (184 bytes)
+  0x1800e2190: push rbx
+  0x1800e2192: sub rsp, 0x70
+  0x1800e2196: mov rax, qword ptr [rip + 0x17d363]
+  0x1800e219d: xor rax, rsp
+  0x1800e21a0: mov qword ptr [rsp + 0x68], rax
+  0x1800e21a5: mov rbx, rcx
+  0x1800e21a8: mov qword ptr [rcx], 0
+  0x1800e21af: lea rcx, [rsp + 0x28]
+  0x1800e21b4: call 0x1800d5110
+  0x1800e21b9: nop 
+  0x1800e21ba: mov r8d, 0x11
+  0x1800e21c0: lea rdx, [rip + 0x122619]   ; "\plugins\HHAL.dll"
+  0x1800e21c7: mov rcx, rax
+  0x1800e21ca: call 0x180030cf0
+  0x1800e21cf: xorps xmm0, xmm0
+  0x1800e21d2: movups xmmword ptr [rsp + 0x48], xmm0
+  0x1800e21d7: xorps xmm1, xmm1
+  0x1800e21da: movdqu xmmword ptr [rsp + 0x58], xmm1
+  0x1800e21e0: movups xmm0, xmmword ptr [rax]
+  0x1800e21e3: movups xmmword ptr [rsp + 0x48], xmm0
+  0x1800e21e8: movups xmm1, xmmword ptr [rax + 0x10]
+  0x1800e21ec: movups xmmword ptr [rsp + 0x58], xmm1
+  0x1800e21f1: mov qword ptr [rax + 0x10], 0
+  0x1800e21f9: mov qword ptr [rax + 0x18], 0xf
+  0x1800e2201: mov byte ptr [rax], 0
+  0x1800e2204: lea rcx, [rsp + 0x28]
+  0x1800e2209: call 0x180022af0
+  0x1800e220e: lea rcx, [rsp + 0x48]
+  0x1800e2213: cmp qword ptr [rsp + 0x60], 0xf
+  0x1800e2219: cmova rcx, qword ptr [rsp + 0x48]
+  0x1800e221f: call qword ptr [rip + 0x9d44b]
+  0x1800e2225: mov qword ptr [rbx], rax
+  0x1800e2228: lea rcx, [rsp + 0x48]
+  0x1800e222d: call 0x180022af0
+  0x1800e2232: mov rax, rbx
+  0x1800e2235: mov rcx, qword ptr [rsp + 0x68]
+  0x1800e223a: xor rcx, rsp
+  0x1800e223d: call 0x18014fb40
+  0x1800e2242: add rsp, 0x70
+  0x1800e2246: pop rbx
+  0x1800e2247: ret 

@@ -1,0 +1,1212 @@
+### ASCII strings (816)
+!This program cannot be run in DOS mode.
+!RichN
+.text
+`.rdata
+@.data
+.pdata
+@_RDATA
+@.rsrc
+@.reloc
+L$ SUVWH
+8_^][
+L$ SVWH
+@SUVWAVH
+L$hH3
+pA^_^][
+L$8H3
+L$8H3
+L$8H3
+L$8H3
+@SVWH
+L$8H3
+L$XH3
+L$XH3
+L$8H3
+L$8H3
+L$8H3
+L$8H3
+L$8H3
+L$8H3
+L$8H3
+L$8H3
+L$@H3
+L$@H3
+L$@H3
+L$@H3
+L$@H3
+L$@H3
+L$@H3
+L$@H3
+|$ AVH
+VWAVH
+@A^_^
+\$ WH
+@SVWH
+\$ UH
+M H1E
+ H3E H3E
+ntelA
+GenuD
+WATAUAVAWH
+|$8;3
+ tDE3
+A_A^A]A\_
+t7HcP
+VWATAVAWH
+ttIcF
+T$PE3
+ A_A^A\_^
+WATAUAVAWH
+A_A^A]A\_
+HcE_H
+H;XXs
+H;xXu5
+ffffff
+fffffff
+fffff
+WATAUAVAWH
+ A_A^A]A\_
+L$@;|
+tRLcY
+AUAVAWH
+u4I9}(
+;I9}(tiH
+0A_A^A]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+@USVWATAUAVAWH
+K0HcQ
+L$xE3
+D9o t
+HcO H
+D9o t
+HcG H
+A_A^A]A\_^[]
+UVWATAUAVAWH
+mwtMH
+A_A^A]A\_^]
+t-Lck
+MGD;}
+x AVH
+x AVH
+HcK H
+G0HcH
+@SVWATAUAVAWH
+|$ D!
+L!|$(L!
+D$8L9
+D$0HcH
+pA_A^A]A\_^[
+B(I9A(u
+SVWATAUAVAWH
+0A_A^A]A\_^[
+t$ WATAUAVAWH
+E0Lc`
+E0HcH
+ A_A^A]A\_
+9)~P3
+t$ WH
+x AVH
+L$ WH
+x AUAVAWH
+0A_A^A]
+UVWATAUAVAWH
+L$(E3
+L$0f;
+f;\$4
+L$8f;
+f;\$<
+L$@f;
+f;\$D
+L$Hf;
+f;\$L
+L$Pf;
+f;\$T
+L$Xf;
+f;\$\
+L$`f;
+rsf;\$d
+L$hf;
+r_f;\$l
+L$pf;
+rKf;\$t
+L$xf;
+r7f;\$|
+D$0f;
+f;\$4r
+D$8f;
+f;\$<r
+D$@f;
+f;\$Dr
+D$Hf;
+f;\$Lr
+D$Pf;
+f;\$T
+D$Xf;
+f;\$\
+D$`f;
+rvf;\$d
+D$hf;
+rbf;\$l
+D$pf;
+rNf;\$t
+D$xf;
+r:f;\$|
+A_A^A]A\_^]
+A+P@H
+E+A@H
+D+A@H
+A+P@H
+E+A@H
+D+A@H
+x UAVAWH
+A_A^]
+D$@H;F
+D$@H;F
+VWAVH
+D$(E3
+0A^_^
+kL@8o(u
+x AVH
+#t'fA
+D$(E3
+A9<Fu
+<htl<jt\<lt4<tt$<wt
+,X< w
+|$ UATAUAVAWH
+<Ct-<D
+<St[A:
+t'<Zt
+u<g~l<it[<ntP<ot,<pt
+<utK@:
+{,D+{HD+
+A_A^A]A\]
+t$ WATAUAVAWH
+Stuf;
+utKf;
+|T4fD;
+A8m(u
+L$0fD
+u5@8j
+L$@H3
+A_A^A]A\_
+t$ WH
+A9,A$
+,I<%w
+VWATH
+,I<%w
+D$18F(u
+HcC H
+WAVAWH
+ A_A^_
+WAVAWH
+^,tyI
+~,*u<I
+ A_A^_
+@USWH
+D$(E3
+@USVWATAVAWH
+D$(E3
+d$IfD
+D$@H;
+D$@H;
+D$@H;
+X D8e
+A_A^A\_^[]
+x AVH
+u$D8r(t
+D81uUL9r
+uED8r(t
+vAD8s(t
+x AVH
+u$D8r(t
+fD91uTL9r
+uED8r(t
+v@D8s(t
+@8j(t
+f9)u4H9j
+u%@8j(t
+@8k(t
+UVWAVAWH
+8D$Ht
+A_A^_^]
+UVWAVAWH
+8D$Ht
+A_A^_^]
+UWAVH
+PA^_]
+x AVH
+L$(H3
+p0R^G'
+98t H
+L$ WH
+u3HcH<H
+x ATAVAWH
+< t=<
+ A_A^A\
+UVWAVAWH
+D$ E3
+0A_A^_^]
+x AVH
+L$ WH
+WAVAWH
+ A_A^_
+D$0@8{
+UWAVH
+p*W4H
+p*W4H
+WATAUAVAWH
+ A_A^A]A\_
+p0R^G'
+L$ WH
+L$ VWAVH
+\$8I;
+`A^_^
+x AVH
+fD9t$b
+x AVH
+WATAUAVAWH
+L$(E3
+D8[(u
+gfffffffH
+A_A^A]A\_
+{ AVH
+|$@-D
+{ AUAVAWH
+0A_A^A]
+t$xt*3
+80tWD
+gfffA
+D$DE3
+|$@-D
+WAVAWH
+ A_A^_
+s AWH
+|$DE3
+|$@-D
+x ATAVAWH
+ A_A^A\
+L$ VWAVH
+@A^_^
+9\$hu
+|$(E3
+x AVH
+E8q(u
+fD94H}aD
+L$ WH
+L$ WH
+L$ WH
+L$ WH
+L$ WH
+L$HH3
+f9|$ tyf
+|$":uq
+\$0eH
+x AVH
+u$D8r(t
+fD91uTL9r
+uED8r(t
+v@D8s(t
+UVWATAUAVAWH
+EH*?H
+PA_A^A]A\_^]
+WATAUAVAWH
+@84)u
+0A_A^A]A\_
+H97u+A
+mL+7H
+t$ E3
+@USVWATAUAVH
+,/<-w
+t$`L#
+D8t$ht
+I+4$H
+D8t$ht
+A^A]A\_^[]
+8D$@t
+L$ WH
+UWAVH
+\$0H;
+L$0H;
+l$ VWATAVAWH
+L$&8\$&t,8Y
+L$8H3
+A_A^A\_^
+x AVH
+t$8H+
+p;Y>u
+p;Y>u
+L$ WH
+\$ VWATAUAVH
+D!l$xA
+@A^A]A\_^
+D$(H;
+WAVAWH
+ A_A^_
+L$ WH
+UVWATAUAVAWH
+A8}(u
+fB9<A}1L
+A_A^A]A\_^]
+\$@H;
+\$@H;
+D$@H+
+VWATAVAW
+D$PI;
+D$PH+
+A_A^A\_^
+AUAVAWH
+@A_A^A]
+@USVWATAUAVAWH
+@8{(u
+H!D$ I
+hA_A^A]A\_^[]
+x ATAVAWH
+D$(E3
+0A_A^A\
+SUVWATAVAWH
+L$0E;
+A_A^A\_^][
+@USVWATAVAWH
+svDE3
++L$DA
+A_A^A\_^[]
+WATAUAVAWH
+0A_A^A]A\_
+D$0H9D$8
+@UATAUAVAWH
+e0A_A^A]A\]
+ATAUAVH
+L$ fff
+L$ |+L;
+L$ I;
+L$ L;
+A^A]A\
+L$@H3
+@UATAUAVAWH
+Hcu`M
+H!T$0D
+u,!T$(H!T$ 
+A_A^A]A\]
+L$ WH
+AUAVAWH
+@A_A^A]
+D$49C
+ot$ H
+ffffff
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+fffffff
+ot$ H
+ot$ H
+@SUVWATAVAWH
+L$0H3
+@A_A^A\_^][
+ATAVAWH
+ A_A^A\
+USVWAVH
+A^_^[]
+(t$PH
+t$ WH
+LcA<E3
+u HcA<H
+x AVH
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__swift_1
+__swift_2
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`RTTI
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+operator co_await
+operator<=>
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+`anonymous namespace'
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+Unknown exception
+bad exception
+(null)
+CorExitProcess
+AreFileApisANSI
+LCMapStringEx
+LocaleNameToLCID
+AppPolicyGetProcessTerminationMethod
+NAN(SNAN)
+nan(snan)
+NAN(IND)
+nan(ind)
+e+000
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+April
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+[aOni*{
+eLK(w
+~ $s%r
+@b;zO]
+iu+-,
+obwQ4
+v2!L.2
+^<V7w
+1#INF
+1#QNAN
+1#SNAN
+1#IND
+UUUUUU
+UUUUUU
+TUUUU
+=imb;D
+/>58d%
+!>6'Y
+>jtm}S
+)>6{1n
+Vr.>T
++f)>0'
+Lj[;>
+3>fvw
+;H9>&X
+*StO9>T
+n03>Pu
+K~Je#>!
++M<7>
+c(>\,
+bp(=>?g
+BC?>6t9^
+BF>^G
+K&>.yC
+ 'L>[
+.xJ>Hf
+y\PD>!
+|b=})>
+c [1>H'
+uzKs@>
+3>N;kU
+kE>fvw
+A>pP&
+V6E>`"(5
+0iN>/
++h->|
+@>%>b
+?:kP<
+?UUUUUU
+?f`Y4
+?QY^&
+?7zQ6$
+log10
+\..\PCManager\mainframe\Plugins\OS2SOC.sys
+The driver path incorrect, is %s
+StartService failed (%d)
+[DbgAMD]spl = 0x%x, fppt = 0x%x, sppt = 0x%x, stt_skin_limit = 0x%x, stt_min_limit = 0x%x, stt_skin_hs2_limit = 0x%x
+D:\work_directory\work_project\PC_Schedule\PLX_Code\gitLab\develop_branch\plxdll\Dll\Release\OS2SOCService.pdb
+.text$mn
+.text$mn$00
+.text$x
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$r
+.rdata$voltmd
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata
+.xdata$x
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.data$rs
+.pdata
+_RDATA
+.rsrc$01
+.rsrc$02
+OS2SOCService.dll
+GetCpuPower
+GetCpuResetStatus
+GetCurrentPlxByMMIO
+GetCurrentPlxByMSR
+GetPlatformInfo
+ReadAMDSMNReg
+ReadIntelMMIO
+ReadIntelMsrReg
+SetAMDEPP
+SetCurrentAMDPMFPara
+SetCurrentPlxByMMIO
+SetCurrentPlxByMSR
+WriteIntelMMIO
+WriteIntelMsrReg
+DeviceIoControl
+WaitForSingleObject
+CreateFileW
+CreateEventW
+GetLastError
+CloseHandle
+KERNEL32.dll
+OpenServiceW
+StartServiceW
+OpenSCManagerW
+CloseServiceHandle
+QueryServiceStatus
+CreateServiceW
+ADVAPI32.dll
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+IsDebuggerPresent
+GetStartupInfoW
+GetModuleHandleW
+RtlUnwindEx
+InterlockedFlushSList
+SetLastError
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+InitializeCriticalSectionAndSpinCount
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+FreeLibrary
+GetProcAddress
+LoadLibraryExW
+EncodePointer
+RaiseException
+RtlPcToFileHeader
+GetDriveTypeW
+GetFullPathNameW
+ExitProcess
+GetModuleHandleExW
+GetModuleFileNameW
+HeapAlloc
+HeapFree
+FlsAlloc
+FlsGetValue
+FlsSetValue
+FlsFree
+LCMapStringW
+GetStdHandle
+GetFileType
+MultiByteToWideChar
+GetFileAttributesExW
+WideCharToMultiByte
+GetCurrentDirectoryW
+FindClose
+FindFirstFileExW
+FindNextFileW
+IsValidCodePage
+GetACP
+GetOEMCP
+GetCPInfo
+GetCommandLineA
+GetCommandLineW
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+GetProcessHeap
+FlushFileBuffers
+WriteFile
+GetConsoleOutputCP
+GetConsoleMode
+SetStdHandle
+GetFileSizeEx
+SetFilePointerEx
+GetStringTypeW
+HeapSize
+HeapReAlloc
+WriteConsoleW
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVbad_exception@std@@
+.?AVexception@std@@
+.?AVtype_info@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+</assembly>
+0L1 0
+GlobalSign Root CA - R31
+GlobalSign1
+GlobalSign0
+160615000000Z
+240615000000Z0Z1
+GlobalSign nv-sa100.
+'GlobalSign CodeSigning CA - SHA256 - G30
+<paX7
+2000.
+"http://ocsp2.globalsign.com/rootr306
+/0-0+
+%http://crl.globalsign.com/root-r3.crl0c
+_0402
+&https://www.globalsign.com/repository/0
+JEe-MI
+SK~g|
+GlobalSign nv-sa100.
+'GlobalSign CodeSigning CA - SHA256 - G30
+201126080452Z
+231127080452Z0
+Guangdong1
+Shenzhen1
+Honor Device Co., Ltd.1
+IT Dept.1
+Honor Device Co., Ltd.0
+<http://secure.globalsign.com/cacert/gscodesignsha2g3ocsp.crt08
+,http://ocsp2.globalsign.com/gscodesignsha2g30V
+O0M0A
+20402
+&https://www.globalsign.com/repository/0
+80604
+.http://crl.globalsign.com/gscodesignsha2g3.crl0
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+190502000000Z
+380118235959Z0}1
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA0
+]IMrV
+I0G0E
+?http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
+j0h0?
+3http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+http://ocsp.usertrust.com0
+rRj;B7|
+oZ%pb
+[C]e=P
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA0
+230503000000Z
+340802235959Z0j1
+Manchester1
+Sectigo Limited1,0*
+#Sectigo RSA Time Stamping Signer #40
+ r dAl
+C0A05
+https://sectigo.com/CPS0
+=0;09
+3http://crl.sectigo.com/SectigoRSATimeStampingCA.crl0t
+h0f0?
+3http://crt.sectigo.com/SectigoRSATimeStampingCA.crt0#
+http://ocsp.sectigo.com0
+O_(ql
+&tv\7
+OYDeKCd
+gg$\P
+v}{hO
+0j0Z1
+GlobalSign nv-sa100.
+'GlobalSign CodeSigning CA - SHA256 - G3
+_*+T3dn[
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA
+231017071306Z0?
+7`,mL
++He[$
+P,[T/
+s8D<2
+
+### UTF16 strings (391)
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+api-ms-
+(null)
+mscoree.dll
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l1-2-2
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+advapi32
+ntdll
+api-ms-win-appmodel-runtime-l1-1-2
+user32
+ext-ms-
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+April
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+en-US
+ja-JP
+zh-CN
+ko-KR
+zh-TW
+         (((((                  H
+zh-CHS
+ar-SA
+bg-BG
+ca-ES
+cs-CZ
+da-DK
+de-DE
+el-GR
+fi-FI
+fr-FR
+he-IL
+hu-HU
+is-IS
+it-IT
+nl-NL
+nb-NO
+pl-PL
+pt-BR
+ro-RO
+ru-RU
+hr-HR
+sk-SK
+sq-AL
+sv-SE
+th-TH
+tr-TR
+ur-PK
+id-ID
+uk-UA
+be-BY
+sl-SI
+et-EE
+lv-LV
+lt-LT
+fa-IR
+vi-VN
+hy-AM
+az-AZ-Latn
+eu-ES
+mk-MK
+tn-ZA
+xh-ZA
+zu-ZA
+af-ZA
+ka-GE
+fo-FO
+hi-IN
+mt-MT
+se-NO
+ms-MY
+kk-KZ
+ky-KG
+sw-KE
+uz-UZ-Latn
+tt-RU
+bn-IN
+pa-IN
+gu-IN
+ta-IN
+te-IN
+kn-IN
+ml-IN
+mr-IN
+sa-IN
+mn-MN
+cy-GB
+gl-ES
+kok-IN
+syr-SY
+div-MV
+quz-BO
+ns-ZA
+mi-NZ
+ar-IQ
+de-CH
+en-GB
+es-MX
+fr-BE
+it-CH
+nl-BE
+nn-NO
+pt-PT
+sr-SP-Latn
+sv-FI
+az-AZ-Cyrl
+se-SE
+ms-BN
+uz-UZ-Cyrl
+quz-EC
+ar-EG
+zh-HK
+de-AT
+en-AU
+es-ES
+fr-CA
+sr-SP-Cyrl
+se-FI
+quz-PE
+ar-LY
+zh-SG
+de-LU
+en-CA
+es-GT
+fr-CH
+hr-BA
+smj-NO
+ar-DZ
+zh-MO
+de-LI
+en-NZ
+es-CR
+fr-LU
+bs-BA-Latn
+smj-SE
+ar-MA
+en-IE
+es-PA
+fr-MC
+sr-BA-Latn
+sma-NO
+ar-TN
+en-ZA
+es-DO
+sr-BA-Cyrl
+sma-SE
+ar-OM
+en-JM
+es-VE
+sms-FI
+ar-YE
+en-CB
+es-CO
+smn-FI
+ar-SY
+en-BZ
+es-PE
+ar-JO
+en-TT
+es-AR
+ar-LB
+en-ZW
+es-EC
+ar-KW
+en-PH
+es-CL
+ar-AE
+es-UY
+ar-BH
+es-PY
+ar-QA
+es-BO
+es-SV
+es-HN
+es-NI
+es-PR
+zh-CHT
+af-za
+ar-ae
+ar-bh
+ar-dz
+ar-eg
+ar-iq
+ar-jo
+ar-kw
+ar-lb
+ar-ly
+ar-ma
+ar-om
+ar-qa
+ar-sa
+ar-sy
+ar-tn
+ar-ye
+az-az-cyrl
+az-az-latn
+be-by
+bg-bg
+bn-in
+bs-ba-latn
+ca-es
+cs-cz
+cy-gb
+da-dk
+de-at
+de-ch
+de-de
+de-li
+de-lu
+div-mv
+el-gr
+en-au
+en-bz
+en-ca
+en-cb
+en-gb
+en-ie
+en-jm
+en-nz
+en-ph
+en-tt
+en-us
+en-za
+en-zw
+es-ar
+es-bo
+es-cl
+es-co
+es-cr
+es-do
+es-ec
+es-es
+es-gt
+es-hn
+es-mx
+es-ni
+es-pa
+es-pe
+es-pr
+es-py
+es-sv
+es-uy
+es-ve
+et-ee
+eu-es
+fa-ir
+fi-fi
+fo-fo
+fr-be
+fr-ca
+fr-ch
+fr-fr
+fr-lu
+fr-mc
+gl-es
+gu-in
+he-il
+hi-in
+hr-ba
+hr-hr
+hu-hu
+hy-am
+id-id
+is-is
+it-ch
+it-it
+ja-jp
+ka-ge
+kk-kz
+kn-in
+kok-in
+ko-kr
+ky-kg
+lt-lt
+lv-lv
+mi-nz
+mk-mk
+ml-in
+mn-mn
+mr-in
+ms-bn
+ms-my
+mt-mt
+nb-no
+nl-be
+nl-nl
+nn-no
+ns-za
+pa-in
+pl-pl
+pt-br
+pt-pt
+quz-bo
+quz-ec
+quz-pe
+ro-ro
+ru-ru
+sa-in
+se-fi
+se-no
+se-se
+sk-sk
+sl-si
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sq-al
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+sv-fi
+sv-se
+sw-ke
+syr-sy
+ta-in
+te-in
+th-th
+tn-za
+tr-tr
+tt-ru
+uk-ua
+ur-pk
+uz-uz-cyrl
+uz-uz-latn
+vi-vn
+xh-za
+zh-chs
+zh-cht
+zh-cn
+zh-hk
+zh-mo
+zh-sg
+zh-tw
+zu-za
+CONOUT$
+OS2SOC
+ServicesActive
+\\.\OS2SOC
+VS_VERSION_INFO
+StringFileInfo
+080404b0
+CompanyName
+Honor Device Co., Ltd.
+FileDescription
+OS2SOC
+FileVersion
+1.0.0.22
+InternalName
+OS2SOC.dll
+LegalCopyright
+Copyright (C) Honor Device Co., Ltd. 2016-2030. All rights reserved.
+OriginalFilename
+OS2SOC.dll
+ProductName
+OS2SOC
+ProductVersion
+1.0.0.22
+VarFileInfo
+Translation
+
+### GUIDs found (0)

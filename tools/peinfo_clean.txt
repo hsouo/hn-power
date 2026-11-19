@@ -1,0 +1,691 @@
+﻿FILE: BlackMagic.dll  machine=0x8664  timestamp=0x6916d2ee
+  [1] BMDataReport
+  [2] BMReadRegistryValue
+  [3] BMSetCamera
+  [4] BMStartProcess
+  [5] BMWriteRegistryValue
+  [6] BMlog
+IMPORTS:
+  RPCRT4.dll: 5 funcs
+         NdrClientCall3, RpcBindingFree, RpcStringFreeW, RpcBindingFromStringBindingW, RpcStringBindingComposeW
+  KERNEL32.dll: 20 funcs
+         GetSystemTimeAsFileTime, InitOnceComplete, ReleaseSRWLockExclusive, AcquireSRWLockExclusive, WakeAllConditionVariable, SleepConditionVariableSRW, RtlCaptureContext, RtlLookupFunctionEntry, RtlVirtualUnwind, UnhandledExceptionFilter, SetUnhandledExceptionFilter, GetCurrentProcess, TerminateProcess, IsProcessorFeaturePresent, IsDebuggerPresent, QueryPerformanceCounter, GetCurrentProcessId, InitializeSListHead, InitOnceBeginInitialize, GetCurrentThreadId
+  MSVCP140.dll: 1 funcs
+         ?_Xlength_error@std@@YAXPEBD@Z
+  VCRUNTIME140_1.dll: 1 funcs
+         __CxxFrameHandler4
+  VCRUNTIME140.dll: 8 funcs
+         __C_specific_handler_noexcept, __C_specific_handler, _CxxThrowException, __std_exception_copy, __std_exception_destroy, memset, memcpy, __std_type_info_destroy_list
+FILE: MonPowerPlugin.dll  machine=0x8664  timestamp=0x67aeccdb
+  [1] ??0EventDRprtConfig@@QEAA@$$QEAV0@@Z
+  [2] ??0EventDRprtConfig@@QEAA@AEBV0@@Z
+  [3] ??0EventDRprtConfig@@QEAA@XZ
+  [4] ??0FirmwarePropertyExecutor@@AEAA@XZ
+  [5] ??0MonPowerEvent@@AEAA@XZ
+  [6] ??1FirmwarePropertyExecutor@@QEAA@XZ
+  [7] ??1MonPowerEvent@@AEAA@XZ
+  [8] ??4Battery@@QEAAAEAV0@AEBV0@@Z
+  [9] ??4EventDRprtConfig@@QEAAAEAV0@$$QEAV0@@Z
+  [10] ??4EventDRprtConfig@@QEAAAEAV0@AEBV0@@Z
+  [11] ??4FirmwarePropertyExecutor@@QEAAAEAV0@AEBV0@@Z
+  [12] ??_7EventDRprtConfig@@6B@
+  [14] ?GetAveCpuPower@FirmwarePropertyExecutor@@QEAAMXZ
+  [15] ?GetAvePSysPower@FirmwarePropertyExecutor@@QEAAMXZ
+  [16] ?GetCpuPower@FirmwarePropertyExecutor@@QEAAMXZ
+  [17] ?GetCpuTemperature@FirmwarePropertyExecutor@@QEAAXAEAH0@Z
+  [18] ?GetCurTemperatureInfo@MonPowerEvent@@QEAAXAEAUMonDeviceTemperatureTimeInfo@@W4MonTemperatureType@@@Z
+  [19] ?GetEnergyUnit@FirmwarePropertyExecutor@@QEAAXXZ
+  [20] ?GetInstance@FirmwarePropertyExecutor@@SAAEAV1@XZ
+  [21] ?GetInstance@MonPowerEvent@@SAAEAV1@XZ
+  [22] ?GetInstantCpuData@FirmwarePropertyExecutor@@QEAA_NAEAI0@Z
+  [23] ?GetLidOpenPowerOnStatus@MonPowerEvent@@QEAA_NAEAW4LID_OPEN_POWER_ON_STATUS@@@Z
+  [24] ?GetOSAutoRecoverySwitch@MonPowerEvent@@QEAA_NXZ
+  [25] ?GetOriginPL1@FirmwarePropertyExecutor@@QEAAMXZ
+  [26] ?GetOriginPL2@FirmwarePropertyExecutor@@QEAAMXZ
+  [27] ?GetPSysPower@FirmwarePropertyExecutor@@QEAAMXZ
+  [28] ?GetPowerLimitScale@FirmwarePropertyExecutor@@QEAAHAEAM0@Z
+  [29] ?GetSocTemperature@FirmwarePropertyExecutor@@QEAAXAEAH@Z
+  [30] ?GetWmiEventIDCallback@MonPowerEvent@@SAXI@Z
+  [31] ?InitMonProc@FirmwarePropertyExecutor@@AEAA_NXZ
+  [32] ?IsInitialized@BiosWmi@@QEAA_NXZ
+  [33] ?OnAutoRecoveryMessage@MonPowerEvent@@QEAAXAEAUTagIPCMessageItem@@@Z
+  [34] ?OnOsAutoRecoveryChange@MonPowerEvent@@QEAAXAEAUTagIPCMessageItem@@@Z
+  [35] ?OnRecvLidOpenPowerOnStatusRequest@MonPowerEvent@@QEAAXAEAUTagIPCMessageItem@@@Z
+  [36] ?OnRecvQueryCurTemperatureMsg@MonPowerEvent@@QEAAXAEAUTagIPCMessageItem@@@Z
+  [37] ?PublishOsAutoRecStatus@MonPowerEvent@@QEAAXXZ
+  [38] ?QuerySuspendPid@FirmwarePropertyExecutor@@QEAAJK@Z
+  [40] ?SetLidOpenPowerOnStatus@MonPowerEvent@@QEAA_NW4LID_OPEN_POWER_ON_STATUS@@@Z
+  [41] ?SetOSAutoRecoverySwitch@MonPowerEvent@@QEAA_NH@Z
+  [43] ?StartMonitor@MonPowerEvent@@QEAA_NXZ
+  [44] ?StopMonitor@MonPowerEvent@@QEAA_NXZ
+  [45] ?TerminalProcessByPid@FirmwarePropertyExecutor@@QEAAJK@Z
+  [46] ?UnInitMonProc@FirmwarePropertyExecutor@@AEAAXXZ
+  [52] InitializePluginModule
+  [53] UninitializePluginModule
+IMPORTS:
+  IPCMessage.dll: 4 funcs
+         ?UnRegisterMessageCallback@IPCMessageClient@@QEAA_NH@Z, ??1IPCMessageClient@@QEAA@XZ, ??0IPCMessageClient@@QEAA@H_N0@Z, ?PostIPCMessage@IPCMessageClient@@QEBA_NAEBUTagIPCMessageItem@@@Z
+  Util.dll: 10 funcs
+         ?GetSelfFullFilePath@HELPER@HNPROCESS@@YA_NAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV34@@Z, ??0WMI@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ??1WMI@@QEAA@XZ, ?GetOutPutUIntEx@WMI@@QEAA_NPEAEI0I@Z, ?Instance@BiosWmi@@SAAEAV1@XZ, ?Init@BiosWmi@@QEAA_NXZ, ?UnInit@BiosWmi@@QEAAXXZ, ?StopCatchOemEvent@BiosWmi@@QEAAXXZ, ?StartCatchOemEvent@BiosWmi@@QEAA_NP6AXI@Z@Z, ?GetCpuTemp@BiosWmi@@QEAAMXZ
+  KERNEL32.dll: 28 funcs
+         OutputDebugStringW, InitializeSListHead, GetSystemTimeAsFileTime, GetCurrentThreadId, QueryPerformanceCounter, IsDebuggerPresent, IsProcessorFeaturePresent, LoadLibraryA, GetProcAddress, GetCurrentProcessId, FreeLibrary, InitializeCriticalSectionEx, GetLastError, DeleteCriticalSection, GetModuleFileNameW, LoadLibraryW, GetModuleHandleW, AcquireSRWLockExclusive, TerminateProcess, GetCurrentProcess, WakeAllConditionVariable, SleepConditionVariableSRW, RtlCaptureContext, RtlLookupFunctionEntry, RtlVirtualUnwind, UnhandledExceptionFilter, SetUnhandledExceptionFilter, ReleaseSRWLockExclusive
+  MSVCP140.dll: 20 funcs
+         ?_Xlength_error@std@@YAXPEBD@Z, ?flush@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV12@XZ, ?setstate@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEAAXH_N@Z, ?sputc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEAAG_W@Z, ?getloc@ios_base@std@@QEBA?AVlocale@2@XZ, ?good@ios_base@std@@QEBA_NXZ, ?_Getcat@?$ctype@_W@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z, ?widen@?$ctype@_W@std@@QEBA_WD@Z, ??Bid@locale@std@@QEAA_KXZ, ?_Throw_Cpp_error@std@@YAXH@Z, _Mtx_lock, _Mtx_unlock, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@_N@Z, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@H@Z, ?id@?$ctype@_W@std@@2V0locale@2@A, ?uncaught_exception@std@@YA_NXZ, ?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ, ??0_Lockit@std@@QEAA@H@Z, ??1_Lockit@std@@QEAA@XZ, ?_Osfx@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAXXZ
+  log4cplus.dll: 6 funcs
+         ?isEnabledFor@Logger@log4cplus@@QEBA_NH@Z, ?get_macro_body_oss@detail@log4cplus@@YAAEAV?$basic_ostringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?macro_forced_log@detail@log4cplus@@YAXAEBVLogger@2@HAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEBDH2@Z, ??1Logger@log4cplus@@UEAA@XZ, ??0Logger@log4cplus@@QEAA@AEBV01@@Z, ?GetLogger@@YAAEBVLogger@log4cplus@@XZ
+  VCRUNTIME140_1.dll: 1 funcs
+         __CxxFrameHandler4
+  VCRUNTIME140.dll: 12 funcs
+         __std_exception_destroy, memmove, __std_type_info_destroy_list, memset, _CxxThrowException, __current_exception_context, __current_exception, __C_specific_handler, _purecall, __std_terminate, memcpy, __std_exception_copy
+FILE: MonProcessPlugin.dll  machine=0x8664  timestamp=0x67aecce1
+  [1] InitializePluginModule
+  [2] UninitializePluginModule
+IMPORTS:
+  IPCMessage.dll: 4 funcs
+         ?UnRegisterMessageCallback@IPCMessageClient@@QEAA_NH@Z, ??1IPCMessageClient@@QEAA@XZ, ??0IPCMessageClient@@QEAA@H_N0@Z, ?PostIPCMessage@IPCMessageClient@@QEBA_NAEBUTagIPCMessageItem@@@Z
+  Util.dll: 8 funcs
+         ?WStringToStringByUTF8@StringProc@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z, ?WStringToString@StringProc@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z, ?EnumAllProcessFullPathOfUtf8@HELPER@HNPROCESS@@YAJAEAV?$map@KV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@U?$less@K@2@V?$allocator@U?$pair@$$CBKV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@std@@@2@@std@@@Z, ?GetSelfFullFilePath@HELPER@HNPROCESS@@YA_NAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV34@@Z, ?QueryProcessNameByPid@HELPER@HNPROCESS@@YAHKAEAV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ?GetInstance@MBASoftShelf@@SAPEAV1@XZ, ?IsSupportPlugin@MBASoftShelf@@QEBA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?EnumAllProcess@HELPER@HNPROCESS@@YAJAEAV?$function@$$A6AXAEBUtagPROCESSENTRY32W@@@Z@std@@@Z
+  KERNEL32.dll: 37 funcs
+         InitializeSListHead, GetCurrentThreadId, GetCurrentProcessId, QueryPerformanceCounter, IsDebuggerPresent, IsProcessorFeaturePresent, TerminateProcess, GetCurrentProcess, GetModuleFileNameW, LoadLibraryW, GetProcAddress, GetModuleHandleW, FreeLibrary, LoadLibraryA, EnterCriticalSection, GetSystemTimes, LeaveCriticalSection, InitializeCriticalSection, OpenProcess, MultiByteToWideChar, GetLastError, K32GetProcessMemoryInfo, CloseHandle, GetSystemInfo, DeleteCriticalSection, WideCharToMultiByte, GetSystemTimeAsFileTime, GetProcessTimes, AcquireSRWLockExclusive, WakeAllConditionVariable, SleepConditionVariableSRW, RtlCaptureContext, RtlLookupFunctionEntry, RtlVirtualUnwind, UnhandledExceptionFilter, SetUnhandledExceptionFilter, ReleaseSRWLockExclusive
+  MSVCP140.dll: 38 funcs
+         ??0_Lockit@std@@QEAA@H@Z, ?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ, ?uncaught_exception@std@@YA_NXZ, ?id@?$ctype@_W@std@@2V0locale@2@A, ?sputc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEAAG_W@Z, ?_Osfx@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAXXZ, ?flush@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV12@XZ, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@H@Z, ?getloc@ios_base@std@@QEBA?AVlocale@2@XZ, ?good@ios_base@std@@QEBA_NXZ, ?_Getcat@?$ctype@_W@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z, ?widen@?$ctype@_W@std@@QEBA_WD@Z, ??Bid@locale@std@@QEAA_KXZ, ?_Throw_Cpp_error@std@@YAXH@Z, ?setw@std@@YA?AU?$_Smanip@_J@1@_J@Z, _Mtx_lock, _Mtx_unlock, ??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAA@XZ, ??0?$basic_ios@DU?$char_traits@D@std@@@std@@IEAA@XZ, ??0?$basic_iostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAVios_base@1@AEAV21@@Z@Z, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z, ??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ, ?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ, ?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ, ?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JXZ, ?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ, ?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z, ?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z, ?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAPEAV12@PEAD_J@Z, ?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ, ?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAXAEBVlocale@2@@Z, ??1?$basic_ios@DU?$char_traits@D@std@@@std@@UEAA@XZ, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@K@Z, ??1?$basic_iostream@DU?$char_traits@D@std@@@std@@UEAA@XZ, ?_Xlength_error@std@@YAXPEBD@Z, ??1_Lockit@std@@QEAA@XZ, ?setstate@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEAAXH_N@Z
+  log4cplus.dll: 6 funcs
+         ?isEnabledFor@Logger@log4cplus@@QEBA_NH@Z, ?get_macro_body_oss@detail@log4cplus@@YAAEAV?$basic_ostringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?macro_forced_log@detail@log4cplus@@YAXAEBVLogger@2@HAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEBDH2@Z, ??1Logger@log4cplus@@UEAA@XZ, ??0Logger@log4cplus@@QEAA@AEBV01@@Z, ?GetLogger@@YAAEBVLogger@log4cplus@@XZ
+  POWRPROF.dll: 1 funcs
+         CallNtPowerInformation
+  VCRUNTIME140_1.dll: 1 funcs
+         __CxxFrameHandler4
+  VCRUNTIME140.dll: 13 funcs
+         memset, __C_specific_handler, memchr, __current_exception_context, __current_exception, __std_terminate, __std_exception_copy, memcpy, _CxxThrowException, memmove, __std_exception_destroy, memcmp, __std_type_info_destroy_list
+FILE: MonSysPerfPlugin.dll  machine=0x8664  timestamp=0x67aeccec
+  [17] ??0EventDRprtConfig@@QEAA@$$QEAV0@@Z
+  [18] ??0EventDRprtConfig@@QEAA@AEBV0@@Z
+  [19] ??0EventDRprtConfig@@QEAA@XZ
+  [20] ??0TipsBase@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [21] ??0TipsMessage@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [22] ??0TipsNormal@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [37] ??4Battery@@QEAAAEAV0@AEBV0@@Z
+  [38] ??4Cpu@@QEAAAEAV0@AEBV0@@Z
+  [39] ??4EventDRprtConfig@@QEAAAEAV0@$$QEAV0@@Z
+  [40] ??4EventDRprtConfig@@QEAAAEAV0@AEBV0@@Z
+  [41] ??4FirmwarePropertyExecutor@@QEAAAEAV0@AEBV0@@Z
+  [42] ??4MonSysStateListener@@QEAAAEAV0@AEBV0@@Z
+  [43] ??4TipsBase@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [44] ??4TipsMessage@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [45] ??4TipsNormal@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [53] ??_7EventDRprtConfig@@6B@
+  [54] ??_7TipsBase@TipsSdk@Hwa@@6B@
+  [55] ??_7TipsMessage@TipsSdk@Hwa@@6B@
+  [56] ??_7TipsNormal@TipsSdk@Hwa@@6B@
+  [200] InitializePluginModule
+  [201] UninitializePluginModule
+IMPORTS:
+  HardwareSdk.dll: 6 funcs
+         ?GetCputype@Cpu@@QEAA?AW4EnmHalCpuType@@XZ, ??0Battery@@QEAA@XZ, ??1Battery@@QEAA@XZ, ??1Cpu@@QEAA@XZ, ??0Cpu@@QEAA@XZ, ?GetBatteryRemainCapacity@Battery@@QEAAKXZ
+  MBATipsSDK.dll: 5 funcs
+         ??1TipsBase@TipsSdk@Hwa@@UEAA@XZ, ?Init@TipsBase@TipsSdk@Hwa@@UEAA_NXZ, ?Init@TipsNormal@TipsSdk@Hwa@@UEAA_NXZ, ??1TipsNormal@TipsSdk@Hwa@@UEAA@XZ, ??1TipsMessage@TipsSdk@Hwa@@UEAA@XZ
+  IPCMessage.dll: 7 funcs
+         ?UnRegisterMessageCallback@IPCMessageClient@@QEAA_NH@Z, ?UnSubscribeIPCMessage@IPCMessageClient@@QEAA_NII@Z, ?SubscribeIPCMessage@IPCMessageClient@@QEAA_NII@Z, ?PostIPCMessage@IPCMessageClient@@QEBA_NAEBUTagIPCMessageItem@@@Z, ??1IPCMessageClient@@QEAA@XZ, ??0IPCMessageClient@@QEAA@H_N0@Z, ?UnRegisterMessageCallbackAll@IPCMessageClient@@QEAA_NXZ
+  Util.dll: 50 funcs
+         ?ANSIToUTF8@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z, ?FormatDateTime@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEBD_J@Z, ?UpperCase@DE@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV23@@Z, ?FileTimeToTimet@DE@@YA_JAEBU_FILETIME@@@Z, ?Print@HnXMLDocument@@QEAAXAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?Parse@HnXMLDocument@@QEAA?AW4HnXmlError@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?WStringToStringByUTF8@StringProc@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z, ?Value@HnXmlElement@@QEBA?BV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ, ?GetSystemCpuUsage@HELPER@HNPROCESS@@YAXAEAUSysCpuData@12@@Z, ?AddOneProcessFirst@HELPER@HNPROCESS@@YAXAEAV?$map@KUProcessInfo@HELPER@HNPROCESS@@U?$less@K@std@@V?$allocator@U?$pair@$$CBKUProcessInfo@HELPER@HNPROCESS@@@std@@@5@@std@@KAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@4@G@Z, ?EnumAllProcessFirst@HELPER@HNPROCESS@@YAXAEAV?$map@KUProcessInfo@HELPER@HNPROCESS@@U?$less@K@std@@V?$allocator@U?$pair@$$CBKUProcessInfo@HELPER@HNPROCESS@@@std@@@5@@std@@G@Z, ?RefreshAllProcess@HELPER@HNPROCESS@@YAXAEAV?$map@KUProcessInfo@HELPER@HNPROCESS@@U?$less@K@std@@V?$allocator@U?$pair@$$CBKUProcessInfo@HELPER@HNPROCESS@@@std@@@5@@std@@AEAIAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@4@AEANG@Z, ?GetSysMemUsage@HELPER@HNPROCESS@@YAKXZ, ??1HnXmlAttribute@@QEAA@XZ, ??1HnXmlElement@@QEAA@XZ, ??1HnXMLDocument@@QEAA@XZ, ?QueryProcessNameByPid@HELPER@HNPROCESS@@YAHKAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?LoadFile@HnXMLDocument@@QEAA?AW4HnXmlError@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?Value@HnXmlAttribute@@QEBA?BV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ, ?IsAttributeNull@HnXmlAttribute@@QEBA_NXZ, ?GetCurrentDir4Config@LogUtil@@SA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ, ?StringToWString@StringProc@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z, ?StringToWStringByUTF8@StringProc@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z, ?FirstNode@HnXmlElement@@QEBA?AV1@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?FirstAttribute@HnXmlElement@@QEBA?AVHnXmlAttribute@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?NextSiblingElement@HnXmlElement@@QEBA?AV1@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?IsElementNull@HnXmlElement@@QEBA_NXZ, ?QueryProcessNameByPid@HELPER@HNPROCESS@@YAHKAEAV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ?UnicodeToANSI@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z, ?Init@SysCpuCalc@@QEAA_NXZ, ?GetCpuUsage@SysCpuCalc@@QEAAXAEAMAEAV?$map@KUSystemProcessItem@@U?$less@K@std@@V?$allocator@U?$pair@$$CBKUSystemProcessItem@@@std@@@3@@std@@@Z, ?GetCpuGhz@SysCpuCalc@@QEAAMXZ, ?GetInstance@SysCpuCalc@@SAPEAV1@XZ, ?GetFileVersion@FileInfo@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAV23@@Z, ?ExecuteCommand@LogUtil@@SAHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?GetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEAV45@K@Z, ?IsSupportProperty@MBASoftShelf@@QEBA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z, ?IsSupportPlugin@MBASoftShelf@@QEBA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?GetInstance@MBASoftShelf@@SAPEAV1@XZ, PsStartProcessWithCurrentPrivilege, ?RootElement@HnXMLDocument@@QEAA?AVHnXmlElement@@XZ, ?FileExists@DE@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?WStringToString@StringProc@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z, ?GetMonitorBrightness@WMI@@QEAAIXZ, ?LowerCase@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z, ??0WMI@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ??1WMI@@QEAA@XZ, ?VectorToJson@JsonSdk@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$vector@U?$pair@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V12@@std@@V?$allocator@U?$pair@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V12@@std@@@2@@3@@Z, ??1JsonSdk@@QEAA@XZ, ??0JsonSdk@@QEAA@XZ
+  DataReport.dll: 3 funcs
+         ?Instance@EventDataReport@@SAAEAV1@XZ, ?GetMsg@EventDataReport@@QEAA?AULogInfo@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z, ?SendMsg@EventDataReport@@QEAA_NAEAULogInfo@@@Z
+  MonPowerPlugin.dll: 5 funcs
+         ?GetOriginPL1@FirmwarePropertyExecutor@@QEAAMXZ, ?GetInstantCpuData@FirmwarePropertyExecutor@@QEAA_NAEAI0@Z, ?GetOriginPL2@FirmwarePropertyExecutor@@QEAAMXZ, ?GetCpuPower@FirmwarePropertyExecutor@@QEAAMXZ, ?GetInstance@FirmwarePropertyExecutor@@SAAEAV1@XZ
+  SystemState.dll: 3 funcs
+         ?GetInstance@ProbeManager@@SAPEAV1@XZ, ?UnRegisterProbe@ProbeManager@@QEAA_NW4ProbeType@@H@Z, ?RegisterProbe@ProbeManager@@QEAA_NW4ProbeType@@HV?$function@$$A6AXW4ProbeType@@Vany@std@@@Z@std@@@Z
+  KERNEL32.dll: 44 funcs
+         TerminateProcess, GetCurrentProcess, SetUnhandledExceptionFilter, UnhandledExceptionFilter, SleepConditionVariableSRW, WakeAllConditionVariable, AcquireSRWLockExclusive, ReleaseSRWLockExclusive, OutputDebugStringW, IsDebuggerPresent, InitOnceBeginInitialize, InitOnceComplete, GetCurrentThreadId, GetSystemTimeAsFileTime, QueryPerformanceCounter, InitializeSListHead, IsProcessorFeaturePresent, GetSystemPowerStatus, GetProcessHandleCount, LocalFree, Process32FirstW, LoadLibraryA, Process32NextW, CreateToolhelp32Snapshot, OpenProcess, CloseHandle, GetSystemInfo, WideCharToMultiByte, GlobalMemoryStatusEx, GetDiskFreeSpaceExW, MultiByteToWideChar, FreeLibrary, GetModuleHandleW, GetProcAddress, LoadLibraryW, GetModuleFileNameW, DeleteCriticalSection, SetEvent, GetLastError, GetTickCount64, CreateEventW, WaitForSingleObject, InitializeCriticalSectionEx, GetCurrentProcessId
+  USER32.dll: 2 funcs
+         GetWindowThreadProcessId, GetForegroundWindow
+  ADVAPI32.dll: 6 funcs
+         StartTraceW, OpenTraceW, EnableTraceEx, CloseTrace, ProcessTrace, StopTraceW
+  ole32.dll: 2 funcs
+         CoTaskMemFree, StringFromCLSID
+  MSVCP140.dll: 85 funcs
+         _To_byte, _Query_perf_counter, _Xtime_get_ticks, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAVios_base@1@AEAV21@@Z@Z, _Query_perf_frequency, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@K@Z, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@H@Z, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@K@Z, ??1?$basic_ostream@DU?$char_traits@D@std@@@std@@UEAA@XZ, ??1?$basic_ios@DU?$char_traits@D@std@@@std@@UEAA@XZ, ?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAXAEBVlocale@2@@Z, ?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ, ?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAPEAV12@PEAD_J@Z, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z, ??1?$basic_iostream@DU?$char_traits@D@std@@@std@@UEAA@XZ, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@J@Z, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@N@Z, ??0?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAA@XZ, ??0?$basic_ios@_WU?$char_traits@_W@std@@@std@@IEAA@XZ, ??0?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAA@PEAV?$basic_streambuf@_WU?$char_traits@_W@std@@@1@_N@Z, ??1?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAA@XZ, ?_Lock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ, ?_Unlock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ, ?showmanyc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JXZ, ?uflow@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAGXZ, ?xsgetn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JPEA_W_J@Z, ?xsputn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JPEB_W_J@Z, ?setbuf@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAPEAV12@PEA_W_J@Z, ?sync@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAHXZ, ?imbue@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAXAEBVlocale@2@@Z, ??1?$basic_ios@_WU?$char_traits@_W@std@@@std@@UEAA@XZ, ??1?$basic_ostream@_WU?$char_traits@_W@std@@@std@@UEAA@XZ, ?setprecision@std@@YA?AU?$_Smanip@_J@1@_J@Z, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@_N@Z, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@G@Z, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@_K@Z, ?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z, ?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z, ?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ, ?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JXZ, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@M@Z, ?setw@std@@YA?AU?$_Smanip@_J@1@_J@Z, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@N@Z, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@P6AAEAVios_base@1@AEAV21@@Z@Z, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@G@Z, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@_K@Z, _Thrd_sleep, ??0?$basic_iostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z, ?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ, ?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ, ??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ, ??1_Lockit@std@@QEAA@XZ, ??0_Lockit@std@@QEAA@H@Z, ?_Throw_Cpp_error@std@@YAXH@Z, ?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ, ?uncaught_exception@std@@YA_NXZ, ?_Xbad_alloc@std@@YAXXZ, ?id@?$ctype@_W@std@@2V0locale@2@A, ?_Xlength_error@std@@YAXPEBD@Z, _Cnd_do_broadcast_at_thread_exit
+  log4cplus.dll: 6 funcs
+         ?isEnabledFor@Logger@log4cplus@@QEBA_NH@Z, ?get_macro_body_oss@detail@log4cplus@@YAAEAV?$basic_ostringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?macro_forced_log@detail@log4cplus@@YAXAEBVLogger@2@HAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEBDH2@Z, ??1Logger@log4cplus@@UEAA@XZ, ??0Logger@log4cplus@@QEAA@AEBV01@@Z, ?GetLogger@@YAAEBVLogger@log4cplus@@XZ
+  SHLWAPI.dll: 1 funcs
+         PathFindFileNameA
+  ntdll.dll: 4 funcs
+         RtlCaptureContext, RtlVirtualUnwind, RtlLookupFunctionEntry, NtQuerySystemInformation
+  pdh.dll: 7 funcs
+         PdhOpenQueryW, PdhRemoveCounter, PdhGetFormattedCounterValue, PdhAddCounterW, PdhCloseQuery, PdhGetFormattedCounterArrayW, PdhCollectQueryData
+  dxgi.dll: 1 funcs
+         CreateDXGIFactory
+  tdh.dll: 5 funcs
+         TdhGetPropertySize, TdhGetEventInformation, TdhGetProperty, TdhFormatProperty, TdhGetEventMapInformation
+  POWRPROF.dll: 1 funcs
+         CallNtPowerInformation
+  VCRUNTIME140_1.dll: 1 funcs
+         __CxxFrameHandler4
+  VCRUNTIME140.dll: 14 funcs
+         memcpy, memcmp, __std_type_info_destroy_list, _CxxThrowException, __current_exception_context, __current_exception, __C_specific_handler, memset, memmove, __std_terminate, _purecall, __std_type_info_compare, __std_exception_destroy, __std_exception_copy
+FILE: MonSysStatePlugin.dll  machine=0x8664  timestamp=0x67aeccdb
+  [19] ??0EventDRprtConfig@@QEAA@$$QEAV0@@Z
+  [20] ??0EventDRprtConfig@@QEAA@AEBV0@@Z
+  [21] ??0EventDRprtConfig@@QEAA@XZ
+  [36] ??4EventDRprtConfig@@QEAAAEAV0@$$QEAV0@@Z
+  [37] ??4EventDRprtConfig@@QEAAAEAV0@AEBV0@@Z
+  [38] ??4MonSysStateListener@@QEAAAEAV0@AEBV0@@Z
+  [45] ??_7EventDRprtConfig@@6B@
+  [46] ?GetCurSysState@MonSysStateListener@@QEAA?AW4SysStateEventIndex@@XZ
+  [47] ?GetInstance@MonSysStateListener@@SAAEAV1@XZ
+  [182] InitializePluginModule
+  [183] UninitializePluginModule
+IMPORTS:
+  IPCMessage.dll: 4 funcs
+         ?UnRegisterMessageCallback@IPCMessageClient@@QEAA_NH@Z, ??1IPCMessageClient@@QEAA@XZ, ??0IPCMessageClient@@QEAA@H_N0@Z, ?PostIPCMessage@IPCMessageClient@@QEBA_NAEBUTagIPCMessageItem@@@Z
+  Util.dll: 7 funcs
+         ?SelectStr@WMI@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@V23@0@Z, ?Init@WMI@@QEAA_NXZ, ??1WMI@@QEAA@XZ, ??0WMI@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ?IsSupportPlugin@MBASoftShelf@@QEBA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?GetInstance@MBASoftShelf@@SAPEAV1@XZ, ?SelectUInt@WMI@@QEAAIV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@0@Z
+  KERNEL32.dll: 41 funcs
+         OutputDebugStringW, InitializeSListHead, GetSystemTimeAsFileTime, GetCurrentThreadId, GetCurrentProcessId, QueryPerformanceCounter, EnterCriticalSection, LeaveCriticalSection, InitializeCriticalSection, DeleteCriticalSection, GetModuleFileNameW, InitializeCriticalSectionEx, GetLastError, LoadLibraryW, GetProcAddress, GetModuleHandleW, FreeLibrary, GetSystemPowerStatus, WaitForSingleObject, GetModuleHandleA, CreateEventW, Sleep, SetEvent, TerminateThread, CloseHandle, ResetEvent, GetThreadId, GetTickCount, AcquireSRWLockExclusive, IsDebuggerPresent, IsProcessorFeaturePresent, TerminateProcess, GetCurrentProcess, SetUnhandledExceptionFilter, UnhandledExceptionFilter, RtlVirtualUnwind, RtlLookupFunctionEntry, RtlCaptureContext, SleepConditionVariableSRW, WakeAllConditionVariable, ReleaseSRWLockExclusive
+  USER32.dll: 16 funcs
+         GetLastInputInfo, CreateWindowExW, DefWindowProcW, DispatchMessageW, UnregisterPowerSettingNotification, RegisterClassW, GetMessageW, TranslateMessage, PostThreadMessageW, KillTimer, SendMessageW, SetWindowsHookExW, UnhookWindowsHookEx, CallNextHookEx, SetCoalescableTimer, RegisterPowerSettingNotification
+  MSVCP140.dll: 21 funcs
+         ??Bid@locale@std@@QEAA_KXZ, ?widen@?$ctype@_W@std@@QEBA_WD@Z, ?_Getcat@?$ctype@_W@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z, ?good@ios_base@std@@QEBA_NXZ, ?_Xbad_function_call@std@@YAXXZ, ?_Xlength_error@std@@YAXPEBD@Z, ??1_Lockit@std@@QEAA@XZ, ??0_Lockit@std@@QEAA@H@Z, ?_Throw_Cpp_error@std@@YAXH@Z, ?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ, ?uncaught_exception@std@@YA_NXZ, ?id@?$ctype@_W@std@@2V0locale@2@A, ?_Xout_of_range@std@@YAXPEBD@Z, _Mtx_lock, _Xtime_get_ticks, _Mtx_unlock, ?_Osfx@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAXXZ, ?flush@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV12@XZ, ?setstate@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEAAXH_N@Z, ?sputc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEAAG_W@Z, ?getloc@ios_base@std@@QEBA?AVlocale@2@XZ
+  log4cplus.dll: 6 funcs
+         ?isEnabledFor@Logger@log4cplus@@QEBA_NH@Z, ?get_macro_body_oss@detail@log4cplus@@YAAEAV?$basic_ostringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?macro_forced_log@detail@log4cplus@@YAXAEBVLogger@2@HAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEBDH2@Z, ??1Logger@log4cplus@@UEAA@XZ, ??0Logger@log4cplus@@QEAA@AEBV01@@Z, ?GetLogger@@YAAEBVLogger@log4cplus@@XZ
+  WTSAPI32.dll: 2 funcs
+         WTSUnRegisterSessionNotification, WTSRegisterSessionNotification
+  POWRPROF.dll: 1 funcs
+         CallNtPowerInformation
+  VCRUNTIME140_1.dll: 1 funcs
+         __CxxFrameHandler4
+  VCRUNTIME140.dll: 12 funcs
+         __std_exception_destroy, memmove, __std_type_info_destroy_list, memset, _CxxThrowException, __current_exception_context, __current_exception, __C_specific_handler, _purecall, __std_terminate, memcpy, __std_exception_copy
+FILE: OS2SOCService.dll  machine=0x8664  timestamp=0x652e33bb
+  [1] GetCpuPower
+  [2] GetCpuResetStatus
+  [3] GetCurrentPlxByMMIO
+  [4] GetCurrentPlxByMSR
+  [5] GetPlatformInfo
+  [6] ReadAMDSMNReg
+  [7] ReadIntelMMIO
+  [8] ReadIntelMsrReg
+  [9] SetAMDEPP
+  [10] SetCurrentAMDPMFPara
+  [11] SetCurrentPlxByMMIO
+  [12] SetCurrentPlxByMSR
+  [13] WriteIntelMMIO
+  [14] WriteIntelMsrReg
+IMPORTS:
+  KERNEL32.dll: 80 funcs
+         CloseHandle, GetLastError, CreateEventW, CreateFileW, WaitForSingleObject, DeviceIoControl, RtlCaptureContext, RtlLookupFunctionEntry, RtlVirtualUnwind, UnhandledExceptionFilter, SetUnhandledExceptionFilter, GetCurrentProcess, TerminateProcess, IsProcessorFeaturePresent, QueryPerformanceCounter, GetCurrentProcessId, GetCurrentThreadId, GetSystemTimeAsFileTime, InitializeSListHead, IsDebuggerPresent, GetStartupInfoW, GetModuleHandleW, RtlUnwindEx, InterlockedFlushSList, SetLastError, EnterCriticalSection, LeaveCriticalSection, DeleteCriticalSection, InitializeCriticalSectionAndSpinCount, TlsAlloc, TlsGetValue, TlsSetValue, TlsFree, FreeLibrary, GetProcAddress, LoadLibraryExW, EncodePointer, RaiseException, RtlPcToFileHeader, GetDriveTypeW, GetFullPathNameW, ExitProcess, GetModuleHandleExW, GetModuleFileNameW, HeapAlloc, HeapFree, FlsAlloc, FlsGetValue, FlsSetValue, FlsFree, LCMapStringW, GetStdHandle, GetFileType, MultiByteToWideChar, GetFileAttributesExW, WideCharToMultiByte, GetCurrentDirectoryW, FindClose, FindFirstFileExW, FindNextFileW
+  ADVAPI32.dll: 6 funcs
+         StartTraceW, OpenTraceW, EnableTraceEx, CloseTrace, ProcessTrace, StopTraceW
+FILE: PerfCommonPlugin.dll  machine=0x8664  timestamp=0x67aecce3
+  [19] ??0EventDRprtConfig@@QEAA@$$QEAV0@@Z
+  [20] ??0EventDRprtConfig@@QEAA@AEBV0@@Z
+  [21] ??0EventDRprtConfig@@QEAA@XZ
+  [36] ??4EventDRprtConfig@@QEAAAEAV0@$$QEAV0@@Z
+  [37] ??4EventDRprtConfig@@QEAAAEAV0@AEBV0@@Z
+  [38] ??4MonSysStateListener@@QEAAAEAV0@AEBV0@@Z
+  [46] ??_7EventDRprtConfig@@6B@
+  [47] ?IsInitialized@BiosWmi@@QEAA_NXZ
+  [186] InitializePluginModule
+  [187] UninitializePluginModule
+IMPORTS:
+  IPCMessage.dll: 6 funcs
+         ?SubscribeIPCMessage@IPCMessageClient@@QEAA_NII@Z, ?PostIPCMessage@IPCMessageClient@@QEBA_NAEBUTagIPCMessageItem@@@Z, ?PublishIPCMessage@IPCMessageClient@@QEBA_NAEAUTagIPCMessageItem@@@Z, ??1IPCMessageClient@@QEAA@XZ, ??0IPCMessageClient@@QEAA@H_N0@Z, ?UnRegisterMessageCallbackAll@IPCMessageClient@@QEAA_NXZ
+  Util.dll: 39 funcs
+         ?SetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEBHK@Z, ?StartCatchOemEvent@BiosWmi@@QEAA_NP6AXI@Z@Z, ?StopCatchOemEvent@BiosWmi@@QEAAXXZ, ?GetProductName@MachineType@ProductAdapt@@QEBAHAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?GetInstance@MachineType@ProductAdapt@@SAAEBV12@XZ, ?UnInit@BiosWmi@@QEAAXXZ, ?GetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEAKK@Z, ?GetCurrentUserSidstr@HNPROCESS@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?GetBIOSSysVersion@SmBiosHelper@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?GetInstance@SmBiosHelper@@SAPEAV1@XZ, ?GetOutPutUIntEx@WMI@@QEAA_NPEAEI0I@Z, ??1WMI@@QEAA@XZ, ?WcharToChar@DE@@YAPEADPEB_W@Z, ??0WMI@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ?IsElementNull@HnXmlElement@@QEBA_NXZ, ?NextSiblingElement@HnXmlElement@@QEBA?AV1@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?FirstAttribute@HnXmlElement@@QEBA?AVHnXmlAttribute@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?FirstNode@HnXmlElement@@QEBA?AV1@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?GetCurrentDir4Config@LogUtil@@SA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ, ?IsAttributeNull@HnXmlAttribute@@QEBA_NXZ, ?Value@HnXmlAttribute@@QEBA?BV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ, ?LoadFile@HnXMLDocument@@QEAA?AW4HnXmlError@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?RootElement@HnXMLDocument@@QEAA?AVHnXmlElement@@XZ, ??1HnXMLDocument@@QEAA@XZ, ?FileExists@DE@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ??1HnXmlElement@@QEAA@XZ, ??1HnXmlAttribute@@QEAA@XZ, PsStartProcessWithCurrentPrivilege, ?SetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@11K@Z, ?GetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEAV45@K@Z, ?IsSupportfeature@MBASoftShelf@@QEBA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?GetInstance@MBASoftShelf@@SAPEAV1@XZ, ?Attribute@HnXmlElement@@QEBA?BV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z, ?FirstNode@HnXMLDocument@@QEAA?AVHnXmlElement@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?UnicodeToANSI@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z, ?GetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEAHK@Z, ?GetOutPutUInt@WMI@@QEAA_N_KPEAEI@Z, ?Init@BiosWmi@@QEAA_NXZ, ?Instance@BiosWmi@@SAAEAV1@XZ
+  SystemState.dll: 2 funcs
+         ?RegisterProbe@ProbeManager@@QEAA_NW4ProbeType@@HV?$function@$$A6AXW4ProbeType@@Vany@std@@@Z@std@@@Z, ?GetInstance@ProbeManager@@SAPEAV1@XZ
+  DataReport.dll: 3 funcs
+         ?Instance@EventDataReport@@SAAEAV1@XZ, ?GetMsg@EventDataReport@@QEAA?AULogInfo@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z, ?SendMsg@EventDataReport@@QEAA_NAEAULogInfo@@@Z
+  secure_c.dll: 2 funcs
+         memset_s, wmemcpy_s
+  KERNEL32.dll: 55 funcs
+         AreFileApisANSI, ReleaseSRWLockExclusive, AcquireSRWLockExclusive, SleepConditionVariableSRW, RtlCaptureContext, RtlLookupFunctionEntry, RtlVirtualUnwind, UnhandledExceptionFilter, SetUnhandledExceptionFilter, GetCurrentProcess, TerminateProcess, IsProcessorFeaturePresent, IsDebuggerPresent, QueryPerformanceCounter, GetCurrentProcessId, GetSystemTimeAsFileTime, InitializeSListHead, EnterCriticalSection, LeaveCriticalSection, WakeAllConditionVariable, GetCurrentThreadId, HeapFree, InitializeCriticalSectionEx, HeapSize, Sleep, GetLastError, HeapReAlloc, HeapAlloc, HeapDestroy, LocalFree, DeleteCriticalSection, GetProcessHeap, GetModuleFileNameW, LoadLibraryW, GetProcAddress, GetModuleHandleW, FreeLibrary, DeviceIoControl, CreateFileA, CloseHandle, SizeofResource, LockResource, GetNativeSystemInfo, FindResourceExW, LoadResource, FindResourceW, GlobalMemoryStatusEx, GetSystemPowerStatus, TerminateThread, OutputDebugStringW, MultiByteToWideChar, WideCharToMultiByte, LoadLibraryExA, GetLocaleInfoEx, FormatMessageA
+  USER32.dll: 9 funcs
+         GetMessageW, DefWindowProcW, CloseWindow, CreateWindowExW, DispatchMessageW, RegisterClassW, TranslateMessage, UnregisterClassW, RegisterPowerSettingNotification
+  ADVAPI32.dll: 3 funcs
+         RegCloseKey, RegQueryValueExA, RegOpenKeyExA
+  MSVCP140.dll: 71 funcs
+         ?_Lock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ, ?_Unlock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ, ?showmanyc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JXZ, ?uflow@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAGXZ, ?sync@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAHXZ, ?imbue@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAXAEBVlocale@2@@Z, ??1?$basic_iostream@_WU?$char_traits@_W@std@@@std@@UEAA@XZ, ??0?$basic_iostream@_WU?$char_traits@_W@std@@@std@@QEAA@PEAV?$basic_streambuf@_WU?$char_traits@_W@std@@@1@@Z, ?_Syserror_map@std@@YAPEBDH@Z, ?_Winerror_map@std@@YAHH@Z, ?setbuf@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAPEAV12@PEA_W_J@Z, ??1_Lockit@std@@QEAA@XZ, ??0_Lockit@std@@QEAA@H@Z, ?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ, ?uncaught_exception@std@@YA_NXZ, ?id@?$ctype@_W@std@@2V0locale@2@A, ?_Xlength_error@std@@YAXPEBD@Z, ?_Osfx@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAXXZ, ?flush@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV12@XZ, ?setstate@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEAAXH_N@Z, ?sputc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEAAG_W@Z, ?eback@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ, ?gptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ, ?pptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ, ?egptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ, ?epptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ, ?getloc@ios_base@std@@QEBA?AVlocale@2@XZ, ?good@ios_base@std@@QEBA_NXZ, ?_Getcat@?$ctype@_W@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z, ?widen@?$ctype@_W@std@@QEBA_WD@Z, ??Bid@locale@std@@QEAA_KXZ, ?_Xbad_function_call@std@@YAXXZ, _Query_perf_frequency, ?_Throw_Cpp_error@std@@YAXH@Z, ?_Xout_of_range@std@@YAXPEBD@Z, _Mtx_lock, _Cnd_do_broadcast_at_thread_exit, _Thrd_sleep, _Query_perf_counter, _Thrd_detach, _Xtime_get_ticks, _Mtx_unlock, ?sputn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEAA_JPEB_W_J@Z, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@_N@Z, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@H@Z, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@K@Z, _Cnd_signal, _Cnd_init_in_situ, ?_Xinvalid_argument@std@@YAXPEBD@Z, _Mtx_destroy_in_situ, _Mtx_init_in_situ, _Cnd_wait, _Thrd_id, _Thrd_join, _Cnd_broadcast, _Cnd_destroy_in_situ, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@I@Z, ??0?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAA@XZ, ??1?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAA@XZ, ?gbump@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAXH@Z
+  log4cplus.dll: 6 funcs
+         ?isEnabledFor@Logger@log4cplus@@QEBA_NH@Z, ?get_macro_body_oss@detail@log4cplus@@YAAEAV?$basic_ostringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?macro_forced_log@detail@log4cplus@@YAXAEBVLogger@2@HAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEBDH2@Z, ??1Logger@log4cplus@@UEAA@XZ, ??0Logger@log4cplus@@QEAA@AEBV01@@Z, ?GetLogger@@YAAEBVLogger@log4cplus@@XZ
+  WINTRUST.dll: 1 funcs
+         WinVerifyTrust
+  SETUPAPI.dll: 10 funcs
+         SetupDiDestroyDeviceInfoList, SetupDiEnumDeviceInfo, CM_Open_Device_Interface_Key_ExA, CM_Get_Device_Interface_List_SizeA, CM_Get_Device_Interface_ListA, CM_Get_Device_ID_List_SizeA, CM_Get_Device_ID_ListA, SetupDiGetDeviceRegistryPropertyA, SetupDiGetClassDevsW, SetupDiGetDeviceRegistryPropertyW
+  POWRPROF.dll: 3 funcs
+         PowerRegisterForEffectivePowerModeNotifications, PowerUnregisterFromEffectivePowerModeNotifications, PowerRegisterSuspendResumeNotification
+  RPCRT4.dll: 1 funcs
+         UuidFromStringW
+  VCRUNTIME140_1.dll: 1 funcs
+         __CxxFrameHandler4
+  VCRUNTIME140.dll: 14 funcs
+         memcpy, memcmp, __std_type_info_destroy_list, _CxxThrowException, __current_exception_context, __current_exception, __C_specific_handler, memset, memmove, __std_terminate, _purecall, __std_type_info_compare, __std_exception_destroy, __std_exception_copy
+FILE: PerformanceDetectPlugin.dll  machine=0x8664  timestamp=0x67aeccea
+  [19] ??0EventDRprtConfig@@QEAA@$$QEAV0@@Z
+  [20] ??0EventDRprtConfig@@QEAA@AEBV0@@Z
+  [21] ??0EventDRprtConfig@@QEAA@XZ
+  [22] ??0MBATipsManager@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [23] ??0MachineType@ProductAdapt@@AEAA@XZ
+  [24] ??0ProductFeature@ProductAdapt@@AEAA@XZ
+  [25] ??0TipsBase@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [26] ??0TipsHicast@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [27] ??0TipsMessage@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [28] ??0TipsNormal@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [29] ??0TipsPower@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [30] ??0TipsProcess@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [31] ??0TipsRemoteControl@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [32] ??0TipsReport@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [33] ??0TipsSuperNotification@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [34] ??0VersionInfo@MigrationPrtAdaption@@AEAA@XZ
+  [35] ??0VersionInfo@ProductAdapt@@AEAA@XZ
+  [39] ??1MachineType@ProductAdapt@@QEAA@XZ
+  [40] ??1ProductFeature@ProductAdapt@@QEAA@XZ
+  [41] ??1UrlsManager@util@mba@@AEAA@XZ
+  [42] ??1VersionInfo@MigrationPrtAdaption@@AEAA@XZ
+  [43] ??1VersionInfo@ProductAdapt@@QEAA@XZ
+  [55] ??4Baseboard@@QEAAAEAV0@AEBV0@@Z
+  [56] ??4Cpu@@QEAAAEAV0@AEBV0@@Z
+  [57] ??4EventDRprtConfig@@QEAAAEAV0@$$QEAV0@@Z
+  [58] ??4EventDRprtConfig@@QEAAAEAV0@AEBV0@@Z
+  [59] ??4LogPerform@@QEAAAEAV0@AEBV0@@Z
+  [60] ??4LogReceive@@QEAAAEAV0@AEBV0@@Z
+  [61] ??4MBATipsManager@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [62] ??4MonSysStateListener@@QEAAAEAV0@AEBV0@@Z
+  [63] ??4TipsBase@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [64] ??4TipsHicast@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [65] ??4TipsMessage@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [66] ??4TipsNormal@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [67] ??4TipsPower@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [68] ??4TipsProcess@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [69] ??4TipsRemoteControl@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [70] ??4TipsReport@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [71] ??4TipsSuperNotification@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [78] ??_7EventDRprtConfig@@6B@
+  [79] ??_7TipsBase@TipsSdk@Hwa@@6B@
+  [80] ??_7TipsHicast@TipsSdk@Hwa@@6B@
+  [81] ??_7TipsMessage@TipsSdk@Hwa@@6B@
+  [82] ??_7TipsNormal@TipsSdk@Hwa@@6B@
+  [83] ??_7TipsPower@TipsSdk@Hwa@@6B@
+  [84] ??_7TipsProcess@TipsSdk@Hwa@@6B@
+  [85] ??_7TipsRemoteControl@TipsSdk@Hwa@@6B@
+  [86] ??_7TipsReport@TipsSdk@Hwa@@6B@
+  [87] ??_7TipsSuperNotification@TipsSdk@Hwa@@6B@
+  [89] ?GetBtGpioStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [90] ?GetCpuPowerStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [93] ?GetEnergyStarStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [94] ?GetEppSettingStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [95] ?GetFingerprintProductStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [96] ?GetFingerprintStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [97] ?GetInstance@MachineType@ProductAdapt@@SAAEBV12@XZ
+  [98] ?GetInstance@ProductFeature@ProductAdapt@@SAAEBV12@XZ
+  [99] ?GetInstance@VersionInfo@MigrationPrtAdaption@@SAAEBV12@XZ
+  [100] ?GetInstance@VersionInfo@ProductAdapt@@SAAEBV12@XZ
+  [101] ?GetInternetSelfHealingStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [102] ?GetKeyboardLightProductStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [103] ?GetKeyboardLightStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [109] ?GetPowerSafeMgrStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [112] ?GetProductIndex@MachineType@ProductAdapt@@QEBA?AW4ProductIndex@2@XZ
+  [114] ?GetProductType@MachineType@ProductAdapt@@QEBAHAEA_N@Z
+  [117] ?GetPromoteParamItem@MachineType@ProductAdapt@@AEAAXAEBVHnXmlElement@@AEAUPromoteParamInfo@2@@Z
+  [118] ?GetSQGDataStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [119] ?GetSupportCameraCorrection@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [120] ?GetSupportCameraDenoise@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [121] ?GetSupportIntegratedGraphics@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [122] ?GetSupportLiveBroadcast@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [123] ?GetSupportNpsPopStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [124] ?GetSupportOfficeCheck@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [125] ?GetSupportShowNpsRemindIcon@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [126] ?GetSupportShowPowerRemindWnd@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [127] ?GetSupportTimeBackStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [128] ?GetSupportVrAssisantStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [129] ?GetTimeOutTryMaxTime@VersionInfo@MigrationPrtAdaption@@QEBAHXZ
+  [130] ?GetTriFingerSnipperStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [132] ?GetWifiBiosRepairStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [133] ?GetWifiGpioStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [134] ?GetWisdomAudiovisualStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [136] ?InitMachineTypelist@MachineType@ProductAdapt@@AEAAHXZ
+  [140] ?IsInitialized@BiosWmi@@QEAA_NXZ
+  [141] ?IsNotSupportOsdProduct@MachineType@ProductAdapt@@QEBA_NXZ
+  [142] ?IsNotSupportProduct@MachineType@ProductAdapt@@QEBA_NXZ
+  [143] ?IsProductAdaptCfgValid@VersionInfo@ProductAdapt@@QEBA_NXZ
+  [144] ?LoadConfig@MachineType@ProductAdapt@@AEAAHXZ
+  [145] ?LoadConfig@ProductFeature@ProductAdapt@@AEAAHXZ
+  [149] ?Reset@MachineType@ProductAdapt@@QEAAXXZ
+  [150] ?Reset@ProductFeature@ProductAdapt@@QEAAXXZ
+  [151] ?Reset@VersionInfo@MigrationPrtAdaption@@AEAAXXZ
+  [152] ?Reset@VersionInfo@ProductAdapt@@QEAAXXZ
+  [153] ?ResetFeatureStatus@ProductFeature@ProductAdapt@@AEAAXXZ
+  [277] ?isStandaloneInstall@VersionInfo@MigrationPrtAdaption@@QEBA_NXZ
+  [306] InitializePluginModule
+  [307] UninitializePluginModule
+IMPORTS:
+  DataReport.dll: 4 funcs
+         ?SendMsg@EventDataReport@@QEAA_NAEAULogInfo@@@Z, ?Instance@EventDataReport@@SAAEAV1@XZ, ?IsCaptureLog@EventDataReport@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?GetMsg@EventDataReport@@QEAA?AULogInfo@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z
+  IPCMessage.dll: 6 funcs
+         ?SubscribeIPCMessage@IPCMessageClient@@QEAA_NII@Z, ?PostIPCMessage@IPCMessageClient@@QEBA_NAEBUTagIPCMessageItem@@@Z, ?PublishIPCMessage@IPCMessageClient@@QEBA_NAEAUTagIPCMessageItem@@@Z, ??1IPCMessageClient@@QEAA@XZ, ??0IPCMessageClient@@QEAA@H_N0@Z, ?UnRegisterMessageCallbackAll@IPCMessageClient@@QEAA_NXZ
+  Util.dll: 98 funcs
+         ?UTF8ToUnicode@DE@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z, ?GetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEAHK@Z, ?GetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEAV45@K@Z, ?SetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@11K@Z, ??0Registry@DE@@QEAA@XZ, ??1Registry@DE@@UEAA@XZ, ?CreateKey@Registry@DE@@QEAA_NAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ?KeyExists@Registry@DE@@QEAA_NAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ?SetRootKey@Registry@DE@@QEAAXPEAUHKEY__@@@Z, ?GetInstance@MBASoftShelf@@SAPEAV1@XZ, ?IsITVersion@MBASoftShelf@@SA_NXZ, ?IsSupportProperty@MBASoftShelf@@QEBA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z, ?Instance@UrlsManager@util@mba@@SAAEAV123@XZ, ?OpenUrl@UrlsManager@util@mba@@QEAAHAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ?SetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEBHK@Z, ?GetCurrentTimeWithMilliseconds@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ, ?EncodeDateTime@DE@@YA_JAEBUtm@@@Z, ?GetGuidString@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ, ?LogMonitorDir@LogUtil@@SA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z, ?GetFileSize@LogUtil@@SA_JAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?IsCommercial@LogUtil@@SA_NXZ, ?StringSplit@LogUtil@@SAXAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0AEAV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@3@@Z, ?DirectoryExists@DE@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?ForceDirectories@DE@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?GetValueNames@Registry@DE@@QEAA_NAEAV?$vector@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@V?$allocator@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@2@@std@@@Z, ?OpenKey@Registry@DE@@QEAA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@_N@Z, ?GetCurrentUserSidstr@HNPROCESS@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?StringToInt32Def@DE@@YAHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBH@Z, ??1WMI@@QEAA@XZ, ?SelectUInt@WMI@@QEAAIV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@0@Z, ?GetOutPutUIntEx@WMI@@QEAA_NPEAEI0I@Z, ?Instance@BiosWmi@@SAAEAV1@XZ, ?GetGpuTemp@BiosWmi@@QEAAHXZ, ?GetNames@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAV?$vector@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@V?$allocator@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@2@@5@K@Z, ?GetJsonIntValueByKey@JsonSdk@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0AEAH@Z, ?IsSupportPlugin@MBASoftShelf@@QEBA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?GetSelfFullFilePath@HELPER@HNPROCESS@@YA_NAEAV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV34@@Z, ?FileExists@DE@@YA_NAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ?UpperCase@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z, ?TrimSP@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z, ?Split@DE@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0AEAV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@3@@Z, ?GetInstance@SmBiosHelper@@SAPEAV1@XZ, ?IsHonorDevice@SmBiosHelper@@QEAA_NXZ, ?GetSysProductName@SmBiosHelper@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?Name@HnXmlElement@@QEBA?BV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ, ?GetRandomString@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z, ?WcharToChar@DE@@YAPEADPEB_W@Z, ?GetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEAKK@Z, ?GetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1PEAXHAEAHK@Z, ?SelectStr@WMI@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@V23@0@Z, ?GetFileSha256Hex@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z, ?GetBIOSSysVersion@SmBiosHelper@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?GetSysSKU@SmBiosHelper@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?GetSecSKU@SmBiosHelper@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?GetOemString1@SmBiosHelper@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ??0SystemInfo@@QEAA@XZ, ??1SystemInfo@@QEAA@XZ, ?GetSystemDPI@SystemInfo@@QEAAHXZ, ?JudgeAgreementSign@AgreementSign@@SAHXZ, ?ANSIToUnicode@DE@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z
+  HardwareSdk.dll: 13 funcs
+         ??1Baseboard@@QEAA@XZ, ??0Baseboard@@QEAA@XZ, ?GetCpuMaxClock@Cpu@@QEAAKXZ, ??0HotInterface@@QEAA@XZ, ??1Cpu@@QEAA@XZ, ??0Cpu@@QEAA@XZ, ?GetOfficeLicenceStatus@SoftwareInfo@@QEAAIXZ, ??1SoftwareInfo@@QEAA@XZ, ??0SoftwareInfo@@QEAA@XZ, ?GetSensorTemperature@HotInterface@@QEAAH_K@Z, ??1HotInterface@@QEAA@XZ, ?GetBIOSReaseDate@Baseboard@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?GetCputype@Cpu@@QEAA?AW4EnmHalCpuType@@XZ
+  MBATipsSDK.dll: 34 funcs
+         ?CloseTips@MBATipsManager@TipsSdk@Hwa@@QEAA_NPEAVTipsBase@23@@Z, ?Show@MBATipsManager@TipsSdk@Hwa@@QEAAXPEAVTipsBase@23@0@Z, ?CreateTips@MBATipsManager@TipsSdk@Hwa@@QEAAPEAVTipsBase@23@PEAXW4EnmTipsType@23@@Z, ?GetInstance@MBATipsManager@TipsSdk@Hwa@@SAPEAV123@XZ, ?Init@TipsRemoteControl@TipsSdk@Hwa@@UEAA_NXZ, ??1TipsRemoteControl@TipsSdk@Hwa@@UEAA@XZ, ?Init@TipsSuperNotification@TipsSdk@Hwa@@UEAA_NXZ, ??1TipsSuperNotification@TipsSdk@Hwa@@UEAA@XZ, ?Init@TipsHicast@TipsSdk@Hwa@@UEAA_NXZ, ??1TipsHicast@TipsSdk@Hwa@@UEAA@XZ, ?Init@TipsProcess@TipsSdk@Hwa@@UEAA_NXZ, ??1TipsProcess@TipsSdk@Hwa@@UEAA@XZ, ?Init@TipsReport@TipsSdk@Hwa@@UEAA_NXZ, ??1TipsReport@TipsSdk@Hwa@@UEAA@XZ, ?Init@TipsPower@TipsSdk@Hwa@@UEAA_NXZ, ??1TipsPower@TipsSdk@Hwa@@UEAA@XZ, ??1TipsMessage@TipsSdk@Hwa@@UEAA@XZ, ??1TipsBase@TipsSdk@Hwa@@UEAA@XZ, ?Init@TipsBase@TipsSdk@Hwa@@UEAA_NXZ, ?SetMode@TipsBase@TipsSdk@Hwa@@QEAAXAEBW4EnmTipsMode@23@@Z, ?SetLevel@TipsBase@TipsSdk@Hwa@@QEAAXAEBW4EnmTipsLevel@23@@Z, ?SetHideClose@TipsBase@TipsSdk@Hwa@@QEAAX_N@Z, ?SetCloseDelay@TipsBase@TipsSdk@Hwa@@QEAAX_K@Z, ?SetTitleIcon@TipsBase@TipsSdk@Hwa@@QEAAXAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ?SetTitleTxt@TipsBase@TipsSdk@Hwa@@QEAAXAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ?SetReplyCallback@TipsBase@TipsSdk@Hwa@@QEAAXAEBV?$function@$$A6AXW4EnmReplyEvent@TipsSdk@Hwa@@AEAV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z@std@@@Z, ??1TipsNormal@TipsSdk@Hwa@@UEAA@XZ, ?Init@TipsNormal@TipsSdk@Hwa@@UEAA_NXZ, ?SetContentTxt@TipsNormal@TipsSdk@Hwa@@QEAAXAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ?SetBtnTxt@TipsNormal@TipsSdk@Hwa@@QEAAXAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ?SetBtnSubTxt@TipsNormal@TipsSdk@Hwa@@QEAAXAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ?SetDescription@TipsNormal@TipsSdk@Hwa@@QEAAXAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ?SetDescriptionLevel@TipsNormal@TipsSdk@Hwa@@QEAAXAEBW4EnmTipsLevel@23@@Z, ?SetFoldStatus@TipsNormal@TipsSdk@Hwa@@QEAAXW4EnmFoldStatus@23@@Z
+  DuiLib.dll: 5 funcs
+         ?GetLocaleLanguage@UICulture@DuiLib@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?GetString@UICulture@DuiLib@@QEAA?AVCDuiString@2@PEB_W@Z, ?GetInstance@UICulture@DuiLib@@SAPEAV12@XZ, ?GetData@CDuiString@DuiLib@@QEBAPEB_WXZ, ??1CDuiString@DuiLib@@QEAA@XZ
+  KERNEL32.dll: 61 funcs
+         RtlLookupFunctionEntry, RtlVirtualUnwind, UnhandledExceptionFilter, WriteFile, GetFileSize, CreateFileW, SetUnhandledExceptionFilter, MultiByteToWideChar, LocalAlloc, GetModuleFileNameA, GetNativeSystemInfo, GetVersionExW, OutputDebugStringW, GetModuleHandleW, GetProcessInformation, GetSystemPowerStatus, LocalFree, GetModuleFileNameW, GetTickCount, GetCurrentProcessId, DeleteCriticalSection, InitializeCriticalSectionEx, DecodePointer, FindNextFileA, GetLocalTime, SleepConditionVariableSRW, K32GetProcessMemoryInfo, GetProcessIoCounters, GlobalMemoryStatus, LoadLibraryW, GetProcAddress, FreeLibrary, GetSystemDirectoryW, GetSystemInfo, GetSystemTimes, OpenProcess, GetProcessTimes, Sleep, GetLastError, CloseHandle, GetDiskFreeSpaceExW, GetCurrentProcess, TerminateProcess, IsProcessorFeaturePresent, IsDebuggerPresent, GetStartupInfoW, QueryPerformanceCounter, WakeAllConditionVariable, GetCurrentThreadId, GetSystemTimeAsFileTime, InitializeSListHead, RaiseException, EnterCriticalSection, RtlCaptureContext, AcquireSRWLockExclusive, ReleaseSRWLockExclusive, GetLocaleInfoEx, FormatMessageA, K32GetProcessImageFileNameW, LeaveCriticalSection
+  USER32.dll: 25 funcs
+         GetWindow, IsWindow, DisplayConfigSetDeviceInfo, QueryDisplayConfig, GetDisplayConfigBufferSizes, UnregisterClassW, KillTimer, SetTimer, DispatchMessageW, TranslateMessage, GetMessageW, GetCursorInfo, LoadCursorW, SendMessageTimeoutW, GetWindowThreadProcessId, GetShellWindow, EnumChildWindows, GetParent, GetDesktopWindow, GetWindowLongW, GetCursorPos, GetWindowRect, GetForegroundWindow, IsIconic, IsWindowVisible
+  ADVAPI32.dll: 14 funcs
+         QueryServiceConfigW, RegisterEventSourceW, ReportEventW, RegCloseKey, QueryServiceStatusEx, StartServiceW, RegCreateKeyW, OpenServiceW, RegOpenKeyExW, ChangeServiceConfigW, OpenSCManagerW, ControlService, CloseServiceHandle, DeregisterEventSource
+  ole32.dll: 1 funcs
+         CLSIDFromString
+  MSVCP140.dll: 182 funcs
+         _Strcoll, _Strxfrm, ??0_Locinfo@std@@QEAA@PEBD@Z, ??1_Locinfo@std@@QEAA@XZ, ?_Getcoll@_Locinfo@std@@QEBA?AU_Collvec@@XZ, ?c_str@?$_Yarn@D@std@@QEBAPEBDXZ, ??0facet@locale@std@@IEAA@_K@Z, ??1facet@locale@std@@MEAA@XZ, ?is@?$ctype@D@std@@QEBA_NFD@Z, ?tolower@?$ctype@D@std@@QEBADD@Z, ?tolower@?$ctype@D@std@@QEBAPEBDPEADPEBD@Z, ?_Getcat@?$ctype@D@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z, ?_Xregex_error@std@@YAXW4error_type@regex_constants@1@@Z, ?id@?$ctype@D@std@@2V0locale@2@A, ?id@?$collate@D@std@@2V0locale@2@A, ?gcount@?$basic_istream@DU?$char_traits@D@std@@@std@@QEBA_JXZ, ?write@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@PEBD_J@Z, ?clear@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z, ?id@?$codecvt@DDU_Mbstatet@@@std@@2V0locale@2@A, ?_Fiopen@std@@YAPEAU_iobuf@@PEBDHH@Z, ?setw@std@@YA?AU?$_Smanip@_J@1@_J@Z, ?get@?$basic_istream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV12@AEA_W@Z, ??1?$basic_istream@_WU?$char_traits@_W@std@@@std@@UEAA@XZ, ??0?$basic_istream@_WU?$char_traits@_W@std@@@std@@QEAA@PEAV?$basic_streambuf@_WU?$char_traits@_W@std@@@1@_N@Z, ?read@?$basic_istream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@PEAD_J@Z, ??1?$basic_istream@DU?$char_traits@D@std@@@std@@UEAA@XZ, ??0?$basic_istream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@J@Z, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@G@Z, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@_N@Z, ??1?$basic_ostream@_WU?$char_traits@_W@std@@@std@@UEAA@XZ, ??0?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAA@PEAV?$basic_streambuf@_WU?$char_traits@_W@std@@@1@_N@Z, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z, ?clear@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEAAXH_N@Z, ?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAADD@Z, ?_Init@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAXXZ, ?_Gninc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAPEA_WXZ, ?_Gndec@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAPEA_WXZ, ?getloc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEBA?AVlocale@2@XZ, ?_Init@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAPEAD0PEAH001@Z, ?_Init@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXXZ, ?_Pnavail@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBA_JXZ, ?pbump@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXH@Z, ?_Gnavail@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBA_JXZ, ?_Gninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ, ?_Gndec@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ, ?getloc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEBA?AVlocale@2@XZ, ??Bios_base@std@@QEBA_NXZ, ?_Getcat@?$codecvt@DDU_Mbstatet@@@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z, ?unshift@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEAD1AEAPEAD@Z, ?out@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEBD1AEAPEBDPEAD3AEAPEAD@Z, ?in@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEBD1AEAPEBDPEAD3AEAPEAD@Z, ?_Getcat@?$codecvt@_WDU_Mbstatet@@@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z, ?unshift@?$codecvt@_WDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEAD1AEAPEAD@Z, ?out@?$codecvt@_WDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEB_W1AEAPEB_WPEAD3AEAPEAD@Z, ?in@?$codecvt@_WDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEBD1AEAPEBDPEA_W3AEAPEA_W@Z, ?always_noconv@codecvt_base@std@@QEBA_NXZ, ?_Lock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ, ?_Unlock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ, ?showmanyc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JXZ
+  log4cplus.dll: 6 funcs
+         ?isEnabledFor@Logger@log4cplus@@QEBA_NH@Z, ?get_macro_body_oss@detail@log4cplus@@YAAEAV?$basic_ostringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?macro_forced_log@detail@log4cplus@@YAXAEBVLogger@2@HAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEBDH2@Z, ??1Logger@log4cplus@@UEAA@XZ, ??0Logger@log4cplus@@QEAA@AEBV01@@Z, ?GetLogger@@YAAEBVLogger@log4cplus@@XZ
+  CRYPT32.dll: 1 funcs
+         CertGetNameStringW
+  WINTRUST.dll: 4 funcs
+         WinVerifyTrust, WTHelperGetProvCertFromChain, WTHelperGetProvSignerFromChain, WTHelperProvDataFromStateData
+  pdh.dll: 6 funcs
+         PdhAddCounterW, PdhRemoveCounter, PdhCloseQuery, PdhOpenQueryW, PdhCollectQueryData, PdhGetFormattedCounterValue
+  SHLWAPI.dll: 7 funcs
+         PathAppendA, StrCmpNW, PathRemoveFileSpecW, PathFileExistsA, PathIsRelativeA, PathIsRelativeW, PathRemoveFileSpecA
+  wevtapi.dll: 2 funcs
+         EvtSubscribe, EvtRender
+  SLWGA.dll: 1 funcs
+         SLIsGenuineLocal
+  RPCRT4.dll: 1 funcs
+         UuidFromStringW
+  POWRPROF.dll: 3 funcs
+         PowerRegisterForEffectivePowerModeNotifications, PowerUnregisterFromEffectivePowerModeNotifications, PowerRegisterSuspendResumeNotification
+  VCRUNTIME140.dll: 17 funcs
+         __current_exception_context, __C_specific_handler, __std_type_info_destroy_list, __current_exception, wcsstr, strchr, memcmp, memcpy, memmove, memset, wcsrchr, __std_exception_copy, __std_exception_destroy, _CxxThrowException, __std_terminate, _purecall, memchr
+  VCRUNTIME140_1.dll: 1 funcs
+         __CxxFrameHandler4
+FILE: PowerPolicyPlugin.dll  machine=0x8664  timestamp=0x67aecd07
+  [19] ??0EventDRprtConfig@@QEAA@$$QEAV0@@Z
+  [20] ??0EventDRprtConfig@@QEAA@AEBV0@@Z
+  [21] ??0EventDRprtConfig@@QEAA@XZ
+  [22] ??0MBATipsManager@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [23] ??0PolicyDataMsgManager@Power@Mba@@QEAA@AEBV012@@Z
+  [24] ??0PowerPolicyExecutor@Power@Mba@@QEAA@XZ
+  [25] ??0SmartPowerEvent@@AEAA@XZ
+  [26] ??0TipsBase@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [27] ??0TipsHicast@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [28] ??0TipsMessage@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [29] ??0TipsNormal@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [30] ??0TipsPower@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [31] ??0TipsProcess@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [32] ??0TipsRemoteControl@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [33] ??0TipsReport@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [34] ??0TipsSuperNotification@TipsSdk@Hwa@@QEAA@AEBV012@@Z
+  [35] ??0VstInterface@@QEAA@AEBV0@@Z
+  [37] ??0WMIInterface@@QEAA@AEBV0@@Z
+  [42] ??1PowerPolicyExecutor@Power@Mba@@QEAA@XZ
+  [43] ??1SmartPowerEvent@@AEAA@XZ
+  [44] ??1VstInterface@@QEAA@XZ
+  [45] ??1WMIInterface@@QEAA@XZ
+  [57] ??4Battery@@QEAAAEAV0@AEBV0@@Z
+  [58] ??4Cpu@@QEAAAEAV0@AEBV0@@Z
+  [59] ??4EventDRprtConfig@@QEAAAEAV0@$$QEAV0@@Z
+  [60] ??4EventDRprtConfig@@QEAAAEAV0@AEBV0@@Z
+  [61] ??4FirmwarePropertyExecutor@@QEAAAEAV0@AEBV0@@Z
+  [62] ??4LogPerform@@QEAAAEAV0@AEBV0@@Z
+  [63] ??4MBATipsManager@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [64] ??4MonSysStateListener@@QEAAAEAV0@AEBV0@@Z
+  [65] ??4PolicyDataMsgManager@Power@Mba@@QEAAAEAV012@AEBV012@@Z
+  [66] ??4SmartPowerEvent@@QEAAAEAV0@AEBV0@@Z
+  [67] ??4TipsBase@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [68] ??4TipsHicast@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [69] ??4TipsMessage@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [70] ??4TipsNormal@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [71] ??4TipsPower@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [72] ??4TipsProcess@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [73] ??4TipsRemoteControl@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [74] ??4TipsReport@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [75] ??4TipsSuperNotification@TipsSdk@Hwa@@QEAAAEAV012@AEBV012@@Z
+  [76] ??4VstInterface@@QEAAAEAV0@AEBV0@@Z
+  [77] ??4WMIInterface@@QEAAAEAV0@AEBV0@@Z
+  [84] ??_7EventDRprtConfig@@6B@
+  [85] ??_7TipsBase@TipsSdk@Hwa@@6B@
+  [86] ??_7TipsHicast@TipsSdk@Hwa@@6B@
+  [87] ??_7TipsMessage@TipsSdk@Hwa@@6B@
+  [88] ??_7TipsNormal@TipsSdk@Hwa@@6B@
+  [89] ??_7TipsPower@TipsSdk@Hwa@@6B@
+  [90] ??_7TipsProcess@TipsSdk@Hwa@@6B@
+  [91] ??_7TipsRemoteControl@TipsSdk@Hwa@@6B@
+  [92] ??_7TipsReport@TipsSdk@Hwa@@6B@
+  [93] ??_7TipsSuperNotification@TipsSdk@Hwa@@6B@
+  [94] ??_7VstInterface@@6B@
+  [95] ?AddDataReport@SmartPowerEvent@@AEAAXAEAULogInfo@@@Z
+  [96] ?AffinityProcessCpu@PowerPolicyExecutor@Power@Mba@@QEAA_NK@Z
+  [97] ?AudioCaptureAndEncodeThreadProcWapper@VstInterface@@SAKPEAX@Z
+  [98] ?BIOSPutUintContent@VstInterface@@QEAAJPEAEAEAUIWbemClassObject@@I@Z
+  [99] ?BIOSPutUintContent@WMIInterface@@QEAAJPEAEAEAUIWbemClassObject@@I@Z
+  [100] ?CPU_DTS_Temp_Save@VstInterface@@AEAAXHHHPEAHH@Z
+  [101] ?Cal_Virtul_temp@VstInterface@@QEAAXXZ
+  [102] ?CatchOemEvent@WMIInterface@@AEAAXAEAHAEAPEAUIUnsecuredApartment@@AEAPEAVEventSink@@AEAPEAUIUnknown@@P6AXI@Z@Z
+  [103] ?ClearSoftConsumers@PolicyDataMsgManager@Power@Mba@@QEAAXXZ
+  [104] ?CloseScreen@PowerPolicyExecutor@Power@Mba@@QEAA_NXZ
+  [105] ?CreateVstCrcThread@VstInterface@@QEAAXXZ
+  [107] ?ExcutePowerPolicy@PowerPolicyExecutor@Power@Mba@@QEAA_NAEBUPowerExecuteItem@23@@Z
+  [109] ?FrozenProcess@PowerPolicyExecutor@Power@Mba@@QEAA_NKKKK@Z
+  [110] ?GetAudioSessionManager2@PowerPolicyExecutor@Power@Mba@@QEAAJPEAPEAUIAudioSessionManager2@@@Z
+  [111] ?GetAveCpuPower@PowerPolicyExecutor@Power@Mba@@QEAAMXZ
+  [112] ?GetAvePSysPower@PowerPolicyExecutor@Power@Mba@@QEAAMXZ
+  [113] ?GetCoreNumber@PowerPolicyExecutor@Power@Mba@@QEAACXZ
+  [114] ?GetCoreNums@PowerPolicyExecutor@Power@Mba@@QEAAXXZ
+  [115] ?GetCpuPower@PowerPolicyExecutor@Power@Mba@@QEAAMXZ
+  [116] ?GetCpuSensorTemperature@PowerPolicyExecutor@Power@Mba@@QEAA_NAEAI@Z
+  [117] ?GetCpuTemperature@PowerPolicyExecutor@Power@Mba@@QEAAXAEAH0@Z
+  [118] ?GetCurTemperature@VstInterface@@QEAAXXZ
+  [119] ?GetInstance@PowerPolicyExecutor@Power@Mba@@SAAEAV123@XZ
+  [121] ?GetMonitorBright@PowerPolicyExecutor@Power@Mba@@QEAAIXZ
+  [124] ?GetOriginPL1@PowerPolicyExecutor@Power@Mba@@QEAAMXZ
+  [125] ?GetOutPutUIntEx@VstInterface@@QEAA_NPEAEI0I@Z
+  [126] ?GetOutPutUIntEx@WMIInterface@@QEAA_NPEAEI0I@Z
+  [127] ?GetPSysPower@PowerPolicyExecutor@Power@Mba@@QEAAMXZ
+  [128] ?GetPowerLimit2@PowerPolicyExecutor@Power@Mba@@QEAAIXZ
+  [129] ?GetPowerLimitScale@PowerPolicyExecutor@Power@Mba@@QEAAHAEAM0@Z
+  [130] ?GetSocTemperature@PowerPolicyExecutor@Power@Mba@@QEAAXAEAH@Z
+  [131] ?GetSoftChooseCount@PolicyDataMsgManager@Power@Mba@@QEAAIXZ
+  [135] ?GetVAmbTempConfig@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+  [137] ?GetVCHingeTemp1Config@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+  [139] ?GetVCHingeTemp2Config@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+  [141] ?GetVCLeftTempConfig@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+  [143] ?GetVCRightTempConfig@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+  [145] ?GetVDAiroutTempConfig@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+  [147] ?GetVDCpuTempConfig@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+  [149] ?GetVDGpuTempConfig@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+  [151] ?GetVKeyTemp1Config@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+  [153] ?GetVKeyTemp2Config@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+  [155] ?GetVLeftPalmTempConfig@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+  [157] ?GetVRightPalmTempConfig@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+  [159] ?GetVTouchpadTempConfig@VstInterface@@EEAA_NAEAVHnXMLDocument@@@Z
+  [160] ?GetVirtulTemp@VstInterface@@AEAAHPEAUVSTstruct@@_KH@Z
+  [162] ?Init@VstInterface@@QEAA_NXZ
+  [163] ?Init@WMIInterface@@QEAA_NXZ
+  [164] ?InitCom@VstInterface@@AEAA_NXZ
+  [165] ?InitCom@WMIInterface@@AEAA_NXZ
+  [166] ?InitConnectServer@WMIInterface@@AEAA_NXZ
+  [167] ?InitCreateInstance@WMIInterface@@AEAA_NXZ
+  [168] ?InitInstance@VstInterface@@AEAA_NAEAPEAUIWbemLocator@@AEAPEAUIWbemServices@@@Z
+  [169] ?InitProxyBlanket@WMIInterface@@AEAA_NXZ
+  [170] ?InitSecurity@VstInterface@@AEAA_NXZ
+  [171] ?InitSecurity@WMIInterface@@AEAA_NXZ
+  [172] ?Instance@SmartPowerEvent@@SAAEAV1@XZ
+  [173] ?Instance@VstInterface@@SAAEAV1@XZ
+  [175] ?IsInitialized@BiosWmi@@QEAA_NXZ
+  [176] ?IsPlayingSound@PowerPolicyExecutor@Power@Mba@@QEAA_NK@Z
+  [177] ?IsProcessFrozen@PowerPolicyExecutor@Power@Mba@@QEAA_NK@Z
+  [178] ?KillProcess@PowerPolicyExecutor@Power@Mba@@QEAA_NK@Z
+  [179] ?LoadXMLConfig@VstInterface@@AEAA_NXZ
+  [180] ?NTC_Temp_Save@VstInterface@@AEAAXHHHPEAHH@Z
+  [182] ?ReadVSTTemp@VstInterface@@QEAAXXZ
+  [183] ?ReportCellVoltageAbnormal@SmartPowerEvent@@QEAAXXZ
+  [184] ?ReportCellVoltageHigh@SmartPowerEvent@@QEAAXXZ
+  [185] ?ReportChargingAbnormal@SmartPowerEvent@@QEAAXXZ
+  [186] ?ReportCurrentAbonormal@SmartPowerEvent@@QEAAXXZ
+  [187] ?ReportNTCTempAbnormal@SmartPowerEvent@@QEAAXXZ
+  [188] ?ReportPFStatus@SmartPowerEvent@@QEAAXXZ
+  [189] ?ReportRSOCToShotdown@SmartPowerEvent@@QEAAXXZ
+  [190] ?ReportVoltageAbonormal@SmartPowerEvent@@QEAAXXZ
+  [191] ?SaveNotifyIDMessage@SmartPowerEvent@@QEAAXXZ
+  [193] ?SetCpuCoreNumber@PowerPolicyExecutor@Power@Mba@@QEAA_NC@Z
+  [195] ?SetMonitorBright@PowerPolicyExecutor@Power@Mba@@QEAA_NC@Z
+  [196] ?SetPowerLimit2@PowerPolicyExecutor@Power@Mba@@QEAA_NC@Z
+  [197] ?StartCatchOemEvent@WMIInterface@@QEAAHP6AXI@Z@Z
+  [198] ?StopCatchOemEvent@WMIInterface@@QEAAXXZ
+  [199] ?StopVstCrcThread@VstInterface@@QEAAXXZ
+  [200] ?UnAffinityProcessCpu@PowerPolicyExecutor@Power@Mba@@QEAA_NK@Z
+  [201] ?UnFrozenProcess@PowerPolicyExecutor@Power@Mba@@QEAA_NKKKK@Z
+  [202] ?UnInit@WMIInterface@@QEAAXXZ
+  [203] ?VST_Temp_Save@VstInterface@@QEAAXXZ
+  [204] ?WmiGetGVNT@VstInterface@@QEAAHXZ
+  [205] ?WmiSetWVST@VstInterface@@QEAAHXZ
+  [360] InitializePluginModule
+  [361] UninitializePluginModule
+  [362] ctlAUXAccess
+  [363] ctlCheckDriverVersion
+  [364] ctlClose
+  [365] ctlEdidManagement
+  [366] ctlEngineGetActivity
+  [367] ctlEngineGetProperties
+  [368] ctlEnumEngineGroups
+  [369] ctlEnumFans
+  [370] ctlEnumFrequencyDomains
+  [371] ctlEnumMemoryModules
+  [372] ctlEnumPowerDomains
+  [373] ctlEnumTemperatureSensors
+  [374] ctlEnumerateDevices
+  [375] ctlEnumerateDisplayOutputs
+  [376] ctlEnumerateMuxDevices
+  [377] ctlFanGetConfig
+  [378] ctlFanGetProperties
+  [379] ctlFanGetState
+  [380] ctlFanSetDefaultMode
+  [381] ctlFanSetFixedSpeedMode
+  [382] ctlFanSetSpeedTableMode
+  [383] ctlFrequencyGetAvailableClocks
+  [384] ctlFrequencyGetProperties
+  [385] ctlFrequencyGetRange
+  [386] ctlFrequencyGetState
+  [387] ctlFrequencyGetThrottleTime
+  [388] ctlFrequencySetRange
+  [389] ctlGetAdaperDisplayEncoderProperties
+  [390] ctlGetBrightnessSetting
+  [391] ctlGetCurrentScaling
+  [392] ctlGetCurrentSharpness
+  [393] ctlGetDeviceProperties
+  [394] ctlGetDisplayProperties
+  [395] ctlGetIntelArcSyncInfoForMonitor
+  [396] ctlGetIntelArcSyncProfile
+  [397] ctlGetLACEConfig
+  [398] ctlGetMuxProperties
+  [399] ctlGetPowerOptimizationCaps
+  [400] ctlGetPowerOptimizationSetting
+  [401] ctlGetSet3DFeature
+  [402] ctlGetSetCombinedDisplay
+  [403] ctlGetSetCustomMode
+  [404] ctlGetSetDisplayGenlock
+  [405] ctlGetSetRetroScaling
+  [406] ctlGetSetVideoProcessingFeature
+  [407] ctlGetSharpnessCaps
+  [408] ctlGetSupported3DCapabilities
+  [409] ctlGetSupportedRetroScalingCapability
+  [410] ctlGetSupportedScalingCapability
+  [411] ctlGetSupportedVideoProcessingCapabilities
+  [412] ctlGetZeDevice
+  [413] ctlI2CAccess
+  [414] ctlInit
+  [415] ctlMemoryGetBandwidth
+  [416] ctlMemoryGetProperties
+  [417] ctlMemoryGetState
+  [418] ctlOverclockGetProperties
+  [419] ctlOverclockGpuFrequencyOffsetGet
+  [420] ctlOverclockGpuFrequencyOffsetSet
+  [421] ctlOverclockGpuLockGet
+  [422] ctlOverclockGpuLockSet
+  [423] ctlOverclockGpuVoltageOffsetGet
+  [424] ctlOverclockGpuVoltageOffsetSet
+  [425] ctlOverclockPowerLimitGet
+  [426] ctlOverclockPowerLimitSet
+  [427] ctlOverclockTemperatureLimitGet
+  [428] ctlOverclockTemperatureLimitSet
+  [429] ctlOverclockVramFrequencyOffsetGet
+  [430] ctlOverclockVramFrequencyOffsetSet
+  [431] ctlOverclockVramVoltageOffsetGet
+  [432] ctlOverclockVramVoltageOffsetSet
+  [433] ctlOverclockWaiverSet
+  [434] ctlPanelDescriptorAccess
+  [435] ctlPciGetProperties
+  [436] ctlPciGetState
+  [437] ctlPixelTransformationGetConfig
+  [438] ctlPixelTransformationSetConfig
+  [439] ctlPowerGetEnergyCounter
+  [440] ctlPowerGetLimits
+  [441] ctlPowerGetProperties
+  [442] ctlPowerSetLimits
+  [443] ctlPowerTelemetryGet
+  [444] ctlReservedCall
+  [445] ctlSetBrightnessSetting
+  [446] ctlSetCurrentScaling
+  [447] ctlSetCurrentSharpness
+  [448] ctlSetIntelArcSyncProfile
+  [449] ctlSetLACEConfig
+  [450] ctlSetPowerOptimizationSetting
+  [451] ctlSetRuntimePath
+  [452] ctlSoftwarePSR
+  [453] ctlSwitchMux
+  [454] ctlTemperatureGetProperties
+  [455] ctlTemperatureGetState
+  [456] ctlWaitForPropertyChange
+IMPORTS:
+  DataReport.dll: 3 funcs
+         ?Instance@EventDataReport@@SAAEAV1@XZ, ?GetMsg@EventDataReport@@QEAA?AULogInfo@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z, ?SendMsg@EventDataReport@@QEAA_NAEAULogInfo@@@Z
+  Util.dll: 118 funcs
+         ?IsSupportPlugin@MBASoftShelf@@QEBA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?GetSecType@SmBiosHelper@@QEAAEXZ, ?GetInstance@SmBiosHelper@@SAPEAV1@XZ, ?Attribute@HnXmlElement@@QEBA?BV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z, ?WStringToString@StringProc@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z, ?StringToWString@StringProc@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z, ?GetGpuFrequency@NvGpuInfo@@QEAAMXZ, ?GetGpuPower@NvGpuInfo@@QEAAMXZ, ?Instance@NvGpuInfo@@SAAEAV1@XZ, ?RemoveCntCharacter@LogUtil@@SAXAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?ExecuteCommand@LogUtil@@SAHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?LogMonitorDir@LogUtil@@SA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z, ?GetEagStatus@BiosWmi@@QEAA_NPEAEH@Z, ?GetChargeICStatus@BiosWmi@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_K@Z, ?GetBatteryStatus@BiosWmi@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_K@Z, ?GetODVP@BiosWmi@@QEAAH_K@Z, ?GetGpuNtcTemp@BiosWmi@@QEAAHXZ, ?GetDdrNtcTemp@BiosWmi@@QEAAHXZ, ?GetAmbienceNtcTemp@BiosWmi@@QEAAHXZ, ?GetTypeNtcTemp2@BiosWmi@@QEAAHXZ, ?GetTypeNtcTemp@BiosWmi@@QEAAHXZ, ?GetBatteryNtcTemp@BiosWmi@@QEAAHXZ, ?GetSocNtcTemp2@BiosWmi@@QEAAHXZ, ?GetTempInfo@BiosWmi@@QEAAH_K@Z, ?Value@HnXmlElement@@QEBA?BV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ, ?GetChargerNtcTemp@BiosWmi@@QEAAHXZ, ?GetSocNtcTemp@BiosWmi@@QEAAHXZ, ?GetCpuTemp@BiosWmi@@QEAAMXZ, ?Instance@BiosWmi@@SAAEAV1@XZ, ?GetJsonStringValueByKey@JsonSdk@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0AEAV23@@Z, ?VectorToJson@JsonSdk@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$vector@U?$pair@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V12@@std@@V?$allocator@U?$pair@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V12@@std@@@2@@3@@Z, ??1JsonSdk@@QEAA@XZ, ??0JsonSdk@@QEAA@XZ, ?Parse@HnXMLDocument@@QEAA?AW4HnXmlError@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?FirstNode@HnXMLDocument@@QEAA?AVHnXmlElement@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?GetInstance@SysCpuCalc@@SAPEAV1@XZ, ?GetCpuGhz@SysCpuCalc@@QEAAMXZ, ?Init@SysCpuCalc@@QEAA_NXZ, ?GetCurrentPathA@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ, ?DirectoryExists@DE@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?Now@DE@@YA_JXZ, ?GetCurrentPathW@DE@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?ForceDirectories@DE@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?FileExists@DE@@YA_NPEBD@Z, ?FileExists@DE@@YA_NAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ?FormatDateTime@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEBD_J@Z, ?UnicodeToANSI@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z, ?ANSIToUTF8@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z, ?UTF8ToUnicode@DE@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z, ?GetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEAKK@Z, ?GetCurrentUserSidstr@HNPROCESS@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?QueryProcessNameByPid@HELPER@HNPROCESS@@YAHKAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?GetOutPutUIntEx@WMI@@QEAA_NPEAEI0I@Z, ?GetBootInfo@WMI@@QEAA_NAEAI0@Z, ?SelectUInt@WMI@@QEAAIV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@0@Z, ?GetMonitorBrightness@WMI@@QEAAIXZ, ?IsSupportfeature@MBASoftShelf@@QEBA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?ANSIToUnicode@DE@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z, ?FirstNode@HnXmlElement@@QEBA?AV1@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?FirstAttribute@HnXmlElement@@QEBA?AVHnXmlAttribute@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+  IPCMessage.dll: 9 funcs
+         ??0IPCMessageClient@@QEAA@H_N0@Z, ?UnRegisterMessageCallbackAll@IPCMessageClient@@QEAA_NXZ, ?PostIPCMessage@IPCMessageClient@@QEBA_NAEBUTagIPCMessageItem@@@Z, ?SendIPCMessage@IPCMessageClient@@QEBA_NAEAUTagIPCMessageItem@@0I@Z, ?PublishIPCMessage@IPCMessageClient@@QEBA_NAEAUTagIPCMessageItem@@@Z, ?UnRegisterMessageCallback@IPCMessageClient@@QEAA_NH@Z, ?SubscribeIPCMessage@IPCMessageClient@@QEAA_NII@Z, ??1IPCMessageClient@@QEAA@XZ, ?UnSubscribeIPCMessage@IPCMessageClient@@QEAA_NII@Z
+  MonSysStatePlugin.dll: 2 funcs
+         ?GetInstance@MonSysStateListener@@SAAEAV1@XZ, ?GetCurSysState@MonSysStateListener@@QEAA?AW4SysStateEventIndex@@XZ
+  MonPowerPlugin.dll: 14 funcs
+         ?GetOriginPL2@FirmwarePropertyExecutor@@QEAAMXZ, ?GetInstance@FirmwarePropertyExecutor@@SAAEAV1@XZ, ?GetCpuTemperature@FirmwarePropertyExecutor@@QEAAXAEAH0@Z, ?StartEnumHook@FirmwarePropertyExecutor@@QEAAJAEAV?$vector@KV?$allocator@K@std@@@std@@@Z, ?GetCpuPower@FirmwarePropertyExecutor@@QEAAMXZ, ?GetAveCpuPower@FirmwarePropertyExecutor@@QEAAMXZ, ?GetPSysPower@FirmwarePropertyExecutor@@QEAAMXZ, ?GetAvePSysPower@FirmwarePropertyExecutor@@QEAAMXZ, ?SetFrozenFrontProcess@FirmwarePropertyExecutor@@QEAA_NKAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ?GetOriginPL1@FirmwarePropertyExecutor@@QEAAMXZ, ?GetSocTemperature@FirmwarePropertyExecutor@@QEAAXAEAH@Z, ?QuerySuspendPid@FirmwarePropertyExecutor@@QEAAJK@Z, ?GetPowerLimitScale@FirmwarePropertyExecutor@@QEAAHAEAM0@Z, ?TerminalProcessByPid@FirmwarePropertyExecutor@@QEAAJK@Z
+  sqlite3.dll: 3 funcs
+         sqlite3_exec, sqlite3_open_v2, sqlite3_close_v2
+  MBATipsSDK.dll: 17 funcs
+         ?Init@TipsSuperNotification@TipsSdk@Hwa@@UEAA_NXZ, ?Init@TipsHicast@TipsSdk@Hwa@@UEAA_NXZ, ?Init@TipsProcess@TipsSdk@Hwa@@UEAA_NXZ, ?Init@TipsReport@TipsSdk@Hwa@@UEAA_NXZ, ?Init@TipsNormal@TipsSdk@Hwa@@UEAA_NXZ, ?Init@TipsPower@TipsSdk@Hwa@@UEAA_NXZ, ?Init@TipsBase@TipsSdk@Hwa@@UEAA_NXZ, ?Init@TipsRemoteControl@TipsSdk@Hwa@@UEAA_NXZ, ??1TipsSuperNotification@TipsSdk@Hwa@@UEAA@XZ, ??1TipsHicast@TipsSdk@Hwa@@UEAA@XZ, ??1TipsProcess@TipsSdk@Hwa@@UEAA@XZ, ??1TipsReport@TipsSdk@Hwa@@UEAA@XZ, ??1TipsNormal@TipsSdk@Hwa@@UEAA@XZ, ??1TipsPower@TipsSdk@Hwa@@UEAA@XZ, ??1TipsBase@TipsSdk@Hwa@@UEAA@XZ, ??1TipsMessage@TipsSdk@Hwa@@UEAA@XZ, ??1TipsRemoteControl@TipsSdk@Hwa@@UEAA@XZ
+  secure_c.dll: 2 funcs
+         memset_s, wmemcpy_s
+  KERNEL32.dll: 62 funcs
+         WakeAllConditionVariable, InitOnceComplete, SleepConditionVariableSRW, UnhandledExceptionFilter, SetUnhandledExceptionFilter, GetCurrentProcess, TerminateProcess, IsProcessorFeaturePresent, IsDebuggerPresent, QueryPerformanceCounter, GetCurrentProcessId, GetCurrentThreadId, InitializeSListHead, ExpandEnvironmentStringsA, GetSystemTimeAsFileTime, ExpandEnvironmentStringsW, GetLocalTime, OOBEComplete, InitOnceBeginInitialize, AcquireSRWLockExclusive, ReleaseSRWLockExclusive, GetModuleFileNameW, LoadLibraryW, GetProcAddress, GetModuleHandleW, FreeLibrary, GetSystemPowerStatus, WaitForSingleObject, CreateEventW, Sleep, SetEvent, CloseHandle, ResetEvent, LocalFree, EnterCriticalSection, SetProcessAffinityMask, LeaveCriticalSection, InitializeCriticalSectionEx, OpenProcess, GetLastError, GetSystemInfo, DeleteCriticalSection, GetDiskSpaceInformationA, FindFirstFileW, GetPhysicallyInstalledSystemMemory, FindNextFileW, FindClose, MultiByteToWideChar, GetTickCount64, LoadLibraryA, DeleteFileA, DeleteFileW, CreateThread, ReadProcessMemory, WideCharToMultiByte, K32GetPerformanceInfo, GetTickCount, CreateMutexW, ReleaseMutex, OpenMutexW
+  USER32.dll: 30 funcs
+         GetLastInputInfo, GetWindowThreadProcessId, RegisterPowerSettingNotification, PostQuitMessage, GetDesktopWindow, GetWindowRect, MonitorFromWindow, GetMonitorInfoW, SetWindowPos, ScreenToClient, LoadCursorW, LoadIconW, TranslateMessage, GetForegroundWindow, RegisterClassW, DispatchMessageW, GetShellWindow, CreateWindowExW, DefWindowProcW, GetMessageW, FindWindowW, UnregisterClassW, PostMessageW, EnumDisplaySettingsW, KillTimer, SetTimer, PostMessageA, CloseWindow, IsWindowVisible, IsWindow
+  GDI32.dll: 1 funcs
+         GetStockObject
+  ADVAPI32.dll: 16 funcs
+         RegQueryValueExW, RegOpenKeyExW, RegEnumValueA, RegQueryInfoKeyA, RegQueryValueExA, RegSetValueExA, RegCreateKeyExA, QueryServiceConfig2W, QueryServiceConfigW, ChangeServiceConfigA, OpenServiceA, EnumServicesStatusW, OpenSCManagerW, CloseServiceHandle, RegCloseKey, RegSetValueExW
+  SHELL32.dll: 1 funcs
+         ShellExecuteW
+  ole32.dll: 7 funcs
+         StringFromGUID2, CoCreateInstance, CoTaskMemFree, CoSetProxyBlanket, CoInitializeSecurity, CoInitializeEx, CoUninitialize
+  OLEAUT32.dll: 8 funcs
+         SafeArrayAccessData, SafeArrayCreate, SafeArrayUnaccessData, SysFreeString, VariantInit, SafeArrayDestroy, VariantClear, SysAllocString
+  MSVCP140.dll: 168 funcs
+         ?_Unlock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ, ?showmanyc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JXZ, ?uflow@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAGXZ, ?setbuf@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAPEAV12@PEA_W_J@Z, ?sync@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAHXZ, ?imbue@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAXAEBVlocale@2@@Z, ?setw@std@@YA?AU?$_Smanip@_J@1@_J@Z, ??1?$basic_iostream@_WU?$char_traits@_W@std@@@std@@UEAA@XZ, ?__ExceptionPtrDestroy@@YAXPEAX@Z, _Cnd_broadcast, _Cnd_register_at_thread_exit, ?__ExceptionPtrCopy@@YAXPEAXPEBX@Z, ?__ExceptionPtrRethrow@@YAXPEBX@Z, ?__ExceptionPtrToBool@@YA_NPEBX@Z, ?_Lock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ, ?__ExceptionPtrCurrentException@@YAXPEAX@Z, ?__ExceptionPtrCreate@@YAXPEAX@Z, _Thrd_join, _Thrd_id, ?setf@ios_base@std@@QEAAHH@Z, ?setf@ios_base@std@@QEAAHHH@Z, ?__ExceptionPtrCopyException@@YAXPEAXPEBX1@Z, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAVios_base@1@AEAV21@@Z@Z, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@_N@Z, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@G@Z, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@K@Z, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@_J@Z, ?__ExceptionPtrAssign@@YAXPEAXPEBX@Z, _Cnd_unregister_at_thread_exit, ??0?$basic_iostream@_WU?$char_traits@_W@std@@@std@@QEAA@PEAV?$basic_streambuf@_WU?$char_traits@_W@std@@@1@@Z, ?put@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV12@_W@Z, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z, ??0?$basic_ios@_WU?$char_traits@_W@std@@@std@@IEAA@XZ, ?widen@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEBA_WD@Z, ??1?$basic_ios@_WU?$char_traits@_W@std@@@std@@UEAA@XZ, ?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAADD@Z, ?xsputn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JPEB_W_J@Z, ?xsgetn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JPEA_W_J@Z, ?_Pninc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAPEA_WXZ, ?setp@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAXPEA_W00@Z, ?_Xbad_alloc@std@@YAXXZ, ?_Xlength_error@std@@YAXPEBD@Z, _Cnd_signal, _Cnd_init_in_situ, ??1_Lockit@std@@QEAA@XZ, ??0_Lockit@std@@QEAA@H@Z, ?_Throw_Cpp_error@std@@YAXH@Z, ?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ, ?uncaught_exception@std@@YA_NXZ, ?id@?$ctype@_W@std@@2V0locale@2@A, ?_Xinvalid_argument@std@@YAXPEBD@Z, ?_Xout_of_range@std@@YAXPEBD@Z, ?_Syserror_map@std@@YAPEBDH@Z, _Mtx_destroy_in_situ, _Mtx_lock, _Mtx_init_in_situ, _Cnd_do_broadcast_at_thread_exit, _Cnd_wait, _Thrd_detach, _Mtx_unlock
+  log4cplus.dll: 6 funcs
+         ?isEnabledFor@Logger@log4cplus@@QEBA_NH@Z, ?get_macro_body_oss@detail@log4cplus@@YAAEAV?$basic_ostringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?macro_forced_log@detail@log4cplus@@YAXAEBVLogger@2@HAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEBDH2@Z, ??1Logger@log4cplus@@UEAA@XZ, ??0Logger@log4cplus@@QEAA@AEBV01@@Z, ?GetLogger@@YAAEBVLogger@log4cplus@@XZ
+  SHLWAPI.dll: 2 funcs
+         PathUnquoteSpacesA, PathRemoveArgsA
+  POWRPROF.dll: 9 funcs
+         PowerReadACValue, PowerReadDCValue, PowerReadDCValueIndex, PowerWriteDCValueIndex, PowerWriteACValueIndex, PowerGetActiveScheme, PowerReadACValueIndex, CallNtPowerInformation, PowerSetActiveScheme
+  ntdll.dll: 3 funcs
+         RtlCaptureContext, RtlVirtualUnwind, RtlLookupFunctionEntry
+  VCRUNTIME140_1.dll: 1 funcs
+         __CxxFrameHandler4
+  VCRUNTIME140.dll: 17 funcs
+         __current_exception_context, __C_specific_handler, __std_type_info_destroy_list, __current_exception, wcsstr, strchr, memcmp, memcpy, memmove, memset, wcsrchr, __std_exception_copy, __std_exception_destroy, _CxxThrowException, __std_terminate, _purecall, memchr
+  HardwareSdk.dll: 22 funcs
+         ??1Battery@@QEAA@XZ, ?GetBatteryDesignCapacity@Battery@@QEAAKXZ, ?GetCputype@Cpu@@QEAA?AW4EnmHalCpuType@@XZ, ?GetBatteryFullCapacity@Battery@@QEAAKXZ, ??1Cpu@@QEAA@XZ, ??0Cpu@@QEAA@XZ, ?GetCurrentBattery0@HotInterface@@QEAAHXZ, ?GetVoltageBattery0@HotInterface@@QEAAHXZ, ?GetVoltageUSB0@HotInterface@@QEAAHXZ, ?GetVoltageUSB1@HotInterface@@QEAAHXZ, ?GetCurrentUSB0@HotInterface@@QEAAHXZ, ?GetCurrentUSB1@HotInterface@@QEAAHXZ, ?CheckBattery@Battery@@QEAAHXZ, ??0VideoCard@@QEAA@XZ, ??1VideoCard@@QEAA@XZ, ?GetUnUsedVideoCardName@VideoCard@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ??0HotInterface@@QEAA@XZ, ??1HotInterface@@QEAA@XZ, ?GetSensorTemperature@HotInterface@@QEAAH_K@Z, ?GetFan0Speed@HotInterface@@QEAAIXZ, ?GetFan1Speed@HotInterface@@QEAAIXZ, ??0Battery@@QEAA@XZ
+  DuiLib.dll: 69 funcs
+         ?GetInstance@CResourceManager@DuiLib@@SAPEAV12@XZ, ?InitResource@WindowImplBase@DuiLib@@UEAAXXZ, ?GetSkinType@WindowImplBase@DuiLib@@MEAA?AVCDuiString@2@XZ, ?GetManagerName@WindowImplBase@DuiLib@@MEAAPEB_WXZ, ?OnActivate@WindowImplBase@DuiLib@@UEAAXW4ActivateState@12@W4MinimizedState@12@@Z, ?OnDisplayResolutionChanged@WindowImplBase@DuiLib@@UEAAXII@Z, ?OnResize@WindowImplBase@DuiLib@@UEAAXAEBUtagSIZE@@@Z, ?OnResizeAnimationEnd@WindowImplBase@DuiLib@@UEAAXXZ, ?OnMoveAnimationEnd@WindowImplBase@DuiLib@@UEAAXXZ, ?QueryControlText@WindowImplBase@DuiLib@@UEAAPEB_WPEB_W0@Z, ?CreateControl@WindowImplBase@DuiLib@@UEAAPEAVCControlUI@2@PEB_W@Z, ?MessageHandler@WindowImplBase@DuiLib@@UEAA_JI_K_JAEA_N@Z, ?Notify@WindowImplBase@DuiLib@@UEAAXAEAUtagTNotifyUI@2@@Z, ?GetStyle@WindowImplBase@DuiLib@@UEAAJXZ, ?MessageNormalTreat@WindowImplBase@DuiLib@@UEAA_NI_K_JAEA_JAEAH@Z, ?MessageDeviceTreat@WindowImplBase@DuiLib@@UEAA_NI_K_JAEA_JAEAH@Z, ?MessageSysTreat@WindowImplBase@DuiLib@@UEAA_NI_K_JAEA_JAEAH@Z, ?HandleCustomMessage@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ?OnMouseMove@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ?OnLButtonUp@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ?OnLButtonDown@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ?OnSetFocus@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ?OnKillFocus@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ?OnKeyDown@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ?OnCreate@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ?OnSysCommand@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ?OnChar@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ?OnSize@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ?OnInput@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ?OnMouseLeave@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ?OnMouseHover@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ?OnMouseWheel@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ?OnGetMinMaxInfo@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ?OnNcPaint@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ?OnNcCalcSize@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ??1CDuiString@DuiLib@@QEAA@XZ, ?OnDestroy@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ?OnClose@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ?ResponseDefaultKeyEvent@WindowImplBase@DuiLib@@MEAA_J_K@Z, ?OnFinalMessage@WindowImplBase@DuiLib@@UEAAXPEAUHWND__@@@Z, ?HandleMessage@WindowImplBase@DuiLib@@UEAA_JI_K_J@Z, ?GetClassStyle@WindowImplBase@DuiLib@@UEBAIXZ, ?GetSuperClassName@CWindowWnd@DuiLib@@MEBAPEB_WXZ, ?Close@CWindowWnd@DuiLib@@QEAAXI@Z, ??8CDuiString@DuiLib@@QEBA_NPEB_W@Z, ?GetPaintDC@CPaintManagerUI@DuiLib@@QEBAPEAUHDC__@@XZ, ?GetTextColor@CLabelUI@DuiLib@@QEBAKXZ, ?GetFont@CLabelUI@DuiLib@@QEBAHXZ, ?DrawTextW@CRenderEngine@DuiLib@@SAXPEAUHDC__@@PEAVCPaintManagerUI@2@AEAUtagRECT@@PEB_WKHI_N@Z, ?GetScale@CResourceManager@DuiLib@@QEAAIXZ, ?GetBkImage@CControlUI@DuiLib@@QEAAPEB_WXZ, ?FindControl@CPaintManagerUI@DuiLib@@QEBAPEAVCControlUI@2@PEB_W@Z, ??1WindowImplBase@DuiLib@@UEAA@XZ, ??0WindowImplBase@DuiLib@@QEAA@XZ, ?messageMap@CNotifyPump@DuiLib@@1UDUI_MSGMAP@2@B, ?FindControl@CPaintManagerUI@DuiLib@@QEBAPEAVCControlUI@2@UtagPOINT@@@Z, ?GetHWND@CWindowWnd@DuiLib@@QEBAPEAUHWND__@@XZ, ?OnNcPreHitTest@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z, ??0CDuiString@DuiLib@@QEAA@PEB_WH@Z, ?getInstance@UIMainQueue@DuiLib@@SAAEAV12@XZ

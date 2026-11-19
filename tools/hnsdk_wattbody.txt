@@ -1,0 +1,146 @@
+﻿18003844d mov     qword ptr [r11 + 8], rbx
+180038451 movups  xmmword ptr [rsp + 0x50], xmm0
+180038459 mov     byte ptr [rsp + 0x54], dl
+18003845d mov     byte ptr [rsp + 0x53], cl
+180038461 lea     rdx, [rip + 0x6b678]   >>> W:'ROOT\\WMI'
+180038468 mov     byte ptr [rsp + 0x55], r8b
+18003846d lea     rcx, [rbp - 0x50]
+180038474 mov     qword ptr [r11 + 0x10], rdi
+180038478 mov     r8d, 8
+18003847e mov     word ptr [rsp + 0x50], 0x1703
+180038485 movups  xmmword ptr [rsp + 0x60], xmm0
+18003848a mov     byte ptr [rsp + 0x52], 0xff
+18003848f movups  xmmword ptr [rsp + 0x70], xmm0
+180038494 movups  xmmword ptr [rbp - 0x80], xmm0
+180038498 movups  xmmword ptr [rbp - 0x30], xmm0
+18003849c movups  xmmword ptr [rbp - 0x20], xmm0
+1800384a0 movups  xmmword ptr [rbp - 0x10], xmm0
+1800384a4 movups  xmmword ptr [rbp - 0x50], xmm0
+1800384a8 movdqu  xmmword ptr [rbp - 0x40], xmm1
+1800384ad call    0x18000af70
+1800384b2 lea     rdx, [rbp - 0x50]
+1800384b6 lea     rcx, [rbp - 0x30]
+1800384ba call    0x18005d3a0
+1800384bf lea     r9, [rbp]
+1800384c3 lea     rdx, [rsp + 0x50]
+1800384c8 lea     rcx, [rbp - 0x30]
+1800384cc call    0x18005e2a0
+1800384d1 test    al, al
+1800384d3 je      0x1800385c0
+1800384d9 cmp     byte ptr [rbp], 0
+1800384dd jne     0x1800384e6
+1800384e1 jmp     0x180038695
+1800384e6 lea     rcx, [rbp - 0x70]
+1800384ea call    0x180055360
+1800384f2 lea     rdx, [rip + 0x71097]   >>> S:'HNSDK_SetGPUWattData'
+1800384fc lea     rcx, [rsp + 0x30]
+180038501 mov     r8d, 0x14
+180038507 mov     rbx, qword ptr [rax]
+18003850a movups  xmmword ptr [rsp + 0x30], xmm0
+18003850f movdqu  xmmword ptr [rsp + 0x40], xmm1
+180038515 call    0x18000f410
+18003851c lea     rax, [rip + 0x7104d]   >>> S:'SetGPUWatt WMI return ERROR!'
+180038523 mov     qword ptr [rsp + 0x28], rax
+180038528 lea     rdx, [rsp + 0x30]
+18003852d mov     r8d, 0x1750
+180038533 mov     qword ptr [rsp + 0x20], rdi
+180038538 mov     rcx, rbx
+18003853b lea     r9d, [rdi + 3]
+18003853f call    0x180054ea0
+180038544 mov     rdx, qword ptr [rsp + 0x48]
+180038549 cmp     rdx, 0xf
+18003854f mov     rcx, qword ptr [rsp + 0x30]
+180038557 mov     rax, rcx
+18003855a cmp     rdx, 0x1000
+180038563 mov     rcx, qword ptr [rcx - 8]
+180038572 cmp     rax, 0x1f
+18003857c call    0x1800631e0
+180038581 mov     rdi, qword ptr [rbp - 0x68]
+180038585 test    rdi, rdi
+180038588 je      0x1800385b6
+18003858a mov     ebx, 0xffffffff
+18003858f mov     eax, ebx
+180038596 cmp     eax, 1
+180038599 jne     0x1800385b6
+18003859b mov     rax, qword ptr [rdi]
+18003859e mov     rcx, rdi
+1800385a1 call    qword ptr [rax]
+1800385a8 cmp     ebx, 1
+1800385ab jne     0x1800385b6
+1800385ad mov     rax, qword ptr [rdi]
+1800385b0 mov     rcx, rdi
+1800385b3 call    qword ptr [rax + 8]
+1800385b6 mov     edi, 2
+1800385bb jmp     0x180038695
+1800385c0 lea     rcx, [rbp - 0x60]
+1800385c4 call    0x180055360
+1800385cc lea     rdx, [rip + 0x70fbd]   >>> S:'HNSDK_SetGPUWattData'
+1800385d6 lea     rcx, [rsp + 0x30]
+1800385db mov     r8d, 0x14
+1800385e1 mov     rbx, qword ptr [rax]
+1800385e4 movups  xmmword ptr [rsp + 0x30], xmm0
+1800385e9 movdqu  xmmword ptr [rsp + 0x40], xmm1
+1800385ef call    0x18000f410
+1800385f6 lea     rax, [rip + 0x70fab]   >>> S:'SetGPUWatt WMI ERROR!'
+1800385fd mov     qword ptr [rsp + 0x28], rax
+180038602 lea     rdx, [rsp + 0x30]
+180038607 mov     r8d, 0x1754
+18003860d mov     qword ptr [rsp + 0x20], rdi
+180038612 mov     rcx, rbx
+180038615 lea     r9d, [rdi + 3]
+180038619 call    0x180054ea0
+18003861e mov     rdx, qword ptr [rsp + 0x48]
+180038623 cmp     rdx, 0xf
+180038629 mov     rcx, qword ptr [rsp + 0x30]
+180038631 mov     rax, rcx
+180038634 cmp     rdx, 0x1000
+18003863d mov     rcx, qword ptr [rcx - 8]
+18003864c cmp     rax, 0x1f
+180038656 call    0x1800631e0
+18003865b mov     rdi, qword ptr [rbp - 0x58]
+18003865f test    rdi, rdi
+180038662 je      0x180038690
+180038664 mov     ebx, 0xffffffff
+180038669 mov     eax, ebx
+180038670 cmp     eax, 1
+180038673 jne     0x180038690
+180038675 mov     rax, qword ptr [rdi]
+180038678 mov     rcx, rdi
+18003867b call    qword ptr [rax]
+180038682 cmp     ebx, 1
+180038685 jne     0x180038690
+180038687 mov     rax, qword ptr [rdi]
+18003868a mov     rcx, rdi
+18003868d call    qword ptr [rax + 8]
+180038690 mov     edi, 3
+180038695 mov     rcx, qword ptr [rbp - 0x28]
+180038699 test    rcx, rcx
+18003869c je      0x1800386a4
+18003869e call    qword ptr [rip + 0x5ef14] -> OLEAUT32:SysFreeString
+1800386a4 mov     rcx, qword ptr [rbp - 0x30]
+1800386a8 test    rcx, rcx
+1800386ab je      0x1800386b3
+1800386ad call    qword ptr [rip + 0x5ef05] -> OLEAUT32:SysFreeString
+1800386b3 mov     rdx, qword ptr [rbp - 8]
+1800386b7 cmp     rdx, 7
+1800386bd mov     rcx, qword ptr [rbp - 0x20]
+1800386c1 lea     rdx, [rdx*2 + 2]
+1800386c9 mov     rax, rcx
+1800386cc cmp     rdx, 0x1000
+1800386d5 mov     rcx, qword ptr [rcx - 8]
+1800386e4 cmp     rax, 0x1f
+1800386ea call    0x1800631e0
+1800386ef mov     rbx, qword ptr [rsp + 0x220]
+1800386f7 mov     eax, edi
+1800386f9 mov     rdi, qword ptr [rsp + 0x228]
+180038701 mov     rcx, qword ptr [rbp + 0x100]
+18003870b call    0x1800631c0
+180038719 mov     eax, 1
+18003871e jmp     0x180038701
+180038720 call    0x18006a654
+180038726 call    0x18006a654
+18003872c call    0x18006a654
+180038740 mov     qword ptr [rsp + 0x18], rsi
+18003874a lea     rbp, [rsp - 0x160]
+180038759 mov     rax, qword ptr [rip + 0x88960]
+180038763 mov     qword ptr [rbp + 0x150], rax

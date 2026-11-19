@@ -1,0 +1,17 @@
+﻿====================================================================================================
+FILE: HHAL.dll  machine=0x8664  timestamp=0x621096e3
+SECTIONS: .text, .rdata, .data, .pdata, _RDATA, .rsrc, .reloc
+EXPORTS (7):
+  [1] GetCurrentPl1
+  [2] GetCurrentPl2
+  [3] GetCurrentPlx
+  [4] GetPlatformInfo
+  [5] SetCurrentPl1
+  [6] SetCurrentPl2
+  [7] SetCurrentPlx
+IMPORTS:
+  KERNEL32.dll: 75 funcs
+     GetCurrentDirectoryW, CloseHandle, GetLastError, CreateFileW, DeviceIoControl, RtlCaptureContext, RtlLookupFunctionEntry, RtlVirtualUnwind, UnhandledExceptionFilter, SetUnhandledExceptionFilter, GetCurrentProcess, TerminateProcess, IsProcessorFeaturePresent, QueryPerformanceCounter, GetCurrentProcessId, GetCurrentThreadId, GetSystemTimeAsFileTime, InitializeSListHead, IsDebuggerPresent, GetStartupInfoW, GetModuleHandleW, RtlUnwindEx, InterlockedFlushSList, SetLastError, EnterCriticalSection, LeaveCriticalSection, DeleteCriticalSection, InitializeCriticalSectionAndSpinCount, TlsAlloc, TlsGetValue, TlsSetValue, TlsFree, FreeLibrary, GetProcAddress, LoadLibraryExW, EncodePointer, RaiseException, RtlPcToFileHeader, ExitProcess, GetModuleHandleExW, GetModuleFileNameW, HeapAlloc, HeapFree, FlsAlloc, FlsGetValue, FlsSetValue, FlsFree, LCMapStringW, GetStdHandle, GetFileType, FindClose, FindFirstFileExW, FindNextFileW, IsValidCodePage, GetACP, GetOEMCP, GetCPInfo, GetCommandLineA, GetCommandLineW, MultiByteToWideChar
+     ... (+15 more)
+  ADVAPI32.dll: 6 funcs
+     CreateServiceW, QueryServiceStatus, CloseServiceHandle, OpenSCManagerW, OpenServiceW, StartServiceW

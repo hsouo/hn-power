@@ -1,0 +1,1873 @@
+### ASCII strings (1402)
+!This program cannot be run in DOS mode.
+JRich
+.text
+`.rdata
+@.data
+.pdata
+@_RDATA
+@.rsrc
+@.reloc
+@SVWH
+GT$@L
+GD$ H
+GD$ H
+L$PH3
+L$8H3
+UWAVH
+\$ UVWH
+\$ UVWH
+\$ VH
+\$ VH
+L$HH3
+@SVWH
+t$XE3
+L$HH3
+L$0H3
+@SVWAVH
+|$@E3
+L$0H3
+HA^_^[
+)t$PH
+(t$PH
+VWATAVAWH
+d$ E3
+@A_A^A\_^
+@SVATAVH
+/u)I+
+8A^A\^[
+@SUVWAVH
+0A^_^][
+@SUVWAVH
+L$`H3
+pA^_^][
+(D$0f
+@SUVWAVH
+(D$0f
+L$pH3
+A^_^][
+t$ UWATAVAWH
+L$(E3
+\$HI;
+GD$0A
+A_A^A\_]
+VWAVH
+@SVWATAUAVAWH
+9t$dt
+L$xA;
+T$|D;
+T$|@2
+A_A^A]A\_^[
+UVWATAUAVAWH
+|$\A+
+|$8E3
+L$hH3
+pA_A^A]A\_^]
+WATAUAVAWH
+l$XH;
+l$XH;
+L$PH+
+L$hH3
+A_A^A]A\_
+L$`H3
+L$`H3
+t$ WH
+)t$PH
+L$HH3
+(t$PH
+)t$PH
+T$ E3
+L$HH3
+(t$PH
+t$ WH
+9D$ u8H
+L$(H3
+t$ WATAUAVAWH
+GL$xH
+Gd$xI
+GL$xL
+A_A^A]A\_
+|$ ATAVAWH
+t$ E3
+L$@E3
+A_A^A\
+|$ UAVAWH
+L$`E3
+rL9}@
+)D$ L
+~jL9}@
+)D$ L
+A_A^]
+L$(H;
+l$ VWAVH
+t$8H;
+L$@H3
+@SUWAVAWH
+fD9<Zu
+ A_A^_][
+VWAVH
+ A^_^
+ A^_^
+L$pH3
+@SWAVH
+D$HE3
+L$HH3
+PA^_[
+SVWATAUAVAWH
+pA_A^A]A\_^[
+|$ UATAUAVAWH
+D9h }
+D;o }ZH
+vb'vb'v
+T$0H;
+T$0H;
+A_A^A]A\]
+@SVAVAWH
+(A_A^^[
+@SVAVAWH
+d$ E3
+8A_A^^[
+@VWAUAVH
+\$pE3
+8A^A]_^
+@SUWAVH
+(A^_][
+(A^_][
+@WATAVAWH
+8A_A^A\_
+@SVAVAWH
+|$ H;
+(A_A^^[
+@SVATAWH
+t$ H;
+8A_A\^[
+VWAVH
+L$0H3
+@A^_^
+UVWAUH
+L$ H+
+HA]_^]
+l$ VWAVH
+UUUUUUU
+t$8H;
+L$@H3
+@UVWH
+t$ E3
+L$PH3
+t$ UH
+(D$0f
+L$`H3
+(D$0f
+L$`H3
+t$ AWH
+L$|E3
+|$XI;
+T$`A9r
+WAVAWH
+D$@tC
+A_A^_
+f#D$@H
+t$ WH
+sH9.tgH
+D$ H;
+9D$(}LH
+sH9.t&H
+sH9.t
+L$0H3
+fA99}
+SVWAVH
+8A^_^[
+WAVAWH
+\$8H;
+A_A^_
+|$ AVH
+VWAVH
+@A^_^
+x AVH
+ntelA
+ineID
+\$ WH
+@SVWH
+D8L$0u`
+|$(A^
+VWATAVAWH
+T$PE3
+ A_A^A\_^
+WATAUAVAWH
+A_A^A]A\_
+x AVH
+(t$ H
+(t$ A
+HcE_H
+HcE_L
+HcEgH
+H;XXs
+H;xXu5
+t7HcP
+t$ WH
+WATAUAVAWH
+A_A^A]A\_
+L$@;|
+tRLcY
+|$(A^
+AUAVAWH
+u4I9}(
+;I9}(tiH
+0A_A^A]
+AUAVAWH
+u4I9}(
+;I9}(tiH
+0A_A^A]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+@USVWATAUAVAWH
+K0HcQ
+L$xE3
+HcO H
+HcG H
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+t)IcV
+K0HcQ
+D$pHc
+d$dD;d$l
+L$h;M
+A_A^A]A\_^[]
+UVWATAUAVAWH
+t$xfI
+t1Lcc
+A_A^A]A\_^]
+@USVWATAUAVAWH
+L$`;M
+A_A^A]A\_^[]
+x AVH
+WAVAWH
+ A_A^_
+x AVH
+HcK H
+WAVAWH
+9p@u+
+t'HcW
+9t$Pu
+A_A^_
+tEHcR
+@SVWATAUAVAWH
+|$ D!
+L!|$(L!
+D$8L9
+D$0HcH
+pA_A^A]A\_^[
+SVWATAUAWH
+d$ D!
+L!d$(L!d$@D
+D$HL9gXt
+A_A]A\_^[
+B(I9A(u
+SVWATAUAVAWH
+0A_A^A]A\_^[
+SVWATAUAVAWH
+t?HcS
+|$8L;
+L;|$X
+(D$0f
+A_A^A]A\_^[
+t$ WATAUAVAWH
+E0Lc`
+E0HcH
+ A_A^A]A\_
+9)~P3
+UVWATAUAVAWH
+99~CE
+ A_A^A]A\_^]
+wwH9Q
+D$ I;R
+D$ I9P
+WATAUAVAWH
+ A_A^A]A\_
+vyfffff
+vyfffff
+fffffff
+fffffff
+WAVAWH
+@A_A^_
+t$ WH
+WATAVH
+\$ E3
+|$xL;
+0A^A\_
+VWAVH
+t$ E3
+E8q(u
+E80t"A
+fD94Q}
+D84:u
+@A^_^
+D$0@8{
+UWAVH
+p*W4H
+p*W4H
+s WATAUAVAWH
+H9\$X
+D$h9t$P
+A_A^A]A\_
+L$ WH
+t$ UWAUAVAWH
+A_A^A]_]
+x AVH
+f9,Yu
+l$ E3
+x AVH
+u$D8r(t
+D81uUL9r
+uED8r(t
+vAD8s(t
+@8j(t
+f9)u4H9j
+u%@8j(t
+@8k(t
+98t H
+L$ WH
+u3HcH<H
+WATAUAVAWH
+< t=<
+ A_A^A]A\_
+UVWAVAWH
+D$ E3
+0A_A^_^]
+H9=E\
+x AVH
+L$ WH
+L$ WH
+WAVAWH
+ A_A^_
+WAVAWH
+ A_A^_
+p0R^G'
+UVWATAUAVAWH
+L$(E3
+@8i(u
+L$0f;
+f;\$4
+L$8f;
+f;\$<
+L$@f;
+f;\$D
+L$Hf;
+f;\$L
+L$Pf;
+f;\$T
+L$Xf;
+f;\$\
+L$`f;
+rsf;\$d
+L$hf;
+r_f;\$l
+L$pf;
+rKf;\$t
+L$xf;
+r7f;\$|
+D$0f;
+f;\$4r
+D$8f;
+f;\$<r
+D$@f;
+f;\$D
+D$Hf;
+f;\$L
+D$Pf;
+f;\$T
+D$Xf;
+f;\$\
+D$`f;
+rvf;\$d
+D$hf;
+rbf;\$l
+D$pf;
+rNf;\$t
+D$xf;
+r:f;\$|
+A_A^A]A\_^]
+T$`fA;
+L$ WH
+L$ WH
+L$ WH
+L$ WH
+L$ WH
+L$ WH
+L$ SH
+\$ WH
+l$ E3
+WAVAWH
+fD9;u
+;.u1L
+fE98t'
+0A_A^_
+|$ E3
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+9Cu,fD9y
+fB9<{u
+fD9,pu
+t$`fD9+t$I
+D$@fD
+l$ E3
+l$ E3
+L$ SUVWH
+;\$p|
+8_^][
+WATAUAVAWH
+0A_A^A]A\_
+d$ E3
+\$ UVWATAUAVAWH
+fD9,Au
+D$@fD
+A_A^A]A\_^]
+D$@H+
+l$ E3
+\$ UVWATAUAVAWH
+|$`CI
+f9t$bu
+A_A^A]A\_^]
+H9L$Ht?H
+t$ E3
+UVWATAUAVAWH
+fE9,Fu
+A_A^A]A\_^]
+VWAVH
+0A^_^
+|$ AVH
+L$ WH
+WATAUAVAWH
+ A_A^A]A\_
+p0R^G'
+u+!D$0
+x AVH
+E8q(u
+fD94H}aD
+x AVH
+fD9t$b
+x AVH
+t$ WH
+WATAUAVAWH
+0A_A^A]A\_
+@UAVAWH
+e0A_A^]
+@SUVWATAVAWH
+A_A^A\_^][
+|$ E3
+@UATAUAVAWH
+e0A_A^A]A\]
+@UATAUAVAWH
+Hc}`I
+A_A^A]A\]
+L$ WH
+t$ WATAUAVAWH
+D!|$xA
+A_A^A]A\_
+D$(H;
+WATAVH
+|$xL;
+\$ E3
+0A^A\_
+@USVWATAUAVAWH
+E8a(u
+fD9 t
+xA_A^A]A\_^[]
+L$ WH
+L$ VWAVH
+\$8I;
+`A^_^
+x AVH
+u$D8r(t
+fD91uTL9r
+uED8r(t
+v@D8s(t
+UVWATAUAVAWH
+EH*?H
+PA_A^A]A\_^]
+WATAUAVAWH
+@8<)u
+0A_A^A]A\_
+H9>u+A
+]L+6H
+|$ E3
+@USVWATAUAVH
+,/<-w
+t$`L#
+D8t$ht
+I+4$H
+D8t$ht
+A^A]A\_^[]
+8D$@t
+L$ WH
+UWAVH
+\$0H;
+L$0H;
+l$ VWATAVAWH
+L$&8\$&t,8Y
+L$8H3
+A_A^A\_^
+x AVH
+t$8H+
+p;Y>u
+p;Y>u
+UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+A_A^A]A\_
+UATAUAVAWH
+A_A^A]A\]
+fB9<Hu
+|$ E3
+f9<Ju
+fB9<@u
+fB9<Bu
+VWAUH
+fB9,Nu
+t(LcC
+fB9,Nu
+fB9,Nu
+f9,~u
+f9,Ju
+fA9,Au
+f9,~u
+f9,~u
+l$ E3
+fB94Ou
+t$ E3
+t}f91txH
+L$8H3
+x ATAVAWH
+ A_A^A\
+x ATAVAWH
+fD9 t
+fD9 tMH
+fD9 t
+fD9 t
+fD9'u
+fG9$Ou
+0A_A^A\
+d$ E3
+t$ WH
+fB9<Hu
+fB9<@u
+fB9<Bu
+VWAVH
+ufD9v
+t9LcF
+fD94Au
+fD94iu
+u4D9v
+tSf91tNH
+t^;\$0tQ
+WAVAWH
+ A_A^_
+@USVWATAVAWH
+fD9 t
+tyfD9 tsH
+fD9 t
+fD9 t
+tQfD9 tK
+fD9$Hu
+@A_A^A\_^[]
+WAVAWH
+ A_A^_
+@SUVWATAVAWH
+L$0H3
+@A_A^A\_^][
+UVWATAUAVAWH
+L$8H3
+@A_A^A]A\_^]
+L$ WH
+UVWATAUAVAWH
+A8z(u
+fB9<I}1L
+A_A^A]A\_^]
+\$@H;
+\$@H;
+D$@H+
+VWATAVAW
+D$PI;
+D$PH+
+A_A^A\_^
+VATAUAVAWH
+0A_A^A]A\^
+@USVWATAUAVAWH
+@8{(u
+H!D$ H
+xA_A^A]A\_^[]
+ATAUAVH
+L$ fff
+L$ |+L;
+L$ I;
+L$ L;
+A^A]A\
+L$@H3
+WAVAWH
+D8|$`t
+ A_A^_
+x ATAVAWH
+@A_A^A\
+ot$ H
+ffffff
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+fffffff
+ot$ H
+ot$ H
+L$ WH
+USVWAVH
+A^_^[]
+(t$PH
+LcA<E3
+HcQ<H
+x AVH
+x AVH
+t%fE9
+fffff
+fffffff
+fffffff
+fffffff
+ffffff
+fffff
+vKfffff
+L9BHA
+L9BHA
+@SUWH
+@SUWH
+GetTempPath2W
+device or resource busy
+invalid argument
+no such process
+not enough memory
+operation not permitted
+resource deadlock would occur
+resource unavailable try again
+bad allocation
+success
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+cross device link
+destination address required
+directory not empty
+executable format error
+file exists
+file too large
+filename too long
+function not supported
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+interrupted
+invalid seek
+io error
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no lock available
+no message available
+no message
+no protocol option
+no space on device
+no stream resources
+no such device or address
+no such device
+no such file or directory
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation canceled
+operation in progress
+operation not supported
+operation would block
+owner dead
+permission denied
+protocol error
+protocol not supported
+read only file system
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many files open
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+unknown error
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefghijklmnopqrstuvwxyz
+GetCurrentPackageId
+GetSystemTimePreciseAsFileTime
+bad exception
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__swift_1
+__swift_2
+__swift_3
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`RTTI
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+operator co_await
+operator<=>
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+`anonymous namespace'
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+CorExitProcess
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+April
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+AreFileApisANSI
+CompareStringEx
+EnumSystemLocalesEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+LCIDToLocaleName
+LocaleNameToLCID
+RoInitialize
+RoUninitialize
+AppPolicyGetProcessTerminationMethod
+AppPolicyGetThreadInitializationType
+log10
+UUUUUU
+UUUUUU
+TUUUU
+=imb;D
+/>58d%
+!>6'Y
+>jtm}S
+)>6{1n
+Vr.>T
++f)>0'
+Lj[;>
+3>fvw
+;H9>&X
+*StO9>T
+n03>Pu
+K~Je#>!
++M<7>
+c(>\,
+bp(=>?g
+BC?>6t9^
+BF>^G
+K&>.yC
+ 'L>[
+.xJ>Hf
+y\PD>!
+|b=})>
+c [1>H'
+uzKs@>
+3>N;kU
+kE>fvw
+A>pP&
+V6E>`"(5
+0iN>/
++h->|
+@>%>b
+?:kP<
+?UUUUUU
+?f`Y4
+?QY^&
+?7zQ6$
+Unknown exception
+bad array new length
+bad cast
+Bad any_cast
+string too long
+generic
+iostream
+system
+bad locale name
+false
+ios_base::badbit set
+ios_base::failbit set
+ios_base::eofbit set
+map/set too long
+611000002
+Pascal
+Marconi
+Kepler
+Darwin
+Volta
+Wright
+Kelvin
+Planck
+MachA
+MachR
+KeplerR
+NobelK
+NobelB
+BohrB
+BohrK
+VoltaR
+Hubble
+config\DeviceFuncSwitchConf.xml
+Feishu.exe
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\ConferencePowerSavingPlugin\ConferencePowerSaving.cpp
+SetGlobalHook
+<unknown>
+C:\ProgramData\Comms\PCManager\ConferencePowerSaving\fixed_screenshot.bmp
+ConferencePowerSaving::IsClickInSpecificArea
+Process not found
+bool __cdecl ConferencePowerSaving::IsClickInSpecificArea(struct tagPOINT,struct HWND__ *,struct tagRECT &,const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+Main thread not found
+Load library failed!
+Not get SetGlobalHook function!
+Install Hook Success!
+Install Hook Failed!
+ConferencePowerSaving::ConferencePowerSaving
+Register audio probe failed!
+__cdecl ConferencePowerSaving::ConferencePowerSaving(void)
+Register Systemload failed!
+C:\ProgramData\Comms\PCManager\ConferencePowerSaving
+ConferencePowerSaving::CreateScreenshotsDirectory
+Failed to create directory.
+bool __cdecl ConferencePowerSaving::CreateScreenshotsDirectory(void)
+Path exists but is not a directory.
+ConferencePowerSaving::OnNotifyAudioEvent
+Target process starts
+void __cdecl ConferencePowerSaving::OnNotifyAudioEvent(enum ProbeType,class std::any)
+SystemSettings.exe
+ConferencePowerSaving::InitializeAndRegisterClient
+[ConferencePowerSaving] RegisterClient failed.
+bool __cdecl ConferencePowerSaving::InitializeAndRegisterClient(void)
+C:\Program Files\HONOR\HNPCAIService\res\cvdetect
+mute_detect.xml
+ConferencePowerSaving::LoadModelAndInfer
+[ConferencePowerSaving] loadmodel failed.
+bool __cdecl ConferencePowerSaving::LoadModelAndInfer(void)
+token
+[ConferencePowerSaving] detect process failed.
+[ConferencePowerSaving] unload model failed.
+ConferencePowerSaving::UnregisterClient
+[ConferencePowerSaving] unregister client failed.
+bool __cdecl ConferencePowerSaving::UnregisterClient(void)
+vector too long
+invalid string position
+unknown error
+iostream stream error
+RegisterPlugin
+UnRegisterPlugin
+Conference.PowerSaving.Plugin
+FMB-P
+FMB-PM
+ConferencePowerSavingPlugin::Start
+[ConferencePowerSaving] Start The SystemProductName does not match any of the predefined product names.
+bool __cdecl ConferencePowerSavingPlugin::Start(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\ConferencePowerSavingPlugin\ConferencePowerSavingPlugin.cpp
+ConferencePowerSavingPlugin::Stop
+ConferencePowerSavingPlugin Stop.
+bool __cdecl ConferencePowerSavingPlugin::Stop(void)
+[ConferencePowerSaving] Stop The SystemProductName does not match any of the predefined product names.
+HARDWARE\DESCRIPTION\System\BIOS
+SystemProductName
+ConferencePowerSavingPlugin::CheckSystemProductName
+[ConferencePowerSaving] Value type is not REG_SZ.
+bool __cdecl ConferencePowerSavingPlugin::CheckSystemProductName(void)
+[ConferencePowerSaving] Could not query the value.
+[ConferencePowerSaving] Could not open the registry key.
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\output_temp\pdb\ConferencePowerSavingPlugin.pdb
+.text$di
+.text$mn
+.text$mn$00
+.text$mn$21
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCC
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$00
+.rdata$T
+.rdata$r
+.rdata$voltmd
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.tls$
+.tls$ZZZ
+.xdata
+.xdata$x
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.data$rs
+.pdata
+_RDATA
+.rsrc$01
+.rsrc$02
+ConferencePowerSavingPlugin.dll
+??0EventDRprtConfig@@QEAA@$$QEAV0@@Z
+??0EventDRprtConfig@@QEAA@AEBV0@@Z
+??0EventDRprtConfig@@QEAA@XZ
+??4EventDRprtConfig@@QEAAAEAV0@$$QEAV0@@Z
+??4EventDRprtConfig@@QEAAAEAV0@AEBV0@@Z
+??4MonSysStateListener@@QEAAAEAV0@AEBV0@@Z
+??_7EventDRprtConfig@@6B@
+?__autoclassinit2@EventDataReport@@QEAAX_K@Z
+InitializePluginModule
+UninitializePluginModule
+??1IPCMessageClient@@QEAA@XZ
+??0IPCMessageClient@@QEAA@H_N0@Z
+IPCMessage.dll
+?RegisterProbe@ProbeManager@@QEAA_NW4ProbeType@@HV?$function@$$A6AXW4ProbeType@@Vany@std@@@Z@std@@@Z
+?GetInstance@ProbeManager@@SAPEAV1@XZ
+SystemState.dll
+??1CVInferRequest_v1@HNPCInfer@@QEAA@XZ
+??0CVInferRequest_v1@HNPCInfer@@QEAA@XZ
+?Infer_sync@CVInferInterface@HNPCInfer@@QEAA?AV?$shared_ptr@VCVInferReponse_v1@HNPCInfer@@@std@@AEBVCVInferRequest_v1@2@@Z
+?UnloadModel@CVInferInterface@HNPCInfer@@QEAA?AUResponseBasicInfo@2@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?LoadModel@CVInferInterface@HNPCInfer@@QEAA?AUResponseBasicInfo@2@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?UnRegistClient@CVInferInterface@HNPCInfer@@QEAA?AUResponseBasicInfo@2@XZ
+?RegistClient@CVInferInterface@HNPCInfer@@QEAA?AUResponseBasicInfo@2@UVersion@2@@Z
+?Initialize@CVInferInterface@HNPCInfer@@QEAA_NXZ
+??1CVInferInterface@HNPCInfer@@UEAA@XZ
+??0CVInferInterface@HNPCInfer@@QEAA@XZ
+HNInferServing.dll
+?Instance@EventDataReport@@SAAEAV1@XZ
+?SendMsg@EventDataReport@@QEAA_NAEAULogInfo@@@Z
+?GetMsg@EventDataReport@@QEAA?AULogInfo@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z
+DataReport.dll
+WriteFile
+Thread32Next
+InitializeCriticalSectionEx
+Thread32First
+LocalAlloc
+OpenProcess
+CreateToolhelp32Snapshot
+Sleep
+GetLastError
+GetFileAttributesA
+Process32NextW
+K32GetModuleBaseNameW
+CreateFileA
+Process32FirstW
+CloseHandle
+LoadLibraryW
+DecodePointer
+GetProcAddress
+LocalFree
+DeleteCriticalSection
+GetModuleHandleW
+GetConsoleWindow
+K32EnumProcessModules
+CreateDirectoryA
+GetModuleFileNameW
+FreeLibrary
+KERNEL32.dll
+ReleaseDC
+GetParent
+GetClientRect
+SetWindowsHookExW
+TranslateMessage
+EnumWindows
+UnhookWindowsHookEx
+GetForegroundWindow
+DispatchMessageW
+ShowWindow
+WindowFromPoint
+CallNextHookEx
+ScreenToClient
+GetDC
+GetWindowRect
+GetMessageW
+GetWindowThreadProcessId
+GetWindowLongW
+USER32.dll
+DeleteObject
+GetObjectW
+DeleteDC
+GetDIBits
+CreateCompatibleDC
+SelectObject
+CreateCompatibleBitmap
+BitBlt
+GDI32.dll
+RegOpenKeyExA
+RegQueryValueExA
+RegCloseKey
+ADVAPI32.dll
+CoInitialize
+CoCreateInstance
+ole32.dll
+?GetLogger@@YAAEBVLogger@log4cplus@@XZ
+??1Logger@log4cplus@@UEAA@XZ
+??0Logger@log4cplus@@QEAA@AEBV01@@Z
+?isEnabledFor@Logger@log4cplus@@QEBA_NH@Z
+?get_macro_body_oss@detail@log4cplus@@YAAEAV?$basic_ostringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ
+?macro_forced_log@detail@log4cplus@@YAXAEBVLogger@2@HAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEBDH2@Z
+log4cplus.dll
+PathCchRemoveFileSpec
+api-ms-win-core-path-l1-1-0.dll
+MultiByteToWideChar
+FormatMessageA
+GetLocaleInfoEx
+CreateFileW
+FindClose
+FindFirstFileExW
+FindNextFileW
+AreFileApisANSI
+WideCharToMultiByte
+GetStringTypeW
+ReleaseSRWLockExclusive
+AcquireSRWLockExclusive
+TryAcquireSRWLockExclusive
+GetCurrentThreadId
+EnterCriticalSection
+LeaveCriticalSection
+EncodePointer
+QueryPerformanceCounter
+LCMapStringEx
+WakeAllConditionVariable
+SleepConditionVariableSRW
+GetSystemTimeAsFileTime
+GetCPInfo
+IsDebuggerPresent
+OutputDebugStringW
+RaiseException
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+GetStartupInfoW
+GetCurrentProcessId
+InitializeSListHead
+RtlUnwindEx
+InterlockedFlushSList
+RtlPcToFileHeader
+SetLastError
+InitializeCriticalSectionAndSpinCount
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+LoadLibraryExW
+CreateThread
+ExitThread
+FreeLibraryAndExitThread
+GetModuleHandleExW
+ExitProcess
+HeapAlloc
+HeapFree
+FlsAlloc
+FlsGetValue
+FlsSetValue
+FlsFree
+LCMapStringW
+GetLocaleInfoW
+IsValidLocale
+GetUserDefaultLCID
+EnumSystemLocalesW
+GetStdHandle
+GetFileType
+SetFilePointerEx
+HeapReAlloc
+HeapSize
+IsValidCodePage
+GetACP
+GetOEMCP
+GetCommandLineA
+GetCommandLineW
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+GetProcessHeap
+SetStdHandle
+FlushFileBuffers
+GetConsoleOutputCP
+GetConsoleMode
+WriteConsoleW
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVbad_exception@std@@
+.?AVfailure@ios_base@std@@
+.?AVruntime_error@std@@
+.?AVbad_alloc@std@@
+.?AUSysStateAudio@@
+.?AVsystem_error@std@@
+.?AVbad_cast@std@@
+.?AVbad_any_cast@std@@
+.?AV?$_Binder@U_Unforced@std@@AEAP8ConferencePowerSaving@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV3@AEBU?$_Ph@$00@2@@std@@
+.?AV_System_error@std@@
+.?AV?$_Binder@U_Unforced@std@@P8ConferencePowerSaving@@EAAXW4ProbeType@@Vany@2@@ZPEAV3@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AUSysSystemLoadData@@
+.?AVexception@std@@
+.?AVbad_array_new_length@std@@
+.P6A?AV?$shared_ptr@VMBAPlugin@@@std@@XZ
+.?AVtype_info@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8ConferencePowerSaving@@EAAXW4ProbeType@@Vany@2@@ZPEAV3@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XW4ProbeType@@Vany@2@@std@@
+.?AVerror_category@std@@
+.?AV_System_error_category@std@@
+.?AV_Facet_base@std@@
+.?AV_Generic_error_category@std@@
+.?AU_Crt_new_delete@std@@
+.?AV_Iostream_error_category2@std@@
+.?AUctype_base@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@AEAP8ConferencePowerSaving@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV3@AEBU?$_Ph@$00@2@@std@@XAEAUTagIPCMessageItem@@@std@@
+.?AVfacet@locale@std@@
+.?AV?$_Func_base@XW4ProbeType@@Vany@std@@@std@@
+.?AV?$_Func_base@XAEAUTagIPCMessageItem@@@std@@
+.?AV?$ctype@_W@std@@
+.?AVEventDRprtConfig@@
+.?AV?$_Func_base@V?$shared_ptr@VMBAPlugin@@@std@@$$V@std@@
+.?AV?$_Ref_count_obj2@VConferencePowerSavingPlugin@@@std@@
+.?AVConferencePowerSavingPlugin@@
+.?AV?$_Func_impl_no_alloc@P6A?AV?$shared_ptr@VMBAPlugin@@@std@@XZV12@$$V@std@@
+.?AVMBAPlugin@@
+.?AV_Ref_count_base@std@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0L1 0
+GlobalSign Root CA - R31
+GlobalSign1
+GlobalSign0
+200728000000Z
+290318000000Z0S1
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+p\$x %
+Bng~B
+tsg1z
+n0l0-
+!http://ocsp.globalsign.com/rootr30;
+/http://secure.globalsign.com/cacert/root-r3.crt06
+/0-0+
+%http://crl.globalsign.com/root-r3.crl0G
+@0>0<
+&https://www.globalsign.com/repository/0
+b wul
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+200728000000Z
+300728000000Z0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+-http://ocsp.globalsign.com/codesigningrootr450F
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+:0806
+0http://crl.globalsign.com/codesigningrootr45.crl0U
+N0L0A
+&https://www.globalsign.com/repository/0
+jh4%B
+wF*=#}(s
+1R95)
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+231215060929Z
+261128091510Z0
+Private Organization1
+91440300MA5G49LC9K1
+Guangdong1
+Shenzhen1
+Guangdong1
+Shenzhen1^0\
+34011
+Honor Device Co., Ltd.1
+Honor Device Co., Ltd.0
+fKz|fz
+(nkd_
+aJM|tu
+@http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+3http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+N0L0A
+&https://www.globalsign.com/repository/0
+@0>0<
+6http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+JB]b$
+"cp`k
+0l0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 2020
+Je.;0
+81f|`T>5l
+d7OYY
+|JsBd
+20250214045834Z0
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 2025
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+250109084043Z
+360107084043Z0P1
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 20250
+xc#|(
+[fC@*82
+i0g0;
+/http://subca.repository.certum.pl/ctsca2021.cer0(
+http://subca.ocsp-certum.com0
+2000.
+(http://subca.crl.certum.pl/ctsca2021.crl0
+\8=x;
+&n|<j
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+210519053207Z
+360518053207Z0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+g!5 e
+)0'0%
+http://crl.certum.pl/ctnca2.crl0l
+`0^0(
+http://subca.ocsp-certum.com02
+&http://repository.certum.pl/ctnca2.cer09
+2000.
+http://www.certum.pl/CPS0
+iMi=}B
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1"0 
+Certum Trusted Network CA0
+210531064306Z
+290917064306Z0
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+dg?":
+cyD~Kc$
+.4?)LR
+(0&0$
+http://crl.certum.pl/ctnca.crl0k
+_0]0(
+http://subca.ocsp-certum.com01
+%http://repository.certum.pl/ctnca.cer09
+2000.
+http://www.certum.pl/CPS0
+[.&iB<
+Se"u-
+0k0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+250214045834Z07
+/1(0&0$0"
+jj0o0Z
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+5(DcC~
+%p4s^
+]M.lw:dl
+
+### UTF16 strings (466)
+!x-sys-default-locale
+kernel32.dll
+ERROR : Unable to initialize critical section in CAtlBaseModule
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+api-ms-
+         (((((                  H
+         (((((                  H
+      (                          
+mscoree.dll
+LC_ALL
+LC_COLLATE
+LC_CTYPE
+LC_MONETARY
+LC_NUMERIC
+LC_TIME
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+April
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+en-US
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l1-2-4
+api-ms-win-core-file-l1-2-2
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+advapi32
+kernelbase
+ntdll
+api-ms-win-appmodel-runtime-l1-1-2
+user32
+ext-ms-
+ja-JP
+zh-CN
+ko-KR
+zh-TW
+american
+american english
+american-english
+australian
+belgian
+canadian
+chinese
+chinese-hongkong
+chinese-simplified
+chinese-singapore
+chinese-traditional
+dutch-belgian
+english-american
+english-aus
+english-belize
+english-can
+english-caribbean
+english-ire
+english-jamaica
+english-nz
+english-south africa
+english-trinidad y tobago
+english-uk
+english-us
+english-usa
+french-belgian
+french-canadian
+french-luxembourg
+french-swiss
+german-austrian
+german-lichtenstein
+german-luxembourg
+german-swiss
+irish-english
+italian-swiss
+norwegian
+norwegian-bokmal
+norwegian-nynorsk
+portuguese-brazilian
+spanish-argentina
+spanish-bolivia
+spanish-chile
+spanish-colombia
+spanish-costa rica
+spanish-dominican republic
+spanish-ecuador
+spanish-el salvador
+spanish-guatemala
+spanish-honduras
+spanish-mexican
+spanish-modern
+spanish-nicaragua
+spanish-panama
+spanish-paraguay
+spanish-peru
+spanish-puerto rico
+spanish-uruguay
+spanish-venezuela
+swedish-finland
+swiss
+america
+britain
+china
+czech
+england
+great britain
+holland
+hong-kong
+new-zealand
+pr china
+pr-china
+puerto-rico
+slovak
+south africa
+south korea
+south-africa
+south-korea
+trinidad & tobago
+united-kingdom
+united-states
+utf-8
+zh-CHS
+ar-SA
+bg-BG
+ca-ES
+cs-CZ
+da-DK
+de-DE
+el-GR
+fi-FI
+fr-FR
+he-IL
+hu-HU
+is-IS
+it-IT
+nl-NL
+nb-NO
+pl-PL
+pt-BR
+ro-RO
+ru-RU
+hr-HR
+sk-SK
+sq-AL
+sv-SE
+th-TH
+tr-TR
+ur-PK
+id-ID
+uk-UA
+be-BY
+sl-SI
+et-EE
+lv-LV
+lt-LT
+fa-IR
+vi-VN
+hy-AM
+az-AZ-Latn
+eu-ES
+mk-MK
+tn-ZA
+xh-ZA
+zu-ZA
+af-ZA
+ka-GE
+fo-FO
+hi-IN
+mt-MT
+se-NO
+ms-MY
+kk-KZ
+ky-KG
+sw-KE
+uz-UZ-Latn
+tt-RU
+bn-IN
+pa-IN
+gu-IN
+ta-IN
+te-IN
+kn-IN
+ml-IN
+mr-IN
+sa-IN
+mn-MN
+cy-GB
+gl-ES
+kok-IN
+syr-SY
+div-MV
+quz-BO
+ns-ZA
+mi-NZ
+ar-IQ
+de-CH
+en-GB
+es-MX
+fr-BE
+it-CH
+nl-BE
+nn-NO
+pt-PT
+sr-SP-Latn
+sv-FI
+az-AZ-Cyrl
+se-SE
+ms-BN
+uz-UZ-Cyrl
+quz-EC
+ar-EG
+zh-HK
+de-AT
+en-AU
+es-ES
+fr-CA
+sr-SP-Cyrl
+se-FI
+quz-PE
+ar-LY
+zh-SG
+de-LU
+en-CA
+es-GT
+fr-CH
+hr-BA
+smj-NO
+ar-DZ
+zh-MO
+de-LI
+en-NZ
+es-CR
+fr-LU
+bs-BA-Latn
+smj-SE
+ar-MA
+en-IE
+es-PA
+fr-MC
+sr-BA-Latn
+sma-NO
+ar-TN
+en-ZA
+es-DO
+sr-BA-Cyrl
+sma-SE
+ar-OM
+en-JM
+es-VE
+sms-FI
+ar-YE
+en-CB
+es-CO
+smn-FI
+ar-SY
+en-BZ
+es-PE
+ar-JO
+en-TT
+es-AR
+ar-LB
+en-ZW
+es-EC
+ar-KW
+en-PH
+es-CL
+ar-AE
+es-UY
+ar-BH
+es-PY
+ar-QA
+es-BO
+es-SV
+es-HN
+es-NI
+es-PR
+zh-CHT
+af-za
+ar-ae
+ar-bh
+ar-dz
+ar-eg
+ar-iq
+ar-jo
+ar-kw
+ar-lb
+ar-ly
+ar-ma
+ar-om
+ar-qa
+ar-sa
+ar-sy
+ar-tn
+ar-ye
+az-az-cyrl
+az-az-latn
+be-by
+bg-bg
+bn-in
+bs-ba-latn
+ca-es
+cs-cz
+cy-gb
+da-dk
+de-at
+de-ch
+de-de
+de-li
+de-lu
+div-mv
+el-gr
+en-au
+en-bz
+en-ca
+en-cb
+en-gb
+en-ie
+en-jm
+en-nz
+en-ph
+en-tt
+en-us
+en-za
+en-zw
+es-ar
+es-bo
+es-cl
+es-co
+es-cr
+es-do
+es-ec
+es-es
+es-gt
+es-hn
+es-mx
+es-ni
+es-pa
+es-pe
+es-pr
+es-py
+es-sv
+es-uy
+es-ve
+et-ee
+eu-es
+fa-ir
+fi-fi
+fo-fo
+fr-be
+fr-ca
+fr-ch
+fr-fr
+fr-lu
+fr-mc
+gl-es
+gu-in
+he-il
+hi-in
+hr-ba
+hr-hr
+hu-hu
+hy-am
+id-id
+is-is
+it-ch
+it-it
+ja-jp
+ka-ge
+kk-kz
+kn-in
+kok-in
+ko-kr
+ky-kg
+lt-lt
+lv-lv
+mi-nz
+mk-mk
+ml-in
+mn-mn
+mr-in
+ms-bn
+ms-my
+mt-mt
+nb-no
+nl-be
+nl-nl
+nn-no
+ns-za
+pa-in
+pl-pl
+pt-br
+pt-pt
+quz-bo
+quz-ec
+quz-pe
+ro-ro
+ru-ru
+sa-in
+se-fi
+se-no
+se-se
+sk-sk
+sl-si
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sq-al
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+sv-fi
+sv-se
+sw-ke
+syr-sy
+ta-in
+te-in
+th-th
+tn-za
+tr-tr
+tt-ru
+uk-ua
+ur-pk
+uz-uz-cyrl
+uz-uz-latn
+vi-vn
+xh-za
+zh-chs
+zh-cht
+zh-cn
+zh-hk
+zh-mo
+zh-sg
+zh-tw
+zu-za
+CONOUT$
+\SOFTWARE\HONOR\HnPCInferEngine
+LPCPort
+ROUTINEPort
+C:\Program Files\HONOR\PCManager\TbliveSetWindowAffinity.dll
+<unknown>
+MBAPluginsManager.dll
+
+### GUIDs found (0)

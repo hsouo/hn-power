@@ -1,0 +1,254 @@
+180003410 mov     qword ptr [rsp + 0x18], rbx 
+180003415 mov     qword ptr [rsp + 0x20], rsi 
+18000341a push    rbp 
+18000341b push    rdi 
+18000341c push    r14 
+18000341e mov     rbp, rsp 
+180003421 sub     rsp, 0x60 
+180003425 mov     rax, qword ptr [rip + 0x7c14] 
+18000342c xor     rax, rsp 
+18000342f mov     qword ptr [rbp - 8], rax 
+180003433 movzx   esi, dl 
+180003436 mov     rdi, rcx 
+180003439 xorps   xmm1, xmm1 
+18000343c movdqu  xmmword ptr [rbp - 0x20], xmm1 
+180003441 xor     r14d, r14d 
+180003444 mov     qword ptr [rbp - 0x10], r14 
+180003448 lea     rdx, [rip + 0x4599] W:'Honor Device Co., Ltd.'
+18000344f lea     rcx, [rbp - 0x40] 
+180003453 call    0x180003f40 
+180003458 nop      
+180003459 lea     ebx, [r14 + 7] 
+18000345d mov     rdx, qword ptr [rbp - 0x18] 
+180003461 cmp     rdx, qword ptr [rbp - 0x10] 
+180003465 je      0x180003484 
+180003467 movups  xmm0, xmmword ptr [rbp - 0x40] 
+18000346b movups  xmmword ptr [rdx], xmm0 
+18000346e movups  xmm1, xmmword ptr [rbp - 0x30] 
+180003472 movups  xmmword ptr [rdx + 0x10], xmm1 
+180003476 mov     edx, ebx 
+180003478 mov     word ptr [rbp - 0x40], r14w 
+18000347d add     qword ptr [rbp - 0x18], 0x20 
+180003482 jmp     0x180003495 
+180003484 lea     r8, [rbp - 0x40] 
+180003488 lea     rcx, [rbp - 0x20] 
+18000348c call    0x180005400 
+180003491 mov     rdx, qword ptr [rbp - 0x28] 
+180003495 cmp     rdx, 7 
+180003499 jbe     0x1800034d1 
+18000349b lea     rdx, [rdx*2 + 2] 
+1800034a3 mov     rcx, qword ptr [rbp - 0x40] 
+1800034a7 mov     rax, rcx 
+1800034aa cmp     rdx, 0x1000 
+1800034b1 jb      0x1800034cc 
+1800034b3 add     rdx, 0x27 
+1800034b7 mov     rcx, qword ptr [rcx - 8] 
+1800034bb sub     rax, rcx 
+1800034be add     rax, -8 
+1800034c2 cmp     rax, 0x1f 
+1800034c6 ja      0x18000375f 
+1800034cc call    0x1800058c0 
+1800034d1 lea     rdx, [rip + 0x4548] W:'Zhuhai Kingsoft Office Software Co., Ltd.'
+1800034d8 lea     rcx, [rbp - 0x40] 
+1800034dc call    0x180003f40 
+1800034e1 nop      
+1800034e2 mov     rdx, qword ptr [rbp - 0x18] 
+1800034e6 cmp     rdx, qword ptr [rbp - 0x10] 
+1800034ea je      0x18000350a 
+1800034ec movups  xmm0, xmmword ptr [rbp - 0x40] 
+1800034f0 movups  xmmword ptr [rdx], xmm0 
+1800034f3 movups  xmm1, xmmword ptr [rbp - 0x30] 
+1800034f7 movups  xmmword ptr [rdx + 0x10], xmm1 
+1800034fb mov     rdx, rbx 
+1800034fe mov     word ptr [rbp - 0x40], r14w 
+180003503 add     qword ptr [rbp - 0x18], 0x20 
+180003508 jmp     0x18000351b 
+18000350a lea     r8, [rbp - 0x40] 
+18000350e lea     rcx, [rbp - 0x20] 
+180003512 call    0x180005400 
+180003517 mov     rdx, qword ptr [rbp - 0x28] 
+18000351b cmp     rdx, 7 
+18000351f jbe     0x180003557 
+180003521 lea     rdx, [rdx*2 + 2] 
+180003529 mov     rcx, qword ptr [rbp - 0x40] 
+18000352d mov     rax, rcx 
+180003530 cmp     rdx, 0x1000 
+180003537 jb      0x180003552 
+180003539 add     rdx, 0x27 
+18000353d mov     rcx, qword ptr [rcx - 8] 
+180003541 sub     rax, rcx 
+180003544 add     rax, -8 
+180003548 cmp     rax, 0x1f 
+18000354c ja      0x18000375f 
+180003552 call    0x1800058c0 
+180003557 lea     rdx, [rip + 0x4522] W:'Chengdu Qilu Technology Co. Ltd.'
+18000355e lea     rcx, [rbp - 0x40] 
+180003562 call    0x180003f40 
+180003567 nop      
+180003568 mov     rdx, qword ptr [rbp - 0x18] 
+18000356c cmp     rdx, qword ptr [rbp - 0x10] 
+180003570 je      0x180003590 
+180003572 movups  xmm0, xmmword ptr [rbp - 0x40] 
+180003576 movups  xmmword ptr [rdx], xmm0 
+180003579 movups  xmm1, xmmword ptr [rbp - 0x30] 
+18000357d movups  xmmword ptr [rdx + 0x10], xmm1 
+180003581 mov     rdx, rbx 
+180003584 mov     word ptr [rbp - 0x40], r14w 
+180003589 add     qword ptr [rbp - 0x18], 0x20 
+18000358e jmp     0x1800035a1 
+180003590 lea     r8, [rbp - 0x40] 
+180003594 lea     rcx, [rbp - 0x20] 
+180003598 call    0x180005400 
+18000359d mov     rdx, qword ptr [rbp - 0x28] 
+1800035a1 cmp     rdx, 7 
+1800035a5 jbe     0x1800035dd 
+1800035a7 lea     rdx, [rdx*2 + 2] 
+1800035af mov     rcx, qword ptr [rbp - 0x40] 
+1800035b3 mov     rax, rcx 
+1800035b6 cmp     rdx, 0x1000 
+1800035bd jb      0x1800035d8 
+1800035bf add     rdx, 0x27 
+1800035c3 mov     rcx, qword ptr [rcx - 8] 
+1800035c7 sub     rax, rcx 
+1800035ca add     rax, -8 
+1800035ce cmp     rax, 0x1f 
+1800035d2 ja      0x18000375f 
+1800035d8 call    0x1800058c0 
+1800035dd lea     rdx, [rip + 0x44ec] W:'BeiJing IQIYI Science & Techonology Co.,Ltd'
+1800035e4 lea     rcx, [rbp - 0x40] 
+1800035e8 call    0x180003f40 
+1800035ed nop      
+1800035ee mov     rdx, qword ptr [rbp - 0x18] 
+1800035f2 cmp     rdx, qword ptr [rbp - 0x10] 
+1800035f6 je      0x180003616 
+1800035f8 movups  xmm0, xmmword ptr [rbp - 0x40] 
+1800035fc movups  xmmword ptr [rdx], xmm0 
+1800035ff movups  xmm1, xmmword ptr [rbp - 0x30] 
+180003603 movups  xmmword ptr [rdx + 0x10], xmm1 
+180003607 mov     rdx, rbx 
+18000360a mov     word ptr [rbp - 0x40], r14w 
+18000360f add     qword ptr [rbp - 0x18], 0x20 
+180003614 jmp     0x180003627 
+180003616 lea     r8, [rbp - 0x40] 
+18000361a lea     rcx, [rbp - 0x20] 
+18000361e call    0x180005400 
+180003623 mov     rdx, qword ptr [rbp - 0x28] 
+180003627 cmp     rdx, 7 
+18000362b jbe     0x180003663 
+18000362d lea     rdx, [rdx*2 + 2] 
+180003635 mov     rcx, qword ptr [rbp - 0x40] 
+180003639 mov     rax, rcx 
+18000363c cmp     rdx, 0x1000 
+180003643 jb      0x18000365e 
+180003645 add     rdx, 0x27 
+180003649 mov     rcx, qword ptr [rcx - 8] 
+18000364d sub     rax, rcx 
+180003650 add     rax, -8 
+180003654 cmp     rax, 0x1f 
+180003658 ja      0x18000375f 
+18000365e call    0x1800058c0 
+180003663 lea     rdx, [rip + 0x44be] W:'DingTalk Technology Co.,Ltd.'
+18000366a lea     rcx, [rbp - 0x40] 
+18000366e call    0x180003f40 
+180003673 nop      
+180003674 mov     rdx, qword ptr [rbp - 0x18] 
+180003678 cmp     rdx, qword ptr [rbp - 0x10] 
+18000367c je      0x18000369c 
+18000367e movups  xmm0, xmmword ptr [rbp - 0x40] 
+180003682 movups  xmmword ptr [rdx], xmm0 
+180003685 movups  xmm1, xmmword ptr [rbp - 0x30] 
+180003689 movups  xmmword ptr [rdx + 0x10], xmm1 
+18000368d mov     rdx, rbx 
+180003690 mov     word ptr [rbp - 0x40], r14w 
+180003695 add     qword ptr [rbp - 0x18], 0x20 
+18000369a jmp     0x1800036ad 
+18000369c lea     r8, [rbp - 0x40] 
+1800036a0 lea     rcx, [rbp - 0x20] 
+1800036a4 call    0x180005400 
+1800036a9 mov     rdx, qword ptr [rbp - 0x28] 
+1800036ad cmp     rdx, 7 
+1800036b1 jbe     0x1800036e5 
+1800036b3 lea     rdx, [rdx*2 + 2] 
+1800036bb mov     rcx, qword ptr [rbp - 0x40] 
+1800036bf mov     rax, rcx 
+1800036c2 cmp     rdx, 0x1000 
+1800036c9 jb      0x1800036e0 
+1800036cb add     rdx, 0x27 
+1800036cf mov     rcx, qword ptr [rcx - 8] 
+1800036d3 sub     rax, rcx 
+1800036d6 add     rax, -8 
+1800036da cmp     rax, 0x1f 
+1800036de ja      0x18000375f 
+1800036e0 call    0x1800058c0 
+1800036e5 lea     rdx, [rip + 0x4484] W:'Beijing Yinxiang Biji Technologies Co. Ltd'
+1800036ec lea     rcx, [rbp - 0x40] 
+1800036f0 call    0x180003f40 
+1800036f5 nop      
+1800036f6 mov     rdx, qword ptr [rbp - 0x18] 
+1800036fa cmp     rdx, qword ptr [rbp - 0x10] 
+1800036fe je      0x18000371b 
+180003700 movups  xmm0, xmmword ptr [rbp - 0x40] 
+180003704 movups  xmmword ptr [rdx], xmm0 
+180003707 movups  xmm1, xmmword ptr [rbp - 0x30] 
+18000370b movups  xmmword ptr [rdx + 0x10], xmm1 
+18000370f mov     word ptr [rbp - 0x40], r14w 
+180003714 add     qword ptr [rbp - 0x18], 0x20 
+180003719 jmp     0x18000372c 
+18000371b lea     r8, [rbp - 0x40] 
+18000371f lea     rcx, [rbp - 0x20] 
+180003723 call    0x180005400 
+180003728 mov     rbx, qword ptr [rbp - 0x28] 
+18000372c cmp     rbx, 7 
+180003730 jbe     0x18000376b 
+180003732 lea     rdx, [rbx*2 + 2] 
+18000373a mov     rcx, qword ptr [rbp - 0x40] 
+18000373e mov     rax, rcx 
+180003741 cmp     rdx, 0x1000 
+180003748 jb      0x180003766 
+18000374a add     rdx, 0x27 
+18000374e mov     rcx, qword ptr [rcx - 8] 
+180003752 sub     rax, rcx 
+180003755 add     rax, -8 
+180003759 cmp     rax, 0x1f 
+18000375d jbe     0x180003766 
+18000375f call    qword ptr [rip + 0x3b4b] ->api-ms-win-crt-runtime-l1-1-0:_invalid_parameter_noinfo_noreturn
+180003765 int3     
+180003766 call    0x1800058c0 
+18000376b movzx   r8d, sil 
+18000376f lea     rdx, [rbp - 0x20] 
+180003773 mov     rcx, rdi 
+180003776 call    0x180003200 
+18000377b movzx   ebx, al 
+18000377e mov     rcx, qword ptr [rbp - 0x20] 
+180003782 test    rcx, rcx 
+180003785 je      0x1800037cc 
+180003787 mov     rdx, qword ptr [rbp - 0x18] 
+18000378b call    0x180004c00 
+180003790 mov     rdx, qword ptr [rbp - 0x10] 
+180003794 mov     rcx, qword ptr [rbp - 0x20] 
+180003798 sub     rdx, rcx 
+18000379b and     rdx, 0xffffffffffffffe0 
+18000379f mov     rax, rcx 
+1800037a2 cmp     rdx, 0x1000 
+1800037a9 jb      0x1800037c7 
+1800037ab add     rdx, 0x27 
+1800037af mov     rcx, qword ptr [rcx - 8] 
+1800037b3 sub     rax, rcx 
+1800037b6 add     rax, -8 
+1800037ba cmp     rax, 0x1f 
+1800037be jbe     0x1800037c7 
+1800037c0 call    qword ptr [rip + 0x3aea] ->api-ms-win-crt-runtime-l1-1-0:_invalid_parameter_noinfo_noreturn
+1800037c6 int3     
+1800037c7 call    0x1800058c0 
+1800037cc movzx   eax, bl 
+1800037cf mov     rcx, qword ptr [rbp - 8] 
+1800037d3 xor     rcx, rsp 
+1800037d6 call    0x1800058a0 
+1800037db lea     r11, [rsp + 0x60] 
+1800037e0 mov     rbx, qword ptr [r11 + 0x30] 
+1800037e4 mov     rsi, qword ptr [r11 + 0x38] 
+1800037e8 mov     rsp, r11 
+1800037eb pop     r14 
+1800037ed pop     rdi 
+1800037ee pop     rbp 
+1800037ef ret      

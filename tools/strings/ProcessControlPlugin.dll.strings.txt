@@ -1,0 +1,1944 @@
+### ASCII strings (1907)
+!This program cannot be run in DOS mode.
+wRich
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+L$`H3
+L$`H3
+L$`H3
+L$(H;
+VWAVH
+ A^_^
+ A^_^
+H;QhH
+BQhI+
+t$ WATAUAVAWH
+L$pH3
+A_A^A]A\_
+@SVAVAWH
+d$ E3
+8A_A^^[
+@SUVAWH
+(A_^][
+(A_^][
+\$ UVWH
+@SUWAVH
+(A^_][
+(A^_][
+@SVATAWH
+t$ H;
+8A_A\^[
+UVWATAUAVAWH
+ A_A^A]A\_^]
+@SWAVH
+t$PH;
+ A^_[
+ A^_[
+VWAVH
+D$0E3
+D$09x }
+;y }ZH
+vb'vb'v
+)D$ L
+@UVWH
+t$ E3
+@UVWH
+t$ E3
+@UVWH
+t$ E3
+@SUVH
+@UVWH
+t$ E3
+@UVWH
+t$ E3
+@SUVH
+t$ UH
+VWAVH
+ A^_^
+ A^_^
+@VWAUAVH
+\$pE3
+8A^A]_^
+L$ SUVWH
+8_^][
+L$ SUVWH
+8_^][
+L$ SWH
+H;\$ u
+L$(H3
+H;\$ u
+L$(H3
+L$HH3
+T$Efff
+L$HH3
+L$HH3
+L$HH3
+)t$0H
+(t$0H
+\$ UVWH
+VWATAUAVAWL
+D$@E)E
+l$PA_A^A]A\_^
+UVWATAUAVAWH
+(D$0L
+`A_A^A]A\_^]
+@SUVAUAVH
+@8<.u
+L$pH3
+A^A]^][
+9whuWH
+VWAVH
+GD$HH
+@SUVWAVH
+L$XH3
+`A^_^][
+|$ UAVAWH
+D93tAH9
+A_A^]
+t$ WH
+L$`H3
+L$`H3
+L$`H3
+L$`H3
+L$`H3
+L$`H3
+L$`H3
+L$`H3
+l$ VWAVH
+AH9GH
+t$ WATAUAVAWH
+L9r t
+D$HfD
+t$8I;?t
+A_A^A]A\_
+t$ WAVAWH
+D9?tAH
+A_A^_
+UVWAVAWH
+D$XE3
+l$(9/t@H
+L$hH3
+pA_A^_^]
+l$ VWAVH
+l$89/t@H
+8L$4t1
+|$ ATAVAWH
+A_A^A\
+x UATAUAVAWH
+A_A^A]A\]
+x UATAUAVAWH
+)|$`f
+)|$`f
+)|$`f
+A_A^A]A\]
+WATAUAVAWH
+GT$8L
+A_A^A]A\_
+GT$8L
+GT$8L
+L$ SVWATAUAVAWH
+d$0D8
+GT$PL
+GT$PL
+GT$PL
+A_A^A]A\_^[
+(L$@f
+(D$0f
+WATAUAVAWH
+A_A^A]A\_
+L$pH3
+|$ AVH
+GT$@H
+GT$@H
+GT$@H
+GT$@H
+t$XE3
+|$ AVH
+GT$@H
+GT$@H
+GT$@H
+GT$@H
+GT$@H
+t$XE3
+VWAVH
+tNfff
+)D$ 3
+0A^_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+D96tBH
+ttE9&tBI
+D96tBH
+VWATAVAWH
+A_A^A\_^
+|$ UAVAWH
+tcD9}
+A_A^]
+UATAUAVAWH
+fB94Gu
+fB94Gu
+A_A^A]A\]
+L$(H3
+L$`H3
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+A_A^A]A\_
+9w8u]H
+@SVWATAUAVAWH
+\$PE3
+D$pfD
+D$PL;
+ L;|$P
+A_A^A]A\_^[
+|$ AVH
+9+t?H
+T$0H;
+UVWATAUAVAWH
+Gt$xK
+|$ E3
+]@H;]H
+|$ E3
+]XH;]`
+U}fff
+GT$8L
+GT$8L
+A_A^A]A\_^]
+p UWATAVAWH
+GL$0H
+)|$pD
+GL$0H
+)|$pD
+GL$0H
+)|$pD
+GL$0H
+)|$pD
+GL$0H
+D$ E3
+A_A^A\_]
+UVWAVAWH
+D$XE3
+T$`H;
+GT$(L
+A_A^_^]
+t3fff
+(|$pE
+WATAUAVAWH
+\$hI;
+97tIH
+A_A^A]A\_
+x UATAUAVAWH
+A_A^A]A\]
+s WATAUAVAWH
+l$hA9E
+\$xI;
+tX97t?H
+u,H;X
+A_A^A]A\_
+\$ VWAVH
+E8p,u
+KD9s(~
+`A^_^
+`A^_^
+A8h,u
+t$ UWATAVAWH
+I;G0t
+I;G0t
+I;G0t
+A_A^A\_]
+USVWATAUAVAWH
+333333
+ffffff
+I;W t
+A_A^A]A\_^[]
+L$`H3
+L$`H3
+L$`H3
+L$`H3
+L$`H3
+L$`H3
+L$`H3
+|$8H+
+\$ WH
+H;~ H
+)D$ L
+l$ VWAUAVAWH
+tvxyH
+t-y0I
+0A_A^A]_^
+)D$ L
+fA98u/I
+@SUVWAVH
+ A^_^][
+ A^_^][
+@UVAVH
+T$xH3
+|$hL9t$pu L
+L9t$p
+@A^^]
+|$ UATAUAVAWH
+C@H;M
+C@H;U
+A_A^A]A\]
+UAVAWH
+d$0H3
+H;|$8t
+L9|$(
+L$ L9|$(u
+L#e0I
+`A_A^]
+D$  E3
+|$8H+
+@SUVWAVH
+)D$ L
+`A^_^][
+VWATAVAWH
+0A_A^A\_^
+I#Q0H
+\$ UVWATAUAVAWH
+D$0E3
+)D$ L
+PA_A^A]A\_^]
+UVWATAUAVAWH
+)D$ L
+PA_A^A]A\_^]
+UVWATAUAVAWH
+)D$ L
+PA_A^A]A\_^]
+UVWATAUAVAWH
+)D$ L
+PA_A^A]A\_^]
+fA98u/I
+@SVAVH
+0A^^[
+@SUVAWH
+(A_^][
+@SVAVAWH
+|$ H;
+(A_A^^[
+UVWAUH
+L$ H+
+HA]_^]
+@SUVH
+|$ UH
+l$ VAVAWH
+|$HH+
+ A_A^^
+t$ UWATAVAWH
+T$PE3
+d$ E3
+A_A^A\_]
+l$ VWAVH
+UUUUUUU
+t$8H;
+L$@H3
+@VAVAWH
+0A_A^^
+|$ E3
+0A_A^^
+@VWAWH
+0A__^
+|$ E3
+0A__^
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+|$(E3
+|$(E3
+t$(E3
+|$ E3
+t$(E3
+|$ E3
+D$  E3
+tDfff
+l$(E3
+l$(E3
+)T$PH
+I9:u7A
+t$ AWH
+t$(E3
+UVWATAUAVAWH
+A_A^A]A\_^]
+I9Khs
+M9Chs
+t$ WAVAWH
+ A_A^_
+L$(H;
+@SUVWAVH
+ A^_^][
+ A^_^][
+ A^_^][
+\$ UVWAVAWH
+ A_A^_^]
+\$ UVWATAUAVAWH
+0A_A^A]A\_^]
+\$ UVWATAUAVAWH
+0A_A^A]A\_^]
+3333333
+WATAUAVAWH
+0A_A^A]A\_
+VWATAVAWH
+0A_A^A\_^
+@SUVWATAUAVH
+L$HH3
+PA^A]A\_^][
+\$ UVWAVAWH
+L$@H3
+PA_A^_^]
+\$ UVWAVAWH
+L$@H3
+PA_A^_^]
+\$ UVWAVAWH
+L$@H3
+PA_A^_^]
+\$ UVWAVAWH
+L$@H3
+PA_A^_^]
+\$ UVWAVAWH
+L$@H3
+PA_A^_^]
+\$ UVWATAUAVAWH
+0A_A^A]A\_^]
+\$ UVWATAUAVAWH
+PA_A^A]A\_^]
+@SUVATAVH
+ A^A\^][
+@SUATAVAWH
+l$ H;
+0A_A^A\][
+@UVWH
+t$ E3
+@SVWATAUAVAWH
+L$'I;
+PA_A^A]A\_^[
+@UWATAVH
+(A^A\_]
+@SVWATAUAVAWH
+UUUUUUU
+L$'I;
+`A_A^A]A\_^[
+@SVAVAWH
+d$ H;
+8A_A^^[
+@SUVH
+L$ H;
+SUVAWH
+HA_^][
+\$ UVWH
+UVWAVAWH
+pA_A^_^]
+L#^0I
+\$ UVWATAUAVAWH
+PA_A^A]A\_^]
+@SVWAVAWH
+ A_A^_^[
+@SVWAVAWH
+ A_A^_^[
+@SVWAVAWH
+ A_A^_^[
+@SVWAVAWH
+ A_A^_^[
+@SVWAVAWH
+ A_A^_^[
+@SUVWATAUAVAWH
+L$0H3
+HA_A^A]A\_^][
+p UWATAVAWH
+A_A^A\_]
+\$ UVWI
+\$8_^]
+\$ UVWI
+\$8_^]
+\$ UVWI
+\$8_^]
+\$ UVWI
+\$8_^]
+\$ UVWI
+\$8_^]
+t$ WATAUAVAWH
+A_A^A]A\_
+\$ VWAWH
+ A__^
+UVWATAUAVAWH
+L$ E3
+3333333
+A_A^A]A\_^]
+\$ VWAVH
+L$0H3
+@A^_^
+UVWATAUAVAWH
+3333333
+A_A^A]A\_^]
+t$ WATAUAVAWH
+A_A^A]A\_
+@SVWATAUAVAWH
+PA_A^A]A\_^[
+UVWAVAWH
+)t$@L
+(t$@H
+PA_A^_^]
+t$ WATAUAVAWH
+A_A^A]A\_
+@USVWAVH
+pA^_^[]
+UVWATAUAVAWH
+L$HE3
+L$pH3
+A_A^A]A\_^]
+SVWATAUAVAWH
+T$pE3
+GT$8L
+uq;P rlH9F
+u,H;A
+A_A^A]A\_^[
+VWATAVAWH
+A_A^A\_^
+u,;J r'L;
+@SVWATAVAWH
+A_A^A\_^[
+@SVWATAUAVAWH
+A_A^A]A\_^[
+@SVWATAUAVH
+L$pH3
+A^A]A\_^[
+d$8E2
+u,;r r'H;
+@SVWAVH
+u,;z r'H;
+L$`H3
+xA^_^[
+@SVWAVH
+u,;z r'H;
+L$`H3
+xA^_^[
+@SVWATAUAVAWH
+GT$HL
+GT$HL
+A_A^A]A\_^[
+WATAUAVAWH
+GT$HH
+GT$HH
+GT$HH
+A_A^A]A\_
+L$hH3
+VWATAVAWH
+T$`E3
+D$@fD
+GT$0L
+D$@fD
+D$@fD
+A_A^A\_^
+s WATAUAVAWH
+A_A^A]A\_
+t$ UWATAVAWH
+D$HfD
+D$HfD
+D$HfD
+A_A^A\_]
+VWAVH
+L$xE3
+D$@fD
+D$@fD
+D$@fD
+GT$0L
+L$lD;
+L$xH3
+UpH;Uxt1
+L$pH3
+t$ WAVAW
+A_A^_
+l$ VWAVH
+{ AVH
+\$h@2
+\$h@2
+{ AVH
+\$h@2
+\$h@2
+@SWATAVH
+L$`H3
+xA^A\_[
+L$`H3
+|$ AVH
+D$0D9@ s
+)D$ L
+\$ UVWATAUAVAWH
+D$0E3
+)D$ L
+PA_A^A]A\_^]
+t$ WH
+L$pH3
+t$ WH
+L$pH3
+@SVWATAUAVAWH
+A_A^A]A\_^[
+D$PE3
+L$hH3
+t$ WAVAWH
+@A_A^_
+D$ E3
+L$hH3
+t$ WH
+L$`H3
+D$ E3
+L$hH3
+L$hH3
+VWATAVAWH
+t$ E3
+GT$0L
+GD$0H
+GT$0L
+t$ E3
+A_A^A\_^
+VWAVH
+|$ E3
+GT$0H
+D$ E3
+|$ E3
+\$ VWATAVAWH
+|$ E3
+GT$8H
+|$ E3
+A_A^A\_^
+t$ UWATAVAWH
+d$ E3
+GT$0L
+d$ E3
+A_A^A\_]
+@USVWAVAWH
+H;] H
+GT$8L
+D$XH;
+A_A^_^[]
+@SVWATAUAVAWH
+D$xE3
+L$HL;
+t$ E3
+GT$8L
+t$ E3
+A_A^A]A\_^[
+|$ AVH
+t$ E3
+GT$8H
+t$ E3
+t$ WH
+@UVWAWH
+t$ H;
+(A__^]
+l$ VWAWH
+t$PH;
+ A__^
+@SWATAVH
+|$ H;
+(A^A\_[
+WAVAWH
+A_A^_
+WAVAWH
+A_A^_
+WAVAWH
+A_A^_
+WAVAWH
+A_A^_
+t$ AWH
+D$XH+
+{ AVH
+D$@HcH
+D$@HcH
+D$@HcH
+D$@HcH
+t$ WH
+H9t$H
+L$xH3
+l$ VWAVH
+L$PE3
+GD$PH
+L$pH3
+\$ E3
+VWAWH
+ A__^
+\$PH;
+t$ AWH
+L$PH+
+|$ AVH
+t$ E3
+L$PI;
+WATAUAVAWH
+ A_A^A]A\_
+\$ UVAWH
+ A_^]
+ A_^]
+D$ I+
+@SVWAVAWH
+@A_A^_^[
+T$hI;
+@UVATAWH
+HA_A\^]
+L$pL;
+HA_A\^]
+@SWAVH
+ A^_[
+ A^_[
+UVWATAWH
+H9Ehs
+ A_A\_^]
+@SVWAVH
+H9Fhs
+(A^_^[
+SVWAVH
+8A^_^[
+WAVAWH
+\$8H;
+A_A^_
+|$ AVH
+VWAVH
+@A^_^
+@SVWH
+x AVH
+ntelA
+ineID
+SUVWH
+8_^][
+SUVWH
+8_^][
+SUVWH
+8_^][
+SUVWH
+8_^][
+c:\recovery\OEM\version.txt
+WmiException
+InitConnectServer
+InitProxyBlanket
+UnInit
+HiggsE
+SystemEnvironment::GetDeviceTypeEx
+fail to get product name. result:
+bad allocation
+Unknown exception
+bad array new length
+string too long
+bad cast
+map/set too long
+C:\Program Files\HONOR\PCManager\ProcessControl.db
+ProcessControlRecordTable
+ (PID                INTEGER                          NOT NULL,ProcessName        TEXT                         NOT NULL,AppName            TEXT                         NOT NULL,ControlMask        INTEGER                      NOT NULL,StrategyId         TEXT                         ,Time               INTEGER                      NOT NULL,primary key (PID,ProcessName) );
+CREATE TABLE if not exists 
+DROP TABLE if exists 
+C:\Program Files\HONOR\PCManager\AppPreLaunch.db
+AppStartCmdTable
+ (LaunchProcName     TEXT                      NOT NULL,StartCmmand        TEXT                      NOT NULL,Time               INTEGER                   NOT NULL,primary key (LaunchProcName) );
+appRecoResult
+applist
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\ProcessControlPlugin\AppPreLauncher.cpp
+Query process name failed!
+AppPreLauncher::Init
+Create and connect db failed, error code 
+bool __cdecl AppPreLauncher::Init(void)
+Create table failed, error code 
+Clear database failed!
+Create virtual desktop failed!
+ failed, error code 
+ successfully!
+AppPreLauncher::CreateVirtualDesktop
+Create desktop failed!
+bool __cdecl AppPreLauncher::CreateVirtualDesktop(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &)
+AppPreLauncher::SaveAppStartCmd
+Get command line of process failed!
+void __cdecl AppPreLauncher::SaveAppStartCmd(unsigned long)
+Write to app-start-command table failed, error code 
+processId
+processName
+cpuUsage
+cpuInfoList
+RegisterPlugin
+UnRegisterPlugin
+Process.Control.Plugin
+00010203040506070809101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899
+U1(\Q
+~)p$w
+11eU%
+invalid stoi argument
+stoi argument out of range
+invalid stol argument
+stol argument out of range
+invalid stof argument
+stof argument out of range
+Bad any_cast
+false
+[json.exception.
+MonProcess.dll
+HwCreateInstance
+Pascal
+Marconi
+Kepler
+Darwin
+Volta
+Wright
+Kelvin
+Planck
+MachA
+MachR
+KeplerR
+NobelK
+NobelB
+BohrB
+BohrK
+VoltaR
+Hubble
+config\DeviceFuncSwitchConf.xml
+\config\system\HSPP_BGControlConfig.dat
+\config\system\HSPP_PreStartAppConfig.dat
+\config\system\ServerManagerConfig.dat
+ProcList::DelNode
+Not find process 
+bool __cdecl ProcList::DelNode(const unsigned long,bool)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\ProcessControlPlugin\ProcControlMonitor.cpp
+Find root node failed!
+ProcTreeNode::CollectRealFactorData
+UNKnown process realtime factor!
+void __cdecl ProcTreeNode::CollectRealFactorData(double,enum ProcRealtimeFactor)
+ProcControlMonitor::OnRecvPublishIpcMsg
+Null process event message!
+void __cdecl ProcControlMonitor::OnRecvPublishIpcMsg(struct TagIPCMessageItem &)
+message error
+ProcControlMonitor::HandleQueryProcloadMsg
+Process control monitor is not init!
+void __cdecl ProcControlMonitor::HandleQueryProcloadMsg(struct TagIPCMessageItem &)
+ProcControlMonitor::HandleKadunEvent
+, process id 
+, app name 
+Recv Kandun info [kadun type: 
+void __cdecl ProcControlMonitor::HandleKadunEvent(const KadunInfo &)
+Control process DB table is empty, not need to control!
+, pid 
+Resume Kadun process 
+AppName
+MainWndProcPid
+EventType
+AppStatus
+VisibleWnd
+610010001
+ProcName
+IsGUIProc
+IsVideoProc
+IsAudioProc
+ControlType
+ControlStrategy
+StrategyId
+604002052
+ProcControlMonitor::GenAndExecuteStrategy
+, not control cpu usage!
+, CPU usage should not be less than threshold value: 
+, current average CPU usage is 
+Target control process 
+bool __cdecl ProcControlMonitor::GenAndExecuteStrategy(const struct SysLoadData &,enum ControlResType,const class std::map<unsigned long,class ControlProcessInfo,struct std::less<unsigned long>,class std::allocator<struct std::pair<unsigned long const ,class ControlProcessInfo> > > &,class ProcTreeNode *)
+ is UI process, CPU usage should not be less than 
+, CPU usage will be limited less than 
+ProcControlMonitor::MakeControlDecision
+Background control switch is disabled!
+void __cdecl ProcControlMonitor::MakeControlDecision(const struct SysLoadData &,class std::vector<class ProcTreeNode *,class std::allocator<class ProcTreeNode *> > &,unsigned int,unsigned int)
+ is not in whitelist!
+ process 
+ is configured not to control!
+ is less than control threshold 
+ control score 
+None process need to control!
+ to control, control resource type 
+Choose process 
+Execute control strategy failed!
+ProcControlMonitor::Start
+Process Monitor not init!
+bool __cdecl ProcControlMonitor::Start(void)
+Subscribe msg from probe failed!
+Load PreStartAppCfgXml file failed!
+Load ServerManagerXml file failed!
+Process Monitor Start Success!
+ProcControlMonitor::Init
+The overseas version is not initialized!
+bool __cdecl ProcControlMonitor::Init(void)
+Load system process config list failed!
+Process control module is disabled!
+Get Device name failed!
+ is not supporting process control module!
+Product 
+Get total physical memory failed!
+Create instance of ProcTreeNode failed!
+Create process snapshot failed!
+Process Monitor Init Success!
+Process Monitor Start failed!
+ProcControlMonitor::InitServerStatus
+GetSystemPowerStatus failed: lasterror is : 
+void __cdecl ProcControlMonitor::InitServerStatus(void)
+ProcControlMonitor::LoadServerCfgXml
+ is not exists
+bool __cdecl ProcControlMonitor::LoadServerCfgXml(void)
+ load failed
+version
+ServerManagerList
+server
+dcstart
+acstart
+starttype
+ProcControlMonitor::LoadPreStartAppCfgXml
+bool __cdecl ProcControlMonitor::LoadPreStartAppCfgXml(void)
+switch
+Pre start app module is configured not to start!
+PreStartWhiteAppList
+LaunchProcess
+enable
+waittime
+ProcControlMonitor::SubscribeMsgFromProbe
+Register window event probe failed!
+bool __cdecl ProcControlMonitor::SubscribeMsgFromProbe(void)
+Register audio probe failed!
+Register video event probe failed!
+Register process monitor probe failed!
+Register ms probe failed!
+Register kadun probe failed!
+Register ACDC probe failed!
+explorer.exe
+SearchHost.exe
+ProcControlMonitor::OnRecvMSEventInfo
+void __cdecl ProcControlMonitor::OnRecvMSEventInfo(enum ProbeType,class std::any)
+Awake from hibernate mode
+VoiceRecorder.exe
+ProcControlMonitor::LoadBGControlCfgXml
+bool __cdecl ProcControlMonitor::LoadBGControlCfgXml(void)
+ProductList
+product
+BGProcMonitorCfg
+IdentifyPeriod
+MonProcPeriod
+MonTopN
+DataReportPeriod
+Process
+judge_child
+SvchostSubCtrlProcList
+ControlAppList
+ControlTop_N
+ControlScoreRatio
+ControlSwitch
+Group
+SubProcess
+service
+Class
+Priority
+GeekBayFlag
+SystemCoreProcList
+PCManagerCoreProcList
+ProcControlMonitor::AddProcess
+Get process command line failed!
+class ProcTreeNode *__cdecl ProcControlMonitor::AddProcess(const unsigned long,const unsigned long,const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &)
+ProcControlMonitor::PostTopProcMsg
+Post TopProcMsg failed!
+void __cdecl ProcControlMonitor::PostTopProcMsg(const struct TopProcInfo &)
+SysCPULoad
+SysMemLoad
+SysDiskIOLoad
+VirtualMemLoad
+IGPUVideoDecodeLoad
+IGPU3DecodeLoad
+CPUTopProcInfo
+GPUTopProcInfo
+DiskIOTopProcInfo
+MemTopProcInfo
+PageFaultTopProcInfo
+604002051
+TopControlProcInfo
+604002050
+ProcControlMonitor::RefreshProcWndInfo
+in process tree!
+void __cdecl ProcControlMonitor::RefreshProcWndInfo(void)
+ProcControlMonitor::UpdateAPPName
+Not find target process 
+void __cdecl ProcControlMonitor::UpdateAPPName(class ProcTreeNode *const ,class ProcTreeNode *)
+ProcControlMonitor::CollectRealFactorData
+UNKnown system realtime factor!
+void __cdecl ProcControlMonitor::CollectRealFactorData(double,enum SysRealtimeFactor)
+vector too long
+invalid string position
+961c151d2e87f2686a955a9be24d316f1362bf21 3.10.5
+other_error
+"bytes": [
+"subtype": 
+{"bytes":[
+],"subtype":
+null}
+<discarded>
+deque<T> too long
+\u%04x
+invalid UTF-8 byte at index 
+incomplete UTF-8 string; last byte: 0x
+array
+object
+type_error
+unordered_map/set too long
+invalid hash bucket count
+string
+boolean
+binary
+discarded
+number
+cannot use push_back() with 
+cannot create object from initializer list
+cannot use operator[] with a numeric argument with 
+cannot use operator[] with a string argument with 
+ProcessController::ControlCpuRate
+Recored control operated log failed!
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\ProcessControlPlugin\ProcessController.cpp
+ failed, err 
+Open target process 
+Delete process item failed, error code 
+ failed!
+Create Job 
+is already in a job!
+Target process 
+to job failed, Err: 
+Assign process 
+Set job extend information failed, Err: 
+Set Cpu max rate failed, Err: 
+ max cpu rate 
+Control process 
+Delete process from DB failed, error code 
+Invalid CPU rate value!
+bool __cdecl ProcessController::ControlCpuRate(class ProcControlStrategy &,bool)
+ProcessController::ControlEPMode
+bool __cdecl ProcessController::ControlEPMode(class ProcControlStrategy &,bool)
+Set EP Mode of process 
+UnSet EP Mode of process 
+ProcessController::WriteCtrlOperationLog
+Update control operated log failed, error code 
+bool __cdecl ProcessController::WriteCtrlOperationLog(unsigned long,const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,unsigned int)
+Insert control operated log failed, error code 
+bool __cdecl ProcessController::WriteCtrlOperationLog(unsigned long,const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,unsigned int)
+ProcessController::ControlProcPriority
+Priority value is not reasonable!
+bool __cdecl ProcessController::ControlProcPriority(unsigned long,const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,int,bool)
+Set process priority failed! Err code: 
+ failed! Err code: 
+Open process 
+ProcessController::ControlIoPriority
+bool __cdecl ProcessController::ControlIoPriority(unsigned long,const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,int,bool)
+Set priority of process 
+ProcessController::ControlPagePriority
+bool __cdecl ProcessController::ControlPagePriority(unsigned long,const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,int,bool)
+ IO priority failed! Err code: 
+Set process 
+ProcessController::ResumeAllProcess
+ successgully!
+with operation 
+Resume process 
+void __cdecl ProcessController::ResumeAllProcess(unsigned __int64,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)
+for the reason 
+ProcessController::Init::<lambda_9ddc8e618d5e4adfe5dd28edb1bd9e99>::operator ()
+Launch BGControl executer failed!
+auto __cdecl ProcessController::Init::<lambda_9ddc8e618d5e4adfe5dd28edb1bd9e99>::operator ()(void) const
+Start 
+ProcessController::Init
+bool __cdecl ProcessController::Init(void)
+Query all control process info failed, error code 
+Execute sql statement 
+Fail to get full path of 
+initResult=
+Init Successfully!
+ProcessController::ResumeCtrlProcess
+ with 
+bool __cdecl ProcessController::ResumeCtrlProcess(class ProcControlStrategy &)
+ProcessController::ResumeProcess
+Query strategy id failed, error code 
+void __cdecl ProcessController::ResumeProcess(class ProcControlStrategy &)
+ProcessController::ResumeControlProcess
+bool __cdecl ProcessController::ResumeControlProcess(const class ControlProcessInfo &)
+Open processhandle failed! Err code: 
+ProcessController::SetProcessQosLevel
+bool __cdecl ProcessController::SetProcessQosLevel(unsigned long,enum QosLevel)
+Set process Qos level fail! Err code: 
+BGControlResult
+604002053
+ProcessController::StopBGCtrlExecuter
+Send Stop BGCtrlExecuter message Failed!
+bool __cdecl ProcessController::StopBGCtrlExecuter(void)
+ProcessController::ExecuteCmd
+CreatePipe Failed
+int __cdecl ProcessController::ExecuteCmd(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+_tcsdup Failed
+CreateProcess Successed
+CreateProcess Failed
+ProcessController::DoStartService
+service status already running 
+bool __cdecl ProcessController::DoStartService(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)
+ExecuteCmd: success
+ExecuteCmd: failed
+ProcessController::DoStopService
+service states already stop : 
+bool __cdecl ProcessController::DoStopService(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)
+ProcControlStrategy::SetStrategyId
+Strcpy_s failed, error code: 
+void __cdecl ProcControlStrategy::SetStrategyId(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+SetProcessIoPriority
+Set io-priority of process 
+bool __cdecl SetProcessIoPriority(unsigned long,int)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\ProcessControlPlugin\NTFuncHelper.cpp
+SetProcessPagePriority
+ failed! Err code : 
+Set page-priority of process 
+bool __cdecl SetProcessPagePriority(unsigned long,int)
+Query information of process 
+GetProcCmdLine
+bool __cdecl GetProcCmdLine(unsigned long,class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &)
+ProcessControlPlugin::Start
+bool __cdecl ProcessControlPlugin::Start(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\ProcessControlPlugin\ProcessControlPlugin.cpp
+Process Controler init failed!
+App pre launch init failed!
+Process Monitor init failed!
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\ProcessControlPlugin\SqliteHelper.cpp
+SqlDBBase::CreateTable
+, [SQL]error code 
+Execute SQL error: %s
+unsigned int __cdecl SqlDBBase::CreateTable(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+SqlDBBase::CreateAndConSqlDb
+DB already exist!
+unsigned int __cdecl SqlDBBase::CreateAndConSqlDb(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+Can not open database, err msg: 
+SqlDBBase::ExecuteSqlStatement
+Execute SQL failed, err info: 
+unsigned int __cdecl SqlDBBase::ExecuteSqlStatement(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+begin
+ (PID, ProcessName, AppName, ControlMask, StrategyId, Time) VALUES (?, ?, ?, ?, ?, ?)
+INSERT INTO 
+ProcControlDb::InsertProcItem
+, ProcessName 
+, PID 
+SQL execute failed! Err: 
+unsigned int __cdecl ProcControlDb::InsertProcItem(const class ControlProcessInfo &)
+ errorCode: 
+Insert into PROCESS_CONTROL_RECORD_TABLE error: 
+commit
+ AND ProcessName ='
+ WHERE PID =
+, Time =
+ ControlMask =
+UPDATE 
+ProcControlDb::UpdateProcCtrlInfo
+unsigned int __cdecl ProcControlDb::UpdateProcCtrlInfo(const class ControlProcessInfo &)
+DELETE FROM 
+ProcControlDb::DeleteProcItem
+unsigned int __cdecl ProcControlDb::DeleteProcItem(unsigned long,const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &)
+Delete from PROCESS_CONTROL_RECORD_TABLE error: 
+SELECT * FROM 
+SELECT StrategyId FROM 
+ (LaunchProcName, StartCmmand, Time) VALUES (?, ?, ?)
+INSERT OR REPLACE INTO 
+AppPreLaunchDb::WriteToAppStartCmdTable
+unsigned int __cdecl AppPreLaunchDb::WriteToAppStartCmdTable(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >,class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)
+ error code: 
+Insert into APP_START_CMD_TABLE error: 
+Delete FROM 
+AppPreLaunchDb::ClearDBTable
+unsigned int __cdecl AppPreLaunchDb::ClearDBTable(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+?333333
+?ffffff
+RSDSL;
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\output_temp\pdb\ProcessControlPlugin.pdb
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$T
+.rdata$r
+.rdata$voltmd
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.tls$
+.tls$ZZZ
+.xdata
+.xdata$x
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.data$rs
+.pdata
+.rsrc$01
+.rsrc$02
+2j4|8!
+&>(v*
+ H$8(`*
+(L,20>2&4.6&8(: <(> @(B D(F.Ja
+t$vNrJz(|pr
+&>(x*!
+.>0x2
+>p<|@JB
+4.6J8
+DpF6H
+D6F$J%
+PvRfP9
+^z`6b
+^0`2b
+$"0>$<286
+BT6<D8H
+H<T8X
+X<Z2\i
+X<Z$^
+XF`>dFfJhbj
+h0ldh
+\*d*p8r
+pNd6p
+rfd6p
+rfd6p
+rfd<t8x
+ $*F,@.
+8:BlDJF
+dJfphI
+&l(J*
+NVLP@
+Z0^VZ
+f0jVfzb
+x0|Vx
+6z8l6
+n ."v$.&
+ProcessControlPlugin.dll
+??0?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAA@XZ
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@$$QEAV01@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@$$QEAV01@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@_K1AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@_KAEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_W@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_WAEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_W_K@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_W_KAEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@U_String_constructor_concat_tag@1@AEAV01@1@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@U_String_constructor_concat_tag@1@AEBV01@QEB_W_K23@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@V?$initializer_list@_W@1@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@XZ
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@_K_W@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@_K_WAEBV?$allocator@_W@1@@Z
+??0EventDRprtConfig@@QEAA@$$QEAV0@@Z
+??0EventDRprtConfig@@QEAA@AEBV0@@Z
+??0EventDRprtConfig@@QEAA@XZ
+??1?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAA@XZ
+??1?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAA@XZ
+??1?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@XZ
+??4?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAAAEAV01@$$QEAV01@@Z
+??4?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAAAEAV01@AEBV01@@Z
+??4?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAAEAV01@$$QEAV01@@Z
+??4?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAAEAV01@AEBV01@@Z
+??4?$_Wrap_alloc@V?$allocator@_W@std@@@std@@QEAAAEAU01@$$QEAU01@@Z
+??4?$_Wrap_alloc@V?$allocator@_W@std@@@std@@QEAAAEAU01@AEBU01@@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@$$QEAV01@@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@AEBV01@@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@QEB_W@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@V?$initializer_list@_W@1@@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@_W@Z
+??4EventDRprtConfig@@QEAAAEAV0@$$QEAV0@@Z
+??4EventDRprtConfig@@QEAAAEAV0@AEBV0@@Z
+??A?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_W_K@Z
+??A?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_W_K@Z
+??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@AEBV01@@Z
+??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@QEB_W@Z
+??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@V?$initializer_list@_W@1@@Z
+??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@_W@Z
+??_7EventDRprtConfig@@6B@
+?_Activate_SSO_buffer@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAXXZ
+?_Become_small@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXXZ
+?_Calculate_growth@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBA_K_K@Z
+?_Calculate_growth@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@CA_K_K00@Z
+?_Check_offset@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBAX_K@Z
+?_Check_offset_exclusive@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBAX_K@Z
+?_Clamp_suffix_size@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBA_K_K0@Z
+?_Copy_s@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEA_W_K_K1@Z
+?_Deallocate_for_capacity@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@CAXAEAV?$allocator@_W@2@QEA_W_K@Z
+?_Eos@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAX_K@Z
+?_Equal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_NAEBV12@@Z
+?_Equal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_NQEB_W@Z
+?_Erase_noexcept@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAAEAV12@_K_K@Z
+?_Get_first@?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAAAEAU?$_Wrap_alloc@V?$allocator@_W@std@@@2@XZ
+?_Get_first@?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEBAAEBU?$_Wrap_alloc@V?$allocator@_W@std@@@2@XZ
+?_Getal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAAEAV?$allocator@_W@2@XZ
+?_Getal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBAAEBV?$allocator@_W@2@XZ
+?_Large_mode_engaged@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBA_NXZ
+?_Memcpy_val_from@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXAEBV12@@Z
+?_Myptr@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAPEA_WXZ
+?_Myptr@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBAPEB_WXZ
+?_Orphan_all@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?_Swap_bx_large_with_small@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@SAXAEAV?$_String_val@U?$_Simple_types@_W@std@@@2@0@Z
+?_Swap_data@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXAEAV12@@Z
+?_Swap_proxy_and_iterators@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXAEAV12@@Z
+?_Take_contents@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXAEAV12@@Z
+?_Tidy_deallocate@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXXZ
+?_Tidy_init@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXXZ
+?_Unchecked_begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAPEA_WXZ
+?_Unchecked_begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?_Unchecked_end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAPEA_WXZ
+?_Unchecked_end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?_Xran@?$_String_val@U?$_Simple_types@_W@std@@@std@@SAXXZ
+?__autoclassinit2@EventDataReport@@QEAAX_K@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@_K_K@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W_K@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$initializer_list@_W@2@@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_W@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@$$QEAV12@@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@_K_K@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W_K@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$initializer_list@_W@2@@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_W@Z
+?at@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_W_K@Z
+?at@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_W_K@Z
+?back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_WXZ
+?back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_WXZ
+?begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?c_str@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?capacity@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?cbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?cend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?clear@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAHAEBV12@@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAHQEB_W@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0AEBV12@00@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0AEBV12@@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0QEB_W0@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0QEB_W@Z
+?copy@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEA_W_K_K@Z
+?crbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?crend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?data@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?empty@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_NXZ
+?end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0@Z
+?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@@Z
+?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0@Z
+?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?front@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_WXZ
+?front@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_WXZ
+?get_allocator@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$allocator@_W@2@XZ
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$initializer_list@_W@2@@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@_K_W@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@_W@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0_W@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KAEBV12@0_K@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KAEBV12@@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KQEB_W0@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KQEB_W@Z
+?length@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?max_size@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?pop_back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?push_back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_W@Z
+?rbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$reverse_iterator@V?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?rbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?rend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$reverse_iterator@V?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?rend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0AEBV12@@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0QEB_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0QEB_W_K@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0V?$initializer_list@_W@2@@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0_K_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0AEBV12@@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0QEB_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_K0_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_KAEBV12@01@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_KQEB_W0@Z
+?reserve@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_K@Z
+?resize@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_K_W@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?shrink_to_fit@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?size@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?substr@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV12@_K0@Z
+?swap@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXAEAV12@@Z
+InitializePluginModule
+UninitializePluginModule
+?UnSubscribeIPCMessage@IPCMessageClient@@QEAA_NII@Z
+?SubscribeIPCMessage@IPCMessageClient@@QEAA_NII@Z
+?PostIPCMessage@IPCMessageClient@@QEBA_NAEBUTagIPCMessageItem@@@Z
+??1IPCMessageClient@@QEAA@XZ
+??0IPCMessageClient@@QEAA@H_N0@Z
+IPCMessage.dll
+?StringToWStringByUTF8@StringProc@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z
+?IsElementNull@HnXmlElement@@QEBA_NXZ
+?NextSiblingElement@HnXmlElement@@QEBA?AV1@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?Attribute@HnXmlElement@@QEBA?BV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z
+?FirstNode@HnXmlElement@@QEBA?AV1@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?Value@HnXmlElement@@QEBA?BV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?WStringToString@StringProc@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z
+?GetCurrentDir4Config@LogUtil@@SA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?VectorToJson@JsonSdk@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$vector@U?$pair@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V12@@std@@V?$allocator@U?$pair@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V12@@std@@@2@@3@@Z
+??1JsonSdk@@QEAA@XZ
+??0JsonSdk@@QEAA@XZ
+?LoadFile@HnXMLDocument@@QEAA?AW4HnXmlError@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?RootElement@HnXMLDocument@@QEAA?AVHnXmlElement@@XZ
+??1HnXMLDocument@@QEAA@XZ
+?FileExists@DE@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?UnicodeToANSI@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z
+?SplitW@DE@@YAXAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@0AEAV?$vector@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@V?$allocator@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@2@@3@@Z
+?CheckCountryCodeIsCN@MBASoftShelf@@QEAA_NXZ
+?GetInstance@MBASoftShelf@@SAPEAV1@XZ
+??0HnXMLDocument@@QEAA@XZ
+??4HnXmlElement@@QEAAAEAV0@AEBV0@@Z
+??1HnXmlElement@@QEAA@XZ
+?LaunchProcessAsUser@ProcessUtil@@YAHPEA_WAEAK@Z
+?GetSelfFullFilePath@HELPER@HNPROCESS@@YA_NAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV34@@Z
+?WStringToStringByUTF8@StringProc@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z
+Util.dll
+?Instance@EventDataReport@@SAAEAV1@XZ
+?SendMsg@EventDataReport@@QEAA_NAEAULogInfo@@@Z
+?GetMsg@EventDataReport@@QEAA?AULogInfo@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z
+DataReport.dll
+strcpy_s
+secure_c.dll
+?UnRegisterProbe@ProbeManager@@QEAA_NW4ProbeType@@H@Z
+?RegisterProbe@ProbeManager@@QEAA_NW4ProbeType@@HV?$function@$$A6AXW4ProbeType@@Vany@std@@@Z@std@@@Z
+?GetInstance@ProbeManager@@SAPEAV1@XZ
+SystemState.dll
+OpenProcess
+Sleep
+GetLastError
+CloseHandle
+ReadProcessMemory
+CreateProcessW
+FreeLibrary
+QueryFullProcessImageNameW
+GetModuleFileNameW
+LoadLibraryW
+GetProcAddress
+GetModuleHandleW
+GetSystemPowerStatus
+CreateToolhelp32Snapshot
+MultiByteToWideChar
+Process32NextW
+Process32FirstW
+GetSystemInfo
+GlobalMemoryStatusEx
+WideCharToMultiByte
+GetStartupInfoW
+ReadFile
+SetInformationJobObject
+SetPriorityClass
+SetProcessInformation
+AssignProcessToJobObject
+CreateJobObjectW
+CreatePipe
+OpenJobObjectW
+IsProcessInJob
+LoadLibraryA
+GetCurrentProcessId
+OutputDebugStringW
+InitializeCriticalSectionEx
+DeleteCriticalSection
+KERNEL32.dll
+EnumWindows
+CreateDesktopW
+CloseDesktop
+ShowWindow
+SetWindowLongPtrW
+IsWindowVisible
+GetWindowThreadProcessId
+GetWindowLongW
+GetWindowLongPtrW
+USER32.dll
+QueryServiceStatusEx
+OpenServiceW
+ChangeServiceConfigW
+OpenSCManagerW
+CloseServiceHandle
+ADVAPI32.dll
+_Cnd_signal
+??1_Lockit@std@@QEAA@XZ
+??0_Lockit@std@@QEAA@H@Z
+?_Throw_Cpp_error@std@@YAXH@Z
+?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ
+?uncaught_exception@std@@YA_NXZ
+?id@?$ctype@_W@std@@2V0locale@2@A
+?_Xlength_error@std@@YAXPEBD@Z
+_Mtx_lock
+_Cnd_wait
+_Xtime_get_ticks
+_Mtx_unlock
+?sputn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEAA_JPEB_W_J@Z
+?sputc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEAAG_W@Z
+?_Osfx@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAXXZ
+?flush@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV12@XZ
+?eback@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?gptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?pptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?egptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?epptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?setstate@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEAAXH_N@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@H@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@I@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@K@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@_K@Z
+?getloc@ios_base@std@@QEBA?AVlocale@2@XZ
+?good@ios_base@std@@QEBA_NXZ
+?_Getcat@?$ctype@_W@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z
+?widen@?$ctype@_W@std@@QEBA_WD@Z
+??Bid@locale@std@@QEAA_KXZ
+_Cnd_init_in_situ
+_Mtx_destroy_in_situ
+_Mtx_init_in_situ
+_Cnd_destroy_in_situ
+?_Xinvalid_argument@std@@YAXPEBD@Z
+?_Xout_of_range@std@@YAXPEBD@Z
+?_Xbad_function_call@std@@YAXXZ
+?setw@std@@YA?AU?$_Smanip@_J@1@_J@Z
+_Cnd_do_broadcast_at_thread_exit
+_Thrd_id
+_Thrd_detach
+_Thrd_join
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAVios_base@1@AEAV21@@Z@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z
+?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z
+?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ
+??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAA@XZ
+?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z
+?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ
+??0?$basic_ios@DU?$char_traits@D@std@@@std@@IEAA@XZ
+??0?$basic_iostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z
+?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z
+??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ
+?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JXZ
+?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z
+?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z
+?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAPEAV12@PEAD_J@Z
+?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAXAEBVlocale@2@@Z
+??1?$basic_ios@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@_J@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@N@Z
+??1?$basic_iostream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@K@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@_K@Z
+??0?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAA@XZ
+??1?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+?gbump@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAXH@Z
+?setg@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAXPEA_W00@Z
+?setp@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAXPEA_W0@Z
+?setp@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAXPEA_W00@Z
+?_Pninc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAPEA_WXZ
+?xsgetn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JPEA_W_J@Z
+?xsputn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JPEB_W_J@Z
+??1?$basic_ios@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+?widen@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEBA_WD@Z
+??0?$basic_ios@_WU?$char_traits@_W@std@@@std@@IEAA@XZ
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z
+?put@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV12@_W@Z
+??0?$basic_iostream@_WU?$char_traits@_W@std@@@std@@QEAA@PEAV?$basic_streambuf@_WU?$char_traits@_W@std@@@1@@Z
+??1?$basic_iostream@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+?imbue@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAXAEBVlocale@2@@Z
+?sync@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAHXZ
+?setbuf@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAPEAV12@PEA_W_J@Z
+?uflow@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAGXZ
+?showmanyc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JXZ
+?_Unlock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ
+?_Lock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ
+MSVCP140.dll
+sqlite3_close
+sqlite3_open
+sqlite3_column_text
+sqlite3_free
+sqlite3_finalize
+sqlite3_bind_text
+sqlite3_prepare_v2
+sqlite3_exec
+sqlite3_column_int64
+sqlite3_step
+sqlite3_errmsg
+sqlite3_bind_int64
+sqlite3.dll
+?GetLogger@@YAAEBVLogger@log4cplus@@XZ
+??1Logger@log4cplus@@UEAA@XZ
+??0Logger@log4cplus@@QEAA@AEBV01@@Z
+?isEnabledFor@Logger@log4cplus@@QEBA_NH@Z
+?get_macro_body_oss@detail@log4cplus@@YAAEAV?$basic_ostringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ
+?macro_forced_log@detail@log4cplus@@YAXAEBVLogger@2@HAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEBDH2@Z
+log4cplus.dll
+PathCchRemoveFileSpec
+api-ms-win-core-path-l1-1-0.dll
+NtQueryInformationProcess
+NtSetInformationProcess
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+ntdll.dll
+__CxxFrameHandler4
+__std_exception_destroy
+__std_exception_copy
+__std_terminate
+_purecall
+__std_type_info_compare
+_CxxThrowException
+memchr
+memcmp
+memcpy
+memmove
+memset
+__C_specific_handler
+__current_exception
+__current_exception_context
+__std_type_info_destroy_list
+VCRUNTIME140_1.dll
+VCRUNTIME140.dll
+_invalid_parameter_noinfo_noreturn
+terminate
+strtof
+_dsign
+_beginthreadex
+__stdio_common_vsprintf_s
+localeconv
+_errno
+__stdio_common_vsprintf
+strtol
+_time64
+_wcsdup
+ceilf
+_callnewh
+malloc
+_seh_filter_dll
+_configure_narrow_argv
+_initialize_narrow_environment
+_initialize_onexit_table
+_register_onexit_function
+_execute_onexit_table
+_crt_atexit
+_cexit
+_initterm
+_initterm_e
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+?GetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEAV45@K@Z
+?GetInstance@MachineType@ProductAdapt@@SAAEBV12@XZ
+?GetProductName@MachineType@ProductAdapt@@QEBAHAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+ReleaseSRWLockExclusive
+AcquireSRWLockExclusive
+WakeAllConditionVariable
+SleepConditionVariableSRW
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+IsDebuggerPresent
+QueryPerformanceCounter
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+sqlite3_errstr
+.?AVbad_alloc@std@@
+.?AVbad_cast@std@@
+.?AVexception@std@@
+.?AVbad_array_new_length@std@@
+.?AV?$_Binder@U_Unforced@std@@AEAP8IPCHelper@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV3@AEBU?$_Ph@$00@2@@std@@
+.P6A?AV?$shared_ptr@VMBAPlugin@@@std@@XZ
+.?AUResourceLoadData@@
+.?AVbad_any_cast@std@@
+.?AV<lambda_e7d06766f1fb14f37f53466942215583>@@
+.?AUVideoProbeContext@@
+.?AUKadunInfo@@
+.?AW4SysStatePowerModeStatus@@
+.?AVruntime_error@std@@
+.?AUSysWindowEvent@@
+.?AV?$_Binder@U_Unforced@std@@P8ProcControlMonitor@@EAAXW4ProbeType@@Vany@2@@ZPEAV3@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AVother_error@detail@nlohmann@@
+.?AUSysStateAudio@@
+.?AW4SysStatePowerSelectStatus@@
+.?AVexception@detail@nlohmann@@
+.?AV<lambda_a440af513511be7caebe696de4f6b1d7>@@
+.?AVtype_error@detail@nlohmann@@
+.?AUSysStateProcessMonitor@@
+.?AVException@SQLite@@
+.?AV?$basic_stringbuf@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AV?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_ostream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_ios@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_stringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AV?$basic_iostream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_istream@_WU?$char_traits@_W@std@@@std@@
+.?AVtype_info@@
+.?AVSqlDBBase@@
+.?AVAppPreLaunchDb@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@AEAP8IPCHelper@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV3@AEBU?$_Ph@$00@2@@std@@XAEAUTagIPCMessageItem@@@std@@
+.?AVProcControlMonitor@@
+.?AVProcessController@@
+.?AV?$Singleton@VProcControlMonitor@@@@
+.?AV?$Singleton@VProcessController@@@@
+.?AV?$_Func_base@XAEAUTagIPCMessageItem@@@std@@
+.?AV?$_Func_base@V?$shared_ptr@VMBAPlugin@@@std@@$$V@std@@
+.?AV?$_Func_impl_no_alloc@P6A?AV?$shared_ptr@VMBAPlugin@@@std@@XZV12@$$V@std@@
+.?AVMBAPlugin@@
+.?AV_Ref_count_base@std@@
+.?AVProcessControlPlugin@@
+.?AV?$_Ref_count_obj2@VProcessControlPlugin@@@std@@
+.?AV?$_Func_base@XW4ProbeType@@Vany@std@@@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AU?$output_adapter_protocol@D@detail@nlohmann@@
+.?AVEventDRprtConfig@@
+.?AV?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$Singleton@VAppPreLauncher@@@@
+.?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AVios_base@std@@
+.?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@
+.?AV?$Singleton@VIPCHelper@@@@
+.?AVIPCHelper@@
+.?AV?$_Iosb@H@std@@
+.?AV?$_Ref_count_obj2@V?$output_string_adapter@DV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@detail@nlohmann@@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_a440af513511be7caebe696de4f6b1d7>@@_NPEAVProcTreeNode@@PEAV2@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8ProcControlMonitor@@EAAXW4ProbeType@@Vany@2@@ZPEAV3@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XW4ProbeType@@Vany@2@@std@@
+.?AV?$output_string_adapter@DV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@detail@nlohmann@@
+.?AVAppPreLauncher@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AV?$_Func_base@_NPEAVProcTreeNode@@PEAV1@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_e7d06766f1fb14f37f53466942215583>@@_NPEAVProcTreeNode@@PEAV2@@std@@
+.?AVProcControlDb@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0L1 0
+GlobalSign Root CA - R31
+GlobalSign1
+GlobalSign0
+200728000000Z
+290318000000Z0S1
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+p\$x %
+Bng~B
+tsg1z
+n0l0-
+!http://ocsp.globalsign.com/rootr30;
+/http://secure.globalsign.com/cacert/root-r3.crt06
+/0-0+
+%http://crl.globalsign.com/root-r3.crl0G
+@0>0<
+&https://www.globalsign.com/repository/0
+b wul
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+200728000000Z
+300728000000Z0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+-http://ocsp.globalsign.com/codesigningrootr450F
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+:0806
+0http://crl.globalsign.com/codesigningrootr45.crl0U
+N0L0A
+&https://www.globalsign.com/repository/0
+jh4%B
+wF*=#}(s
+1R95)
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+231215060929Z
+261128091510Z0
+Private Organization1
+91440300MA5G49LC9K1
+Guangdong1
+Shenzhen1
+Guangdong1
+Shenzhen1^0\
+34011
+Honor Device Co., Ltd.1
+Honor Device Co., Ltd.0
+fKz|fz
+(nkd_
+aJM|tu
+@http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+3http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+N0L0A
+&https://www.globalsign.com/repository/0
+@0>0<
+6http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+JB]b$
+"cp`k
+0l0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 2020
+6O8Uq|@ M_
+H{(T2l
+p6c-Q:
+/i](q
+v8.]B
+20250214045727Z0
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 2025
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+250109084043Z
+360107084043Z0P1
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 20250
+xc#|(
+[fC@*82
+i0g0;
+/http://subca.repository.certum.pl/ctsca2021.cer0(
+http://subca.ocsp-certum.com0
+2000.
+(http://subca.crl.certum.pl/ctsca2021.crl0
+\8=x;
+&n|<j
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+210519053207Z
+360518053207Z0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+g!5 e
+)0'0%
+http://crl.certum.pl/ctnca2.crl0l
+`0^0(
+http://subca.ocsp-certum.com02
+&http://repository.certum.pl/ctnca2.cer09
+2000.
+http://www.certum.pl/CPS0
+iMi=}B
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1"0 
+Certum Trusted Network CA0
+210531064306Z
+290917064306Z0
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+dg?":
+cyD~Kc$
+.4?)LR
+(0&0$
+http://crl.certum.pl/ctnca.crl0k
+_0]0(
+http://subca.ocsp-certum.com01
+%http://repository.certum.pl/ctnca.cer09
+2000.
+http://www.certum.pl/CPS0
+[.&iB<
+Se"u-
+0k0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+250214045727Z07
+/1(0&0$0"
+jj0o0Z
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+U`|14a
+
+### UTF16 strings (32)
+HARDWARE\DESCRIPTION\System\Product
+Software\HONOR\BIOS
+Software\Microsoft\Windows NT\CurrentVersion
+HARDWARE\DESCRIPTION\System\BIOS
+SOFTWARE\PCManager\HNLoginGuide
+\Software\PCManager\LastestSetting
+\Control Panel\Desktop\PerMonitorSettings
+DpiValue
+LastestOSVersion
+LastestDPIValue
+LastestDPIIndex
+DeviceTypeEx
+ERROR : Unable to initialize critical section in CAtlBaseModule
+*****
+tBGStartWND***
+MBAPluginsManager.dll
+MonProcess.dll
+PCManager.exe
+mgtv.exe
+WSearch
+svchost.exe
+PCManagerMainService.exe
+_Total
+Idle:0
+)QyClient
+C:\Program Files\HONOR\PCManager\BkGrdExecuter.exe
+HnPCProcJob
+BkGrdExecuter.exe
+"C:\Windows\system32\cmd.exe" /C 
+sc start 
+)sc stop 
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+
+### GUIDs found (0)

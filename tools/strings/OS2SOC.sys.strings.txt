@@ -1,0 +1,433 @@
+### ASCII strings (388)
+!This program cannot be run in DOS mode.
+{Rich
+.text
+hchipsec_
+h.rdata
+H.data
+.pdata
+HPAGE
+`INIT
+b.rsrc
+B.reloc
+WAVAWH
+f9D$Bt
+ A_A^_
+f9L$Rue
+wrtf-@@"
+^-\@"
+f9D$Ju
+L$0H3
+VWAUAVAWH
+f9D$Rt
+ A_A^A]_^
+f9D$Bu
+f9D$Bu
+L$0H3
+VWAVH
+f9D$Bt
+ A^_^
+\$ UVWATAUAVAWH
+PA_A^A]A\_^]
+L$@H3
+L$@H3
+L$@H3
+L$@H3
+D$8Hi
+L$0H3
+L$0H3
+L$(H3
+D$,A#
+L$0H3
+x AVH
+@8h0t&H
+x AVH
+-fffffff
+fffffff
+fffffff
+fffffff
+.fffffff
+fffffff
+fffffff
+fffffff
+ARASPRL
+ZXA[AZ
+ARPRL
+! ' - 
+DriverEntry failed 0x%x for driver %wZ
+FxStubInitTypes: invalid driver image, the address of symbol __KMDF_TYPE_INIT_START 0x%p is greater than the address of symbol __KMDF_TYPE_INIT_END 0x%p, status 0x%x
+FxStubInitTypes: WDF_OBJECT_CONTEXT_TYPE_INFO 0x%p, size 0x%x incorrect, expected 0x%x, status 0x%x
+FxStubBindClasses: invalid driver image, the address of symbol __KMDF_CLASS_BIND_START 0x%p is greater than the address of symbol __KMDF_CLASS_BIND_END 0x%p, status 0x%x
+FxStubBindClasses: invalid driver image.
+Not enough space for WDF_CLASS_BIND_INFO.Size field.
+FxStubBindClasses: WDF_CLASS_BIND_INFO 0x%p, class %S, size 0x%x incorrect, expected 0x%Ix, status 0x%x
+FxStubBindClasses: invalid driver image.
+Not enough space for WDF_CLASS_BIND_INFO.
+FxStubBindClasses: ClientBindClass %p, WDF_CLASS_BIND_INFO 0x%p, class %S, returned status 0x%x
+FxStubBindClasses: VersionBindClass WDF_CLASS_BIND_INFO 0x%p, class %S, returned status 0x%x
+D:\work_directory\work_project\PC_Schedule\PLX_Code\gitLab\develop_branch\1.0.0.8_drv\plxdriver\Driver\x64\Release\OS2SOC.pdb
+.text$mn
+.text$mn$00
+.text$mn$21
+.text$s
+chipsec_code$__a
+.idata$5
+.00cfg
+.gfids
+.rdata
+.rdata$zzzdbg
+.xdata
+.data
+.kmdfclassbind$a
+.kmdfclassbind$c
+.kmdfclassbind$d
+.kmdftypeinit$a
+.kmdftypeinit$c
+.pdata
+INIT$s
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+UATAUAVAWH
+H9]ht
+A_A^A]A\]
+@USWH
+D$0E3
+UWAVH
+E(H9]
+0A^_]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+D8mHt
+@A_A^A]A\_^]
+D$0E3
+x AVH
+fF94Iu
+SeTsH
+WATAUAVAWH
+ A_A^A]A\_
+h VWAVH
+ A^_^
+@USVWATAUAVAWH
+fD9$Fu
+SeAlA
+XA_A^A]A\_^[]
+WATAUAVAWH
+ A_A^A]A\_
+WAVAWH
+ A_A^_
+u0fD;
+UWAVH
+SeSdH
+L$(E3
+L$HH3
+WAVAWH
+PpRbH
+PpRbH
+0A_A^_
+x AVH
+L$8fD
+L$0E3
+RtlInitUnicodeString
+KeRevertToUserAffinityThreadEx
+KeSetSystemAffinityThreadEx
+KeQueryActiveProcessorCountEx
+IofCompleteRequest
+IoCreateSymbolicLink
+IoDeleteDevice
+IoDeleteSymbolicLink
+__C_specific_handler
+KeDelayExecutionThread
+MmMapIoSpace
+MmUnmapIoSpace
+ntoskrnl.exe
+MmGetSystemRoutineAddress
+ZwClose
+ZwSetSecurityObject
+IoDeviceObjectType
+IoCreateDevice
+ObOpenObjectByPointer
+RtlGetDaclSecurityDescriptor
+RtlGetGroupSecurityDescriptor
+RtlGetOwnerSecurityDescriptor
+RtlGetSaclSecurityDescriptor
+ExFreePoolWithTag
+SeCaptureSecurityDescriptor
+_snwprintf
+RtlLengthSecurityDescriptor
+SeExports
+RtlCreateSecurityDescriptor
+_wcsnicmp
+ExAllocatePoolWithTag
+wcschr
+RtlAbsoluteToSelfRelativeSD
+RtlAddAccessAllowedAce
+RtlLengthSid
+IoIsWdmVersionAvailable
+RtlSetDaclSecurityDescriptor
+ZwOpenKey
+ZwSetValueKey
+ZwQueryValueKey
+ZwCreateKey
+RtlFreeUnicodeString
+RtlCopyUnicodeString
+DbgPrintEx
+WdfVersionBind
+WdfVersionUnbind
+WdfVersionBindClass
+WdfVersionUnbindClass
+WDFLDR.SYS
+0L1 0
+GlobalSign Root CA - R31
+GlobalSign1
+GlobalSign0
+160615000000Z
+240615000000Z0Z1
+GlobalSign nv-sa100.
+'GlobalSign CodeSigning CA - SHA256 - G30
+<paX7
+2000.
+"http://ocsp2.globalsign.com/rootr306
+/0-0+
+%http://crl.globalsign.com/root-r3.crl0c
+_0402
+&https://www.globalsign.com/repository/0
+JEe-MI
+SK~g|
+GlobalSign nv-sa100.
+'GlobalSign CodeSigning CA - SHA256 - G30
+201126080452Z
+231127080452Z0
+Guangdong1
+Shenzhen1
+Honor Device Co., Ltd.1
+IT Dept.1
+Honor Device Co., Ltd.0
+<http://secure.globalsign.com/cacert/gscodesignsha2g3ocsp.crt08
+,http://ocsp2.globalsign.com/gscodesignsha2g30V
+O0M0A
+20402
+&https://www.globalsign.com/repository/0
+80604
+.http://crl.globalsign.com/gscodesignsha2g3.crl0
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+190502000000Z
+380118235959Z0}1
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA0
+]IMrV
+I0G0E
+?http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
+j0h0?
+3http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+http://ocsp.usertrust.com0
+rRj;B7|
+oZ%pb
+[C]e=P
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA0
+230503000000Z
+340802235959Z0j1
+Manchester1
+Sectigo Limited1,0*
+#Sectigo RSA Time Stamping Signer #40
+ r dAl
+C0A05
+https://sectigo.com/CPS0
+=0;09
+3http://crl.sectigo.com/SectigoRSATimeStampingCA.crl0t
+h0f0?
+3http://crt.sectigo.com/SectigoRSATimeStampingCA.crt0#
+http://ocsp.sectigo.com0
+O_(ql
+&tv\7
+OYDeKCd
+gg$\P
+v}{hO
+0j0Z1
+GlobalSign nv-sa100.
+'GlobalSign CodeSigning CA - SHA256 - G3
+-sMBS7
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA
+230828020856Z0?
+w,7pB
+)2=$v
+H{Zc,
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+230112191451Z
+231215191451Z0
+Washington1
+Redmond1
+Microsoft Corporation1;09
+2Microsoft Windows Hardware Compatibility Publisher0
+I0G1-0+
+$Microsoft Ireland Operations Limited1
+232825+5000490
+m0k0i
+chttp://www.microsoft.com/pkiops/crl/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crl0
+u0s0q
+ehttp://www.microsoft.com/pkiops/certs/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crt0
+()KeGaf
+.=h;)
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+120418234838Z
+270418235838Z0
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+-g<'<V
+}PH.=C
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+ip(sf
+p%|Yi1$
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 2012
+(https://www.microsoft.com/en-us/windows 0
+%r[\Q{
+fb+N3
+20230828035847.988Z0
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1'0%
+nShield TSS ESN:7F00-05E0-D9471%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+230525191230Z
+240201191230Z0
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1'0%
+nShield TSS ESN:7F00-05E0-D9471%0#
+Microsoft Time-Stamp Service0
+X0V0T
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+`0^0\
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+[fLoJ
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+q\Q17
+&S|9a
+!]_0t
+U0S0Q
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>NGdx
+fg:SM
+xSu$W
+as.,k{n?,
+J>f;O
+!TkjE
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1'0%
+nShield TSS ESN:7F00-05E0-D9471%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20230827232309Z
+20230828232309Z0w0=
+1/0-0
+1(0&0
+f'rQ&
+E%zYG
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+S{ur+r
+!0P0Z
+),F7mo
+
+### UTF16 strings (40)
+\DosDevices\OS2SOC
+IoCreateDeviceSecure
+IoValidateDeviceIoControlAccess
+D:P(A;;GA;;;SY)(A;;GA;;;BA)
+Properties
+Class
+NoDisplayClass
+NoUseClass
+Security
+DeviceType
+DeviceCharacteristics
+Exclusive
+\Registry\Machine\System\CurrentControlSet\Control\Class
+{%08X-%04X-%04X-%02X%02X-%02X%02X%02X%02X%02X%02X}
+SeConvertStringSecurityDescriptorToSecurityDescriptor
+KmdfLibrary
+(null)
+\Device\OS2SOC
+\DosDevices\OS2SOC
+VS_VERSION_INFO
+StringFileInfo
+080404b0
+CompanyName
+Honor Device Co., Ltd.
+FileDescription
+OS2SOC
+FileVersion
+1.0.0.19
+InternalName
+OS2SOC
+LegalCopyright
+Copyright (C) Honor Device Co., Ltd. 2016-2026. All rights reserved.
+OriginalFilename
+OS2SOC.sys
+ProductName
+Honor
+ProductVersion
+1.0.0.19
+VarFileInfo
+Translation
+
+### GUIDs found (0)

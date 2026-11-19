@@ -1,0 +1,66 @@
+﻿
+@@@@@ STRING 'nvpowerapi' referenced from 1 sites in 1 functions
+==============================================================================================================
+### nvpowerapi  func 0x180001190-0x180001273
+0x180001190: push rbx
+0x180001192: push rbp
+0x180001193: push rsi
+0x180001194: sub rsp, 0x20
+0x180001198: mov ebx, edx
+0x18000119a: movsxd rsi, ecx
+0x18000119d: test edx, edx
+0x18000119f: je 0x1800011ba
+0x1800011a1: cmp edx, 1
+0x1800011a4: je 0x1800011b3
+0x1800011a6: mov eax, 0xfffffffd
+0x1800011ab: add rsp, 0x20
+0x1800011af: pop rsi
+0x1800011b0: pop rbp
+0x1800011b1: pop rbx
+0x1800011b2: ret 
+0x1800011b3: mov ebp, 1
+0x1800011b8: jmp 0x1800011bc
+0x1800011ba: xor ebp, ebp
+0x1800011bc: mov qword ptr [rsp + 0x40], rdi
+0x1800011c1: mov qword ptr [rsp + 0x48], r12
+0x1800011c6: mov qword ptr [rsp + 0x50], r13
+0x1800011cb: lea r13, [rip - 0x11d2]
+0x1800011d2: cmp qword ptr [r13 + rsi*8 + 0x265008], 0
+0x1800011db: jne 0x18000125a
+0x1800011dd: lea rax, [rip + 0x1858b4]   ; "nvapi64.dll"
+0x1800011e4: lea rcx, [rip + 0x18588d]   ; "nvpowerapi.dll"
+0x1800011eb: test esi, esi
+0x1800011ed: cmove rcx, rax
+0x1800011f1: mov edx, 0x800
+0x1800011f6: call 0x180004a00
+0x1800011fb: mov rdi, rax
+0x1800011fe: test rax, rax
+0x180001201: jne 0x180001208
+0x180001203: lea eax, [rdi - 2]
+0x180001206: jmp 0x18000125c
+0x180001208: mov r8d, ebx
+0x18000120b: mov edx, esi
+0x18000120d: mov rcx, rax
+0x180001210: call 0x180001030
+0x180001215: mov ebx, eax
+0x180001217: test eax, eax
+0x180001219: je 0x180001228
+0x18000121b: mov rcx, rdi
+0x18000121e: call qword ptr [rip + 0x17e0fc]
+0x180001224: mov eax, ebx
+0x180001226: jmp 0x18000125c
+0x180001228: mov eax, ebp
+0x18000122a: mov qword ptr [r13 + rsi*8 + 0x265008], rdi
+0x180001232: mov dword ptr [r13 + rsi*4 + 0x265040], 1
+0x18000123e: lea rcx, [rax + rax*2]
+0x180001242: mov dword ptr [r13 + rcx*4 + 0x264fc8], 1
+0x18000124e: mov dword ptr [r13 + rcx*4 + 0x264fc0], 1
+0x18000125a: xor eax, eax
+0x18000125c: mov r12, qword ptr [rsp + 0x48]
+0x180001261: mov rdi, qword ptr [rsp + 0x40]
+0x180001266: mov r13, qword ptr [rsp + 0x50]
+0x18000126b: add rsp, 0x20
+0x18000126f: pop rsi
+0x180001270: pop rbp
+0x180001271: pop rbx
+0x180001272: ret 

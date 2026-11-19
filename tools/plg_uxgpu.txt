@@ -1,0 +1,345 @@
+﻿
+@@@@@ STRING 'The GPU mode is' referenced from 1 sites in 1 functions
+==============================================================================================================
+### The GPU mode is  func 0x18000dfb0-0x18000e27b
+0x18000dfb0: mov qword ptr [rsp + 8], rbx
+0x18000dfb5: mov qword ptr [rsp + 0x10], rsi
+0x18000dfba: push rdi
+0x18000dfbb: sub rsp, 0x80
+0x18000dfc2: mov rax, qword ptr [rip + 0x1b077]
+0x18000dfc9: xor rax, rsp
+0x18000dfcc: mov qword ptr [rsp + 0x78], rax
+0x18000dfd1: call 0x18000dc90
+0x18000dfd6: movzx ebx, al
+0x18000dfd9: call 0x18000e280
+0x18000dfde: movzx edi, al
+0x18000dfe1: mov byte ptr [rsp + 0x30], al
+0x18000dfe5: test bl, bl
+0x18000dfe7: je 0x18000e02a
+0x18000dfe9: test al, al
+0x18000dfeb: jne 0x18000e02a
+0x18000dfed: lea rcx, [rsp + 0x68]
+0x18000dff2: call qword ptr [rip + 0xd118]
+0x18000dff8: test eax, eax
+0x18000dffa: je 0x18000e259
+0x18000e000: movzx ecx, byte ptr [rsp + 0x68]
+0x18000e005: test ecx, ecx
+0x18000e007: je 0x18000e01e
+0x18000e009: cmp ecx, 1
+0x18000e00c: jne 0x18000e259
+0x18000e012: xor ecx, ecx
+0x18000e014: call 0x18000dac0
+0x18000e019: jmp 0x18000e259
+0x18000e01e: mov cl, 1
+0x18000e020: call 0x18000dac0
+0x18000e025: jmp 0x18000e259
+0x18000e02a: call qword ptr [rip + 0xd6c0]
+0x18000e030: mov rdx, rax
+0x18000e033: lea rcx, [rsp + 0x58]
+0x18000e038: call qword ptr [rip + 0xd6a2]
+0x18000e03e: nop 
+0x18000e03f: mov edx, 0x7530
+0x18000e044: lea rcx, [rsp + 0x58]
+0x18000e049: call qword ptr [rip + 0xd689]
+0x18000e04f: test al, al
+0x18000e051: je 0x18000e12f
+0x18000e057: call qword ptr [rip + 0xd673]
+0x18000e05d: mov rsi, rax
+0x18000e060: lea rdx, [rip + 0xef69]   ; "FindInternalDisplay value is:"
+0x18000e067: mov rcx, rax
+0x18000e06a: call 0x18000a980
+0x18000e06f: movzx edx, bl
+0x18000e072: mov rcx, rax
+0x18000e075: call qword ptr [rip + 0xd205]
+0x18000e07b: lea rdx, [rip + 0xe58e]
+0x18000e082: mov rcx, rax
+0x18000e085: call 0x18000a980
+0x18000e08a: lea rdx, [rip + 0xef27]   ; "SetDynamicRefreshRate"
+0x18000e091: mov rcx, rax
+0x18000e094: call 0x18000a980
+0x18000e099: lea rdx, [rip + 0xe55c]
+0x18000e0a0: mov rcx, rax
+0x18000e0a3: call 0x18000a980
+0x18000e0a8: lea rcx, [rsi + 8]
+0x18000e0ac: lea rdx, [rsp + 0x38]
+0x18000e0b1: call 0x18000a240
+0x18000e0b6: nop 
+0x18000e0b7: lea rbx, [rip + 0xef32]   ; "void __cdecl SetDynamicRefreshRate(void)"
+0x18000e0be: mov qword ptr [rsp + 0x28], rbx
+0x18000e0c3: mov dword ptr [rsp + 0x20], 0x86
+0x18000e0cb: lea r9, [rip + 0xef4e]   ; "D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\Underly"
+0x18000e0d2: lea r8, [rsp + 0x38]
+0x18000e0d7: mov edx, 0x7530
+0x18000e0dc: lea rcx, [rsp + 0x58]
+0x18000e0e1: call qword ptr [rip + 0xd611]
+0x18000e0e7: nop 
+0x18000e0e8: mov rdx, qword ptr [rsp + 0x50]
+0x18000e0ed: cmp rdx, 7
+0x18000e0f1: jbe 0x18000e136
+0x18000e0f3: lea rdx, [rdx*2 + 2]
+0x18000e0fb: mov rcx, qword ptr [rsp + 0x38]
+0x18000e100: mov rax, rcx
+0x18000e103: cmp rdx, 0x1000
+0x18000e10a: jb 0x18000e128
+0x18000e10c: add rdx, 0x27
+0x18000e110: mov rcx, qword ptr [rcx - 8]
+0x18000e114: sub rax, rcx
+0x18000e117: add rax, -8
+0x18000e11b: cmp rax, 0x1f
+0x18000e11f: jbe 0x18000e128
+0x18000e121: call qword ptr [rip + 0xd541]
+0x18000e127: int3 
+0x18000e128: call 0x18001452c
+0x18000e12d: jmp 0x18000e136
+0x18000e12f: lea rbx, [rip + 0xeeba]   ; "void __cdecl SetDynamicRefreshRate(void)"
+0x18000e136: lea rcx, [rsp + 0x58]
+0x18000e13b: call qword ptr [rip + 0xd5a7]
+0x18000e141: nop 
+0x18000e142: jmp 0x18000e150
+0x18000e144: lea rbx, [rip + 0xeea5]   ; "void __cdecl SetDynamicRefreshRate(void)"
+0x18000e14b: movzx edi, byte ptr [rsp + 0x30]
+0x18000e150: call qword ptr [rip + 0xd59a]
+0x18000e156: mov rdx, rax
+0x18000e159: lea rcx, [rsp + 0x58]
+0x18000e15e: call qword ptr [rip + 0xd57c]
+0x18000e164: nop 
+0x18000e165: mov edx, 0x7530
+0x18000e16a: lea rcx, [rsp + 0x58]
+0x18000e16f: call qword ptr [rip + 0xd563]
+0x18000e175: test al, al
+0x18000e177: je 0x18000e24d
+0x18000e17d: call qword ptr [rip + 0xd54d]
+0x18000e183: mov rsi, rax
+0x18000e186: lea rdx, [rip + 0xef33]   ; "The GPU mode is:"
+0x18000e18d: mov rcx, rax
+0x18000e190: call 0x18000a980
+0x18000e195: movzx edx, dil
+0x18000e199: mov rcx, rax
+0x18000e19c: call 0x18000e6d0
+0x18000e1a1: lea rdx, [rip + 0xe468]
+0x18000e1a8: mov rcx, rax
+0x18000e1ab: call 0x18000a980
+0x18000e1b0: lea rdx, [rip + 0xee01]   ; "SetDynamicRefreshRate"
+0x18000e1b7: mov rcx, rax
+0x18000e1ba: call 0x18000a980
+0x18000e1bf: lea rdx, [rip + 0xe436]
+0x18000e1c6: mov rcx, rax
+0x18000e1c9: call 0x18000a980
+0x18000e1ce: lea rcx, [rsi + 8]
+0x18000e1d2: lea rdx, [rsp + 0x38]
+0x18000e1d7: call 0x18000a240
+0x18000e1dc: nop 
+0x18000e1dd: mov qword ptr [rsp + 0x28], rbx
+0x18000e1e2: mov dword ptr [rsp + 0x20], 0x87
+0x18000e1ea: lea r9, [rip + 0xee2f]   ; "D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\Underly"
+0x18000e1f1: lea r8, [rsp + 0x38]
+0x18000e1f6: mov edx, 0x7530
+0x18000e1fb: lea rcx, [rsp + 0x58]
+0x18000e200: call qword ptr [rip + 0xd4f2]
+0x18000e206: nop 
+0x18000e207: mov rdx, qword ptr [rsp + 0x50]
+0x18000e20c: cmp rdx, 7
+0x18000e210: jbe 0x18000e24d
+0x18000e212: lea rdx, [rdx*2 + 2]
+0x18000e21a: mov rcx, qword ptr [rsp + 0x38]
+0x18000e21f: mov rax, rcx
+0x18000e222: cmp rdx, 0x1000
+0x18000e229: jb 0x18000e247
+0x18000e22b: add rdx, 0x27
+0x18000e22f: mov rcx, qword ptr [rcx - 8]
+0x18000e233: sub rax, rcx
+0x18000e236: add rax, -8
+0x18000e23a: cmp rax, 0x1f
+0x18000e23e: jbe 0x18000e247
+0x18000e240: call qword ptr [rip + 0xd422]
+0x18000e246: int3 
+0x18000e247: call 0x18001452c
+0x18000e24c: nop 
+0x18000e24d: lea rcx, [rsp + 0x58]
+0x18000e252: call qword ptr [rip + 0xd490]
+0x18000e258: nop 
+0x18000e259: mov rcx, qword ptr [rsp + 0x78]
+0x18000e25e: xor rcx, rsp
+0x18000e261: call 0x180013f70
+0x18000e266: lea r11, [rsp + 0x80]
+0x18000e26e: mov rbx, qword ptr [r11 + 0x10]
+0x18000e272: mov rsi, qword ptr [r11 + 0x18]
+0x18000e276: mov rsp, r11
+0x18000e279: pop rdi
+0x18000e27a: ret 
+
+@@@@@ STRING 'GetUXGPUSubMode' referenced from 3 sites in 1 functions
+==============================================================================================================
+### GetUXGPUSubMode  func 0x18000e280-0x18000e5d8
+0x18000e280: push rbx
+0x18000e282: sub rsp, 0x200
+0x18000e289: mov rax, qword ptr [rip + 0x1adb0]
+0x18000e290: xor rax, rsp
+0x18000e293: mov qword ptr [rsp + 0x1f0], rax
+0x18000e29b: xor ebx, ebx
+0x18000e29d: xor r9d, r9d
+0x18000e2a0: xor r8d, r8d
+0x18000e2a3: mov edx, 0x2560000
+0x18000e2a8: lea rcx, [rsp + 0xd0]
+0x18000e2b0: call qword ptr [rip + 0xcd8a]
+0x18000e2b6: nop 
+0x18000e2b7: mov dword ptr [rsp + 0x9c], 0xffffffff
+0x18000e2c2: mov dword ptr [rsp + 0xa8], 0xffffffff
+0x18000e2cd: mov dword ptr [rsp + 0xb0], ebx
+0x18000e2d4: mov qword ptr [rsp + 0xb8], rbx
+0x18000e2dc: mov byte ptr [rsp + 0xc0], bl
+0x18000e2e3: movdqa xmm0, xmmword ptr [rip + 0xf5f5]
+0x18000e2eb: movdqu xmmword ptr [rsp + 0x58], xmm0
+0x18000e2f1: mov dword ptr [rsp + 0x68], 0xffffffff
+0x18000e2f9: mov qword ptr [rsp + 0x6c], rbx
+0x18000e2fe: mov qword ptr [rsp + 0x78], rbx
+0x18000e303: mov byte ptr [rsp + 0x80], bl
+0x18000e30a: mov dword ptr [rsp + 0x98], 0x2470000
+0x18000e315: mov dword ptr [rsp + 0xa0], 0x244000b
+0x18000e320: mov dword ptr [rsp + 0xa4], 0x244000b
+0x18000e32b: call qword ptr [rip + 0xcdcf]
+0x18000e331: mov dword ptr [rsp + 0xac], eax
+0x18000e338: mov r9d, 0x3e8
+0x18000e33e: lea r8, [rsp + 0x58]
+0x18000e343: lea rdx, [rsp + 0x98]
+0x18000e34b: lea rcx, [rsp + 0xd0]
+0x18000e353: call qword ptr [rip + 0xccd7]
+0x18000e359: test al, al
+0x18000e35b: jne 0x18000e49c
+0x18000e361: call qword ptr [rip + 0xd389]
+0x18000e367: mov rdx, rax
+0x18000e36a: lea rcx, [rsp + 0x88]
+0x18000e372: call qword ptr [rip + 0xd368]
+0x18000e378: nop 
+0x18000e379: mov edx, 0x9c40
+0x18000e37e: lea rcx, [rsp + 0x88]
+0x18000e386: call qword ptr [rip + 0xd34c]
+0x18000e38c: test al, al
+0x18000e38e: je 0x18000e462
+0x18000e394: call qword ptr [rip + 0xd336]
+0x18000e39a: mov rbx, rax
+0x18000e39d: lea rdx, [rip + 0xed44]   ; "GetUXGPUSubMode failed"
+0x18000e3a4: mov rcx, rax
+0x18000e3a7: call 0x18000a980
+0x18000e3ac: lea rdx, [rip + 0xe25d]
+0x18000e3b3: mov rcx, rax
+0x18000e3b6: call 0x18000a980
+0x18000e3bb: lea rdx, [rip + 0xed16]   ; "GetUXGPUSubMode"
+0x18000e3c2: mov rcx, rax
+0x18000e3c5: call 0x18000a980
+0x18000e3ca: lea rdx, [rip + 0xe22b]
+0x18000e3d1: mov rcx, rax
+0x18000e3d4: call 0x18000a980
+0x18000e3d9: lea rcx, [rbx + 8]
+0x18000e3dd: lea rdx, [rsp + 0x38]
+0x18000e3e2: call 0x18000a240
+0x18000e3e7: nop 
+0x18000e3e8: lea rax, [rip + 0xed11]   ; "char __cdecl GetUXGPUSubMode(void)"
+0x18000e3ef: mov qword ptr [rsp + 0x28], rax
+0x18000e3f4: mov dword ptr [rsp + 0x20], 0xa7
+0x18000e3fc: lea r9, [rip + 0xec1d]   ; "D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\Underly"
+0x18000e403: lea r8, [rsp + 0x38]
+0x18000e408: mov edx, 0x9c40
+0x18000e40d: lea rcx, [rsp + 0x88]
+0x18000e415: call qword ptr [rip + 0xd2dd]
+0x18000e41b: nop 
+0x18000e41c: mov rdx, qword ptr [rsp + 0x50]
+0x18000e421: cmp rdx, 7
+0x18000e425: jbe 0x18000e462
+0x18000e427: lea rdx, [rdx*2 + 2]
+0x18000e42f: mov rcx, qword ptr [rsp + 0x38]
+0x18000e434: mov rax, rcx
+0x18000e437: cmp rdx, 0x1000
+0x18000e43e: jb 0x18000e45c
+0x18000e440: add rdx, 0x27
+0x18000e444: mov rcx, qword ptr [rcx - 8]
+0x18000e448: sub rax, rcx
+0x18000e44b: add rax, -8
+0x18000e44f: cmp rax, 0x1f
+0x18000e453: jbe 0x18000e45c
+0x18000e455: call qword ptr [rip + 0xd20d]
+0x18000e45b: int3 
+0x18000e45c: call 0x18001452c
+0x18000e461: nop 
+0x18000e462: lea rcx, [rsp + 0x88]
+0x18000e46a: call qword ptr [rip + 0xd278]
+0x18000e470: nop 
+0x18000e471: lea rcx, [rsp + 0xd0]
+0x18000e479: call qword ptr [rip + 0xcbb9]
+0x18000e47f: xor al, al
+0x18000e481: mov rcx, qword ptr [rsp + 0x1f0]
+0x18000e489: xor rcx, rsp
+0x18000e48c: call 0x180013f70
+0x18000e491: add rsp, 0x200
+0x18000e498: pop rbx
+0x18000e499: ret 
+0x18000e49a: jmp 0x18000e471
+0x18000e49c: cmp dword ptr [rsp + 0x70], 1
+0x18000e4a1: jne 0x18000e4c3
+0x18000e4a3: mov rbx, qword ptr [rsp + 0x78]
+0x18000e4a8: test rbx, rbx
+0x18000e4ab: je 0x18000e4c3
+0x18000e4ad: movzx ebx, byte ptr [rbx]
+0x18000e4b0: lea rcx, [rsp + 0xd0]
+0x18000e4b8: call qword ptr [rip + 0xcb7a]
+0x18000e4be: movzx eax, bl
+0x18000e4c1: jmp 0x18000e481
+0x18000e4c3: call qword ptr [rip + 0xd227]
+0x18000e4c9: mov rdx, rax
+0x18000e4cc: lea rcx, [rsp + 0x88]
+0x18000e4d4: call qword ptr [rip + 0xd206]
+0x18000e4da: nop 
+0x18000e4db: mov edx, 0x9c40
+0x18000e4e0: lea rcx, [rsp + 0x88]
+0x18000e4e8: call qword ptr [rip + 0xd1ea]
+0x18000e4ee: test al, al
+0x18000e4f0: je 0x18000e5c4
+0x18000e4f6: call qword ptr [rip + 0xd1d4]
+0x18000e4fc: mov rbx, rax
+0x18000e4ff: lea rdx, [rip + 0xec22]   ; "invalid msg"
+0x18000e506: mov rcx, rax
+0x18000e509: call 0x18000a980
+0x18000e50e: lea rdx, [rip + 0xe0fb]
+0x18000e515: mov rcx, rax
+0x18000e518: call 0x18000a980
+0x18000e51d: lea rdx, [rip + 0xebb4]   ; "GetUXGPUSubMode"
+0x18000e524: mov rcx, rax
+0x18000e527: call 0x18000a980
+0x18000e52c: lea rdx, [rip + 0xe0c9]
+0x18000e533: mov rcx, rax
+0x18000e536: call 0x18000a980
+0x18000e53b: lea rcx, [rbx + 8]
+0x18000e53f: lea rdx, [rsp + 0x38]
+0x18000e544: call 0x18000a240
+0x18000e549: nop 
+0x18000e54a: lea rax, [rip + 0xebaf]   ; "char __cdecl GetUXGPUSubMode(void)"
+0x18000e551: mov qword ptr [rsp + 0x28], rax
+0x18000e556: mov dword ptr [rsp + 0x20], 0xab
+0x18000e55e: lea r9, [rip + 0xeabb]   ; "D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\Underly"
+0x18000e565: lea r8, [rsp + 0x38]
+0x18000e56a: mov edx, 0x9c40
+0x18000e56f: lea rcx, [rsp + 0x88]
+0x18000e577: call qword ptr [rip + 0xd17b]
+0x18000e57d: nop 
+0x18000e57e: mov rdx, qword ptr [rsp + 0x50]
+0x18000e583: cmp rdx, 7
+0x18000e587: jbe 0x18000e5c4
+0x18000e589: lea rdx, [rdx*2 + 2]
+0x18000e591: mov rcx, qword ptr [rsp + 0x38]
+0x18000e596: mov rax, rcx
+0x18000e599: cmp rdx, 0x1000
+0x18000e5a0: jb 0x18000e5be
+0x18000e5a2: add rdx, 0x27
+0x18000e5a6: mov rcx, qword ptr [rcx - 8]
+0x18000e5aa: sub rax, rcx
+0x18000e5ad: add rax, -8
+0x18000e5b1: cmp rax, 0x1f
+0x18000e5b5: jbe 0x18000e5be
+0x18000e5b7: call qword ptr [rip + 0xd0ab]
+0x18000e5bd: int3 
+0x18000e5be: call 0x18001452c
+0x18000e5c3: nop 
+0x18000e5c4: lea rcx, [rsp + 0x88]
+0x18000e5cc: call qword ptr [rip + 0xd116]
+0x18000e5d2: jmp 0x18000e471
+0x18000e5d7: int3 

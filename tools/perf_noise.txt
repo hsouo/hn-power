@@ -1,0 +1,240 @@
+﻿
+@@@@@ STRING 'SmartFanMode' referenced from 1 sites in 1 functions
+==============================================================================================================
+### SmartFanMode  func 0x180004750-0x18000477d
+0x180004750: sub rsp, 0x28
+0x180004754: mov r8d, 0xc
+0x18000475a: lea rdx, [rip + 0x49b17]   ; "SmartFanMode"
+0x180004761: lea rcx, [rip + 0x61790]
+0x180004768: call 0x1800062e0
+0x18000476d: lea rcx, [rip + 0x412bc]
+0x180004774: add rsp, 0x28
+0x180004778: jmp 0x180038154
+
+@@@@@ STRING 'NoiseEventDealer::SetNoiseMode' referenced from 1 sites in 1 functions
+==============================================================================================================
+### NoiseEventDealer::SetNoiseMode  func 0x180022f30-0x180023340
+0x180022f30: mov qword ptr [rsp + 0x18], rbx
+0x180022f35: mov qword ptr [rsp + 0x20], rsi
+0x180022f3a: push rdi
+0x180022f3b: sub rsp, 0x250
+0x180022f42: mov rax, qword ptr [rip + 0x3e7f7]
+0x180022f49: xor rax, rsp
+0x180022f4c: mov qword ptr [rsp + 0x240], rax
+0x180022f54: mov esi, edx
+0x180022f56: mov rdi, rcx
+0x180022f59: lea rbx, [rcx + 8]
+0x180022f5d: mov qword ptr [rsp + 0x30], rbx
+0x180022f62: mov rcx, rbx
+0x180022f65: call qword ptr [rip + 0x253e5]
+0x180022f6b: test eax, eax
+0x180022f6d: je 0x180022f7b
+0x180022f6f: mov ecx, 5
+0x180022f74: call qword ptr [rip + 0x253c6]
+0x180022f7a: int3 
+0x180022f7b: mov eax, dword ptr [rbx + 0x4c]
+0x180022f7e: cmp eax, 0x7fffffff
+0x180022f83: jne 0x180022f96
+0x180022f85: dec eax
+0x180022f87: mov dword ptr [rbx + 0x4c], eax
+0x180022f8a: mov ecx, 6
+0x180022f8f: call qword ptr [rip + 0x253ab]
+0x180022f95: nop 
+0x180022f96: xorps xmm0, xmm0
+0x180022f99: movups xmmword ptr [rsp + 0x58], xmm0
+0x180022f9e: xor eax, eax
+0x180022fa0: mov qword ptr [rsp + 0x68], rax
+0x180022fa5: mov qword ptr [rsp + 0x70], rax
+0x180022faa: lea r8d, [rax + 8]
+0x180022fae: lea rdx, [rip + 0x2791b]   ; "ROOT\WMI"
+0x180022fb5: lea rcx, [rsp + 0x58]
+0x180022fba: call 0x1800062e0
+0x180022fbf: lea rdx, [rsp + 0x58]
+0x180022fc4: lea rcx, [rsp + 0xb0]
+0x180022fcc: call qword ptr [rip + 0x255fe]
+0x180022fd2: nop 
+0x180022fd3: xorps xmm0, xmm0
+0x180022fd6: movups xmmword ptr [rsp + 0x100], xmm0
+0x180022fde: movups xmmword ptr [rsp + 0x110], xmm0
+0x180022fe6: movups xmmword ptr [rsp + 0x120], xmm0
+0x180022fee: movups xmmword ptr [rsp + 0x130], xmm0
+0x180022ff6: xor edx, edx
+0x180022ff8: mov r8d, 0x100
+0x180022ffe: lea rcx, [rsp + 0x140]
+0x180023006: call 0x180038eff
+0x18002300b: mov word ptr [rsp + 0x100], 0xc07
+0x180023015: lea eax, [rsi - 1]
+0x180023018: cmp eax, 2
+0x18002301b: ja 0x180023301
+0x180023021: lea eax, [rsi - 1]
+0x180023024: mov byte ptr [rsp + 0x102], al
+0x18002302b: xor bl, bl
+0x18002302d: movzx eax, byte ptr [rdi + 0xd0]
+0x180023034: test al, al
+0x180023036: je 0x1800231fb
+0x18002303c: movzx eax, byte ptr [rdi + 0xd2]
+0x180023043: test al, al
+0x180023045: jne 0x1800231fb
+0x18002304b: mov dword ptr [rsp + 0x20], 0x100
+0x180023053: lea r9, [rsp + 0x140]
+0x18002305b: mov r8d, 0x40
+0x180023061: lea rdx, [rsp + 0x100]
+0x180023069: lea rcx, [rsp + 0xb0]
+0x180023071: call qword ptr [rip + 0x25541]
+0x180023077: test al, al
+0x180023079: je 0x1800231d9
+0x18002307f: cmp byte ptr [rsp + 0x140], bl
+0x180023086: jne 0x1800231d9
+0x18002308c: mov bl, 1
+0x18002308e: mov dword ptr [rsp + 0x78], esi
+0x180023092: lea rcx, [rsp + 0x88]
+0x18002309a: call qword ptr [rip + 0x25500]
+0x1800230a0: nop 
+0x1800230a1: lea rdx, [rip + 0x42ca8]
+0x1800230a8: cmp qword ptr [rip + 0x42cb8], 7
+0x1800230b0: cmova rdx, qword ptr [rip + 0x42c98]
+0x1800230b8: mov r8, qword ptr [rip + 0x42ca1]
+0x1800230bf: lea rcx, [rsp + 0x88]
+0x1800230c7: call 0x1800090a0
+0x1800230cc: lea rdx, [rsp + 0x88]
+0x1800230d4: cmp qword ptr [rsp + 0xa0], 7
+0x1800230dd: cmova rdx, qword ptr [rsp + 0x88]
+0x1800230e6: xorps xmm0, xmm0
+0x1800230e9: movups xmmword ptr [rsp + 0x38], xmm0
+0x1800230ee: xorps xmm1, xmm1
+0x1800230f1: movdqu xmmword ptr [rsp + 0x48], xmm1
+0x1800230f7: mov r8, 0xffffffffffffffff
+0x1800230fe: nop 
+0x180023100: inc r8
+0x180023103: cmp word ptr [rdx + r8*2], 0
+0x180023109: jne 0x180023100
+0x18002310b: lea rcx, [rsp + 0x38]
+0x180023110: call 0x1800062e0
+0x180023115: nop 
+0x180023116: mov dword ptr [rsp + 0x20], 0xf003f
+0x18002311e: lea r9, [rsp + 0x78]
+0x180023123: lea r8, [rip + 0x42c06]
+0x18002312a: lea rdx, [rsp + 0x38]
+0x18002312f: mov rcx, 0xffffffff80000003
+0x180023136: call qword ptr [rip + 0x2542c]
+0x18002313c: nop 
+0x18002313d: mov rdx, qword ptr [rsp + 0x50]
+0x180023142: cmp rdx, 7
+0x180023146: jbe 0x180023183
+0x180023148: lea rdx, [rdx*2 + 2]
+0x180023150: mov rcx, qword ptr [rsp + 0x38]
+0x180023155: mov rax, rcx
+0x180023158: cmp rdx, 0x1000
+0x18002315f: jb 0x18002317d
+0x180023161: add rdx, 0x27
+0x180023165: mov rcx, qword ptr [rcx - 8]
+0x180023169: sub rax, rcx
+0x18002316c: add rax, -8
+0x180023170: cmp rax, 0x1f
+0x180023174: jbe 0x18002317d
+0x180023176: call qword ptr [rip + 0x25674]
+0x18002317c: int3 
+0x18002317d: call 0x18003816c
+0x180023182: nop 
+0x180023183: mov rdx, qword ptr [rsp + 0xa0]
+0x18002318b: cmp rdx, 7
+0x18002318f: jbe 0x1800231ce
+0x180023191: lea rdx, [rdx*2 + 2]
+0x180023199: mov rcx, qword ptr [rsp + 0x88]
+0x1800231a1: mov rax, rcx
+0x1800231a4: cmp rdx, 0x1000
+0x1800231ab: jb 0x1800231c9
+0x1800231ad: add rdx, 0x27
+0x1800231b1: mov rcx, qword ptr [rcx - 8]
+0x1800231b5: sub rax, rcx
+0x1800231b8: add rax, -8
+0x1800231bc: cmp rax, 0x1f
+0x1800231c0: jbe 0x1800231c9
+0x1800231c2: call qword ptr [rip + 0x25628]
+0x1800231c8: int3 
+0x1800231c9: call 0x18003816c
+0x1800231ce: mov edx, esi
+0x1800231d0: mov rcx, rdi
+0x1800231d3: call 0x180023340
+0x1800231d8: nop 
+0x1800231d9: lea rcx, [rsp + 0xb0]
+0x1800231e1: call qword ptr [rip + 0x253d9]
+0x1800231e7: nop 
+0x1800231e8: mov rcx, qword ptr [rsp + 0x30]
+0x1800231ed: call qword ptr [rip + 0x2518d]
+0x1800231f3: movzx eax, bl
+0x1800231f6: jmp 0x18002331b
+0x1800231fb: call qword ptr [rip + 0x2569f]
+0x180023201: mov rdx, rax
+0x180023204: lea rcx, [rsp + 0x78]
+0x180023209: call qword ptr [rip + 0x256a1]
+0x18002320f: nop 
+0x180023210: mov edx, 0x7530
+0x180023215: lea rcx, [rsp + 0x78]
+0x18002321a: call qword ptr [rip + 0x256a0]
+0x180023220: test al, al
+0x180023222: je 0x1800232f0
+0x180023228: call qword ptr [rip + 0x2569a]
+0x18002322e: mov rbx, rax
+0x180023231: lea rdx, [rip + 0x29dd8]   ; "NoiseMode changed"
+0x180023238: mov rcx, rax
+0x18002323b: call 0x180005e10
+0x180023240: lea rdx, [rip + 0x26f45]
+0x180023247: mov rcx, rax
+0x18002324a: call 0x180005e10
+0x18002324f: lea rdx, [rip + 0x29d9a]   ; "NoiseEventDealer::SetNoiseMode"
+0x180023256: mov rcx, rax
+0x180023259: call 0x180005e10
+0x18002325e: lea rdx, [rip + 0x26f23]
+0x180023265: mov rcx, rax
+0x180023268: call 0x180005e10
+0x18002326d: lea rdx, [rsp + 0x38]
+0x180023272: mov rcx, rbx
+0x180023275: call 0x180005980
+0x18002327a: nop 
+0x18002327b: lea rcx, [rip + 0x29da6]   ; "bool __cdecl NoiseEventDealer::SetNoiseMode(int)"
+0x180023282: mov qword ptr [rsp + 0x28], rcx
+0x180023287: mov dword ptr [rsp + 0x20], 0xd8
+0x18002328f: lea r9, [rip + 0x29bda]   ; "D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\PerfCom"
+0x180023296: mov r8, rax
+0x180023299: mov edx, 0x7530
+0x18002329e: lea rcx, [rsp + 0x78]
+0x1800232a3: call qword ptr [rip + 0x2560f]
+0x1800232a9: nop 
+0x1800232aa: mov rdx, qword ptr [rsp + 0x50]
+0x1800232af: cmp rdx, 7
+0x1800232b3: jbe 0x1800232f0
+0x1800232b5: lea rdx, [rdx*2 + 2]
+0x1800232bd: mov rcx, qword ptr [rsp + 0x38]
+0x1800232c2: mov rax, rcx
+0x1800232c5: cmp rdx, 0x1000
+0x1800232cc: jb 0x1800232ea
+0x1800232ce: add rdx, 0x27
+0x1800232d2: mov rcx, qword ptr [rcx - 8]
+0x1800232d6: sub rax, rcx
+0x1800232d9: add rax, -8
+0x1800232dd: cmp rax, 0x1f
+0x1800232e1: jbe 0x1800232ea
+0x1800232e3: call qword ptr [rip + 0x25507]
+0x1800232e9: int3 
+0x1800232ea: call 0x18003816c
+0x1800232ef: nop 
+0x1800232f0: lea rcx, [rsp + 0x78]
+0x1800232f5: call qword ptr [rip + 0x255ad]
+0x1800232fb: nop 
+0x1800232fc: mov rbx, qword ptr [rsp + 0x30]
+0x180023301: lea rcx, [rsp + 0xb0]
+0x180023309: call qword ptr [rip + 0x252b1]
+0x18002330f: nop 
+0x180023310: mov rcx, rbx
+0x180023313: call qword ptr [rip + 0x25067]
+0x180023319: xor al, al
+0x18002331b: mov rcx, qword ptr [rsp + 0x240]
+0x180023323: xor rcx, rsp
+0x180023326: call 0x180037cd0
+0x18002332b: lea r11, [rsp + 0x250]
+0x180023333: mov rbx, qword ptr [r11 + 0x20]
+0x180023337: mov rsi, qword ptr [r11 + 0x28]
+0x18002333b: mov rsp, r11
+0x18002333e: pop rdi
+0x18002333f: ret 

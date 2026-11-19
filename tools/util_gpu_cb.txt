@@ -1,0 +1,272 @@
+﻿### 1 exports matched in Util.dll
+==============================================================================================================
+### ?RegisterNvGPUPowerCallBack@NvGpuInfo@@QEAAXE@Z   func 0x1800e0820-0x1800e0d4d (1325 bytes)
+  0x1800e0820: mov qword ptr [rsp + 0x10], rbx
+  0x1800e0825: mov qword ptr [rsp + 0x18], rsi
+  0x1800e082a: push rdi
+  0x1800e082b: sub rsp, 0x180
+  0x1800e0832: mov rax, qword ptr [rip + 0x17ecc7]
+  0x1800e0839: xor rax, rsp
+  0x1800e083c: mov qword ptr [rsp + 0x170], rax
+  0x1800e0844: mov rdi, rcx
+  0x1800e0847: mov qword ptr [rsp + 0x60], rcx
+  0x1800e084c: xor ebx, ebx
+  0x1800e084e: mov dword ptr [rsp + 0x20], ebx
+  0x1800e0852: mov rcx, qword ptr [rcx + 8]
+  0x1800e0856: test dl, dl
+  0x1800e0858: je 0x1800e0abb
+  0x1800e085e: mov byte ptr [rdi + 4], bl
+  0x1800e0861: mov qword ptr [rdi + 0x2b8], rbx
+  0x1800e0868: lea rdx, [rdi + 0x220]
+  0x1800e086f: call 0x180001660
+  0x1800e0874: test eax, eax
+  0x1800e0876: je 0x1800e0ab4
+  0x1800e087c: xor edx, edx
+  0x1800e087e: mov r8d, 0xf8
+  0x1800e0884: lea rcx, [rsp + 0x70]
+  0x1800e0889: call 0x180154067
+  0x1800e088e: lea rax, [rip + 0x116c03]
+  0x1800e0895: mov qword ptr [rsp + 0x70], rax
+  0x1800e089a: lea rax, [rip + 0x1178ff]
+  0x1800e08a1: mov qword ptr [rsp + 0x80], rax
+  0x1800e08a9: lea rcx, [rsp + 0x108]
+  0x1800e08b1: call qword ptr [rip + 0x9f2a1]
+  0x1800e08b7: nop 
+  0x1800e08b8: mov dword ptr [rsp + 0x20], 1
+  0x1800e08c0: xor r8d, r8d
+  0x1800e08c3: lea rdx, [rsp + 0x88]
+  0x1800e08cb: lea rcx, [rsp + 0x70]
+  0x1800e08d0: call qword ptr [rip + 0x9f28a]
+  0x1800e08d6: nop 
+  0x1800e08d7: mov rax, qword ptr [rsp + 0x70]
+  0x1800e08dc: movsxd rcx, dword ptr [rax + 4]
+  0x1800e08e0: lea rsi, [rip + 0xa38f9]
+  0x1800e08e7: mov qword ptr [rsp + rcx + 0x70], rsi
+  0x1800e08ec: mov rax, qword ptr [rsp + 0x70]
+  0x1800e08f1: movsxd rcx, dword ptr [rax + 4]
+  0x1800e08f5: lea edx, [rcx - 0x98]
+  0x1800e08fb: mov dword ptr [rsp + rcx + 0x6c], edx
+  0x1800e08ff: lea rcx, [rsp + 0x88]
+  0x1800e0907: call qword ptr [rip + 0x9f1db]
+  0x1800e090d: lea rax, [rip + 0xa384c]
+  0x1800e0914: mov qword ptr [rsp + 0x88], rax
+  0x1800e091c: mov qword ptr [rsp + 0xf0], rbx
+  0x1800e0924: mov dword ptr [rsp + 0xf8], ebx
+  0x1800e092b: lea rdx, [rip + 0x123bae]   ; "NvGPUPowerCallBack unregister failed"
+  0x1800e0932: lea rcx, [rsp + 0x80]
+  0x1800e093a: call 0x18001c560
+  0x1800e093f: lea rdx, [rip + 0x1168e6]   ; "("
+  0x1800e0946: mov rcx, rax
+  0x1800e0949: call 0x18001c560
+  0x1800e094e: lea rdx, [rip + 0x123bdb]   ; "NvGpuInfo::RegisterNvGPUPowerCallBack"
+  0x1800e0955: mov rcx, rax
+  0x1800e0958: call 0x18001c560
+  0x1800e095d: lea rdx, [rip + 0x116890]   ; ")"
+  0x1800e0964: mov rcx, rax
+  0x1800e0967: call 0x18001c560
+  0x1800e096c: lea rdx, [rip - 0xc41a3]
+  0x1800e0973: mov rcx, rax
+  0x1800e0976: call qword ptr [rip + 0x9f244]
+  0x1800e097c: nop 
+  0x1800e097d: xorps xmm0, xmm0
+  0x1800e0980: movups xmmword ptr [rsp + 0x28], xmm0
+  0x1800e0985: movdqa xmm1, xmmword ptr [rip + 0x127433]
+  0x1800e098d: movdqu xmmword ptr [rsp + 0x38], xmm1
+  0x1800e0993: mov word ptr [rsp + 0x28], bx
+  0x1800e0998: mov dword ptr [rsp + 0x20], 5
+  0x1800e09a0: movups xmmword ptr [rsp + 0x48], xmm0
+  0x1800e09a5: mov ecx, dword ptr [rsp + 0xf8]
+  0x1800e09ac: mov eax, ecx
+  0x1800e09ae: and al, 0x22
+  0x1800e09b0: cmp al, 2
+  0x1800e09b2: je 0x1800e09e8
+  0x1800e09b4: mov rax, qword ptr [rsp + 0xc8]
+  0x1800e09bc: mov r8, qword ptr [rax]
+  0x1800e09bf: test r8, r8
+  0x1800e09c2: je 0x1800e09e8
+  0x1800e09c4: mov rax, qword ptr [rsp + 0xa8]
+  0x1800e09cc: mov rdx, qword ptr [rax]
+  0x1800e09cf: cmp r8, qword ptr [rsp + 0xf0]
+  0x1800e09d7: cmovb r8, qword ptr [rsp + 0xf0]
+  0x1800e09e0: sub r8, rdx
+  0x1800e09e3: sar r8, 1
+  0x1800e09e6: jmp 0x1800e0a29
+  0x1800e09e8: test cl, 4
+  0x1800e09eb: jne 0x1800e0a1f
+  0x1800e09ed: mov rax, qword ptr [rsp + 0xc0]
+  0x1800e09f5: mov r8, qword ptr [rax]
+  0x1800e09f8: test r8, r8
+  0x1800e09fb: je 0x1800e0a1f
+  0x1800e09fd: mov rax, qword ptr [rsp + 0xa0]
+  0x1800e0a05: mov rdx, qword ptr [rax]
+  0x1800e0a08: mov rax, qword ptr [rsp + 0xd8]
+  0x1800e0a10: movsxd rcx, dword ptr [rax]
+  0x1800e0a13: lea r8, [r8 + rcx*2]
+  0x1800e0a17: sub r8, rdx
+  0x1800e0a1a: sar r8, 1
+  0x1800e0a1d: jmp 0x1800e0a29
+  0x1800e0a1f: mov r8, qword ptr [rsp + 0x50]
+  0x1800e0a24: mov rdx, qword ptr [rsp + 0x48]
+  0x1800e0a29: test rdx, rdx
+  0x1800e0a2c: je 0x1800e0a39
+  0x1800e0a2e: lea rcx, [rsp + 0x28]
+  0x1800e0a33: call 0x18001c3b0
+  0x1800e0a38: nop 
+  0x1800e0a39: lea rcx, [rsp + 0x28]
+  0x1800e0a3e: cmp qword ptr [rsp + 0x40], 7
+  0x1800e0a44: cmova rcx, qword ptr [rsp + 0x28]
+  0x1800e0a4a: call qword ptr [rip + 0x9ed40]
+  0x1800e0a50: lea rcx, [rsp + 0x28]
+  0x1800e0a55: call 0x18001c2d0
+  0x1800e0a5a: nop 
+  0x1800e0a5b: mov rax, qword ptr [rsp + 0x70]
+  0x1800e0a60: movsxd rcx, dword ptr [rax + 4]
+  0x1800e0a64: mov qword ptr [rsp + rcx + 0x70], rsi
+  0x1800e0a69: mov rax, qword ptr [rsp + 0x70]
+  0x1800e0a6e: movsxd rcx, dword ptr [rax + 4]
+  0x1800e0a72: lea edx, [rcx - 0x98]
+  0x1800e0a78: mov dword ptr [rsp + rcx + 0x6c], edx
+  0x1800e0a7c: lea rcx, [rsp + 0x88]
+  0x1800e0a84: call 0x18001bab0
+  0x1800e0a89: lea rcx, [rsp + 0x90]
+  0x1800e0a91: call qword ptr [rip + 0x9f141]
+  0x1800e0a97: lea rcx, [rsp + 0x108]
+  0x1800e0a9f: call qword ptr [rip + 0x9f113]
+  0x1800e0aa5: nop 
+  0x1800e0aa6: mov dword ptr [rdi], ebx
+  0x1800e0aa8: jmp 0x1800e0d28
+  0x1800e0aad: xor ebx, ebx
+  0x1800e0aaf: mov rdi, qword ptr [rsp + 0x60]
+  0x1800e0ab4: mov dword ptr [rdi], ebx
+  0x1800e0ab6: jmp 0x1800e0d28
+  0x1800e0abb: mov byte ptr [rdi + 4], 1
+  0x1800e0abf: mov dword ptr [rdi + 0x220], 0x100e0
+  0x1800e0ac9: mov dword ptr [rdi + 0x270], 0x3e8
+  0x1800e0ad3: mov qword ptr [rdi + 0x228], rbx
+  0x1800e0ada: lea rdx, [rip - 0xc8961]
+  0x1800e0ae1: mov qword ptr [rdi + 0x2b8], rdx
+  0x1800e0ae8: lea rdx, [rdi + 0x220]
+  0x1800e0aef: call 0x180001660
+  0x1800e0af4: test eax, eax
+  0x1800e0af6: je 0x1800e0d28
+  0x1800e0afc: xor edx, edx
+  0x1800e0afe: mov r8d, 0xf8
+  0x1800e0b04: lea rcx, [rsp + 0x70]
+  0x1800e0b09: call 0x180154067
+  0x1800e0b0e: lea rax, [rip + 0x116983]
+  0x1800e0b15: mov qword ptr [rsp + 0x70], rax
+  0x1800e0b1a: lea rax, [rip + 0x11767f]
+  0x1800e0b21: mov qword ptr [rsp + 0x80], rax
+  0x1800e0b29: lea rcx, [rsp + 0x108]
+  0x1800e0b31: call qword ptr [rip + 0x9f021]
+  0x1800e0b37: nop 
+  0x1800e0b38: mov dword ptr [rsp + 0x20], 8
+  0x1800e0b40: xor r8d, r8d
+  0x1800e0b43: lea rdx, [rsp + 0x88]
+  0x1800e0b4b: lea rcx, [rsp + 0x70]
+  0x1800e0b50: call qword ptr [rip + 0x9f00a]
+  0x1800e0b56: nop 
+  0x1800e0b57: mov rax, qword ptr [rsp + 0x70]
+  0x1800e0b5c: movsxd rcx, dword ptr [rax + 4]
+  0x1800e0b60: lea rsi, [rip + 0xa3679]
+  0x1800e0b67: mov qword ptr [rsp + rcx + 0x70], rsi
+  0x1800e0b6c: mov rax, qword ptr [rsp + 0x70]
+  0x1800e0b71: movsxd rcx, dword ptr [rax + 4]
+  0x1800e0b75: lea edx, [rcx - 0x98]
+  0x1800e0b7b: mov dword ptr [rsp + rcx + 0x6c], edx
+  0x1800e0b7f: lea rcx, [rsp + 0x88]
+  0x1800e0b87: call qword ptr [rip + 0x9ef5b]
+  0x1800e0b8d: lea rax, [rip + 0xa35cc]
+  0x1800e0b94: mov qword ptr [rsp + 0x88], rax
+  0x1800e0b9c: mov qword ptr [rsp + 0xf0], rbx
+  0x1800e0ba4: mov dword ptr [rsp + 0xf8], ebx
+  0x1800e0bab: lea rdx, [rip + 0x123956]   ; "NvGPUPowerCallBack register failed"
+  0x1800e0bb2: lea rcx, [rsp + 0x80]
+  0x1800e0bba: call 0x18001c560
+  0x1800e0bbf: lea rdx, [rip + 0x116666]   ; "("
+  0x1800e0bc6: mov rcx, rax
+  0x1800e0bc9: call 0x18001c560
+  0x1800e0bce: lea rdx, [rip + 0x12395b]   ; "NvGpuInfo::RegisterNvGPUPowerCallBack"
+  0x1800e0bd5: mov rcx, rax
+  0x1800e0bd8: call 0x18001c560
+  0x1800e0bdd: lea rdx, [rip + 0x116610]   ; ")"
+  0x1800e0be4: mov rcx, rax
+  0x1800e0be7: call 0x18001c560
+  0x1800e0bec: lea rdx, [rip - 0xc4423]
+  0x1800e0bf3: mov rcx, rax
+  0x1800e0bf6: call qword ptr [rip + 0x9efc4]
+  0x1800e0bfc: nop 
+  0x1800e0bfd: xorps xmm0, xmm0
+  0x1800e0c00: movups xmmword ptr [rsp + 0x28], xmm0
+  0x1800e0c05: movdqa xmm1, xmmword ptr [rip + 0x1271b3]
+  0x1800e0c0d: movdqu xmmword ptr [rsp + 0x38], xmm1
+  0x1800e0c13: mov word ptr [rsp + 0x28], bx
+  0x1800e0c18: mov dword ptr [rsp + 0x20], 0x28
+  0x1800e0c20: movups xmmword ptr [rsp + 0x48], xmm0
+  0x1800e0c25: mov ecx, dword ptr [rsp + 0xf8]
+  0x1800e0c2c: test cl, 2
+  0x1800e0c2f: je 0x1800e0c36
+  0x1800e0c31: test cl, 0x20
+  0x1800e0c34: je 0x1800e0c6a
+  0x1800e0c36: mov rax, qword ptr [rsp + 0xc8]
+  0x1800e0c3e: mov r8, qword ptr [rax]
+  0x1800e0c41: test r8, r8
+  0x1800e0c44: je 0x1800e0c6a
+  0x1800e0c46: mov rax, qword ptr [rsp + 0xa8]
+  0x1800e0c4e: mov rdx, qword ptr [rax]
+  0x1800e0c51: cmp r8, qword ptr [rsp + 0xf0]
+  0x1800e0c59: cmovb r8, qword ptr [rsp + 0xf0]
+  0x1800e0c62: sub r8, rdx
+  0x1800e0c65: sar r8, 1
+  0x1800e0c68: jmp 0x1800e0cab
+  0x1800e0c6a: test cl, 4
+  0x1800e0c6d: jne 0x1800e0ca1
+  0x1800e0c6f: mov rax, qword ptr [rsp + 0xc0]
+  0x1800e0c77: mov r8, qword ptr [rax]
+  0x1800e0c7a: test r8, r8
+  0x1800e0c7d: je 0x1800e0ca1
+  0x1800e0c7f: mov rax, qword ptr [rsp + 0xa0]
+  0x1800e0c87: mov rdx, qword ptr [rax]
+  0x1800e0c8a: mov rax, qword ptr [rsp + 0xd8]
+  0x1800e0c92: movsxd rcx, dword ptr [rax]
+  0x1800e0c95: lea r8, [r8 + rcx*2]
+  0x1800e0c99: sub r8, rdx
+  0x1800e0c9c: sar r8, 1
+  0x1800e0c9f: jmp 0x1800e0cab
+  0x1800e0ca1: mov r8, qword ptr [rsp + 0x50]
+  0x1800e0ca6: mov rdx, qword ptr [rsp + 0x48]
+  0x1800e0cab: test rdx, rdx
+  0x1800e0cae: je 0x1800e0cbb
+  0x1800e0cb0: lea rcx, [rsp + 0x28]
+  0x1800e0cb5: call 0x18001c3b0
+  0x1800e0cba: nop 
+  0x1800e0cbb: lea rcx, [rsp + 0x28]
+  0x1800e0cc0: cmp qword ptr [rsp + 0x40], 7
+  0x1800e0cc6: cmova rcx, qword ptr [rsp + 0x28]
+  0x1800e0ccc: call qword ptr [rip + 0x9eabe]
+  0x1800e0cd2: lea rcx, [rsp + 0x28]
+  0x1800e0cd7: call 0x18001c2d0
+  0x1800e0cdc: nop 
+  0x1800e0cdd: mov rax, qword ptr [rsp + 0x70]
+  0x1800e0ce2: movsxd rcx, dword ptr [rax + 4]
+  0x1800e0ce6: mov qword ptr [rsp + rcx + 0x70], rsi
+  0x1800e0ceb: mov rax, qword ptr [rsp + 0x70]
+  0x1800e0cf0: movsxd rcx, dword ptr [rax + 4]
+  0x1800e0cf4: lea edx, [rcx - 0x98]
+  0x1800e0cfa: mov dword ptr [rsp + rcx + 0x6c], edx
+  0x1800e0cfe: lea rcx, [rsp + 0x88]
+  0x1800e0d06: call 0x18001bab0
+  0x1800e0d0b: lea rcx, [rsp + 0x90]
+  0x1800e0d13: call qword ptr [rip + 0x9eebf]
+  0x1800e0d19: lea rcx, [rsp + 0x108]
+  0x1800e0d21: call qword ptr [rip + 0x9ee91]
+  0x1800e0d27: nop 
+  0x1800e0d28: mov rcx, qword ptr [rsp + 0x170]
+  0x1800e0d30: xor rcx, rsp
+  0x1800e0d33: call 0x18014fb40
+  0x1800e0d38: lea r11, [rsp + 0x180]
+  0x1800e0d40: mov rbx, qword ptr [r11 + 0x18]
+  0x1800e0d44: mov rsi, qword ptr [r11 + 0x20]
+  0x1800e0d48: mov rsp, r11
+  0x1800e0d4b: pop rdi
+  0x1800e0d4c: ret 

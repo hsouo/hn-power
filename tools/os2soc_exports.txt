@@ -1,0 +1,508 @@
+﻿### 14 exports matched in OS2SOCService.dll
+==============================================================================================================
+### GetCurrentPlxByMSR   func 0x1800014c0-0x180001543 (131 bytes)
+  0x1800014c0: mov qword ptr [rsp + 0x18], rbx
+  0x1800014c5: push rdi
+  0x1800014c6: sub rsp, 0x40
+  0x1800014ca: mov rax, qword ptr [rip + 0x21b37]
+  0x1800014d1: xor rax, rsp
+  0x1800014d4: mov qword ptr [rsp + 0x38], rax
+  0x1800014d9: mov qword ptr [rsp + 0x30], 0
+  0x1800014e2: mov rbx, rdx
+  0x1800014e5: mov rdi, rcx
+  0x1800014e8: test rcx, rcx
+  0x1800014eb: je 0x180001529
+  0x1800014ed: test rdx, rdx
+  0x1800014f0: je 0x180001529
+  0x1800014f2: call 0x1800010d0
+  0x1800014f7: test eax, eax
+  0x1800014f9: je 0x180001529
+  0x1800014fb: lea r9, [rsp + 0x30]
+  0x180001500: mov dword ptr [rsp + 0x20], 8
+  0x180001508: xor r8d, r8d
+  0x18000150b: xor edx, edx
+  0x18000150d: mov ecx, 0x224050
+  0x180001512: call 0x180001390
+  0x180001517: test eax, eax
+  0x180001519: je 0x180001529
+  0x18000151b: mov ecx, dword ptr [rsp + 0x30]
+  0x18000151f: mov dword ptr [rdi], ecx
+  0x180001521: mov ecx, dword ptr [rsp + 0x34]
+  0x180001525: mov dword ptr [rbx], ecx
+  0x180001527: jmp 0x18000152b
+  0x180001529: xor eax, eax
+  0x18000152b: mov rcx, qword ptr [rsp + 0x38]
+  0x180001530: xor rcx, rsp
+  0x180001533: call 0x180001c30
+  0x180001538: mov rbx, qword ptr [rsp + 0x60]
+  0x18000153d: add rsp, 0x40
+  0x180001541: pop rdi
+  0x180001542: ret 
+==============================================================================================================
+### GetCurrentPlxByMMIO   func 0x180001550-0x1800015d3 (131 bytes)
+  0x180001550: mov qword ptr [rsp + 0x18], rbx
+  0x180001555: push rdi
+  0x180001556: sub rsp, 0x40
+  0x18000155a: mov rax, qword ptr [rip + 0x21aa7]
+  0x180001561: xor rax, rsp
+  0x180001564: mov qword ptr [rsp + 0x38], rax
+  0x180001569: mov qword ptr [rsp + 0x30], 0
+  0x180001572: mov rbx, rdx
+  0x180001575: mov rdi, rcx
+  0x180001578: test rcx, rcx
+  0x18000157b: je 0x1800015b9
+  0x18000157d: test rdx, rdx
+  0x180001580: je 0x1800015b9
+  0x180001582: call 0x1800010d0
+  0x180001587: test eax, eax
+  0x180001589: je 0x1800015b9
+  0x18000158b: lea r9, [rsp + 0x30]
+  0x180001590: mov dword ptr [rsp + 0x20], 8
+  0x180001598: xor r8d, r8d
+  0x18000159b: xor edx, edx
+  0x18000159d: mov ecx, 0x224040
+  0x1800015a2: call 0x180001390
+  0x1800015a7: test eax, eax
+  0x1800015a9: je 0x1800015b9
+  0x1800015ab: mov ecx, dword ptr [rsp + 0x30]
+  0x1800015af: mov dword ptr [rdi], ecx
+  0x1800015b1: mov ecx, dword ptr [rsp + 0x34]
+  0x1800015b5: mov dword ptr [rbx], ecx
+  0x1800015b7: jmp 0x1800015bb
+  0x1800015b9: xor eax, eax
+  0x1800015bb: mov rcx, qword ptr [rsp + 0x38]
+  0x1800015c0: xor rcx, rsp
+  0x1800015c3: call 0x180001c30
+  0x1800015c8: mov rbx, qword ptr [rsp + 0x60]
+  0x1800015cd: add rsp, 0x40
+  0x1800015d1: pop rdi
+  0x1800015d2: ret 
+==============================================================================================================
+### SetCurrentPlxByMSR   func 0x1800015e0-0x180001644 (100 bytes)
+  0x1800015e0: mov qword ptr [rsp + 0x18], rbx
+  0x1800015e5: push rdi
+  0x1800015e6: sub rsp, 0x40
+  0x1800015ea: mov rax, qword ptr [rip + 0x21a17]
+  0x1800015f1: xor rax, rsp
+  0x1800015f4: mov qword ptr [rsp + 0x38], rax
+  0x1800015f9: mov edi, edx
+  0x1800015fb: mov ebx, ecx
+  0x1800015fd: call 0x1800010d0
+  0x180001602: test eax, eax
+  0x180001604: je 0x18000162c
+  0x180001606: xor r9d, r9d
+  0x180001609: mov dword ptr [rsp + 0x30], ebx
+  0x18000160d: lea rdx, [rsp + 0x30]
+  0x180001612: mov dword ptr [rsp + 0x34], edi
+  0x180001616: mov ecx, 0x224060
+  0x18000161b: mov dword ptr [rsp + 0x20], 0
+  0x180001623: lea r8d, [r9 + 8]
+  0x180001627: call 0x180001390
+  0x18000162c: mov rcx, qword ptr [rsp + 0x38]
+  0x180001631: xor rcx, rsp
+  0x180001634: call 0x180001c30
+  0x180001639: mov rbx, qword ptr [rsp + 0x60]
+  0x18000163e: add rsp, 0x40
+  0x180001642: pop rdi
+  0x180001643: ret 
+==============================================================================================================
+### SetCurrentPlxByMMIO   func 0x180001650-0x1800016b4 (100 bytes)
+  0x180001650: mov qword ptr [rsp + 0x18], rbx
+  0x180001655: push rdi
+  0x180001656: sub rsp, 0x40
+  0x18000165a: mov rax, qword ptr [rip + 0x219a7]
+  0x180001661: xor rax, rsp
+  0x180001664: mov qword ptr [rsp + 0x38], rax
+  0x180001669: mov edi, edx
+  0x18000166b: mov ebx, ecx
+  0x18000166d: call 0x1800010d0
+  0x180001672: test eax, eax
+  0x180001674: je 0x18000169c
+  0x180001676: xor r9d, r9d
+  0x180001679: mov dword ptr [rsp + 0x30], ebx
+  0x18000167d: lea rdx, [rsp + 0x30]
+  0x180001682: mov dword ptr [rsp + 0x34], edi
+  0x180001686: mov ecx, 0x224044
+  0x18000168b: mov dword ptr [rsp + 0x20], 0
+  0x180001693: lea r8d, [r9 + 8]
+  0x180001697: call 0x180001390
+  0x18000169c: mov rcx, qword ptr [rsp + 0x38]
+  0x1800016a1: xor rcx, rsp
+  0x1800016a4: call 0x180001c30
+  0x1800016a9: mov rbx, qword ptr [rsp + 0x60]
+  0x1800016ae: add rsp, 0x40
+  0x1800016b2: pop rdi
+  0x1800016b3: ret 
+==============================================================================================================
+### GetPlatformInfo   func 0x1800016c0-0x180001749 (137 bytes)
+  0x1800016c0: push rbx
+  0x1800016c2: push rsi
+  0x1800016c3: push rdi
+  0x1800016c4: sub rsp, 0x40
+  0x1800016c8: mov rax, qword ptr [rip + 0x21939]
+  0x1800016cf: xor rax, rsp
+  0x1800016d2: mov qword ptr [rsp + 0x38], rax
+  0x1800016d7: mov rdi, r8
+  0x1800016da: mov rbx, rdx
+  0x1800016dd: mov rsi, rcx
+  0x1800016e0: test rcx, rcx
+  0x1800016e3: je 0x180001732
+  0x1800016e5: test rdx, rdx
+  0x1800016e8: je 0x180001732
+  0x1800016ea: test r8, r8
+  0x1800016ed: je 0x180001732
+  0x1800016ef: call 0x1800010d0
+  0x1800016f4: test eax, eax
+  0x1800016f6: je 0x180001732
+  0x1800016f8: lea r9, [rsp + 0x30]
+  0x1800016fd: mov dword ptr [rsp + 0x20], 6
+  0x180001705: xor r8d, r8d
+  0x180001708: xor edx, edx
+  0x18000170a: mov ecx, 0x224048
+  0x18000170f: call 0x180001390
+  0x180001714: test eax, eax
+  0x180001716: je 0x180001732
+  0x180001718: movzx ecx, word ptr [rsp + 0x30]
+  0x18000171d: mov word ptr [rsi], cx
+  0x180001720: movzx ecx, word ptr [rsp + 0x32]
+  0x180001725: mov word ptr [rbx], cx
+  0x180001728: movzx ecx, word ptr [rsp + 0x34]
+  0x18000172d: mov word ptr [rdi], cx
+  0x180001730: jmp 0x180001734
+  0x180001732: xor eax, eax
+  0x180001734: mov rcx, qword ptr [rsp + 0x38]
+  0x180001739: xor rcx, rsp
+  0x18000173c: call 0x180001c30
+  0x180001741: add rsp, 0x40
+  0x180001745: pop rdi
+  0x180001746: pop rsi
+  0x180001747: pop rbx
+  0x180001748: ret 
+==============================================================================================================
+### SetCurrentAMDPMFPara   func 0x180001750-0x18000181b (203 bytes)
+  0x180001750: push rbx
+  0x180001752: sub rsp, 0x60
+  0x180001756: mov rax, qword ptr [rip + 0x218ab]
+  0x18000175d: xor rax, rsp
+  0x180001760: mov qword ptr [rsp + 0x58], rax
+  0x180001765: mov rbx, rcx
+  0x180001768: test rcx, rcx
+  0x18000176b: je 0x180001806
+  0x180001771: call 0x1800010d0
+  0x180001776: test eax, eax
+  0x180001778: je 0x180001806
+  0x18000177e: mov ecx, dword ptr [rbx + 0xc]
+  0x180001781: xor eax, eax
+  0x180001783: mov r10d, dword ptr [rbx + 0x10]
+  0x180001787: xorps xmm0, xmm0
+  0x18000178a: mov edx, dword ptr [rbx]
+  0x18000178c: mov r8d, dword ptr [rbx + 8]
+  0x180001790: mov r9d, dword ptr [rbx + 4]
+  0x180001794: movups xmmword ptr [rsp + 0x40], xmm0
+  0x180001799: mov qword ptr [rsp + 0x50], rax
+  0x18000179e: mov eax, dword ptr [rbx + 0x14]
+  0x1800017a1: mov dword ptr [rsp + 0x30], eax
+  0x1800017a5: mov dword ptr [rsp + 0x28], r10d
+  0x1800017aa: mov dword ptr [rsp + 0x20], ecx
+  0x1800017ae: mov dword ptr [rsp + 0x4c], ecx
+  0x1800017b2: lea rcx, [rip + 0x1ed07]   ; "[DbgAMD]spl = 0x%x, fppt = 0x%x, sppt = 0x%x, stt_skin_limit = 0x%x, stt_min_limit = 0x%x, stt_skin_hs2_limit "
+  0x1800017b9: mov dword ptr [rsp + 0x40], edx
+  0x1800017bd: mov dword ptr [rsp + 0x48], r8d
+  0x1800017c2: mov dword ptr [rsp + 0x44], r9d
+  0x1800017c7: mov dword ptr [rsp + 0x50], r10d
+  0x1800017cc: mov dword ptr [rsp + 0x54], eax
+  0x1800017d0: call 0x180001070
+  0x1800017d5: xor r9d, r9d
+  0x1800017d8: mov dword ptr [rsp + 0x20], 0
+  0x1800017e0: lea rdx, [rsp + 0x40]
+  0x1800017e5: mov ecx, 0x22404c
+  0x1800017ea: lea r8d, [r9 + 0x18]
+  0x1800017ee: call 0x180001390
+  0x1800017f3: mov rcx, qword ptr [rsp + 0x58]
+  0x1800017f8: xor rcx, rsp
+  0x1800017fb: call 0x180001c30
+  0x180001800: add rsp, 0x60
+  0x180001804: pop rbx
+  0x180001805: ret 
+  0x180001806: xor eax, eax
+  0x180001808: mov rcx, qword ptr [rsp + 0x58]
+  0x18000180d: xor rcx, rsp
+  0x180001810: call 0x180001c30
+  0x180001815: add rsp, 0x60
+  0x180001819: pop rbx
+  0x18000181a: ret 
+==============================================================================================================
+### SetAMDEPP   func 0x180001820-0x180001888 (104 bytes)
+  0x180001820: push rbx
+  0x180001822: sub rsp, 0x40
+  0x180001826: mov rax, qword ptr [rip + 0x217db]
+  0x18000182d: xor rax, rsp
+  0x180001830: mov qword ptr [rsp + 0x38], rax
+  0x180001835: mov ebx, ecx
+  0x180001837: call 0x1800010d0
+  0x18000183c: test eax, eax
+  0x18000183e: jne 0x180001853
+  0x180001840: mov rcx, qword ptr [rsp + 0x38]
+  0x180001845: xor rcx, rsp
+  0x180001848: call 0x180001c30
+  0x18000184d: add rsp, 0x40
+  0x180001851: pop rbx
+  0x180001852: ret 
+  0x180001853: xor r9d, r9d
+  0x180001856: mov dword ptr [rsp + 0x30], ebx
+  0x18000185a: lea rdx, [rsp + 0x30]
+  0x18000185f: mov dword ptr [rsp + 0x20], 0
+  0x180001867: mov ecx, 0x224054
+  0x18000186c: lea r8d, [r9 + 4]
+  0x180001870: call 0x180001390
+  0x180001875: mov rcx, qword ptr [rsp + 0x38]
+  0x18000187a: xor rcx, rsp
+  0x18000187d: call 0x180001c30
+  0x180001882: add rsp, 0x40
+  0x180001886: pop rbx
+  0x180001887: ret 
+==============================================================================================================
+### GetCpuPower   func 0x180001890-0x18000190b (123 bytes)
+  0x180001890: push rbx
+  0x180001892: sub rsp, 0x40
+  0x180001896: mov rax, qword ptr [rip + 0x2176b]
+  0x18000189d: xor rax, rsp
+  0x1800018a0: mov qword ptr [rsp + 0x38], rax
+  0x1800018a5: mov rbx, rcx
+  0x1800018a8: test rcx, rcx
+  0x1800018ab: je 0x1800018f6
+  0x1800018ad: call 0x1800010d0
+  0x1800018b2: test eax, eax
+  0x1800018b4: je 0x1800018f6
+  0x1800018b6: lea r9, [rsp + 0x30]
+  0x1800018bb: mov dword ptr [rsp + 0x20], 8
+  0x1800018c3: xor r8d, r8d
+  0x1800018c6: xor edx, edx
+  0x1800018c8: mov ecx, 0x224058
+  0x1800018cd: call 0x180001390
+  0x1800018d2: test eax, eax
+  0x1800018d4: je 0x1800018f6
+  0x1800018d6: mov ecx, dword ptr [rsp + 0x30]
+  0x1800018da: mov dword ptr [rbx], ecx
+  0x1800018dc: mov ecx, dword ptr [rsp + 0x34]
+  0x1800018e0: mov dword ptr [rbx + 4], ecx
+  0x1800018e3: mov rcx, qword ptr [rsp + 0x38]
+  0x1800018e8: xor rcx, rsp
+  0x1800018eb: call 0x180001c30
+  0x1800018f0: add rsp, 0x40
+  0x1800018f4: pop rbx
+  0x1800018f5: ret 
+  0x1800018f6: xor eax, eax
+  0x1800018f8: mov rcx, qword ptr [rsp + 0x38]
+  0x1800018fd: xor rcx, rsp
+  0x180001900: call 0x180001c30
+  0x180001905: add rsp, 0x40
+  0x180001909: pop rbx
+  0x18000190a: ret 
+==============================================================================================================
+### GetCpuResetStatus   func 0x180001910-0x18000198c (124 bytes)
+  0x180001910: push rbx
+  0x180001912: sub rsp, 0x40
+  0x180001916: mov rax, qword ptr [rip + 0x216eb]
+  0x18000191d: xor rax, rsp
+  0x180001920: mov qword ptr [rsp + 0x38], rax
+  0x180001925: mov dword ptr [rsp + 0x30], 0
+  0x18000192d: mov rbx, rcx
+  0x180001930: test rcx, rcx
+  0x180001933: je 0x180001977
+  0x180001935: call 0x1800010d0
+  0x18000193a: test eax, eax
+  0x18000193c: je 0x180001977
+  0x18000193e: lea r9, [rsp + 0x30]
+  0x180001943: mov dword ptr [rsp + 0x20], 4
+  0x18000194b: xor r8d, r8d
+  0x18000194e: xor edx, edx
+  0x180001950: mov ecx, 0x22405c
+  0x180001955: call 0x180001390
+  0x18000195a: test eax, eax
+  0x18000195c: je 0x180001977
+  0x18000195e: mov ecx, dword ptr [rsp + 0x30]
+  0x180001962: mov dword ptr [rbx], ecx
+  0x180001964: mov rcx, qword ptr [rsp + 0x38]
+  0x180001969: xor rcx, rsp
+  0x18000196c: call 0x180001c30
+  0x180001971: add rsp, 0x40
+  0x180001975: pop rbx
+  0x180001976: ret 
+  0x180001977: xor eax, eax
+  0x180001979: mov rcx, qword ptr [rsp + 0x38]
+  0x18000197e: xor rcx, rsp
+  0x180001981: call 0x180001c30
+  0x180001986: add rsp, 0x40
+  0x18000198a: pop rbx
+  0x18000198b: ret 
+==============================================================================================================
+### ReadAMDSMNReg   func 0x180001990-0x180001a16 (134 bytes)
+  0x180001990: push rbx
+  0x180001992: sub rsp, 0x40
+  0x180001996: mov rax, qword ptr [rip + 0x2166b]
+  0x18000199d: xor rax, rsp
+  0x1800019a0: mov qword ptr [rsp + 0x38], rax
+  0x1800019a5: mov dword ptr [rsp + 0x30], 0
+  0x1800019ad: mov rbx, rdx
+  0x1800019b0: mov dword ptr [rsp + 0x34], ecx
+  0x1800019b4: test rdx, rdx
+  0x1800019b7: je 0x180001a01
+  0x1800019b9: call 0x1800010d0
+  0x1800019be: test eax, eax
+  0x1800019c0: je 0x180001a01
+  0x1800019c2: lea r9, [rsp + 0x30]
+  0x1800019c7: mov dword ptr [rsp + 0x20], 4
+  0x1800019cf: mov r8d, 4
+  0x1800019d5: lea rdx, [rsp + 0x34]
+  0x1800019da: mov ecx, 0x22405c
+  0x1800019df: call 0x180001390
+  0x1800019e4: test eax, eax
+  0x1800019e6: je 0x180001a01
+  0x1800019e8: mov ecx, dword ptr [rsp + 0x30]
+  0x1800019ec: mov dword ptr [rbx], ecx
+  0x1800019ee: mov rcx, qword ptr [rsp + 0x38]
+  0x1800019f3: xor rcx, rsp
+  0x1800019f6: call 0x180001c30
+  0x1800019fb: add rsp, 0x40
+  0x1800019ff: pop rbx
+  0x180001a00: ret 
+  0x180001a01: xor eax, eax
+  0x180001a03: mov rcx, qword ptr [rsp + 0x38]
+  0x180001a08: xor rcx, rsp
+  0x180001a0b: call 0x180001c30
+  0x180001a10: add rsp, 0x40
+  0x180001a14: pop rbx
+  0x180001a15: ret 
+==============================================================================================================
+### ReadIntelMsrReg   func 0x180001a20-0x180001aa9 (137 bytes)
+  0x180001a20: push rbx
+  0x180001a22: sub rsp, 0x50
+  0x180001a26: mov rax, qword ptr [rip + 0x215db]
+  0x180001a2d: xor rax, rsp
+  0x180001a30: mov qword ptr [rsp + 0x40], rax
+  0x180001a35: mov qword ptr [rsp + 0x38], 0
+  0x180001a3e: mov rbx, rdx
+  0x180001a41: mov dword ptr [rsp + 0x30], ecx
+  0x180001a45: test rdx, rdx
+  0x180001a48: je 0x180001a94
+  0x180001a4a: call 0x1800010d0
+  0x180001a4f: test eax, eax
+  0x180001a51: je 0x180001a94
+  0x180001a53: lea r9, [rsp + 0x38]
+  0x180001a58: mov dword ptr [rsp + 0x20], 8
+  0x180001a60: mov r8d, 4
+  0x180001a66: lea rdx, [rsp + 0x30]
+  0x180001a6b: mov ecx, 0x224080
+  0x180001a70: call 0x180001390
+  0x180001a75: test eax, eax
+  0x180001a77: je 0x180001a94
+  0x180001a79: mov rcx, qword ptr [rsp + 0x38]
+  0x180001a7e: mov qword ptr [rbx], rcx
+  0x180001a81: mov rcx, qword ptr [rsp + 0x40]
+  0x180001a86: xor rcx, rsp
+  0x180001a89: call 0x180001c30
+  0x180001a8e: add rsp, 0x50
+  0x180001a92: pop rbx
+  0x180001a93: ret 
+  0x180001a94: xor eax, eax
+  0x180001a96: mov rcx, qword ptr [rsp + 0x40]
+  0x180001a9b: xor rcx, rsp
+  0x180001a9e: call 0x180001c30
+  0x180001aa3: add rsp, 0x50
+  0x180001aa7: pop rbx
+  0x180001aa8: ret 
+==============================================================================================================
+### ReadIntelMMIO   func 0x180001ab0-0x180001b39 (137 bytes)
+  0x180001ab0: push rbx
+  0x180001ab2: sub rsp, 0x50
+  0x180001ab6: mov rax, qword ptr [rip + 0x2154b]
+  0x180001abd: xor rax, rsp
+  0x180001ac0: mov qword ptr [rsp + 0x40], rax
+  0x180001ac5: mov qword ptr [rsp + 0x38], 0
+  0x180001ace: mov rbx, rdx
+  0x180001ad1: mov dword ptr [rsp + 0x30], ecx
+  0x180001ad5: test rdx, rdx
+  0x180001ad8: je 0x180001b24
+  0x180001ada: call 0x1800010d0
+  0x180001adf: test eax, eax
+  0x180001ae1: je 0x180001b24
+  0x180001ae3: lea r9, [rsp + 0x38]
+  0x180001ae8: mov dword ptr [rsp + 0x20], 8
+  0x180001af0: mov r8d, 4
+  0x180001af6: lea rdx, [rsp + 0x30]
+  0x180001afb: mov ecx, 0x224084
+  0x180001b00: call 0x180001390
+  0x180001b05: test eax, eax
+  0x180001b07: je 0x180001b24
+  0x180001b09: mov rcx, qword ptr [rsp + 0x38]
+  0x180001b0e: mov qword ptr [rbx], rcx
+  0x180001b11: mov rcx, qword ptr [rsp + 0x40]
+  0x180001b16: xor rcx, rsp
+  0x180001b19: call 0x180001c30
+  0x180001b1e: add rsp, 0x50
+  0x180001b22: pop rbx
+  0x180001b23: ret 
+  0x180001b24: xor eax, eax
+  0x180001b26: mov rcx, qword ptr [rsp + 0x40]
+  0x180001b2b: xor rcx, rsp
+  0x180001b2e: call 0x180001c30
+  0x180001b33: add rsp, 0x50
+  0x180001b37: pop rbx
+  0x180001b38: ret 
+==============================================================================================================
+### WriteIntelMsrReg   func 0x180001b40-0x180001baf (111 bytes)
+  0x180001b40: sub rsp, 0x58
+  0x180001b44: mov rax, qword ptr [rip + 0x214bd]
+  0x180001b4b: xor rax, rsp
+  0x180001b4e: mov qword ptr [rsp + 0x40], rax
+  0x180001b53: mov dword ptr [rsp + 0x34], 0
+  0x180001b5b: mov dword ptr [rsp + 0x30], ecx
+  0x180001b5f: mov qword ptr [rsp + 0x38], rdx
+  0x180001b64: call 0x1800010d0
+  0x180001b69: test eax, eax
+  0x180001b6b: jne 0x180001b7f
+  0x180001b6d: mov rcx, qword ptr [rsp + 0x40]
+  0x180001b72: xor rcx, rsp
+  0x180001b75: call 0x180001c30
+  0x180001b7a: add rsp, 0x58
+  0x180001b7e: ret 
+  0x180001b7f: xor r9d, r9d
+  0x180001b82: mov dword ptr [rsp + 0x20], 0
+  0x180001b8a: lea rdx, [rsp + 0x30]
+  0x180001b8f: mov ecx, 0x224064
+  0x180001b94: lea r8d, [r9 + 0x10]
+  0x180001b98: call 0x180001390
+  0x180001b9d: mov rcx, qword ptr [rsp + 0x40]
+  0x180001ba2: xor rcx, rsp
+  0x180001ba5: call 0x180001c30
+  0x180001baa: add rsp, 0x58
+  0x180001bae: ret 
+==============================================================================================================
+### WriteIntelMMIO   func 0x180001bb0-0x180001c1f (111 bytes)
+  0x180001bb0: sub rsp, 0x58
+  0x180001bb4: mov rax, qword ptr [rip + 0x2144d]
+  0x180001bbb: xor rax, rsp
+  0x180001bbe: mov qword ptr [rsp + 0x40], rax
+  0x180001bc3: mov dword ptr [rsp + 0x34], 0
+  0x180001bcb: mov dword ptr [rsp + 0x30], ecx
+  0x180001bcf: mov qword ptr [rsp + 0x38], rdx
+  0x180001bd4: call 0x1800010d0
+  0x180001bd9: test eax, eax
+  0x180001bdb: jne 0x180001bef
+  0x180001bdd: mov rcx, qword ptr [rsp + 0x40]
+  0x180001be2: xor rcx, rsp
+  0x180001be5: call 0x180001c30
+  0x180001bea: add rsp, 0x58
+  0x180001bee: ret 
+  0x180001bef: xor r9d, r9d
+  0x180001bf2: mov dword ptr [rsp + 0x20], 0
+  0x180001bfa: lea rdx, [rsp + 0x30]
+  0x180001bff: mov ecx, 0x224088
+  0x180001c04: lea r8d, [r9 + 0x10]
+  0x180001c08: call 0x180001390
+  0x180001c0d: mov rcx, qword ptr [rsp + 0x40]
+  0x180001c12: xor rcx, rsp
+  0x180001c15: call 0x180001c30
+  0x180001c1a: add rsp, 0x58
+  0x180001c1e: ret 

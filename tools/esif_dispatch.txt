@@ -1,0 +1,130 @@
+180045800 mov     r11, rsp
+180045803 push    rbx
+180045804 push    rbp
+180045805 push    rsi
+180045806 push    rdi
+180045807 push    r12
+180045809 push    r13
+18004580b push    r14
+18004580d push    r15
+18004580f sub     rsp, 0xa8
+180045816 mov     rax, qword ptr [rip + 0xe1efb]
+18004581d xor     rax, rsp
+180045820 mov     qword ptr [rsp + 0x90], rax
+180045828 mov     rax, qword ptr [rsp + 0x118]
+180045830 lea     r15, [rip + 0xa3879]  >>> 'C:\\jenkins\\workspace\\dptf\\Src\\ESIF\\Products\\ESIF_UF\\Sources\\'
+180045837 mov     r13, qword ptr [rsp + 0x110]
+18004583f xor     ebx, ebx
+180045841 mov     qword ptr [rsp + 0x80], rax
+180045849 mov     rdi, r8
+18004584c xor     eax, eax
+18004584e movzx   r12d, r9b
+180045852 mov     dword ptr [r11 - 0x60], eax
+180045856 mov     r14d, edx
+180045859 mov     word ptr [r11 - 0x5c], ax
+18004585e mov     rbp, rcx
+180045861 lea     esi, [rbx + 1]
+180045864 test    r8, r8
+180045867 jne     0x180045873
+180045869 mov     edi, 0x8fc
+18004586e jmp     0x18004597b
+180045873 mov     rcx, rdi
+180045876 call    0x180036488
+18004587b cmp     dword ptr [rip + 0xe14ee], 4
+180045882 movzx   r15d, ax
+180045886 jl      0x180045896
+180045888 test    dword ptr [rip + 0xe155a], 0x1000
+180045892 je      0x180045896
+180045894 mov     ebx, esi
+180045896 mov     edx, 4
+18004589b mov     ecx, 0x1000
+1800458a0 call    0x18009a220
+1800458a5 mov     r10d, eax
+1800458a8 test    ebx, ebx
+1800458aa jne     0x1800458b0
+1800458ac test    eax, eax
+1800458ae je      0x180045925
+1800458b0 mov     ecx, r14d
+1800458b3 call    0x180018744
+1800458b8 mov     rcx, qword ptr [rsp + 0x80]
+1800458c0 mov     r9d, 4
+1800458c6 mov     qword ptr [rsp + 0x70], rcx
+1800458cb mov     r8d, 0x1000
+1800458d1 mov     qword ptr [rsp + 0x68], r13
+1800458d6 mov     edx, r10d
+1800458d9 mov     dword ptr [rsp + 0x60], r12d
+1800458de mov     ecx, ebx
+1800458e0 mov     qword ptr [rsp + 0x58], rdi
+1800458e5 mov     dword ptr [rsp + 0x50], r14d
+1800458ea mov     qword ptr [rsp + 0x48], rax
+1800458ef lea     rax, [rip + 0xa38aa]
+1800458f6 mov     qword ptr [rsp + 0x40], rbp
+1800458fb mov     qword ptr [rsp + 0x38], rax
+180045900 lea     rax, [rip + 0xa37a9]  >>> 'C:\\jenkins\\workspace\\dptf\\Src\\ESIF\\Products\\ESIF_UF\\Sources\\'
+180045907 mov     dword ptr [rsp + 0x30], 0xa6
+18004590f mov     qword ptr [rsp + 0x28], rax
+180045914 lea     rax, [rip + 0xa394d]  >>> 'EsifExecutePrimitive'
+18004591b mov     qword ptr [rsp + 0x20], rax
+180045920 call    0x18006e718
+180045925 mov     rcx, rbp
+180045928 call    0x180043dcc
+18004592d mov     rbx, rax
+180045930 test    rax, rax
+180045933 jne     0x18004593c
+180045935 mov     edi, 0x898
+18004593a jmp     0x180045974
+18004593c mov     r9, qword ptr [rsp + 0x80]
+180045944 lea     rdx, [rsp + 0x88]
+18004594c mov     r8, r13
+18004594f mov     word ptr [rsp + 0x88], r14w
+180045958 mov     rcx, rax
+18004595b mov     word ptr [rsp + 0x8a], r15w
+180045964 mov     word ptr [rsp + 0x8c], r12w
+18004596d call    0x18003fd08
+180045972 mov     edi, eax
+180045974 lea     r15, [rip + 0xa3735]  >>> 'C:\\jenkins\\workspace\\dptf\\Src\\ESIF\\Products\\ESIF_UF\\Sources\\'
+18004597b mov     ebp, 4
+180045980 cmp     dword ptr [rip + 0xe13ea], ebp
+180045986 jl      0x180045994
+180045988 test    dword ptr [rip + 0xe145a], 0x1000
+180045992 jne     0x180045996
+180045994 xor     esi, esi
+180045996 mov     edx, ebp
+180045998 mov     ecx, 0x1000
+18004599d call    0x18009a220
+1800459a2 mov     edx, eax
+1800459a4 test    esi, esi
+1800459a6 jne     0x1800459ac
+1800459a8 test    eax, eax
+1800459aa je      0x1800459ed
+1800459ac mov     ecx, edi
+1800459ae call    0x180004e20
+1800459b3 mov     qword ptr [rsp + 0x40], rax
+1800459b8 mov     r9d, ebp
+1800459bb lea     rax, [rip + 0xa26b6]  >>> 'Primitive result = %s\n'
+1800459c2 mov     r8d, 0x1000
+1800459c8 mov     qword ptr [rsp + 0x38], rax
+1800459cd mov     ecx, esi
+1800459cf mov     dword ptr [rsp + 0x30], 0xb4
+1800459d7 lea     rax, [rip + 0xa388a]  >>> 'EsifExecutePrimitive'
+1800459de mov     qword ptr [rsp + 0x28], r15
+1800459e3 mov     qword ptr [rsp + 0x20], rax
+1800459e8 call    0x18006e718
+1800459ed test    rbx, rbx
+1800459f0 je      0x1800459fa
+1800459f2 mov     rcx, rbx
+1800459f5 call    0x1800413d0
+1800459fa mov     eax, edi
+1800459fc mov     rcx, qword ptr [rsp + 0x90]
+180045a04 xor     rcx, rsp
+180045a07 call    0x1800a6470
+180045a0c add     rsp, 0xa8
+180045a13 pop     r15
+180045a15 pop     r14
+180045a17 pop     r13
+180045a19 pop     r12
+180045a1b pop     rdi
+180045a1c pop     rsi
+180045a1d pop     rbp
+180045a1e pop     rbx
+180045a1f ret     

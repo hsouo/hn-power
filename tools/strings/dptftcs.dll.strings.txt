@@ -1,0 +1,6841 @@
+### ASCII strings (6271)
+!This program cannot be run in DOS mode.
+LRich!
+.text
+`.rdata
+@.data
+.pdata
+@_RDATA
+@.rsrc
+@.reloc
+UATAUAVAWH
+upL9-
+)t$PL
+A_A^A]A\]
+UATAUAVAWH
+upL9-
+)t$PL
+A_A^A]A\]
+UATAUAVAWH
+upL9-O3
+)t$PL
+A_A^A]A\]
+UATAUAVAWH
+upL9-o-
+)t$PL
+A_A^A]A\]
+UVWATAUAVAWH
+upL9-
+)t$PL
+A_A^A]A\_^]
+@SUVWH
+L$PH3
+h_^][
+@SUVWAWH
+L$0H3
+@A__^][
+VWATAVAWH
+L$(E3
+D8|$@
+pA_A^A\_^
+L$8H3
+\$ UVWH
+)t$PH
+(t$PH
+\$0HcH
+|$ UAVAWH
+A_A^]
+@SUVWATAVH
+L$(H;
+L$0H3
+HA^A\_^][
+\$ VH
+\$ VH
+|$ AVH
+UVWATAUAVAWH
+L$PE3
+CT$0I
+D$@H+
+CT$0H
+A_A^A]A\_^]
+UVWATAWH
+ A_A\_^]
+ A_A\_^]
+ A_A\_^]
+ A_A\_^]
+|$ AVL
+I9Jhs
+I9Jhs
+t$ AVH
+t$HH+
+t$ AVH
+t$HH+
+t$ WATAUAVAWH
+L$(I;
+L;|$ 
+L$@H3
+A_A^A]A\_
+t$ WATAUAVAWH
+A_A^A]A\_
+\$ VWATAVAWH
+@A_A^A\_^
+t$ WAVAWH
+@A_A^_
+@SVWH
+@SVWH
+t$ WH
+t0fff
+t$ WH
+\$ UWAVH
+ A^_]
+D$ H;S
+L$8H3
+UVWAVAWH
+T$0E3
+L$8H3
+@A_A^_^]
+\$ UWAVH
+ A^_]
+@SWAVH
+L$0H3
+PA^_[
+L$(H3
+L$(H3
+L$(H3
+L$(H3
+L$(H3
+L$(H3
+L$(H3
+t$ WH
+L$XH3
+@SUVH
+@SUVH
+@SUVH
+@SUVH
+@SUVH
+D9H }7H
+D;H |sI
+$9P }
+E;K |
+D9H }7H
+D;H |sI
+$9P }
+E;K |
+D9H }7H
+D;H |sI
+$9P }
+E;K |
+D9H }7H
+D;H |sI
+$9P }
+E;K |
+t$ WAVAWH
+\$ E3
+)D$PL
+A_A^_
+UWATAVAWH
+D$ :A
+D$ cA
+D$ SA
+D$ NA
+D$ kA
+D$ BA
+D$ |A
+D$ BA
+D$ BA
+D$ nA
+A_A^A\_]
+D9@ }
+u#D;B |
+D9@ }
+u#D;B |
+D9@ }
+u#D;B |
+D9@ }
+u#D;B |
+@SVWH
+L$@H3
+|$ AVH
+VWAVH
+L$0H3
+@A^_^
+t$ WAVAWH
+L$0H3
+@A_A^_
+L$@H3
+L$HH3
+L$0H3
+l$ VWAVH
+L$xH3
+L$0H3
+t$ UWAVH
+l$ VWATAVAWH
+D$0H;
+L$@H3
+A_A^A\_^
+L$0H3
+UVWAVAWH
+L$0H3
+@A_A^_^]
+L$@H3
+{ ATAVAWH
+L$8E3
+D$PE3
+A_A^A\
+t$ WH
+VWAWH
+@SUVH
+D9H }7H
+D;H |sI
+$9P }
+E;K |
+ !"#$%&((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((('
+D9@ }
+u#D;B |
+WAVAWH
+A_A^_
+WAVAWH
+A_A^_
+SVWATAUAVAWH
+A_A^A]A\_^[
+@SVWATAUAVAWH
+A_A^A]A\_^[
+|$ AVH
+@SVWATAUAVAWH
+A_A^A]A\_^[
+VWATAVAWH
+A_A^A\_^
+VWATAVAW
+(D$0f
+A_A^A\_^
+H SVWH
+@UVWAVH
+(A^_^]
+(A^_^]
+@SUVWAUAVAWH
+ A_A^A]_^][
+UVWATAUAVAWH
+PA_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SVWATAUAVAWH
+A_A^A]A\_^[
+@SVATAVAWH
+A_A^A\^[
+@SVAVAWH
+A_A^^[
+@SVWATAVAWH
+A_A^A\_^[
+@SVWAVAWH
+A_A^_^[
+@SVWATAUAVAWH
+A_A^A]A\_^[
+@SVWH
+t$ WH
+L$PH3
+@SVWH
+L$0H3
+L$HH3
+t$ WAVAWH
+A_A^_
+@SUWATAWH
+@A_A\_][
+@A_A\_][
+|$ E3
+UWATAVAWH
+ A_A^A\_]
+ A_A^A\_]
+\$ UH
+t$@H9+uuH
+VWAVH
+ A^_^
+\$ UH
+t$`tw
+@UVAVAWH
+9t$0u.H
+L$8H3
+HA_A^^]
+t$ WH
+CD$ H
+L$PH3
+t$ WH
+CD$ H
+L$PH3
+L$0H3
+t$ WH
+CD$ H
+L$PH3
+t$ WH
+CD$ H
+L$PH3
+t$ WH
+CD$ H
+L$PH3
+t$ WH
+CD$ H
+L$PH3
+t$ WH
+CD$ H
+L$PH3
+t$ WH
+CD$ H
+L$PH3
+t$ WH
+VWAVH
+g}"Ic
+\$ UVWH
+|$ UH
+h"dvH
+rB.pH
+xN-GH
+El%@H
+9 w%H
+\$ VWATAVAWH
+L$(E3
+pA_A^A\_^
+t$ WH
+D$UL;
+D$UM+
+CT$ L
+L$XH3
+\$ WH
+T$ t~H
+D$=L;
+L$@H3
+VWATAVAWH
+L$(E3
+B8<2u
+pA_A^A\_^
+SWAVAWH
+L$0H3
+XA_A^_[
+SUWAUH
+L$ H+
+L$8H3
+XA]_][
+H9=?e
+L$8H3
+L$8H3
+t$ WATAUAVAWH
+L$`E3
+D8d$p
+L9=I`
+(D$Pf
+A_A^A]A\_
+UVWATAUAVAWH
+(D$03
+)D$0H
+)D$0H
+(D$0H
+)D$0H
+(D$0H
+)D$0H
+(D$0H
+)D$0H
+(D$0H
+A_A^A]A\_^]
+|$ UAVAWH
+A_A^]
+UVWAVAWH
+|$HfD
+|$XfD
+A_A^_^]
+UVWATAUAVAWH
+C@H98t$H
+C@H90t$H
+A_A^A]A\_^]
+@SVWH
+D$P%A
+@SVWH
+D$P%A
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SVWH
+@SVWH
+D$P%A
+@SVWH
+D$P%A
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+l$ VWAVH
+T$(E3
+D$PHcH
+D$PHcH
+D$PHcH
+L$ SUVWH
+8_^][
+\$ WH
+@SVWH
+|$ AVH
+L$0H3
+t$ WH
+L$0H3
+VWAVH
+L$@H3
+PA^_^
+L$XH3
+L$0H3
+L$0H3
+t$ UWAVH
+UVWATAUAVAWH
+D$0H;
+L$@H3
+PA_A^A]A\_^]
+L$0H3
+l$ VWAVH
+L$ H;
+L$HH3
+t$ WATAUAVAWH
+D$ I;
+A_A^A]A\_
+\$ WH
+|$ AVH
+L$HH3
+t$ WH
+L$0H3
+t$ WH
+L$0H3
+L$0H3
+L$0H3
+t$ WH
+L$8H3
+|$ ATAVAWH
+L$PH3
+A_A^A\
+UVWATAUAVAWH
+0A_A^A]A\_^]
+t$ WATAUAVAWH
+L$`E3
+(D$Pf
+A_A^A]A\_
+UVWAVAWH
+T$HE3
+A_A^_^]
+L$hH3
+t$ WH
+@SUVAUAVH
+@A^A]^][
+\$(E3
+SWAVAWH
+L$8H3
+XA_A^_[
+L$=fff
+L$@H3
+@SUVWAVH
+0A^_^][
+UVWATAUAVAWH
+l$PI+
+l$PI+
+t$ L;
+d$PI+
+t$ L;
+l$PI+
+t$ L;
+|$PI+
+t$ L;
+|$PI+
+t$ L;
+L;E L
+BE L+
+A_A^A]A\_^]
+{ ATAVAWH
+C\$8H
+t$ E3
+A_A^A\
+@VWAWH
+T$ I+
+\$`fC
+@A__^
+@SVWH
+\$ WH
+T$(E3
+D$eL;
+D$eM+
+L$hH3
+\$ WH
+@SVWATAUAVAWH
+t$(I;
+l$ L;g
+PA_A^A]A\_^[
+@SVWATAUAVAWH
+L$]L;
+D$]M+
+L$(H;
+L$`H3
+pA_A^A]A\_^[
+t$ WATAUAVAWH
+)D$PH
+)D$pH
+A_A^A]A\_
+t$ WATAUAVAWH
+D$ I;
+A_A^A]A\_
+\$ WH
+\$ WH
+l$ VWAVH
+ A^_^
+t$ UWAUAVAWH
+A_A^A]_]
+D$p`A
+VWATAVAWH
+@A_A^A\_^
+@SVWH
+@SVWH
+@UWAVH
+0A^_]
+@SVWH
+@UWAVH
+0A^_]
+VWAVH
+@A^_^
+t$ WH
+D$ D9@ s
+)D$PH
+t$ AVH
+u.H;P
+M90u7
+L$XH3
+@SVWATAUAVAWH
+A_A^A]A\_^[
+u9;Q r4I;
+L$0H3
+VWAVH
+L$ H3
+0A^_^
+t$ WATAUAVAWH
+T$PE3
+D$89H
+9C skM9n
+)D$pL
+A_A^A]A\_
+\$ UVWAVAWH
+D9@ s
+ujD;A rdH;
+L$XH3
+`A_A^_^]
+u1;Q r,I;
+L$(H3
+L$(H3
+t$ WATAUAVAWH
+T$PE3
+fffffff
+D$(9H
+9C s`M9n
+)D$pH
+A_A^A]A\_
+UVWAVAWH
+D$(9P
+9C sYL9~
+)D$`H
+L$xH3
+A_A^_^]
+@WAVAWH
+0A_A^_
+@VAVAWH
+I!|/PH
+0A_A^^
+VWATAVAWH
+@A_A^A\_^
+@UWAVH
+0A^_]
+@UWAVH
+0A^_]
+t$ WH
+D$ D9@ s
+)D$PH
+@SUVWAVAWH
+A_A^_^][
+@SUVWAVAWH
+A_A^_^][
+t$ AVH
+u.H;P
+M90u7
+L$@H3
+@SVWAVAWH
+A_A^_^[
+WAVAWH
+L$8E3
+A_A^_
+|$@H;
+UVWAVAWH
+D$(9P
+9C sYL9~
+)D$`H
+L$xH3
+A_A^_^]
+l$ VWAVH
+H;\$ 
+L$0H3
+L$=fff
+L$@H3
+H;\$ 
+L$0H3
+WAVAWH
+A_A^_
+WAVAWH
+A_A^_
+VWATAVAWH
+L$`E3
+D8d$p
+(D$Pf
+A_A^A\_^
+CT$ L
+l$ VWAVH
+\$ UVWH
+l$ @8)
+D$PHcH
+D$PHcH
+t$ WH
+CT$ L
+l$ VWAVH
+\$ WH
+UVWATAUAVAWH
+0A_A^A]A\_^]
+L$PH3
+L$PH3
+L$HH3
+L$HH3
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UWAVH
+H9CXt.H
+L$HH3
+T$HM;
+L$hH3
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@SVWATAUAVAWH
+t$(I;
+|$ I;
+PA_A^A]A\_^[
+SUWAWH
+L$8H3
+XA__][
+t$ WATAUAVAWH
+t$$@2
+A_A^A]A\_
+WAVAWH
+ A_A^_
+VWAVH
+@VWAVH
+ A^_^
+ A^_^
+ A^_^
+\$ UVAVH
+tAH9S
+0A^^]
+\$ WH
+@VWAVAWH
+xA_A^_^
+d$`I+
+xA_A^_^
+UVWATAUAVAWH
+@A_A^A]A\_^]
+s WATAUAVAWH
+A_A^A]A\_
+VWATAVAWH
+D$PE3
+\$xH+
+D$XH;
+D$XH;
+CT$XL
+A_A^A\_^
+UVWATAUAVAWH
+D$`E3
+D$8E3
+D$8E3
+D$8E3
+D$8E3
+D$8E3
+A_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+SVWATAUAVAWH
+A_A^A]A\_^[
+SVWATAUAVAWH
+A_A^A]A\_^[
+@SVWATAUAVAWH
+A_A^A]A\_^[
+SVWATAUAVAWH
+A_A^A]A\_^[
+SVWATAUAVAWH
+A_A^A]A\_^[
+SWATAUAVAWH
+A_A^A]A\_[
+@SVWATAUAVAWH
+A_A^A]A\_^[
+@SVWATAUAVAWH
+A_A^A]A\_^[
+t$ UWATAVAWH
+A_A^A\_]
+B\$ H
+G\$ H
+|$ @89
+L$PHcQ
+D$PHcH
+t$ WATAUAVAWH
+L$`E3
+D8d$p
+(D$Pf
+A_A^A]A\_
+@SUVAUAVH
+@A^A]^][
+UVWAVAWH
+D$HI+
+C\$0H
+t$ E3
+`A_A^_^]
+s WATAUAVAWH
+|$@L;
+D$pH;
+A_A^A]A\_
+SUVWATAUAVAWH
+A_A^A]A\_^][
+SUVWATAUAVAWH
+A_A^A]A\_^][
+UVWATAUAVAWH
+A_A^A]A\_^]
+VWATAVAWH
+@A_A^A\_^
+t$ WH
+@SVWH
+t$ WH
+H;\$HtjD
+L$XH3
+@SVWH
+UVWAVAWH
+A_A^_^]
+@USVWATAVAWH
+A_A^A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAVAWH
+A_A^A\_^[]
+s WATAUAVAWH
+A_A^A]A\_
+UVWAVAWH
+A_A^_^]
+UVWAVAWH
+A_A^_^]
+UVWAVAWH
+A_A^_^]
+UWATAVAWH
+A_A^A\_]
+s WATAUAVAWH
+t$xH;
+A_A^A]A\_
+UVWAVAWH
+A_A^_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWAVAWH
+A_A^_^]
+UVWAVAWH
+A_A^_^]
+UVWAVAWH
+A_A^_^]
+UVWAVAWH
+A_A^_^]
+UVWAVAWH
+A_A^_^]
+UVWAVAWH
+A_A^_^]
+UVWAVAWH
+A_A^_^]
+t$ WATAUAVAWH
+yxxxxxxxI
+D$ I;
+D$(Mk
+yxxxxxxxH
+A_A^A]A\_
+|$ AVH
+yxxxxxxxH+
+t$ WATAUAVAWH
+L$pE3
+T$PH;T$Xt
+yxxxxxxxH
+A_A^A]A\_
+L$PH3
+L$XH3
+D$(L;
+VWAVH
+L$HH3
+PA^_^
+t$ UWAVH
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SVWH
+@SVWAVAWH
+@A_A^_^[
+\$ WH
+t$ WATAUAVAWH
+UUUUUUU
+D$ I;
+A_A^A]A\_
+t$ WH
+L$(8H
+D$ 9P
+VWAVH
+@A^_^
+t$ WH
+WATAUAVAWH
+D$XE3
+D$`E3
+D$hE3
+D$pE3
+D$HE3
+A_A^A]A\_
+@SVWATAVAWH
+A_A^A\_^[
+H SVWH
+@SUVH
+UUUUUUU
+VWAVH
+D$ 9X
+)D$PL
+L$hH3
+pA^_^
+|$ UAVAWH
+T$0H+
+A_A^]
+UVWATAUAVAWH
+ucM9o
+)D$PL
+u3fff
+A_A^A]A\_^]
+|$ UH
+UWATAVAWH
+D$@I+
+C\$0H
+|$ E3
+uK@8~It
+D$`I+
+C\$PH
+|$ E3
+C\$pH
+|$ E3
+A_A^A\_]
+L$ SVWH
+L$@H3
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+A_A^A]A\_
+L$`H3
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+WAVAWH
+A_A^_
+L$0H3
+L$0H3
+L$0H3
+@USVWAVH
+A^_^[]
+t$ WH
+@USVWAVH
+A^_^[]
+t$ WH
+\$ UVWAVAWH
+A_A^_^]
+L$0H3
+L$0H3
+VWAVH
+VWAVH
+|$ AVH
+L$HH3
+@SVWATAUAVAWH
+t$(I;
+T$8E3
+t$ I;
+PA_A^A]A\_^[
+l$ VWAVH
+ A^_^
+L$8H3
+UVWAVAWH
+L$0H3
+@A_A^_^]
+l$ VWAVH
+t$ WH
+t$ UWATAVAWH
+T$hE3
+^PI;^X
+CT$(L
+A_A^A\_]
+@USVWAVH
+T$ E3
+CT$8L
+CT$XL
+CT$xL
+L;E@L
+BE@L+
+A^_^[]
+@USVWATAVAWH
+GXH9GP
+T$ E3
+CT$8L
+\$ E3
+CT$XL
+\$ E3
+CT$xL
+T$ E3
+A_A^A\_^[]
+AXH9AP
+|$ UH
+T$ E3
+\$ UVWH
+@SUVWATAUAVAWH
+T$lf9TF
+T$|f9TG
+D$ E3
+A_A^A]A\_^][
+T$\f9TK
+D$ E3
+@SUVWATAUAVAWH
+T$\f9TF
+T$lf9TG
+T$|f9TK
+D$ E3
+A_A^A]A\_^][
+D$ E3
+L$PH3
+T$Lf9TK
+D$ E3
+L$`H3
+R$fE;J*
+L$@H3
+L$@H3
+D$(E3
+l$ VWAVH
+@A^_^
+fA99}
+T$ E3
+\$ UVWATAUAVAWH
+`A_A^A]A\_^]
+u^A8F
+t$ WAVAWH
+0A_A^_
+t$ WAVAWH
+0A_A^_
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+l$ VWATAVAWH
+ A_A^A\_^
+@SVWH
+@SVWH
+x AVH
+t$ WH
+tpH91uk
+t$ WH
+tpH91uk
+UVWATAUAVAWH
+D$2E3
+T$89T$@
+d$4E3
+D8l$<tNI
+APD9(~
+APD9(~
+A8L9(t
+APD9(~
+APD9(~
+A8L9(t
+APD9(~
+APD9(~
+A8L9(t
+APD9(~
+APD9(~
+A8L9(t
+APD9(~
+APD9(~
+A8L9(t
+APD9(~
+d$4D8l$1u
+A_A^A]A\_^]
+UVWATAUAVAWH
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+APD98~
+A8L98t
+APD98~
+T$89T$<
+T$@E:
+|$48_
+APD90~
+A8L90t
+APD90~
+APD90~
+A8L90t
+APD90~
+APD90~
+A8L90t
+APD90~
+APD90~
+A8L90t
+APD90~
+8\$1u
+A_A^A]A\_^]
+UVWATAUAVAWH
+APD9 ~
+A8L90t
+APD90~
+APD9 ~
+A8L90t
+APD90~
+APD90~
+A8L90t
+APD90~
+APD90~
+APD90~
+A8L90t
+APD90~
+A_A^A]A\_^]
+L$XH3
+x AVH
+UVWATAUAVAWH
+@A_A^A]A\_^]
+x AVH
+x AVH
+WAVAWH
+(t$ H
+0A_A^_
+WAVAWH
+(t$ H
+0A_A^_
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+UVWAVAWH
+H9D$8t0
+A_A^_^]
+UVWAVAWH
+H9D$8t%
+A_A^_^]
+@USVWATAVAWH
+pA_A^A\_^[]
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+D$(L;
+t$ WH
+@UAVAWH
+A_A^]
+x AVH
+x AVH
+\$ UVWATAUAVAWH
+`A_A^A]A\_^]
+uhA8F
+\$ UVWATAUAVAWH
+`A_A^A]A\_^]
+uhA8F
+\$ UVWATAUAVAWH
+`A_A^A]A\_^]
+uhE8N
+\$ UVWATAUAVAWH
+`A_A^A]A\_^]
+uhE8N
+@USVWAWH
+D8yDt
+0A__^[]
+@USVWAWH
+PA__^[]
+VWATAVAWH
+\$@fD
+A_A^A\_^
+VWATAVAWH
+\$@fD
+A_A^A\_^
+t$ WAVAWH
+0A_A^_
+t$ WAVAWH
+0A_A^_
+t$ WAVAWH
+0A_A^_
+t$ WAVAWH
+0A_A^_
+UVWATAUAVAWH
+ A_A^A]A\_^]
+l$ VWATAVAWH
+ A_A^A\_^
+UVWATAUAVAWH
+ A_A^A]A\_^]
+l$ VWATAVAWH
+ A_A^A\_^
+@SUVWATAVAWH
+@A_A^A\_^][
+@SUVWATAVAWH
+@A_A^A\_^][
+l$ VWATAVAWH
+ A_A^A\_^
+l$ VWATAVAWH
+ A_A^A\_^
+@SVWH
+@SVWH
+@SVWH
+@SVWH
+H9=!J
+@SVWH
+H9=uG
+@SVWH
+H9=IF
+@SVWH
+H9==G
+@SVWH
+@SVWH
+@SVWH
+@SVWH
+@SVWH
+@SVWH
+@SVWH
+@SVWH
+H9=m>
+@SVWH
+H9=Q=
+@SVWH
+H9=U<
+@SVWH
+@SVWH
+H9=5:
+@SVWH
+@SVWH
+@SVWH
+@SVWH
+H9=%6
+@SVWH
+@SVWH
+@SVWH
+H9=I2
+D$0H;
+D$0H;
+t$8fA
+t$8fA
+WAVAWH
+ A_A^_
+WAVAWH
+ A_A^_
+L$0H3
+L$0H3
+UVWATAUAVAWH
+CEPfB
+Dt$HH
+A_A^A]A\_^]
+UVWATAUAVAWH
+CEPfB
+Dt$HH
+A_A^A]A\_^]
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+t$ WH
+tpH91uk
+t$ WH
+tpH91uk
+t$ WH
+tpH91uk
+t$ WH
+tpH91uk
+t$ WH
+tpH91uk
+t$ WH
+tpH91uk
+t$ WH
+tpH91uk
+t$ WH
+tpH91uk
+t$ WH
+tpH91uk
+t$ WH
+tpH91uk
+VWAVH
+VWAVH
+UVWATAUAVAWH
+l$@D8G
+L$89L$H
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+;t$H}
+A8L98t
+APD98~
+d$4D8|$<tJI
+d$4E3
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+d$4D8|$1u
+A_A^A]A\_^]
+UVWATAUAVAWH
+l$@D8G
+L$89L$H
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+;t$H}
+A8L98t
+APD98~
+d$4D8|$<tJI
+d$4E3
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+d$4D8|$1u
+A_A^A]A\_^]
+UVWATAUAVAWH
+D$PE3
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+APD98~
+A8L98t
+APD98~
+l$HD8G
+L$89L$<
+l$Xt_H
+APD9(~
+A8L9(t
+APD9(~
+A8L9 t
+APD9 ~
+\$@E3
+APD9 ~
+A8L9 t
+APD9 ~
+d$4E3
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+d$4D8|$1u
+A_A^A]A\_^]
+UVWATAUAVAWH
+D$PE3
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+APD98~
+A8L98t
+APD98~
+l$HD8G
+L$89L$<
+l$Xt_H
+APD9(~
+A8L9(t
+APD9(~
+A8L9 t
+APD9 ~
+\$@E3
+APD9 ~
+A8L9 t
+APD9 ~
+d$4E3
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+d$4D8|$1u
+A_A^A]A\_^]
+WATAUAVAWH
+<%ucL
+A_A^A]A\_
+WATAUAVAWH
+<%ucL
+A_A^A]A\_
+UVWATAUAVAWH
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+APD98~
+A8L98t
+APD98~
+d$@D8W
+D8T$1u
+D$2fE
+D$2E3
+|$D8Q
+D$8D8T$1u
+A_A^A]A\_^]
+UVWATAUAVAWH
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+A8L98t
+APD98~
+APD98~
+APD98~
+A8L98t
+APD98~
+d$@D8W
+D8T$1u
+D$2fE
+D$2E3
+|$D8Q
+D$8D8T$1u
+A_A^A]A\_^]
+UVWATAUAVAWH
+AP90~
+<+u[H
+A8H90t
+AP90~
+]<-uYH
+A8H90t
+AP90~
+<0ugH
+`A_A^A]A\_^]
+UVWATAUAVAWH
+AP90~
+<+u[H
+A8H90t
+AP90~
+]<-uYH
+A8H90t
+AP90~
+<0ugH
+`A_A^A]A\_^]
+UVWATAUAVAWH
+<vt{<x
+D$xfA9E
+8L$DuVM
+\$HE3
+D$hE3
+L$4E3
+C]`E3
+L$8E3
+L$4E3
+L$8E3
+usE8E
+uoA8]
+\$HD8D$D
+A_A^A]A\_^]
+UVWATAUAVAWH
+<vt{<x
+D$xfA9E
+8L$DuVM
+\$HE3
+D$hE3
+L$4E3
+C]`E3
+L$8E3
+L$4E3
+L$8E3
+usE8E
+uoA8]
+\$HD8D$D
+A_A^A]A\_^]
+VWAVH
+VWAVH
+UWAVH
+UWAVH
+D$0H;
+D$0H;
+UVWATAUAVAWH
+<}wTI
+A_A^A]A\_^]
+UVWATAUAVAWH
+<}wTI
+A_A^A]A\_^]
+|$ UATAUAVAWH
+L95=B
+L95*C
+L95%B
+L95{A
+L95i@
+L955?
+L95O>
+L95o<
+L9=c:
+L95t7
+A_A^A]A\]
+|$ UATAUAVAWH
+L95=5
+L95e6
+L95C4
+L9513
+L95e2
+L957/
+L9=w.
+L9=+-
+L9=~,
+A_A^A]A\]
+f9,Yu
+x AVH
+x AVH
+x AVH
+x AVH
+UVWATAUAVAWH
+|$0H9{
+H+t$0
+D,$< 
+D9L$(u2L
+D$@E3
+A_A^A]A\_^]
+UVWATAUAVAWH
+|$0H9{
+H+t$0
+D,$< 
+D9L$(u2L
+D$@E3
+A_A^A]A\_^]
+x AVH
+x AVH
+x AVH
+x AVH
+@SUVWATAVAWH
+H9t$@t
+A_A^A\_^][
+@USVWATAVAWH
+8-uGH
+A_A^A\_^[]
+@SUVWATAVAWH
+H9t$@t
+A_A^A\_^][
+@USVWATAVAWH
+8-uGH
+A_A^A\_^[]
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+UVWAVAWH
+H9D$8t0
+A_A^_^]
+UVWAVAWH
+H9D$8t%
+A_A^_^]
+@USVWATAVAWH
+pA_A^A\_^[]
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+UVWAVAWH
+H9D$8t0
+A_A^_^]
+UVWAVAWH
+H9D$8t%
+A_A^_^]
+@USVWATAVAWH
+pA_A^A\_^[]
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+<:weH
+<:weH
+A_A^A]A\]
+UATAUAVAWH
+<:weH
+<:weH
+A_A^A]A\]
+WATAUAVAWH
+<:u|H
+<:utH
+A_A^A]A\_
+WATAUAVAWH
+<:u|H
+<:utH
+A_A^A]A\_
+WAVAWH
+A_A^_
+WAVAWH
+A_A^_
+VWAVH
+0A^_^
+VWAVH
+0A^_^
+x ATAVAWH
+t$`H+
+|$hH;
+0A_A^A\
+x ATAVAWH
+t$`H+
+|$hH;
+0A_A^A\
+L$0H3
+l$ VWAVH
+L$0H3
+@A^_^
+L$0H3
+l$ VWAVH
+L$0H3
+@A^_^
+l$ VWATAVAWH
+D$ I;
+L$0H3
+A_A^A\_^
+l$ VWATAVAWH
+D$ I;
+L$0H3
+A_A^A\_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SUVWH
+D$P%A
+@SUVWH
+D$P%A
+USVWATAVAWH
+A_A^A\_^[]
+USVWATAVAWH
+A_A^A\_^[]
+@SUVWH
+@SUVWH
+D$P%A
+@SUVWH
+D$P%A
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@SUVWH
+D$P%A
+@SUVWH
+D$P%A
+USVWATAVAWH
+A_A^A\_^[]
+USVWATAVAWH
+A_A^A\_^[]
+@SUVWH
+@SUVWH
+D$P%A
+@SUVWH
+D$P%A
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAVAWH
+A_A^A\_^[]
+@USVWATAVAWH
+A_A^A\_^[]
+VWAVH
+@A^_^
+VWAVH
+@A^_^
+UVWAVAWH
+L$(H3
+0A_A^_^]
+UVWAVAWH
+L$(H3
+0A_A^_^]
+t$ WH
+t$ WH
+x AVH
+@SVWH
+H9=]r
+@SVWH
+H9=Qq
+@SVWH
+H9=Ep
+@SVWH
+H9=9o
+@SVWH
+H9=5n
+@SVWH
+@SVWH
+@SVWH
+D$0H;
+t$ WH
+tpH91uk
+t$ WH
+tpH91uk
+t$ WH
+tpH91uk
+VWAVH
+WATAUAVAWH
+<%ucL
+A_A^A]A\_
+UVWATAUAVAWH
+AP90~
+<+uVH
+A8H90t
+AP90~
+X<-uTH
+A8H90t
+AP90~
+<0ufH
+`A_A^A]A\_^]
+UVWATAUAVAWH
+t$xE3
+<vtt<x
+D$8:D$D
+H+\$xH
+uiA8E
+ugA8]
+HHti@
+A_A^A]A\_^]
+VWAVH
+D$0H;
+|$ UATAUAVAWH
+L9-5;
+L9-i:
+L9-57
+L9-x6
+L9-,5
+A_A^A]A\]
+x AVH
+UVWATAUAVAWH
+|$0H9{
+H+t$0
+D,$< 
+D9T$(u/L
+D$@E3
+A_A^A]A\_^]
+x AVH
+@SUVWATAVAWH
+H9t$@t
+L$xH3
+A_A^A\_^][
+@USVWATAVAWH
+8-uCH
+A_A^A\_^[]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+]`u7H
+HHtbH
+HHtbH
+HHtbH
+HHtbH
+A_A^A]A\]
+WATAUAVAWH
+<:uwH
+<:uoH
+A_A^A]A\_
+WAVAWH
+A_A^_
+@USVWATAUAWH
+A_A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+\$ UVWAVAWH
+A_A^_^]
+p WAVAWH
+ A_A^_
+SUVWATAUAVAWH
+!l$ H
+l$ A*
+H+L$(x<H
+;D$ t
+8A_A^A]A\_^][
+VWATAVAWH
+ A_A^A\_^
+SUVWATAUAVAWH
+H+L$ xFH
+8A_A^A]A\_^][
+x AVH
+T$`A9r
+p AWH
+WATAUAVAWH
+0A_A^A]A\_
+f#D$@H
+x ATAVAWH
+@A_A^A\
+@USVWAUAVAWH
+e@A_A^A]_^[]
+x AVH
+LcA<A
+HcA<H
+x AVH
+SVWAVH
+8A^_^[
+WAVAWH
+\$8H;
+A_A^_
+WAVAWH
+0A_A^_
+|$ AVH
+VWAVH
+@A^_^
+ntelA
+GenuD
+ED$`H
+u0HcH<H
+D$H9D$ s"
+\$ WH
+@SVWH
+M H1E
+ H3E H3E
+\$ UH
+M H1E
+ H3E H3E
+t$ WH
+D8L$0uP
+|$(A^
+VWATAVAWH
+tzIcF
+T$PE3
+ A_A^A\_^
+WATAUAVAWH
+A_A^A]A\_
+UAVAWH
+A_A^]
+HcE_H
+HcE_L
+HcEgH
+H;XXs
+H;xXu5
+ v.H+
+t7HcP
+R8HcH
+ffffff
+WATAUAVAWH
+)D$0L
+A_A^A]A\_
+L$@;|
+tRLcY
+AUAVAWH
+u4I9}(
+;I9}(tiH
+0A_A^A]
+AUAVAWH
+u4I9}(
+;I9}(tiH
+0A_A^A]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+@USVWATAUAVAWH
+T$xE2
+K0HcQ
+D9w t
+HcO H
+D9w t
+HcG H
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+K0HcQ
+D$pHc
+d$dD;d$lta
+L$h;M
+A_A^A]A\_^[]
+UVWATAUAVAWH
+mwtMH
+A_A^A]A\_^]
+t-Lck
+MGD;}
+@USVWATAUAVAWH
+L$`;M
+A_A^A]A\_^[]
+x AVH
+x AVH
+x AVH
+HcK H
+G0HcH
+WAVAWH
+9p@u+
+9t$Pu
+C0HcH
+A_A^_
+tEHcR
+t1HcR
+@SVWATAUAVAWH
+|$ D!
+L!|$(L!
+D$8L9
+D$0HcH
+pA_A^A]A\_^[
+SVWATAUAWH
+A_A]A\_^[
+< u\A
+B(I9A(u
+SVWATAUAVAWH
+0A_A^A]A\_^[
+SVWATAUAVAWH
+t@HcS
+t$8L;
+L;t$X
+(D$0f
+A_A^A]A\_^[
+t/HcR
+t$ WATAUAVAWH
+E0Lc`
+E0HcH
+ A_A^A]A\_
+9)~P3
+\$0H+
+\$0H+
+HcC H
+UVWATAUAVAWH
+99~CE
+ A_A^A]A\_^]
+D$8E3
+\$5L3
+L$8H3
+D$8E3
+L$8H3
+t^H91u
+UVWATAUAVAWH
+L$0tA
+(D$Pf
+(D$PH
+<`t)H
+L$0tz
+L$@D8l$Ht
+L!d$PH
+L$PD!d$X
+(D$0H
+(D$0H
+(D$0H
+(D$0H
+D8l$Ht
+D8l$Ht
+D8l$Ht
+(D$0H
+(D$0H
+(D$0H
+D$HE3
+D9epA
+(D$0H
+(D$0H
+(D$0H
+(D$0H
+(D$0H
+A_A^A]A\_^]
+wKH9+u
+H9=qh
+'H9+t
+8@u:H
+UAVAWH
+D88tS3
+L9?tb
+L9:tgH
+A_A^]
+<0t0<2t
+WtDv9
+D$X$$h
+UATAUAVAWH
+8$u*E
+\$HE3
+L9d$Xt2A
+D9d$8
+(D$0H
+D8 t(H
+D8 tTH
+(D$0H
+(D$0H
+\$HD8d$PtB
+(D$0H
+\$HD8d$QtB
+(D$0H
+uSM9&tN
+M9&t;
+D8d$ t
+A_A^A]A\]
+UAVAWH
+A_A^]
+<1~=<3~*<4tK<5t
+@8t$(tRH
+\$ fI
+UATAUAVAWH
+D8)u#L
+)u%D8)t
+D8(tLH
+M9/tA
+A_A^A]A\]
+(D$ f
+` UAVAWH
+L9d$ tOH
+(D$@H
+A_A^]
+<>u<8\$8
+t$08\$8
+8?u1H
+8@u%H
+(D$@H
+L9d$ 
+8XugH
+UAVAWH
+A_A^]
+UAUAVH
+L97t{L
+\$ D8t$(uZH
+8@ttD
+(D$0H
+A^A]]
+8@tTL
+<?u@H
+<_u{H
+8?u$H
+` UAVAWH
+9$uFH
+9$t>H
+A_A^]
+UATAUAVAWH
+D8t$(
+H!|$ H
+L$ !|$(
+<>u:D8t$(
+|$ D8t$(
+H!|$ H
+L$ !|$(
+A_A^A]A\]
+UWATAVAWH
+8@u8H
+(D$@f
+(D$0H
+(D$0H
+(D$0H
+KH9t$ u
+KH9t$ u
+KH9t$ u
+A_A^A\_]
+8O~/A
+<0|LE
+0twA+
+L$ E3
+(D$ f
+(D$ f
+8@u4H
+x UAVAWH
+9?uU3
+(D$ f
+A_A^]
+\$ WH
+UWAVH
+L$ WH
+L$ WH
+L$ WH
+L$ WH
+L$ WH
+L$ WH
+p AWH
+ATAVAWH
+L9d$p
+0A_A^A\
+@USVWATAVAWH
+d$9fD
+D$0H;
+D$0H;
+D8d$Xt
+A_A^A\_^[]
+D$0H;
+@USVWATAVAWH
+d$9fD
+D$0H;
+D$0H;
+D8d$Xt
+A_A^A\_^[]
+D$0H;
+@USVWATAUAWH
+l$9fD
+D$0H;
+D$0H;
+D8l$Xt
+A_A]A\_^[]
+D$0H;
+@USVWATAUAWH
+l$9fD
+D$0H;
+D$0H;
+D8l$Xt
+A_A]A\_^[]
+D$0H;
+@USVWATAVAWH
+d$9fD
+D$0H;
+D$0H;
+D8d$Xt
+A_A^A\_^[]
+D$0H;
+@USVWATAVAWH
+d$9fD
+D$0H;
+D$0H;
+D8d$Xt
+A_A^A\_^[]
+D$0H;
+I LcA
+I LcA
+I LcA
+I LcA
+A HcH
+A HcH
+A HcH
+A HcH
+D+AHH
+D+AHH
+D+AHH
+D+AHH
+D+AHH
+D+AHH
+E+BHH
+E+BHH
+E+BHH
+E+BHH
+E+BHH
+E+BHH
+x AVH
+x AVH
+UWAVH
+t$xfD
+D8t$8t
+UWAVH
+D8t$8t
+UWAVH
+t$xfD
+D8t$8t
+UWAVH
+D8t$8t
+UWAVH
+D8t$8t
+UWAVH
+t$xfD
+D8t$8t
+VWAVH
+D$@H;G
+ A^_^
+VWAVH
+D$@H;G
+ A^_^
+VWAVH
+D$@H;G
+ A^_^
+VWAVH
+D$@H;G
+ A^_^
+VWAVH
+D$@H;G
+ A^_^
+VWAVH
+D$@H;G
+ A^_^
+|$ AVH
+D$0H;G
+|$ AVH
+D$0H;G
+|$ AVH
+D$0H;G
+|$ AVH
+D$0H;G
+|$ AVH
+D$0H;G
+|$ AVH
+D$0H;G
+ t(<#t
+WAVAWH
+ A_A^_
+CA, <Zw
+CA< t(<#t
+ t(<#t
+ t(<#t
+WAVAWH
+CA, <Zw
+CA< t(<#t
+ A_A^_
+ t(<#t
+x AVH
+#t'fA
+x ATAUAVH
+CBfA;
+ A^A]A\
+x AVH
+#t'fA
+x AVH
+x ATAUAVH
+CBfA;
+ A^A]A\
+x AVH
+AA< t(<#t
+AA< t(<#t
+AA< t(<#t
+AA< t(<#t
+AA< t(<#t
+AA< t(<#t
+AA<Fu
+<htl<jt\<lt4<tt$<wt
+,X< w
+AA<Fu
+<htl<jt\<lt4<tt$<wt
+,X< w
+AA<Fu
+<htl<jt\<lt4<tt$<wt
+,X< w
+AA<Fu
+<htl<jt\<lt4<tt$<wt
+,X< w
+AA<Fu
+<htl<jt\<lt4<tt$<wt
+,X< w
+AA<Fu
+<htl<jt\<lt4<tt$<wt
+,X< w
+t$ WAVAWH
+<Ct-<D
+<StW@:
+tg<Zt
+<g~{<itd<ntY<ot7<pt
+<utT@:
+D$P I
+D<P0@:
+k4+kP+
+0A_A^_
+t$ WAVAWH
+<Ct-<D
+<StW@:
+tg<Zt
+<g~{<itd<ntY<ot7<pt
+<utT@:
+D$P I
+D<P0@:
+k4+kP+
+0A_A^_
+t$ WAVAWH
+<Ct-<D
+<StW@:
+tg<Zt
+<g~{<itd<ntY<ot7<pt
+<utT@:
+D$P I
+D<P0@:
+k4+kP+
+0A_A^_
+t$ WAVAWH
+<Ct-<D
+<StW@:
+tg<Zt
+<g~{<itd<ntY<ot7<pt
+<utT@:
+D$P I
+D<P0@:
+k(+sPL
+0A_A^_
+t$ WAVAWH
+<Ct-<D
+<StW@:
+tg<Zt
+<g~{<itd<ntY<ot7<pt
+<utT@:
+D$P I
+D<P0@:
+k(+sPL
+0A_A^_
+t$ WAVAWH
+<Ct-<D
+<StW@:
+tg<Zt
+<g~{<itd<ntY<ot7<pt
+<utT@:
+D$P I
+D<P0@:
+k(+sPL
+0A_A^_
+VWAUAVAWH
+Stof;
+utTf;
+L|0f;
+s4+sP+
+L$8H3
+A_A^A]_^
+VWAUAVAWH
+Stof;
+utTf;
+L|0f;
+s4+sP+
+L$8H3
+A_A^A]_^
+VWAUAVAWH
+Stof;
+utTf;
+L|0f;
+s4+sP+
+L$8H3
+A_A^A]_^
+t$ WATAUAVAWH
+Stof;
+utTf;
+d|0f;
+s(+kPH
+L$8H3
+A_A^A]A\_
+t$ WATAUAVAWH
+Stof;
+utTf;
+d|0f;
+s(+kPH
+L$8H3
+A_A^A]A\_
+t$ WATAUAVAWH
+Stof;
+utTf;
+d|0f;
+s(+kPH
+L$8H3
+A_A^A]A\_
+AA,A$
+,I<%w
+CA,A$
+,I<%w
+AA,A$
+,I<%w
+AA,A$
+,I<%w
+CA,A$
+,I<%w
+AA,A$
+,I<%w
+,I<%w
+|$ AWH
+,I<%w
+,I<%w
+,I<%w
+|$ AWH
+,I<%w
+,I<%w
+x AVH
+VWAVH
+ A^_^
+x AVH
+x AVH
+VWAVH
+ A^_^
+x AVH
+x AVH
+VWAVH
+ A^_^
+x AVH
+x AVH
+VWAVH
+ A^_^
+x AVH
+HcC(H
+D$8HcK(H
+HcC(H
+HcC(H
+D$8HcK(H
+HcC(H
+HcC(H
+D$8HcK(H
+HcC(H
+HcC(H
+D$8HcK(H
+HcC(H
+L$@H3
+L$@H3
+L$@H3
+L$@H3
+L$@H3
+L$@H3
+VWAVH
+L$PfD
+0A^_^
+VWAVH
+L$PfD
+0A^_^
+VWAVH
+L$PfD
+0A^_^
+t$ WH
+t$ WH
+t$ WH
+x AVH
+WAVAWH
+ A_A^_
+x ATAVAWH
+8*u;I
+ A_A^A\
+x ATAVAWH
+8*uEI
+ A_A^A\
+WATAWH
+0A_A\_
+x ATAUAWH
+L9l$p
+0A_A]A\
+x AUAVAWH
+@A_A^A]
+VWATAVAWH
+?D8d$8t
+D8d$8t
+t'D8d$8t
+%D8d$8t
+A_A^A\_^
+WAVAWH
+@A_A^_
+VWATAVAWH
+L$ f;
+f;\$$s
+L$(f;
+f;\$,r
+L$0f;
+f;\$4r
+L$8f;
+f;\$<r
+L$@f;
+f;\$Dr
+L$Hf;
+r{f;\$Lr
+L$Pf;
+rkf;\$Tr
+L$Xf;
+r[f;\$\
+L$`f;
+rGf;\$d
+L$hf;
+r3f;\$l
+f;\$t
+D$ f;
+f;\$$r
+D$(f;
+f;\$,r
+D$0f;
+f;\$4
+D$8f;
+f;\$<
+D$@f;
+f;\$D
+D$Hf;
+f;\$L
+D$Pf;
+ruf;\$T
+D$Xf;
+raf;\$\
+D$`f;
+rMf;\$d
+D$hf;
+r9f;\$l
+f;\$ts
+A_A^A\_^
+@USWH
+wY+M0H
+U )E H
+;9E8t
+@USWH
+w`HcE H
+HcE8H
+Hc;9E0t
+HcE H+
+L$0H;
+L$0H;
+L$0H;
+L$0H;
+L$0H;
+UWAVH
+PA^_]
+|$ UH
+|$ UH
+D$@E3
+L$@H3
+(t$0H
+|$ AVH
+fD92t
+fD91u
+L$ WH
+L$ VWAVH
+\$8I;
+`A^_^
+L$ WH
+VWATAVAWH
+0A_A^A\_^
+|$ E;
+VWATAVAWH
+0A_A^A\_^
+|$ E;
+x AVH
+u$D8r(t
+D81uUL9r
+uED8r(t
+vAD8s(t
+x AVH
+u"8Z(t
+uUH9Z
+uF8Z(t
+vC8_(t
+L$ WH
+L$ WH
+t$ UWAVH
+UAVAWH
+D8}/t
+A_A^]
+\$ WH
+\$ WH
+\$ WH
+\$ WH
+\$ WH
+\$ WH
+\$ WH
+\$ WH
+USVWATAUAVAWH
+EP<0u
+uJ<0uFA
+EP<0u
+EP<+t
+<-u?H
+EP<0u
+HA_A^A]A\_^[]
+USVWATAUAVAWH
+HvfD;
+HvfD;
+HvfD;
+HvfD;
+HFfD;
+]`fA;
+HA_A^A]A\_^[]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+SUVWATAUAVAWH
+D$0f;
+L$ D;
+|$0fA
+w"fA+
+XA_A^A]A\_^][
+WAVAWH
+ A_A^_
+WATAUAVAWH
+ A_A^A]A\_
+x AVD
+t"fE;
+|$(A^
+WATAVH
+@A^A\_
+WATAUAVAWH
+A_A^A]A\_
+x AVH
+t"fA;
+WAVAWH
+ A_A^_
+WAVAWH
+ A_A^_
+WAVAWH
+ A_A^_
+WAVAWH
+ A_A^_
+t$ WATAUAVAWH
+D$xH;C
+0@8t$8t
+t1@8t$8t
+b@8t$8t
+@8t$8t
+A_A^A]A\_
+t$ WATAUAVAWH
+L$ f;
+f;\$$
+L$(f;
+f;\$,
+L$0f;
+f;\$4
+L$8f;
+f;\$<
+L$@f;
+f;\$D
+L$Hf;
+rrf;\$L
+L$Pf;
+r^f;\$T
+L$Xf;
+rJf;\$\
+L$`f;
+r6f;\$d
+f;\$ls
+D$ f;
+f;\$$
+D$(f;
+f;\$,
+D$0f;
+f;\$4
+D$8f;
+f;\$<
+D$@f;
+f;\$D
+D$Hf;
+rqf;\$L
+D$Pf;
+r]f;\$T
+D$Xf;
+rIf;\$\
+D$`f;
+r5f;\$d
+f;\$l
+A_A^A]A\_
+x ATAVAWH
+u9L;{
+ D8d$8t
+t1D8d$8t
+bD8d$8t
+D8d$8t
+@A_A^A\
+t$ WATAUAVAWH
+ D8d$8t
+t1D8d$8t
+bD8d$8t
+D8d$8t
+A_A^A]A\_
+x ATAVAWH
+t$`H+
+ A_A^A\
+D$(H+
+WATAUAVAWH
+t$pf;
+ A_A^A]A\_
+L$(fA;
+8\$Pt>
+t98_2t
+8\$PtD
+t?8_:t
+8\$Pt>
+t98_4t
+8\$Pt>
+t98_<t
+8\$Pt@
+t;8_2t
+8\$PtF
+tA8_:t
+8\$Pt@
+t;8_4t
+8\$Pt@
+t;8_<t
+WATAUAVAWH
+@8q2uSH
+ A_A^A]A\_
+x ATAVAWH
+D8Y:u_H
+ A_A^A\
+UVWATAUAVAWH
+@8q4uNH
+@A_A^A]A\_^]
+UVWATAUAVAWH
+@8q<uKH
+0A_A^A]A\_^]
+t$pE3
+UVWATAUAVAWH
+D8i2uKH
+0A_A^A]A\_^]
+ tPD8k2u3H
+D8k2u
+VWATAVAWH
+D8a:uVH
+0A_A^A\_^
+tQD8c:u0M
+D8c:u
+L$xfD
+UVWATAUAVAWH
+8Q4uKH
+ A_A^A]A\_^]
+ tD8S4u
+t$ WATAUAVAWH
+8Q<uSH
+ A_A^A]A\_
+ t38S<u
+@8}Ot
+x UATAUAVAWH
+D+d$(H
+A_A^A]A\]
+\$ E3
+HcC0H
+@HcC(H
+HcC0H
+@HcC(H
+UVWATAUAVAWH
+0A_A^A]A\_^]
+t$ WATAUAVAWH
+t$HA_A^A]A\_
+UVWATAUAVAWH
+D$pA+
+D$@M;
+D+d$4
+L$<;L$P
+L$4+L$8
+l$0D+ D9
+Md$@A
+L$4+L$H
+l$0E3
+sv2E3
+\$@E3
+sv(E3
+A_A^A]A\_^]
+SUVWATAVAWH
+D$0E;
+A_A^A\_^][
+@USVWH
+\$ E3
+UVWATAUAVAWH
+|$ E3
+d$@E3
+A_A^A]A\_^]
+D$DE3
+d$@E3
+@8y2t
+@8y:t
+@8y4t
+@8y<t
+t$ WH
+@8|$Pu
+@8{2t
+t$ WH
+@8|$Pu
+@8{:t
+t$ WH
+@8|$Pu
+@8{4t
+t$ WH
+@8|$Pu
+@8{<t
+f;C0t
+f;Q8t
+t6L;C
+t,L;C
+fD;C0t?H
+f;S8tDH;C
+x ATAVAWH
+ A_A^A\
+<CtO<Dv
+<[tO<a
+H9A u
+<itz<ntm<ot`<ptS<st
+8CtcfA
+8[tUfA
+H9A u
+8nt|fA
+8otlfA
+8pt\fA
+8st$fA
+L$0H;K
+HvfA9
+HvfA9
+HvfA9
+HvfA9
+HvfA9
+HvfA9
+HvfA9
+HFfA9
+L$0H;K
+tj<jtV
+t,<tt
+,X< w
+8jthfA
+8lt2fA
+<-u^H
+@8)u&I
+t$ WATAUAVAWH
+F)fA;
+fD9)u
+ A_A^A]A\_
+@UVATAVAWH
+d$ E3
+A_A^A\^]
+d$ E3
+A_A^A\^]
+x AVH
+:HcL$PH
+HcD$P
+:HcL$PH
+HcD$P
+t$ UWAVH
+UAVAWH
+D8}/t
+A_A^]
+\$ WH
+D$@E3
+L$@H3
+@UAVAWH
+A_A^]
+L$@H3
+x AVH
+u$D8r(t
+D81uUL9r
+uED8r(t
+vAD8s(t
+UWATAVAWH
+D8&t 
+D8&t4H
+A_A^A\_]
+ATAVAWH
+D8d$8t
+@A_A^A\
+L$ WH
+t$ UWAUAVAWH
+A_A^A]_]
+t$ WH
+|$ E3
+f9,Yu
+l$ E3
+s WATAUAVAWH
+H9\$X
+D$h9t$P
+A_A^A]A\_
+(t$0H
+\$ WH
+\$ WH
+\$ WH
+\$ WH
+UVWATAUAVAWH
+T$pE3
+ A_A^A]A\_^]
+SUVWATAUAVAWH
+f;\$$s
+f;\$|s
+f;\$0s
+f;\$(
+f;\$4s
+f;\$,
+f;\$8s
+f;\$<
+f;\$@s
+f;\$D
+f;\$Hs
+f;\$L
+f;\$Ps
+f;\$T
+f;\$Xs
+uf;\$\rsf;\$`s
+]f;\$dr[f;\$hs
+Ef;\$lrCf;\$ps
+f+D$tf;
+f;\$xs
+f;L$0r
+T$(f;
+f;L$4r
+T$,f;
+f;L$8r
+T$<f;
+f;L$@r
+T$Df;
+f;L$Hr
+T$Lf;
+f;L$P
+T$Tf;
+rwf;L$X
+T$\f;
+rcf;L$`
+T$df;
+rOf;L$h
+T$lf;
+r;f;L$p
+f;L$xs
+f;L$0r
+D$(f;
+f;L$4
+D$,f;
+f;L$8
+D$<f;
+f;L$@
+D$Df;
+f;L$H
+D$Lf;
+f;L$P
+D$Tf;
+rxf;L$X
+D$\f;
+rdf;L$`
+D$df;
+rPf;L$h
+D$lf;
+r<f;L$p
+f;L$x
+f;T$0s
+f;T$4s
+f;T$8s
+L$<f;
+f;T$@s
+L$Df;
+f;T$Hr
+L$Lf;
+ryf;T$Pr
+L$Tf;
+rif;T$Xr
+L$\f;
+rYf;T$`r
+L$df;
+rIf;T$hr
+L$lf;
+r9f;T$pr
+f;T$xs
+|$|-L
+E\$$E3
+A_A^A]A\_^][
+p AWH
+x AVH
+WAVAWH
+ A_A^_
+\$(H+
+D$(fD;
+D$PL;
+D$0H#
+YD$@f
+VD$Pf
+fffff
+YD$@f
+YD$@f
+fffff
+fffffff
+fffffff
+D$PH;
+T$PH3
+L$0fH
+VT$PD
+fffffff
+L$0fI
+fffffff
+L$0fI
+L$0fI
+ffffff
+L$0fI
+D$0H#
+L$@uU
+fffffff
+fffff
+fffffff
+fffffff
+D$`L;
+D$PH;
+T$PH3
+VT$PD
+fffffff
+ffffff
+o|$0f
+ot$ H
+o|$0f
+ot$ H
+o|$0f
+ot$ H
+o|$0f
+ot$ H
+o|$0f
+ot$ H
+o|$0f
+ot$ H
+o|$0f
+ot$ H
+o|$0f
+ot$ H
+o|$0f
+ot$ H
+o|$0f
+ot$ H
+o|$0f
+ot$ H
+o|$0f
+ot$ H
+o|$0f
+ot$ H
+o|$0f
+ot$ H
+o|$0f
+ot$ H
+o|$0f
+ot$ H
+o|$0f
+ot$ H
+o|$0f
+ot$ H
+o|$0f
+ot$ H
+ffffff
+ot$ H
+ot$ H
+fffff
+ot$ H
+ot$ H
+ffffff
+ot$ H
+o|$0f
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+x AVH
+u$D8r(t
+D81uUL9r
+uED8r(t
+vAD8s(t
+@8j(t
+f9)u4H9j
+u%@8j(t
+@8k(t
+u0H9Z
+u"8Z(t
+WATAVH
+A^A\_
+WATAVH
+D$8E3
+A^A\_
+UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+wMHcN
+9^ t"H
+A_A^A]A\]
+x AVAW
+gfffM
+|$0A_A^
+gfffM
+@UVWATAUAVAWH
+e0A_A^A]A\_^]
+WATAUAVAWH
+D$8E3
+fD9<Hu
+fE9<Au
+fD9<Cu
+fD9<Cu
+D8|$Ht
+A_A^A]A\_
+|$ E3
+WATAUAVAWH
+D$8E3
+fD9<Hu
+fE9<Au
+fD9<Cu
+fD9<Cu
+D8|$Ht
+A_A^A]A\_
+|$ E3
+WATAUAVAWH
+f9<Au
+f9<Au
+f9<Au
+f9<Au
+@8|$Ht
+A_A^A]A\_
+|$ E3
+|$ UATAUAVAWH
+E0t H
+)H+}0
+A_A^A]A\]
+L$ WH
+u3HcH<H
+u0HcH<H
+UVWAVAWH
+D$ E3
+0A_A^_^]
+UVWAVAWH
+D$ E3
+0A_A^_^]
+x ATAVAWH
+< t=<
+ A_A^A\
+` AWL
+fD9!u
+d$(A_
+UVWAVAWH
+D$ E3
+0A_A^_^]
+UVWAVAWH
+D$ E3
+0A_A^_^]
+H9=9V
+WAVAWH
+A84.u
+0A_A^_
+t$ E3
+WAVAWH
+fA94@u
+fA94nu
+0A_A^_
+t$ E3
+L$ WH
+L$ WH
+t$ WAVAWH
+H33M3
+ A_A^_
+WAVAWH
+ A_A^_
+L$ WH
+L$ WH
+L$ WH
+L$ WH
+@8l$Ht
+r>@8o
+L$ UVWH
+L$PLc
+WATAUAVAWH
+gfffffffH
+D8t$ht
+A_A^A]A\_
+|$@-H
+x AWH
+80tWD
+gfffA
+D$4E3
+|$0-D
+D$(I+
+x AVH
+t$DE3
+|$@-D
+D$(I+
+x ATAVAWH
+ A_A^A\
+x AVH
+D$TE3
+|$P-H
+D$ I+
+VWAVH
+8]8}KD
+u)9\$ ~FH
+;\$ |
+L$0H3
+@A^_^
+x AVH
+L$ WH
+L$ WH
+L$ WH
+L$ WH
+L$ SH
+\$ WH
+l$ E3
+WAVAWH
+fD9;u
+;.u1L
+fE98t'
+0A_A^_
+|$ E3
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+9Cu,fD9y
+fB9<{u
+fD9,pu
+t$`fD9+t$I
+D$@fD
+l$ E3
+l$ E3
+@USWH
+x ATAVAWH
+ A_A^A\
+L$ SUVWH
+;\$p|
+8_^][
+WATAUAVAWH
+0A_A^A]A\_
+d$ E3
+\$ UVWATAUAVAWH
+fD9,Au
+D$@fD
+A_A^A]A\_^]
+D$@H+
+l$ E3
+\$ UVWATAUAVAWH
+|$`CI
+f9t$bu
+A_A^A]A\_^]
+H9L$Ht?H
+t$ E3
+UVWATAUAVAWH
+fE9,Fu
+A_A^A]A\_^]
+x AVH
+x AVH
+fD9t$b
+x AVH
+D$@H=@W
+p WATAUAVAWH
+A_A^A]A\_
+|$ E3
+VWAVH
+T$xD;D$x
+0A^_^
+8D$Xt
+UVWATAUAVAWH
+fD9,Nu
+fD9,~u
+fD9.t
+uHfD9/A
+0A_A^A]A\_^]
+l$ E3
+\$ UVWH
+\$ E3
+L$ E3
+L$ WH
+WAVAWH
+ A_A^_
+WATAUAVAWH
+ A_A^A]A\_
+x AVH
+x ATAVAWH
+ A_A^A\
+D$0H!L$ H
+L$@H3
+@UATAUAVAWH
+Hc]`M
+H!T$0D
+ue!T$(H!T$ 
+A_A^A]A\]
+u1!D$0H
+UVWATAUAVAWH
+0A_A^A]A\_^]
+t$ WH
+x AVH
+fD97t
+fD97t
+L$ WH
+L$ WH
+H!D$ H
+UVWATAUAVAWH
+L$XE3
+D8\0>t
+L$@D8]
+A_A^A]A\_^]
+L$@8]
+x AVH
+\$@H;
+\$@H;
+D$@H+
+VWATAVAW
+D$PI;
+D$PH+
+A_A^A\_^
+WATAUAVAWH
+ A_A^A]A\_
+\$ UVWATAUAVAWH
+H!D$ H
+`A_A^A]A\_^]
+@SUVWATH
+D$RH;
+ A\_^][
+UWAVH
+uX;S 
+@A^_]
+x AVH
+WATAUAVAWH
+ A_A^A]A\_
+x ATAVAWH
+D8d$H
+E9&tJ
+A_A^A\
+|$ UATAUAVAWH
+A_A^A]A\]
+HcD$PH
+HcD$HH
+L$XL;
+@USVWATAVAWH
+fD98t
+fD98u
+A_A^A\_^[]
+t%fD9
+D$PL;
+@UAVAWH
+e0A_A^]
+@SUVWATAVAWH
+A_A^A\_^][
+|$ E3
+@UATAUAVAWH
+e0A_A^A]A\]
+(t$`H
+(t$`H
+L$ WH
+\$ VWATAUAVH
+D!l$xA
+@A^A]A\_^
+D$(H;
+WAVAWH
+fD93s
+fD96s
+@A_A^_
+L$8eH
+L$8eH
+L$8eH
+u9!\$0
+9\$0u
+\$0eH
+9\$0u
+\$0eH
+\$0eH
+x AVH
+u$D8r(t
+D81uUL9r
+uED8r(t
+vAD8s(t
+x AVH
+u$D8r(t
+fD91uTL9r
+uED8r(t
+v@D8s(t
+x AVH
+u"8Z(t
+uTH9Z
+uF8Z(t
+vB8_(t
+UVWATAUAVAWH
+EP*?H
+C8<(u
+`A_A^A]A\_^]
+|$ E3
+UVWATAUAVAWH
+L$0E3
+L$0E3
+D$PI+
+fA9<Cu
+fC9<`u
+A_A^A]A\_^]
+|$ E3
+WATAUAVAWH
+@84)u
+0A_A^A]A\_
+H97u+A
+mL+7H
+t$ E3
+WATAUAVAWH
+f94iu
+0A_A^A]A\_
+H97u+A
+mL+7H
+t$ E3
+\$ UVWATAUAVAWH
+,/<-w
+@8|$Ht
+@8|$Ht
+@8|$Ht
+M+4$I
+D$XD9x
+@8|$ht
+@8|$ht
+@8|$ht
+t <.u
+A_A^A]A\_^]
+\$ UVWAVAWH
+|$\.u
+f9|$^t&f
+|$^.u
+f9|$`t
+A_A^_^]
+H99u+
+H99u+
+8D$8t
+8D$8t
+@8j(t
+f9)u4H9j
+u%@8j(t
+@8k(t
+8D$8t
+L$ WH
+\$0H;
+L$0H;
+UVWATAUAVAWH
+L$&8\$&t,8Y
+L$8H3
+@A_A^A]A\_^]
+x AVH
+fD90t
+fD94Fu
+fD96u
+t$8H+
+UVWATAUAVAWH
+t?H95y#
+L;5k#
+xWI96tRI
+C847u
+0A_A^A]A\_^]
+t$ E3
+WATAUAVAWH
+L;5A 
+fB94ht
+xXI96tSI
+fC94wu
+0A_A^A]A\_
+t$ E3
+x AVH
+f9,pu
+l$ E3
+x AVH
+fD94pt
+WAVAWH
+ A_A^_
+@USVWATAVAWH
++L$8A
+|$pss
+L$tL;
+L$tL;
+|$pss%
+|$pss
+|$ H+
+D8t$ D
+A_A^A\_^[]
+@USVWATAVAWH
+|$0H#
+svBE3
++L$LA
+t$0H+
+D8|$0A
+A_A^A\_^[]
+D$0H9D$8
+UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+A_A^A]A\_
+UATAUAVAWH
+A_A^A]A\]
+fB9<Hu
+|$ E3
+f9<Ju
+fB9<@u
+fB9<Bu
+VWAUH
+fB9,Nu
+fB9,Nu
+f9,~u
+fB9,Nu
+f9,Ju
+fA9,Au
+f9)u:H
+f9,~u
+f9,~u
+l$ E3
+fB94Ou
+t$ E3
+L$8H3
+x ATAVAWH
+ A_A^A\
+x ATAVAWH
+fD9 t
+fD9!H
+fD9 t
+fD9 t
+fD9&u
+fD9!u
+fG9$Ou
+0A_A^A\
+d$ E3
+t$ WH
+f9<Pu
+fB9<Hu
+fB9<@u
+fB9<Bu
+VWAVH
+t;LcF
+fD94Au
+fD94iu
+u4D9v
+tSf91tNH
+tU;\$0tH
+WAVAWH
+ A_A^_
+@USVWATAVAWH
+fD9 t
+tyfD9 tsH
+fD9 t
+fD9 t
+tQfD9 tK
+fD9$Hu
+@A_A^A\_^[]
+x AVH
+ATAVAWH
+t$(I;
+0A_A^A\
+p AWH
+\$ E3
+p AWH
+\$ E3
+x AVH
+f9,Xu
+l$ E3
+f9,^u
+f9,Hu
+p AWH
+\$ E3
+p AWH
+\$ E3
+f9,Hu
+l$ E3
+WAVAWH
+ A_A^_
+WAVAWH
+ A_A^_
+|$ fA
+x ATAVAWH
+fE9>s
+fD9>s
+@A_A^A\
+x AVH
+u$D8r(t
+D81uUL9r
+uED8r(t
+vAD8s(t
+t#HcL$`H
+t#HcL$`H
+s WAVAWH
+D$PA#
+T$PD+
+0A_A^_
+\$ E3
+VWAVH
+u~9t$Xt
+0A^_^
+UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+ A_A^A]A\_
+WATAUAVAWH
+ A_A^A]A\_
+D$XH=
+T$ E3
+T$ E3
+L$ WH
+\$ UVWATAUAVAWH
+0A_A^A]A\_^]
+@SUVWATAUAVAWH
+s%fD9
+8A_A^A]A\_^][
+L$ SUVWATAUAVAWH
+8Ht;H
+8A_A^A]A\_^][
+AUAVAWH
+ A_A^A]
+UVWATAUAVAWH
+D;%.{
+@8t$HtsL
+fA90u
+`A_A^A]A\_^]
+x AVH
+UVWAVAWH
+D$0E3
+L$0H3
+@A_A^_^]
+UVWATAUAVAWH
+L$0H3
+@A_A^A]A\_^]
+@USVWAUAVAWH
+A_A^A]_^[]
+HcD$0H
+L$@H3
+L$XL;
+L$HH3
+USVWAVH
+A^_^[]
+USVWAVH
+A^_^[]
+l$ WAVAWH
+ A_A^_
+ATAUAVH
+L$ fff
+L$ |+L;
+L$ I;
+L$ L;
+A^A]A\
+x AVH
+u$D8r(t
+D81uUL9r
+uED8r(t
+vAD8s(t
+UAVAWH
+D8}?t
+A_A^]
+D$49C
+ot$ H
+ffffff
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+fffffff
+ot$ H
+ot$ H
+x AVH
+8\$Pt
+WAVAWH
+D8|$`t
+ A_A^_
+x AVH
+8\$Pt
+WAVAWH
+D8|$`t
+ A_A^_
+T$@E3
+WAVAWH
+fA94Ou
+0A_A^_
+t$ E3
+ATAVAWH
+ A_A^A\
+L$ WH
+x ATAVAWH
+ A_A^A\
+x AVH
+@USVWATAUAVAWH
+t D8`
+e8A_A^A]A\_^[]
+ATAVAWH
+ A_A^A\
+(t$PH
+(t$`H
+x AVH
+x AVH
+t%fE9
+L9BHA
+L9BHA
+L9BHA
+L9BHA
+L9BHA
+L9BHA
+L9BHA
+L9BHA
+L9BHA
+L9BHA
+SUVWAVAWH
+HA_A^_^][
+u"HcMHH
+t"HcM`H
+t"HcM`H
+Unknown exception
+bad array new length
+string too long
+iostream
+iostream stream error
+bad cast
+bad locale name
+ios_base::badbit set
+ios_base::failbit set
+ios_base::eofbit set
+The start bit must be greater than the stop bit.
+invalid string position
+Requested byte number from DPTFTCS Buffer is outside of the valid range.
+Byte offset out of range in buffer
+Buffer is empty
+invalid vector subscript
+vector too long
+Size of read requested from buffer stream is too large.
+Platform
+Conjure
+Sysfs
+BusType::Type is invalid.
+Received unexpected esif_participant_enum.
+Display Brightness
+Energy
+Energy Unit
+Foreground App
+IA Clip Reasons
+OEM Variable 
+POWER
+Power Source
+Proc Pkg CState Residency
+Proc TSC
+Pstate
+PsysPL1
+PsysPL2
+PsysPL3
+Active Policy
+Active Policy 2
+Adaptive Performance Policy
+Application Optimization Policy
+Critical Policy
+Emergency Call Mode Policy
+Energy Performance Optimizer Policy
+Intelligent Thermal Management Policy
+Intelligent Thermal Management Policy 3
+Opportunistic Boost Policy
+Passive Policy
+Passive Policy 2
+Pid Policy
+Power Boss Policy
+Power Share Policy
+Power Share Policy 2
+RFIM Policy
+System Configuration Policy
+Third Party Graphics Policy
+Virtual Sensor Policy
+Virtual Sensor Policy 2
+Hardware SOC Workload Classification Changed
+EPP Sensitivity Hint Changed
+SOC Workload Classification
+Participant Temp
+Foreground Application
+OS Battery Percentage
+OS Dock Mode
+OS Lid State
+OS Mixed Reality Mode
+OS Platform Type
+OS Power Scheme Personality
+OS Power Slider
+OS Power Source
+OS Screen State
+OS System Session State
+OS User Presence
+Platform User Presence
+Sensor Motion
+SoC EWMA Power
+Above 2c Time Constraint Stepsize
+EPP Battery Life Bursty Threshold
+Config TDP Level0
+Config TDP Level1
+Config TDP Level2
+ Config TDP Control
+Config TDP Lock
+MBT Model Version
+Number of OEM Variables
+SOCWC Power Diffs Count Threshold
+PL1 Time Window
+Proc TDP
+map/set too long
+CollectedData::EventData is invalid.
+CollectedData::ParticipantData is invalid.
+CollectedData::PlatformData is invalid.
+CollectedData::PolicyData is invalid.
+Event type is not supported.
+deferred_queue_statistics
+current_count
+max_count
+list too long
+Domain::createDomain() already executed.
+Processor
+Graphics
+Memory
+Temperature
+Chipset
+Ethernet
+Wireless
+Storage
+MultiFunction
+Display
+Charger
+Battery
+Audio
+Other
+Power
+Thermistor
+Infrared
+Virtual
+Ambient
+M2Cnv
+SocCnv
+IVCam
+DgfxCore
+DgfxMem
+DgfxMcp
+Cam2D
+WwanAnalog
+WwanDigital
+WwanRfim
+IdgfxCore
+Idgfx2
+Nvdgx
+Manager
+DomainType::Type is invalid.
+Received unknown esif_domain_type.
+Received unknown Domain::Type
+Unhandled exception caught during execution of work item
+..\..\..\..\Sources\Tools\dptftcs\dptftcs_domain_work_item.cpp
+DomainWorkItem::writeDomainWorkItemErrorMessage
+DomainWorkItem::writeDomainWorkItemWarningMessage
+Starting execution of work item.
+DomainWorkItem::writeDomainWorkItemStartingInfoMessage
+1.0.0
+DptfTcsCreate:  Initialization starting.
+DptfTcsCreate: Initialization completed.
+DptfTcsCreate: Initialization failed.
+Function call from ESIF ignored.  DPTFTCS manager creation is not complete.
+DptfTcs_Destroy
+..\..\..\..\Sources\Tools\dptftcs\dptftcs_esif_app_interface.cpp
+Function call from ESIF ignored.  DPTFTCS manager is shutting down.
+Function execution beginning.
+9.0.11701.44281
+Intel(R) Telemetry Collection Service
+ipfcli-
+dptftcs
+Intel(R) Telemetry Collection Service v9.0.11701.44281 [Windows x64 Release]
+about
+Intel(R) Dynamic Tuning Technology Telemetry Collection Service collects platform power, thermal, and environmental runtime data.
+The service will collect telemetry data only if the user has accepted the Intel Continuous Improvement Program user consent.
+DptfTcs_ParticipantCreate
+DptfTcs_ParticipantDestroy
+DptfTcs_DomainCreate
+DptfTcs_DomainDestroy
+Function call from ESIF ignored.  DPTFTCS work item queue has not been created.
+DptfTcs_Event
+Error while trying to convert event guid to DPTFTCS framework event.
+Received event notification from ESIF
+Received unexpected event
+Discarding duplicate event.  Already in immediate queue.
+WorkItemQueueManager::enqueueImmediateWorkItemAndReturn
+Error while trying to create work item for event received from ESIF.
+DptfTcsEvent
+EsifDataPtr is null.
+Received unexpected esifDataPtr->type.
+esifData->buf_ptr is null.
+esifData->buf_len too small.
+esifData->data_len too small.
+@Received ESIF_DATA_STRING without null terminator.
+DptfTcsEsifServices::primitiveExecuteGet
+..\..\..\..\Sources\Tools\dptftcs\dptftcs_esif_services.cpp
+DptfTcsEsifServices::primitiveExecuteGetAsUInt32
+DptfTcsEsifServices::primitiveExecuteGetAsUInt64
+DptfTcsEsifServices::primitiveExecuteGetAsTemperatureTenthK
+DptfTcsEsifServices::primitiveExecuteGetAsPower
+DptfTcsEsifServices::primitiveExecuteGetAsTimeInMilliseconds
+DptfTcsEsifServices::primitiveExecuteGetAsPercentage
+Failed to read configuration UInt32 for 
+DptfTcsEsifServices::readConfigurationUInt32
+Error returned from ESIF services interface function call
+DptfTcsEsifServices::throwIfNotSuccessful
+Domain index not valid without associated participant index
+DptfTcsEsifServices::throwIfParticipantDomainCombinationInvalid
+Error returned from ESIF register event function call
+DptfTcsEsifServices::registerEvent
+Error returned from ESIF unregister event function call
+DptfTcsEsifServices::unregisterEvent
+esif_ccb_thread_create() failed.
+rhs numMilliSeconds > internal time stamp
+Failed to initialize timer.
+Failed to start timer.
+The feature is not implemented.
+The participant is not enabled.
+The domain is not enabled.
+The Domain Control is Null.
+The policy is not in the IDSP list.
+The participant index is not valid.
+The result temperature type after temperature conversion is not supported.
+The feature needs to be implemented.
+GUID is not a framework event known to DPTFTCS.
+NAME is not a framework event known to DPTFTCS.
+DptfConnectedStandbyEntry
+DptfConnectedStandbyExit
+DptfSuspend
+DptfResume
+DptfGetStatus
+DptfLogVerbosityChanged
+DptfParticipantActivityLoggingEnabled
+DptfParticipantActivityLoggingDisabled
+DptfPolicyActivityLoggingEnabled
+DptfPolicyActivityLoggingDisabled
+DptfSupportedPoliciesChanged
+ParticipantAllocate
+ParticipantCreate
+ParticipantDestroy
+ParticipantSpecificInfoChanged
+DptfParticipantControlAction
+DomainAllocate
+DomainCreate
+DomainDestroy
+DomainCoreControlCapabilityChanged
+DomainDisplayControlCapabilityChanged
+DomainDisplayStatusChanged
+DomainPerformanceControlCapabilityChanged
+DomainPerformanceControlsChanged
+DomainPowerControlCapabilityChanged
+DomainPriorityChanged
+DomainRadioConnectionStatusChanged
+DomainRfProfileChanged
+DomainTemperatureThresholdCrossed
+DomainVirtualSensorCalibrationTableChanged
+DomainVirtualSensorPollingTableChanged
+DomainVirtualSensorRecalcChanged
+DomainBatteryStatusChanged
+DomainBatteryInformationChanged
+DomainBatteryHighFrequencyImpedanceChanged
+DomainBatteryNoLoadVoltageChanged
+DomainMaxBatteryPeakCurrentChanged
+DomainPlatformPowerSourceChanged
+DomainAdapterPowerRatingChanged
+DomainChargerTypeChanged
+DomainPlatformRestOfPowerChanged
+DomainMaxBatteryPowerChanged
+DomainPlatformBatterySteadyStateChanged
+DomainACNominalVoltageChanged
+DomainACOperationalCurrentChanged
+DomainAC1msPercentageOverloadChanged
+DomainAC2msPercentageOverloadChanged
+DomainAC10msPercentageOverloadChanged
+DomainEnergyThresholdCrossed
+DomainFanCapabilityChanged
+DomainSocWorkloadClassificationChanged
+DomainEppSensitivityHintChanged
+DomainHardwareSocWorkloadHintChanged
+PolicyCreate
+PolicyDestroy
+PolicyActiveRelationshipTableChanged
+PolicyCoolingModePolicyChanged
+PolicyForegroundApplicationChanged
+CollectorInitiatedCallback
+PolicyPassiveTableChanged
+PolicySensorOrientationChanged
+PolicySensorMotionChanged
+PolicySensorSpatialOrientationChanged
+PolicyThermalRelationshipTableChanged
+PolicyAdaptivePerformanceConditionsTableChanged
+PolicyAdaptivePerformanceActionsTableChanged
+PolicyAdaptivePerformanceParticipantConditionTableChanged
+PolicyOperatingSystemPowerSourceChanged
+PolicyOperatingSystemLidStateChanged
+PolicyOperatingSystemBatteryPercentageChanged
+PolicyOperatingSystemPlatformTypeChanged
+PolicyOperatingSystemDockModeChanged
+PolicyOperatingSystemMobileNotification
+PolicyOperatingSystemMixedRealityModeChanged
+PolicyOperatingSystemPowerSchemePersonalityChanged
+PolicyOperatingSystemUserPresenceChanged
+PolicyOperatingSystemSessionStateChanged
+PolicyOperatingSystemScreenStateChanged
+PolicyOperatingSystemBatteryCountChanged
+PolicyOperatingSystemPowerSliderChanged
+PolicyOemVariablesChanged
+PolicyPowerBossConditionsTableChanged
+PolicyPowerBossActionsTableChanged
+PolicyPowerBossMathTableChanged
+PolicyVoltageThresholdMathTableChanged
+DptfPolicyLoadedUnloadedEvent
+PolicyEmergencyCallModeTableChanged
+PolicyPidAlgorithmTableChanged
+PolicyActiveControlPointRelationshipTableChanged
+PolicyPowerShareAlgorithmTableChanged
+PowerLimitChanged
+PerformanceCapabilitiesChanged
+PolicyWorkloadHintConfigurationChanged
+PolicyOperatingSystemGameModeChanged
+PolicyPowerShareAlgorithmTable2Changed
+PolicySensorUserPresenceChanged
+PolicyPlatformUserPresenceChanged
+PolicyExternalMonitorStateChanged
+DptfAppLoaded
+DptfAppUnloaded
+DptfAppUnloading
+DptfAppAliveRequest
+DptfCommand
+Error while trying to initialize FrameworkEventInfo.
+Received invalid FrameworkEvent::Type.
+Invalid frequency subtraction requested.  rhs > lhs.
+Frequency is not valid.
+false
+Guid is invalid.
+Battery Life
+Sustained
+Bursty
+immediate_queue_statistics
+ @ line 
+[TCS] 
+ESIF_OK
+ESIF_I_ACPI_TRIP_POINT_NOT_PRESENT
+ESIF_I_ACPI_OBJECT_NOT_PRESENT
+ESIF_I_AGAIN
+ESIF_I_MSR_AFFINITY
+ESIF_I_INIT_PAUSED
+ESIF_I_NO_LEGACY_SUPPORT
+ESIF_E_NOT_IMPLEMENTED
+ESIF_E_NO_LOWER_FRAMEWORK
+ESIF_E_NOT_SUPPORTED
+ESIF_E_UNSPECIFIED
+ESIF_E_INVALID_HANDLE
+ESIF_E_ITERATION_DONE
+ESIF_E_STOP_POLL
+ESIF_E_ORDERED_INSERT
+ESIF_E_API_ERROR
+ESIF_E_MAXIMUM_CAPACITY_REACHED
+ESIF_E_DISABLED
+ESIF_E_NOT_INITIALIZED
+ESIF_E_UNSUPPORTED_CLIENT_SDK
+ESIF_E_NO_ACPI_SUPPORT
+ESIF_E_NO_ACPII_SUPPORT
+ESIF_E_NO_ACPI5_SUPPORT
+ESIF_E_ACPI_RESULT_TYPE
+ESIF_E_ACPI_REQUEST_TYPE
+ESIF_E_ACPI_EVAL_FAILURE
+ESIF_E_ACPI_OBJECT_NOT_FOUND
+ESIF_E_UNSUPPORTED_ACPI_NOTIFY_EVENT
+ESIF_E_ACTION_NOT_IMPLEMENTED
+ESIF_E_OVERFLOWED_RESULT_TYPE
+ESIF_E_UNSUPPORTED_ACTION_TYPE
+ESIF_E_UNSUPPORTED_REQUEST_DATA_TYPE
+ESIF_E_UNSUPPORTED_RESULT_DATA_TYPE
+ESIF_E_INVALID_REQUEST_TYPE
+ESIF_E_XFORM_NOT_AVAILABLE
+ESIF_E_REQUEST_DATA_OUT_OF_BOUNDS
+ESIF_E_ACTION_ALREADY_STARTED
+ESIF_E_APP_ALREADY_STARTED
+ESIF_E_NEED_LARGER_BUFFER
+ESIF_E_NEED_BINARY_BUFFER
+ESIF_E_REQ_SIZE_TYPE_MISTMATCH
+ESIF_E_COMPRESSION_ERROR
+ESIF_E_CALLBACK_IS_NULL
+ESIF_E_COMMAND_DATA_INVALID
+ESIF_E_DSP_ALREADY_LOADED
+ESIF_E_CPC_SHORT
+ESIF_E_CPC_SIZE_INVALID
+ESIF_E_CPC_SIGNATURE
+ESIF_E_CPC_PRIMITIVE_SIZE_INVALID
+ESIF_E_IPC_DATA_INVALID
+ESIF_E_NO_MEMORY
+ESIF_E_NO_CREATE
+ESIF_E_NO_MMIO_SUPPORT
+ESIF_E_NO_MBI_SUPPORT
+ESIF_E_MSR_IO_FAILURE
+ESIF_E_MSR_MULTI_VALUES
+ESIF_E_MSR_AFFINITY
+ESIF_E_PARTICIPANT_NOT_FOUND
+ESIF_E_PARAMETER_IS_NULL
+ESIF_E_PARAMETER_IS_OUT_OF_BOUNDS
+ESIF_E_NULL_PRIMITIVE
+ESIF_E_NEED_DSP
+ESIF_E_PRIMITIVE_ACTION_FAILURE
+ESIF_E_PRIMITIVE_DST_UNAVAIL
+ESIF_E_PRIMITIVE_NOT_FOUND_IN_DSP
+ESIF_E_OPCODE_NOT_IMPLEMENTED
+ESIF_E_PRIMITIVE_NO_ACTION_SUCCESSFUL
+ESIF_E_PRIMITIVE_NO_ACTION_AVAIL
+ESIF_E_PRIMITIVE_SUR_NOT_FOUND_IN_DSP
+ESIF_E_UNSUPPORTED_REQUEST_TEMP_TYPE
+ESIF_E_UNSUPPORTED_RESULT_TEMP_TYPE
+ESIF_E_TIMEOUT
+ESIF_E_NOT_TABLE
+ESIF_E_UNSUPPORTED_REQUEST_POWER_TYPE
+ESIF_E_UNSUPPORTED_RESULT_POWER_TYPE
+ESIF_E_NEED_ALGORITHM
+ESIF_E_UNSUPPORTED_ALGORITHM
+ESIF_E_NOT_FOUND
+ESIF_E_READONLY
+ESIF_E_IO_ERROR
+ESIF_E_IO_OPEN_FAILED
+ESIF_E_IO_DELETE_FAILED
+ESIF_E_IO_HASH_FAILED
+ESIF_E_IO_INVALID_NAME
+ESIF_E_IO_ALREADY_EXISTS
+ESIF_E_WS_DISC
+ESIF_E_WS_INIT_FAILED
+ESIF_E_WS_SOCKET_ERROR
+ESIF_E_WS_SERVER_ERROR
+ESIF_E_WS_INVALID_ADDR
+ESIF_E_WS_ALREADY_STARTED
+ESIF_E_WS_INCOMPLETE
+ESIF_E_WS_INVALID_REQUEST
+ESIF_E_WS_UNAUTHORIZED
+ESIF_E_UNSUPPORTED_REQUEST_TIME_TYPE
+ESIF_E_UNSUPPORTED_RESULT_TIME_TYPE
+ESIF_E_UNSUPPORTED_REQUEST_PERCENT_TYPE
+ESIF_E_UNSUPPORTED_RESULT_PERCENT_TYPE
+ESIF_E_IFACE_DISABLED
+ESIF_E_IFACE_NOT_SUPPORTED
+ESIF_E_EVENT_NOT_FOUND
+ESIF_E_EVENT_FILTERED
+ESIF_E_INVALID_ARGUMENT_COUNT
+ESIF_E_INVALID_PARTICIPANT_ID
+ESIF_E_INVALID_DOMAIN_ID
+ESIF_E_INVALID_CAPABILITY_MASK
+ESIF_E_SESSION_DISCONNECTED
+ESIF_E_SESSION_REQUEST_FAILED
+ESIF_E_SESSION_ALREADY_STARTED
+ESIF_E_SESSION_PERMISSION_DENIED
+ESIF_E_ABAT_ERRORS_RSVD
+GET_AC_PEAK_POWER
+GET_ACTIVE_CONTROL_POINT_RELATIONSHIP_TABLE
+GET_ACTIVE_POWER_SCHEME
+GET_ACTIVE_RELATIONSHIP_TABLE
+GET_ACTIVITY_COUNTER_WIDTH
+GET_ACUR
+GET_ADAPTER_POWER_RATING
+GET_ADAPTIVE_PERFORMANCE_ACTIONS_TABLE
+GET_ADAPTIVE_PERFORMANCE_CONDITIONS_TABLE
+GET_ADAPTIVE_PERFORMANCE_PARTICIPANT_CONDITION_TABLE
+GET_AGGREGATE_DISPLAY_INFORMATION
+GET_AGGRESSIVENESS_LEVEL
+GET_AP01
+GET_AP02
+GET_AP10
+GET_AUTO_ENUM_LIST
+GET_AUTO_ENUM_LIST_MTL
+GET_AVAILABLE_DEVICES
+GET_AVOL
+GET_BASELINE_SSC_GUARD_BAND
+GET_BASELINE_SSC_SPREAD_VALUE
+GET_BASELINE_SSC_THRESHOLD
+GET_BATTERY_CONTROL_STATES
+GET_BATTERY_HIGH_FREQUENCY_IMPEDANCE
+GET_BATTERY_INFORMATION
+GET_BATTERY_MAX_PEAK_CURRENT
+GET_BATTERY_NO_LOAD_VOLTAGE
+GET_BATTERY_PARTICIPANT_CAPABILITY
+GET_BATTERY_PERCENTAGE
+GET_BATTERY_STATUS
+GET_BIOMETRIC_PRESENCE_SENSOR_INSTANCE
+GET_BIOSGUARD_ENABLE_STATUS
+GET_BIOSGUARD_LOCK_STATUS
+GET_BIOSGUARD_STATUS
+GET_BOOTGUARD_MBOOT_STATUS
+GET_BOOTGUARD_SUPPORT_STATUS
+GET_BOOTGUARD_VBOOT_STATUS
+GET_CAPABILITY_LIST
+GET_CAPABILITY_LIST_MTL
+GET_CHARGER_TYPE
+GET_CLOCK_ORIGINAL_FREQUENCY
+GET_CONFIG
+GET_CONFIG_ACCESS_CONTROL_SUR
+GET_CONFIG_DATAVAULT_DESCRIPTION
+GET_CONFIG_DATAVAULT_SUR
+GET_CONFIG_TDP_CONTROL
+GET_CONFIG_TDP_LEVEL0
+GET_CONFIG_TDP_LEVEL1
+GET_CONFIG_TDP_LEVEL2
+GET_CONFIG_TDP_LOCK
+GET_CORE_ACTIVITY_COUNTER
+GET_CORE_PARK_STATUS
+GET_CPU_OPBOOST_ENABLE_AC
+GET_CPU_OPBOOST_ENABLE_AC_SUR
+GET_CPU_OPBOOST_ENABLE_DC
+GET_CPU_OPBOOST_ENABLE_DC_SUR
+GET_CPU_REFERENCE_CLOCK_FREQUENCY
+GET_CPU_RWEIGHT
+GET_CPU_UTILIZATION
+GET_CURRENT_CHARGING_RATE
+GET_DC_PEAK_POWER
+GET_DDR_DVFS_DATA_RATE
+GET_DDR_DVFS_DATA_RATE_REG_HI
+GET_DDR_DVFS_DATA_RATE_REG_LO
+GET_DDR_DVFS_RFI_RESTRICTION_REG
+GET_DDR_HIGH_MEM_FREQ
+GET_DDR_RFI_TABLE
+GET_DEVICE_UNIQUE_ID
+GET_DISENGAGED_STABILITY_WINDOW
+GET_DISK_INFO
+GET_DISPLAY_BRIGHTNESS
+GET_DISPLAY_BRIGHTNESS_LEVELS
+GET_DISPLAY_BRIGHTNESS_SOFT
+GET_DISPLAY_CAPABILITY
+GET_DISPLAY_DEPTH_LIMIT
+GET_DLVR_PLL_FREQ_CHANGE_BUSY
+GET_DLVR_REVISION
+GET_DLVR_RFI_ENABLE
+GET_DOMAIN_PRIORITY
+GET_DYNAMIC_BOOST_STATE
+GET_DYNAMIC_BOOST_STATE_SUR
+GET_EFFECTIVE_RAPL_POWER_LIMIT
+GET_EFFECTIVE_RAPL_POWER_LIMIT_LOCK
+GET_EFFECTIVE_RAPL_POWER_LIMIT_TIME_WINDOW
+GET_EFFECTIVE_RAPL_POWER_MAX
+GET_EFFECTIVE_RAPL_POWER_MIN
+GET_EFFICIENT_CORE_TRL_RANGE
+GET_EFFICIENT_CORE_TURBO_RATIO
+GET_EIST_ENABLE
+GET_EMERGENCY_CALL_MODE_TABLE
+GET_ENERGY_EFFICIENCY_TURBO
+GET_ENGINEERING_SAMPLE
+GET_EPP_BATTERY_LIFE_BURSTY_THRESHOLD
+GET_EPP_SENSITIVITY_HINT
+GET_EPP_SENSITIVITY_HINT_MODEL
+GET_ES_DISPLAY_REQUIRED
+GET_EXPECTED_BATTERY_LIFE
+GET_FAN_CAPABILITIES
+GET_FAN_DIRECTION
+GET_FAN_INFORMATION
+GET_FAN_MODE_CAPABILITIES
+GET_FAN_OPERATING_MODE
+GET_FAN_PERFORMANCE_STATES
+GET_FAN_SPEED_HIGH_THRESHOLD
+GET_FAN_SPEED_HIGH_THRESHOLD_SUR
+GET_FAN_SPEED_LOW_THRESHOLD
+GET_FAN_SPEED_LOW_THRESHOLD_SUR
+GET_FAN_SPEED_THRESHOLD_HYSTERESIS
+GET_FAN_STATUS
+GET_FAST_POLL_TIME
+GET_FIVR_VERSION
+GET_FIVR_VERSION_PLATFORM_SUR
+GET_FIVR_VERSION_SUR
+GET_GEAR_MODE_MC0_CH0
+GET_GEAR_MODE_MC0_CH1
+GET_GEAR_MODE_MC1_CH0
+GET_GEAR_MODE_MC1_CH1
+GET_GPU_OPBOOST_ENABLE_AC
+GET_GPU_OPBOOST_ENABLE_AC_SUR
+GET_GPU_OPBOOST_ENABLE_DC
+GET_GPU_OPBOOST_ENABLE_DC_SUR
+GET_GPU_SPLIT_RATIO
+GET_GPU_SPLIT_RATIO_AC_SUR
+GET_GPU_SPLIT_RATIO_ACTIVE
+GET_GPU_SPLIT_RATIO_ACTIVE_SUR
+GET_GPU_SPLIT_RATIO_DC_SUR
+GET_GPU_SPLIT_RATIO_MAX
+GET_GPU_SPLIT_RATIO_MAX_AC_SUR
+GET_GPU_SPLIT_RATIO_MAX_DC_SUR
+GET_GRAPHICS_TCC_OFFSET
+GET_GRAPHICS_TEMP_VALID
+GET_GT_CLIP_REASONS
+GET_GT_RWEIGHT
+GET_HARDWARE_ENCRYPTION_STATUS
+GET_HARDWARESHIELD_STATUS
+GET_HID_ACCESS_INFO
+GET_HID_DELAY
+GET_HLAT_CONTROLS_STATE
+GET_HLAT_PLR_MASK
+GET_HW_ID
+GET_HW_SOC_WORKLOAD
+GET_HWP_EPP_VALUE
+GET_HWP_GUARANTEED_PERFORMANCE_LEVEL
+GET_HWP_HIGHEST_PERFORMANCE_LEVEL
+GET_HWP_INTERRUPT_ENABLED
+GET_HWP_LOWEST_PERFORMANCE_LEVEL
+GET_HWP_MOST_EFFICIENT_PERFORMANCE_LEVEL
+GET_IA_CLIP_REASONS
+GET_IA_OVERCLOCKING_STATUS
+GET_IA32_APERF
+GET_IA32_FIXED_CTR_CTRL
+GET_IA32_MPERF
+GET_IA32_PERF_GLOBAL_CTRL
+GET_IA32_TIME_STAMP_COUNTER
+GET_INFO
+GET_INSTANTANEOUS_POWER
+GET_INTELLIGENT_THERMAL_MANAGEMENT_TABLE
+GET_IOCTL
+GET_IP_ALIGNMENT_SETTINGS
+GET_IPU_RWEIGHT
+GET_IS_BIOMETRIC_PRESENCE_SENSOR_CAPABLE
+GET_IS_EXTERNAL_MONITOR_CONNECTED
+GET_IS_FACE_DETECTION_CAPABLE
+GET_LAST_EWMA_POWER
+GET_LAST_HID_INPUT_TIME
+GET_LAST_HID_SOURCE_LOCATION
+GET_LAST_POWER_USED
+GET_MAX_EFFICIENCY_RATIO
+GET_MAX_NON_TURBO_RATIO
+GET_MBT_MODEL_VERSION
+GET_MEDIA_RWEIGHT
+GET_MEMORY_GEAR_MULTIPLIER
+GET_MEMORY_GEAR_TYPE
+GET_MEMORY_QCLK_CURRENT_IDX
+GET_MEMORY_QCLK_FREQUENCY
+GET_MEMORY_QCLK_RATIO
+GET_MEMORY_QCLK_REFERENCE
+GET_MEMORY_QCLK_REG
+GET_MEMORY_SPEED
+GET_MEMORY_TEMPERATURE_MULTIPLIER
+GET_MEMORY_TIMINGS_OC_ENABLED
+GET_MEMORY_TYPE
+GET_MICROCODE_UPDATE
+GET_MINIMUM_SAMPLE_PERIOD
+GET_NEGATIVE_EVENT_FILTERING_STATE
+GET_NOT_PRESENT_STABILITY_WINDOW
+GET_NOTIFICATION_TEMP_THRESHOLD
+GET_NUM_CONFIG_TDP_LEVELS
+GET_NV_TGP_VALUE_AC
+GET_NV_TGP_VALUE_DC
+GET_OC_BIOS_MBOX_CMD_REG
+GET_OC_BIOS_MBOX_DATA_REG
+GET_OC_MBOX
+GET_OEM_VARS
+GET_OPBOOST_MODE
+GET_OPBOOST_MODE_SUR
+GET_OPTIMIZATION_SLIDER
+GET_OPTIMIZATION_SLIDER_STATUS
+GET_OS_FOREGROUND_APPLICATION
+GET_OVERCLOCKING_BINS_SUPPORTED
+GET_OVERCLOCKING_LOCK
+GET_PARTICIPANT_CAPABILITIES
+GET_PARTICIPANT_ENERGY_THRESHOLD
+GET_PARTICIPANT_FRIENDLY_NAME
+GET_PARTICIPANT_HANDLE_LIST
+GET_PARTICIPANT_MAX_CORE_UTILIZATION
+GET_PARTICIPANT_PERF_PRESENT_CAPABILITY
+GET_PARTICIPANT_RESIDENCY_UTILIZATION
+GET_PARTICIPANT_SAMPLE_PERIOD
+GET_PARTICIPANT_TYPE
+GET_PARTICIPANT_UTILIZATION
+GET_PARTICIPANT_UTILIZATION_SUR
+GET_PARTICIPANT_UTILIZATION_THRESHOLD
+GET_PASSIVE_RELATIONSHIP_TABLE
+GET_PCIE_THROTTLING_OPTION
+GET_PER_CORE_DESIRED_PERFORMANCE
+GET_PER_CORE_FIXED_CTR1
+GET_PER_CORE_FIXED_CTR2
+GET_PER_CORE_MAX_PERFORMANCE
+GET_PER_CORE_TARGET_PSTATE
+GET_PER_CORE_TARGET_RATIO
+GET_PER_CORE_TEMPERATURE
+GET_PER_CORE_VOLTAGE
+GET_PERF_PREFERENCE_MAX
+GET_PERF_PREFERENCE_MIN
+GET_PERF_PREFERENCE_RANGE
+GET_PERF_PREFERENCE_RANGE_SUR
+GET_PERF_PREFERENCE_SUR
+GET_PERF_PRESENT_CAPABILITY
+GET_PERF_PSTATE_DEPTH_LIMIT
+GET_PERF_SUPPORT_STATES
+GET_PERF_SUPPORT_STATES_SUR
+GET_PID_ALGORITHM_TABLE
+GET_PID_KI_TERM
+GET_PID_KP_TERM
+GET_PID_TIME_AVERAGE_CONSTANT
+GET_PKG_TIME_LIMIT_MAX
+GET_PLATFORM_BATTERY_STEADY_STATE
+GET_PLATFORM_MAX_BATTERY_POWER
+GET_PLATFORM_POWER_LIMIT
+GET_PLATFORM_POWER_LIMIT_DUTY_CYCLE
+GET_PLATFORM_POWER_LIMIT_ENABLE
+GET_PLATFORM_POWER_LIMIT_TIME_WINDOW
+GET_PLATFORM_POWER_SOURCE
+GET_PLATFORM_REST_OF_POWER
+GET_PORT
+GET_POSITIVE_EVENT_FILTERING_STATE
+GET_POWER_ALPHA
+GET_POWER_BOSS_ACTIONS_TABLE
+GET_POWER_BOSS_CONDITIONS_TABLE
+GET_POWER_BOSS_MATH_TABLE
+GET_POWER_DELTA
+GET_POWER_LIMIT_ENABLE
+GET_POWER_LIMIT_SKU_MAX_AC
+GET_POWER_LIMIT_SKU_MAX_AC_SUR
+GET_POWER_LIMIT_SKU_MIN_AC
+GET_POWER_LIMIT_SKU_MIN_AC_SUR
+GET_POWER_PERF_TUNING_DYN_SWITCHING
+GET_POWER_SAMPLE_PERIOD
+GET_POWER_SEED
+GET_POWER_SHARE_EFFECTIVE_BIAS
+GET_POWER_SHARE_POLICY_POWER
+GET_POWER_SHARE_TEMPERATURE_THRESHOLD
+GET_POWER_SHARING_ALGORITHM_TABLE
+GET_POWER_SHARING_ALGORITHM_TABLE_2
+GET_POWERSHARE_POWER_LIMIT_TIME_WINDOW
+GET_PPM_PARAM_VALUES
+GET_PRESENT_STABILITY_WINDOW
+GET_PROC_BRAND_MODIFIER
+GET_PROC_HDC_OOB_ENABLE
+GET_PROC_HWP_ENABLE
+GET_PROC_HWP_SUPPORT_CHECK
+GET_PROC_LOGICAL_PROCESSOR_AFFINITY
+GET_PROC_LOGICAL_PROCESSOR_COUNT
+GET_PROC_PER_CORE_CSTATE_RESIDENCY
+GET_PROC_PERF_PRESENT_CAPABILITY
+GET_PROC_PERF_PSTATE_DEPTH_LIMIT
+GET_PROC_PERF_SUPPORT_STATES
+GET_PROC_PERF_THROTTLE_PRESENT_CAPABILITY
+GET_PROC_PERF_TSTATE_DEPTH_LIMIT
+GET_PROC_PHYSICAL_CORE_COUNT
+GET_PROC_PKG_CSTATE_RESIDENCY
+GET_PROC_RF_TUNING_AVAILABLE
+GET_PROC_RP_STATE_CAPABILITY
+GET_PROC_THERMAL_DESIGN_POWER
+GET_PROC_THREAD_STALL_COUNTER
+GET_PROC_THREAD_STALL_COUNTER_STATUS
+GET_PROC_TJMAX
+GET_PROC_TSC
+GET_PROCESS_AFFINITY_MASK
+GET_RAPL_ENERGY
+GET_RAPL_ENERGY_COUNTER_INFO
+GET_RAPL_ENERGY_COUNTER_INFO_SUR
+GET_RAPL_ENERGY_COUNTER_WIDTH
+GET_RAPL_ENERGY_CPU_SUR
+GET_RAPL_ENERGY_GPU_SUR
+GET_RAPL_ENERGY_UNIT
+GET_RAPL_ENERGY_UNIT_CPU_SUR
+GET_RAPL_ENERGY_UNIT_GPU_SUR
+GET_RAPL_FLOOR_STATE
+GET_RAPL_POWER
+GET_RAPL_POWER_CONTROL_CAPABILITIES
+GET_RAPL_POWER_DEFAULT
+GET_RAPL_POWER_LIMIT
+GET_RAPL_POWER_LIMIT_DUTY_CYCLE
+GET_RAPL_POWER_LIMIT_ENABLE
+GET_RAPL_POWER_LIMIT_LOCK
+GET_RAPL_POWER_LIMIT_TIME_WINDOW
+GET_RAPL_POWER_MAX
+GET_RAPL_POWER_MAX_TIME_WINDOW
+GET_RAPL_POWER_MIN
+GET_RAPL_POWER_SUR
+GET_RAPL_POWER_UNIT
+GET_RAPL_TIME_UNIT
+GET_RAPL_TIME_WINDOW
+GET_RATED_POWER_LIMIT_AC
+GET_RATED_POWER_LIMIT_AC_SUR
+GET_RATED_POWER_LIMIT_DC
+GET_RATED_POWER_LIMIT_DC_SUR
+GET_RATIO_LIMIT_PROGRAMMABLE
+GET_RESERVED_TGP
+GET_RESERVED_TGP_SUR
+GET_RF_ACTIVE_CHANNELS
+GET_RF_ACTIVE_CHANNELS_SUR
+GET_RF_CHANNEL_INFO
+GET_RFI_DISABLE
+GET_RFPROFILE_CENTER_FREQUENCY
+GET_RFPROFILE_CENTER_FREQUENCY_DLVR
+GET_RFPROFILE_CENTER_FREQUENCY_DLVR_SUR
+GET_RFPROFILE_CENTER_FREQUENCY_FIVR
+GET_RFPROFILE_CENTER_FREQUENCY_FIVR_PLATFORM
+GET_RFPROFILE_CENTER_FREQUENCY_MCIVR
+GET_RFPROFILE_CLIP_PERCENT_LEFT
+GET_RFPROFILE_CLIP_PERCENT_RIGHT
+GET_RFPROFILE_DEFAULT_CENTER_FREQUENCY
+GET_RFPROFILE_DEFAULT_CENTER_FREQUENCY_FIVR
+GET_RFPROFILE_DEFAULT_CENTER_FREQUENCY_MCIVR
+GET_RFPROFILE_FIVR_RFI_XTAL_19_24
+GET_RFPROFILE_FIVR_RFI_XTAL_19_24_PLATFORM
+GET_RFPROFILE_FIVR_RFI_XTAL_38
+GET_RFPROFILE_FIVR_RFI_XTAL_38_PLATFORM
+GET_RFPROFILE_FREQUENCY_ADJUST_RESOLUTION
+GET_RFPROFILE_MAX_FREQUENCY
+GET_RFPROFILE_MAX_FREQUENCY_XTAL_19_2
+GET_RFPROFILE_MAX_FREQUENCY_XTAL_24
+GET_RFPROFILE_MAX_FREQUENCY_XTAL_38_4
+GET_RFPROFILE_MIN_FREQUENCY
+GET_RFPROFILE_MIN_FREQUENCY_XTAL_19_2
+GET_RFPROFILE_MIN_FREQUENCY_XTAL_24
+GET_RFPROFILE_MIN_FREQUENCY_XTAL_38_4
+GET_RFPROFILE_SSC
+GET_RFPROFILE_SSC_DLVR
+GET_RFPROFILE_SSC_DLVR_CTRL_LOCK
+GET_RFPROFILE_SSC_FIVR
+GET_RFPROFILE_SSC_FIVR_PLATFORM
+GET_RFPROFILE_SSC_MCIVR
+GET_RFPROFILE_WIFI24_FREQ_GUARD_BAND
+GET_RFPROFILE_WIFI5_FREQ_GUARD_BAND
+GET_RFPROFILE_WWAN_FREQ_GUARD_BAND
+GET_RWEIGHTS
+GET_SAGV_CONFIGURATION
+GET_SENSOR_ATTENTION_CAPABILITY_STATUS
+GET_SENTER_GLOBAL_STATUS
+GET_SENTER_LOCAL_STATUS
+GET_SLOW_POLL_TIME
+GET_SLOWPOLL_POWER_THRESHOLD
+GET_SOC_DGPU_WEIGHTS
+GET_SOC_OPTIMIZATION_CONFIG
+GET_SOC_POWER_FLOOR_INT_ENABLE
+GET_SOC_POWER_FLOOR_STATE
+GET_SOC_PREDICTION_CHANGE_INT_ENABLE
+GET_SOC_PREDICTION_CHANGE_TIME_WINDOW
+GET_SOC_PREDICTION_CONTROLS
+GET_SOC_REFERENCE_CLOCK_FREQUENCY
+GET_SOC_SYSTEM_USAGE_MODE
+GET_SOC_WORKLOAD
+GET_SOCWC_AC_POLLING_PERIOD
+GET_SOCWC_DC_POLLING_PERIOD
+GET_SOCWC_POWER_DIFFS_COUNT_THRESHOLD
+GET_SOCWC_SLOW_POLLING_PERIOD
+GET_SOCWLC_SOURCE
+GET_SOFT_STRAP_3_LOW
+GET_STANDBY_TEMPERATURE_SAMPLE_PERIOD
+GET_STC_ENABLE
+GET_STC_GAIN
+GET_STC_MIN_PERF_LEVEL
+GET_STC_TARGET_TEMP
+GET_STC_TEMP_OVERRIDE
+GET_STC_TEMP_OVERRIDE_EN
+GET_STORAGE_BUS_CONTROLLER_LOCATION
+GET_STORAGE_SAMPLE_PERIOD
+GET_SUPPORT_EPP_HINT
+GET_SUPPORTED_POLICIES
+GET_SYSTEM_AGENT_VOLTAGE
+GET_TCC_LOCK_STATUS
+GET_TCC_OFFSET
+GET_TCC_OFFSET_PROGRAM_STATUS
+GET_TEMPERATURE
+GET_TEMPERATURE_ACPI_SUR
+GET_TEMPERATURE_APPROX_TABLE
+GET_TEMPERATURE_MULTIPLIER
+GET_TEMPERATURE_SUR
+GET_TEMPERATURE_THRESHOLD_HYSTERESIS
+GET_TEMPERATURE_THRESHOLDS
+GET_TEMPERATURE_VRAM_SUR
+GET_TGP_MAX_AC_SUR
+GET_TGP_MAX_DC_SUR
+GET_TGP_MIN_AC_SUR
+GET_THERM_STATUS_PMAX_LOG
+GET_THERM_STATUS_PROCHOT_LOG
+GET_THERM_STATUS_THERMAL_MONITOR_LOG
+GET_THERMAL_MBOX_CMD_DATA
+GET_THERMAL_MBOX_CMD_REG
+GET_THERMAL_MBOX_DATA_REG
+GET_THERMAL_MBOX_DATA_REG_HI
+GET_THERMAL_RELATIONSHIP_TABLE
+GET_TPG_POWER_STATE
+GET_TPG_POWER_STATE_SUR
+GET_TPG_TPP_LIMIT_AC_SUR
+GET_TPG_TPP_LIMIT_DC_SUR
+GET_TPM_STATUS
+GET_TPM_TYPE
+GET_TRIP_POINT_ACTIVE
+GET_TRIP_POINT_CRITICAL
+GET_TRIP_POINT_HOT
+GET_TRIP_POINT_PASSIVE
+GET_TRIP_POINT_WARM
+GET_TRL_RANGE
+GET_TSC_WIDTH
+GET_TSTATES
+GET_TURBO_GRAPHICS_PERF_STATUS
+GET_TURBO_MODE_DISABLE
+GET_TURBO_RATIO
+GET_UNCORE_CURRENT_RATIO
+GET_UNCORE_MAX_RATIO
+GET_UNCORE_MIN_RATIO
+GET_UNDERVOLT_PROTECTION_STATUS
+GET_USER_BASED_REFRESH_RATE
+GET_USER_BASED_REFRESH_RATE_CAPABILITY
+GET_USER_BASED_REFRESH_RATE_CAPABILITY_SUR
+GET_USER_BASED_REFRESH_RATE_SUR
+GET_UVTH
+GET_VIRTUAL_SENSOR_CALIB_TABLE
+GET_VIRTUAL_SENSOR_POLLING_TABLE
+GET_VMX_INSIDE_STATUS
+GET_VMX_LOCK_STATUS
+GET_VMX_OUTSIDE_STATUS
+GET_VOLTAGE_THRESHOLD_MATH_TABLE
+GET_VPU_RWEIGHT
+GET_WEIGHTED_SLOWPOLL_CONSTANT
+GET_WIFI_CAPABILITIES
+SET_AC_PEAK_POWER
+SET_ACTIVE_CONTROL_POINT_RELATIONSHIP_TABLE
+SET_ACTIVE_POWER_SCHEME
+SET_ACTIVE_RELATIONSHIP_TABLE
+SET_ACUR
+SET_ADAPTER_POWER_RATING
+SET_ADAPTIVE_PERFORMANCE_ACTIONS_TABLE
+SET_ADAPTIVE_PERFORMANCE_CONDITIONS_TABLE
+SET_ADAPTIVE_PERFORMANCE_PARTICIPANT_CONDITION_TABLE
+SET_AGGRESSIVENESS_LEVEL
+SET_AP01
+SET_AP02
+SET_AP10
+SET_APP_ALIVE_RESPONSE
+SET_APP_COMPAT
+SET_APP_COMPAT_DELETE
+SET_AVOL
+SET_BASELINE_SSC_GUARD_BAND
+SET_BASELINE_SSC_SPREAD_VALUE
+SET_BASELINE_SSC_THRESHOLD
+SET_BATTERY_CONTROL_STATES
+SET_BATTERY_HIGH_FREQUENCY_IMPEDANCE
+SET_BATTERY_MAX_PEAK_CURRENT
+SET_BATTERY_NO_LOAD_VOLTAGE
+SET_BATTERY_PERCENTAGE
+SET_BIOMETRIC_PRESENCE_SENSOR_INSTANCE
+SET_CLEAR_ALL_SIMULATION_MODE_EVENT_TYPE
+SET_CLEAR_SIMULATION_MODE_EVENT_TYPE
+SET_CONFIG_DATAVAULT
+SET_CONFIG_RESET
+SET_CPU_OPBOOST_ENABLE_AC
+SET_CPU_OPBOOST_ENABLE_AC_SUR
+SET_CPU_OPBOOST_ENABLE_DC
+SET_CPU_OPBOOST_ENABLE_DC_SUR
+SET_CPU_RWEIGHT
+SET_DC_PEAK_POWER
+SET_DDR_DVFS_RFI_RESTRICTION
+SET_DDR_DVFS_RFI_RESTRICTION_REG
+SET_DDR_RFI_TABLE
+SET_DEVICE_TEMPERATURE_INDICATION
+SET_DISENGAGED_STABILITY_WINDOW
+SET_DISPLAY_BRIGHTNESS
+SET_DISPLAY_BRIGHTNESS_LEVELS
+SET_DISPLAY_BRIGHTNESS_SOFT
+SET_DISPLAY_CAPABILITY
+SET_DISPLAY_DEPTH_LIMIT
+SET_DLVR_SSC_TO_CNVI
+SET_DTT_MASTER_TO_CNVI
+SET_DYNAMIC_BOOST_STATE
+SET_DYNAMIC_BOOST_STATE_SUR
+SET_EFFECTIVE_RAPL_POWER_LIMIT
+SET_EFFECTIVE_RAPL_POWER_LIMIT_TIME_WINDOW
+SET_EFFICIENT_CORE_TRL_RANGE
+SET_EFFICIENT_CORE_TURBO_RATIO
+SET_EMERGENCY_CALL_MODE_TABLE
+SET_ENERGY_EFFICIENCY_TURBO
+SET_ENERGY_THRESHOLD_COUNT
+SET_ENERGY_THRESHOLD_INT_DISABLE
+SET_EPP_BATTERY_LIFE_BURSTY_THRESHOLD
+SET_EPP_SENSITIVITY_HINT
+SET_EPP_WORKLOAD_TYPE
+SET_EXECUTE_SIMULATION
+SET_EXPECTED_BATTERY_LIFE
+SET_FAN_CAPABILITIES
+SET_FAN_DIRECTION
+SET_FAN_LEVEL
+SET_FAN_OPERATING_MODE
+SET_FAN_SPEED_HIGH_THRESHOLD
+SET_FAN_SPEED_HIGH_THRESHOLD_SUR
+SET_FAN_SPEED_LOW_THRESHOLD
+SET_FAN_SPEED_LOW_THRESHOLD_SUR
+SET_FOREGROUND_APP_RATIO_PERIOD
+SET_GPU_OPBOOST_ENABLE_AC
+SET_GPU_OPBOOST_ENABLE_AC_SUR
+SET_GPU_OPBOOST_ENABLE_DC
+SET_GPU_OPBOOST_ENABLE_DC_SUR
+SET_GPU_SPLIT_RATIO
+SET_GPU_SPLIT_RATIO_AC_SUR
+SET_GPU_SPLIT_RATIO_DC_SUR
+SET_GPU_SPLIT_RATIO_MAX
+SET_GPU_SPLIT_RATIO_MAX_AC_SUR
+SET_GPU_SPLIT_RATIO_MAX_DC_SUR
+SET_GT_CLIP_REASONS
+SET_GT_RWEIGHT
+SET_HID_DELAY
+SET_HID_DELAY_SUR
+SET_IA_CLIP_REASONS
+SET_IA32_FIXED_CTR_CTRL
+SET_IA32_PERF_GLOBAL_CTRL
+SET_INTELLIGENT_THERMAL_MANAGEMENT_TABLE
+SET_IP_ALIGNMENT_DISABLE
+SET_IP_ALIGNMENT_ENABLE
+SET_IP_ALIGNMENT_START
+SET_IP_ALIGNMENT_STOP
+SET_IP_ALIGNMENT_SUPPORT_STATE
+SET_IPU_RWEIGHT
+SET_JAVA_HELPER_SERVICE_NOTIFICATION
+SET_LAST_EWMA_POWER
+SET_LAST_POWER_USED
+SET_MBT_MODEL_VERSION
+SET_MEDIA_RWEIGHT
+SET_NEGATIVE_EVENT_FILTERING_STATE
+SET_NOT_PRESENT_STABILITY_WINDOW
+SET_NV_TGP_VALUE_SUR
+SET_NVAPI_ACTION_STATE_DISABLE
+SET_NVAPI_ACTION_STATE_ENABLE
+SET_OC_BIOS_MBOX_CMD_REG
+SET_OC_BIOS_MBOX_DATA_REG
+SET_OC_MBOX
+SET_OEM_VARS
+SET_OPERATING_SYSTEM_CAPABILITIES
+SET_OPTIMIZATION_SLIDER
+SET_OPTIMIZATION_SLIDER_SUR
+SET_OS_BATTERY_PERCENTAGE
+SET_OS_COOLING_MODE
+SET_OS_DOCK_MODE
+SET_OS_FOREGROUND_APPLICATION
+SET_OS_LID_STATE
+SET_OS_MIXED_REALITY_MODE
+SET_OS_PLATFORM_TYPE
+SET_OS_POWER_SOURCE
+SET_PARK_ANY_CORES
+SET_PARTICIPANT_CAPABILITIES_EVAL
+SET_PARTICIPANT_ENERGY_THRESHOLD
+SET_PARTICIPANT_HYSTERESIS_BEHAVIOR
+SET_PARTICIPANT_MAX_PERF_STATE
+SET_PARTICIPANT_RESIDENCY_UTILIZATION
+SET_PARTICIPANT_SAMPLE_BEHAVIOR
+SET_PARTICIPANT_SAMPLE_PERIOD
+SET_PARTICIPANT_TYPE
+SET_PARTICIPANT_UTILIZATION_THRESHOLD
+SET_PASSIVE_RELATIONSHIP_TABLE
+SET_PBOK
+SET_PER_CORE_DESIRED_PERFORMANCE
+SET_PER_CORE_MAX_PERFORMANCE
+SET_PER_CORE_TARGET_PSTATE
+SET_PERF_PREFERENCE_MAX
+SET_PERF_PREFERENCE_MIN
+SET_PERF_PREFERENCE_SUR
+SET_PERF_PRESENT_CAPABILITY
+SET_PERF_PRESENT_CAPABILITY_SUR
+SET_PERF_PSTATE_DEPTH_LIMIT
+SET_PERF_SUPPORT_STATES
+SET_PID_ALGORITHM_TABLE
+SET_PID_KI_TERM
+SET_PID_KP_TERM
+SET_PID_TIME_AVERAGE_CONSTANT
+SET_PLATFORM_BATTERY_STEADY_STATE
+SET_PLATFORM_MAX_BATTERY_POWER
+SET_PLATFORM_POWER_LIMIT
+SET_PLATFORM_POWER_LIMIT_DUTY_CYCLE
+SET_PLATFORM_POWER_LIMIT_ENABLE
+SET_PLATFORM_POWER_LIMIT_TIME_WINDOW
+SET_PLATFORM_REST_OF_POWER
+SET_PORT
+SET_POSITIVE_EVENT_FILTERING_STATE
+SET_POWER_ALPHA
+SET_POWER_BOSS_ACTIONS_TABLE
+SET_POWER_BOSS_CONDITIONS_TABLE
+SET_POWER_BOSS_MATH_TABLE
+SET_POWER_DELTA
+SET_POWER_PERF_TUNING_DYN_SWITCHING
+SET_POWER_SAMPLE_BEHAVIOR
+SET_POWER_SCHEME_EPP
+SET_POWER_SEED
+SET_POWER_SHARE_EFFECTIVE_BIAS
+SET_POWER_SHARE_POLICY_POWER
+SET_POWER_SHARE_TEMPERATURE_THRESHOLD
+SET_POWER_SHARING_ALGORITHM_TABLE
+SET_POWER_SHARING_ALGORITHM_TABLE_2
+SET_POWER_THRESHOLDS
+SET_PPM_NON_BALANCED_VALUES
+SET_PPM_PARAM_VALUES
+SET_PPM_PARAM_VALUES_GENERIC
+SET_PPM_PARAMS_TO_NULL
+SET_PRESENT_STABILITY_WINDOW
+SET_PROC_LOGICAL_PROCESSOR_AFFINITY
+SET_PROC_MAX_THROTTLE_STATE
+SET_PROC_NUMBER_OFFLINE_CORES
+SET_PROC_PERF_PSTATE_DEPTH_LIMIT
+SET_PROC_PERF_SUPPORT_STATES
+SET_PROC_PERF_TSTATE_DEPTH_LIMIT
+SET_PROCESS_AFFINITY_MASK
+SET_RAPL_ENERGY
+SET_RAPL_FLOOR_STATE
+SET_RAPL_POWER
+SET_RAPL_POWER_CONTROL_CAPABILITIES
+SET_RAPL_POWER_LIMIT
+SET_RAPL_POWER_LIMIT_CLEAR
+SET_RAPL_POWER_LIMIT_DUTY_CYCLE
+SET_RAPL_POWER_LIMIT_ENABLE
+SET_RAPL_POWER_LIMIT_TIME_WINDOW
+SET_RAPL_POWER_MIN
+SET_RAPL_POWER_MIN_CLEAR
+SET_RF_ACTIVE_CHANNELS
+SET_RF_CHANNEL_INFO
+SET_RFPROFILE_CENTER_FREQUENCY
+SET_RFPROFILE_CENTER_FREQUENCY_DLVR
+SET_RFPROFILE_CENTER_FREQUENCY_DLVR_SUR
+SET_RFPROFILE_CENTER_FREQUENCY_FIVR
+SET_RFPROFILE_CENTER_FREQUENCY_MCIVR
+SET_RFPROFILE_CENTER_FREQUENCY_SUR
+SET_RFPROFILE_FIVR_RFI_XTAL_19_24
+SET_RFPROFILE_FIVR_RFI_XTAL_38
+SET_RFPROFILE_SSC_DLVR
+SET_RFPROFILE_SSC_DLVR_SUR
+SET_RFPROFILE_SSC_FIVR
+SET_RFPROFILE_SSC_MCIVR
+SET_RFPROFILE_WIFI24_FREQ_GUARD_BAND
+SET_RFPROFILE_WIFI5_FREQ_GUARD_BAND
+SET_RFPROFILE_WWAN_FREQ_GUARD_BAND
+SET_RWEIGHTS
+SET_SAGV_CONFIGURATION
+SET_SCREEN_AUTO_LOCK_STATE
+SET_SCREEN_STATE
+SET_SIMULATION_MODE_EVENT_TYPE
+SET_SLOWPOLL_POWER_THRESHOLD
+SET_SOC_OPTIMIZATION_CONFIG
+SET_SOC_POWER_FLOOR_INT_ENABLE
+SET_SOC_POWER_FLOOR_INT_ENABLE_SUR
+SET_SOC_PREDICTION_CHANGE_INT_ENABLE
+SET_SOC_PREDICTION_CHANGE_INT_ENABLE_SUR
+SET_SOC_PREDICTION_CHANGE_TIME_WINDOW
+SET_SOC_PREDICTION_CONTROLS
+SET_SOC_SYSTEM_USAGE_MODE
+SET_SOCWC_AC_POLLING_PERIOD
+SET_SOCWC_DC_POLLING_PERIOD
+SET_SOCWC_POWER_DIFFS_COUNT_THRESHOLD
+SET_SOCWC_SLOW_POLLING_PERIOD
+SET_SOCWLC_SOURCE
+SET_SPECIFIC_ACTION_PRIMITIVE
+SET_STANDBY_TEMPERATURE_SAMPLE_PERIOD
+SET_STC_ENABLE
+SET_STC_GAIN
+SET_STC_MIN_PERF_LEVEL
+SET_STC_TARGET_TEMP
+SET_STC_TEMP_OVERRIDE
+SET_STC_TEMP_OVERRIDE_EN
+SET_STORAGE_BUS_CONTROLLER_LOCATION
+SET_SUPPORT_EPP_HINT
+SET_SUPPORTED_POLICIES
+SET_SYSTEM_HIBERNATE
+SET_SYSTEM_SHUTDOWN
+SET_SYSTEM_SLEEP
+SET_TCC_OFFSET
+SET_TEMPERATURE
+SET_TEMPERATURE_INTERRUPT_STATE
+SET_TEMPERATURE_THRESHOLD_HYSTERESIS
+SET_TEMPERATURE_THRESHOLDS
+SET_TEMPERATURE_THRESHOLDS_SUR
+SET_TGP_MAX_AC_SUR
+SET_TGP_MAX_CLEAR_SUR
+SET_TGP_MAX_DC_SUR
+SET_TGP_MIN_AC_SUR
+SET_TGP_MIN_CLEAR_SUR
+SET_THERM_STATUS_PMAX_LOG
+SET_THERM_STATUS_PROCHOT_LOG
+SET_THERM_STATUS_THERMAL_MONITOR_LOG
+SET_THERMAL_MBOX_CMD_DATA
+SET_THERMAL_MBOX_CMD_GET_DDDR_SUR
+SET_THERMAL_MBOX_CMD_GET_RWEIGHT_SUR
+SET_THERMAL_MBOX_CMD_GET_SSUM_SUR
+SET_THERMAL_MBOX_CMD_REG
+SET_THERMAL_MBOX_CMD_SET_DDRR_SUR
+SET_THERMAL_MBOX_CMD_SET_RWEIGHT_SUR
+SET_THERMAL_MBOX_CMD_SET_SSUM_SUR
+SET_THERMAL_MBOX_DATA_REG
+SET_THERMAL_MBOX_DATA_REG_HI
+SET_THERMAL_RELATIONSHIP_TABLE
+SET_TPG_TPP_LIMIT_AC_SUR
+SET_TPG_TPP_LIMIT_CLEAR_SUR
+SET_TPG_TPP_LIMIT_DC_SUR
+SET_TRIP_POINT_ACTIVE
+SET_TRIP_POINT_CRITICAL
+SET_TRIP_POINT_HOT
+SET_TRIP_POINT_PASSIVE
+SET_TRIP_POINT_WARM
+SET_TRL_RANGE
+SET_TSTATE_CURRENT
+SET_TURBO_RATIO
+SET_UNCORE_MAX_RATIO
+SET_UNCORE_MIN_RATIO
+SET_UNDER_VOLTAGE_THRESHOLD
+SET_UNPARK_ANY_CORES
+SET_USER_BASED_REFRESH_RATE
+SET_USER_BASED_REFRESH_RATE_RESET
+SET_USER_BASED_REFRESH_RATE_RESET_SUR
+SET_USER_BASED_REFRESH_RATE_SUR
+SET_UVTH
+SET_VIRTUAL_SENSOR_CALIB_TABLE
+SET_VIRTUAL_SENSOR_POLLING_TABLE
+SET_VIRTUAL_TEMPERATURE
+SET_VOLTAGE_THRESHOLD_MATH_TABLE
+SET_VPU_RWEIGHT
+SET_WAKE_ON_APPROACH_STATE
+SET_WEIGHTED_SLOWPOLL_CONSTANT
+SET_WORKSTATION_LOCK
+DPTFTCS Build Version
+DPTFTCS Build Date
+Source File
+Executing Function
+Participant
+Domain
+ESIF Primitive
+ESIF Instance
+ESIF Return Code
+Exception Function
+Exception Text
+NoParticipant
+Invalid
+NoDomain
+Semi-Active
+May 23 2024
+23:27:39
+Unknown
+Message
+Unsupported field type reported in ODVP
+Expected binary data size mismatch. (ODVP)
+OnOffToggle::Type is invalid
+Docked
+Undocked
+OsDockMode::Type is invalid
+Closed
+OsLidState::Type is invalid
+Clamshell
+Tablet
+OsPlatformType::Type is invalid
+HighPerformance
+PowerSaver
+Balanced
+OsPowerSchemePersonality::Type is invalid
+Battery Saver
+Better Battery
+Better Performance
+Best Performance
+OsPowerSlider::Type is invalid
+Value is invalid
+Short Term DC
+OsPowerSource::Type is invalid
+Unlock
+Present
+NotPresent
+Inactive
+OsUserPresence::Type is invalid
+Participant::createParticipant() already executed.
+Domain index is invalid.
+invalid bitset position
+ParticipantEvent::Type is invalid.
+Participant index is invalid.
+Failed to create participant at index 
+Failed while trying to enqueue and wait for WIParticipantDestroy.
+Participant Index
+..\..\..\..\Sources\Tools\dptftcs\dptftcs_participant_manager.cpp
+ParticipantManager::destroyAllParticipants
+Failed while trying to destroy participant.
+ParticipantManager::destroyParticipant
+ not found.
+Participant 
+..\..\..\..\Sources\Tools\dptftcs\dptftcs_participant_work_item.cpp
+ParticipantWorkItem::writeParticipantWorkItemErrorMessage
+ParticipantWorkItem::writeParticipantWorkItemWarningMessage
+ParticipantWorkItem::writeParticipantWorkItemStartingInfoMessage
+Percentage is not valid.
+Buffer given to Percentage class has invalid length.
+C out of valid range.
+Power value 
+Invalid power subtraction requested.  Right side is greater than left side.
+Power is invalid.
+Buffer given to Power class has invalid length.
+@ClearPolicyRequestsForAllControls
+ClearCachedData
+ActiveControlGetStaticCaps
+ActiveControlGetDynamicCaps
+ActiveControlGetStatus
+ActiveControlGetControlSet
+ActiveControlSetFanSpeed
+ActiveControlSetDynamicCaps
+ActiveControlSetFanCapsLock
+PlaftormPowerControlSetPortPowerLimit
+BatteryStatusGetMaxBatteryPower
+BatteryStatusGetBatteryStatus
+BatteryStatusGetBatteryInformation
+BatteryStatusGetChargerType
+BatteryStatusGetBatterySteadyState
+BatteryStatusGetBatteryHighFrequencyImpedance
+BatteryStatusGetBatteryNoLoadVoltage
+BatteryStatusGetBatteryMaxPeakCurrent
+BatteryStatusGetBatteryPercentage
+BatteryStatusSetBatteryPercentage
+PlatformNotificationSetOsc
+PlatformNotificationSetApplicationAliveResponse
+SocWorkloadClassificationGetSocWorkload
+SocWorkloadClassificationGetSocWorkloadSupport
+ProcessorControlSetUnderVoltageThreshold
+ProcessorControlSetTccOffsetTemperature
+ProcessorControlGetMaxTccOffsetTemperature
+ProcessorControlGetMinTccOffsetTemperature
+TemperatureControlGetTemperatureStatus
+TemperatureControlGetTemperatureThresholds
+TemperatureControlSetTemperatureThresholds
+TemperatureControlGetPowerShareTemperatureThreshold
+TemperatureControlGetCalibrationTable
+TemperatureControlGetPollingTable
+TemperatureControlIsVirtualTemperatureControl
+TemperatureControlSetVirtualTemperature
+Invalid request type given to ToString
+Not Present
+Disengaged
+Engaged
+Face Engaged
+SensorUserPresence::Type is invalid
+sensor value is invalid
+ESIF_DATA_ANGLE
+ESIF_DATA_AUTO
+ESIF_DATA_BINARY
+ESIF_DATA_BLOB
+ESIF_DATA_DECIBEL
+ESIF_DATA_DSP
+ESIF_DATA_ENUM
+ESIF_DATA_FREQUENCY
+ESIF_DATA_GUID
+ESIF_DATA_HANDLE
+ESIF_DATA_INSTANCE
+ESIF_DATA_INT16
+ESIF_DATA_INT32
+ESIF_DATA_INT64
+ESIF_DATA_INT8
+ESIF_DATA_IPV4
+ESIF_DATA_IPV6
+ESIF_DATA_JSON
+ESIF_DATA_PERCENT
+ESIF_DATA_POINTER
+ESIF_DATA_POWER
+ESIF_DATA_QUALIFIER
+ESIF_DATA_REGISTER
+ESIF_DATA_STRING
+ESIF_DATA_STRUCTURE
+ESIF_DATA_TABLE
+ESIF_DATA_TEMPERATURE
+ESIF_DATA_TIME
+ESIF_DATA_UINT16
+ESIF_DATA_UINT32
+ESIF_DATA_UINT64
+ESIF_DATA_UINT8
+ESIF_DATA_UNICODE
+ESIF_DATA_VOID
+ESIF_DATA_XML
+ESIF Return Code:  
+ERROR
+Temperature out of valid range
+Temperature is not valid.
+Buffer given to Temperature class has invalid length.
+ATimeSpan is not valid.
+Unable to find Name or Version headers.
+Application information does not match headers. Application Info = 
+Unable to collect Applications version data. Exception = 
+Unable to collect Applications version data. An exception occurred.
+apps delimited
+Version
+..\..\..\..\Sources\Tools\dptftcs\dptftcs_version_data.cpp
+VersionData::collectData
+/shared/export/above_2c_time_constraint_stepsize
+] from primitive call: GET_SUPPORTED_POLICIES
+Received invalid data length [
+Error reading user consent registry 1.
+Error reading user consent registry 2.
+SOFTWARE\Intel\SUR\ESRV_SVC_QUEENCREEK
+SOFTWARE\Intel\SUR\ESRV_SVC_CENTRALPARK
+Consent
+SOFTWARE\Intel\SUR\ICIP
+..\..\..\..\Sources\Tools\dptftcs\dptftcs_user_consent.cpp
+UserConsent::getConsentValue
+SOFTWARE\Intel\SUR\CONSENT_IT
+Error reading version.
+ProductVersion
+UserConsent::meetsMinVersionCheck
+2.4.0629
+VERSION
+EVENT
+EVENTDATA
+PARTICIPANT
+POLICY
+DptfTcsManager::createDptfTcsManager() already executed.
+The Telemetry Collection Service has failed to start.
+Failed to start Telemetry Collection Service.
+SOFTWARE\Intel\SUR
+SOFTWARE\Intel
+Failed to set up user consent thread
+..\..\..\..\Sources\Tools\dptftcs\dptftcs_manager.cpp
+DptfTcsManager::setUpUserConsentThread
+Overall user consent did not change. Consent value=
+Does not have user consent to collect data. Consent value=
+Consent value=
+DptfTcsManager::takeActionBasedOnUserConsent
+DptfTcsManager::getEventData() - unsupported framework event type.
+DptfTcsManager::setEventData() - unsupported framework event type.
+TelemetryConfiguration.txt
+C:\Windows\ServiceProfiles\LocalService\AppData\Local\Intel\IPF\Telemetry
+%s\%s
+Failed to drop symlink: 
+ParticipantManager::getParticipantPtr
+Participant::allocateNextDomainIndex
+Participant::createDomain
+Received request to remove a domain that is invalid.
+Participant::destroyDomain
+ParticipantManager::allocateNextParticipantIndex
+ParticipantManager::createParticipant
+WorkItemQueueManager::removeIfMatches
+..\..\..\..\Sources\Tools\dptftcs\dptftcs_work_item.cpp
+WorkItem::writeWorkItemStartingInfoMessage
+WorkItem::writeWorkItemErrorMessage
+Failed to enqueue work item.  Enqueueing has been disabled.
+One or more work items have been removed from the queues.
+Immediate Queue removed
+..\..\..\..\Sources\Tools\dptftcs\dptftcs_work_item_queue_manager.cpp
+WorkItemQueueManager::removeIfMatchesImmediateQueue
+WorkItemQueueManager::removeIfMatchesDeferredQueue
+format_id=C5-61-4D-E9-30-80-4D-B5-98-1A-D1-D1-67-DD-4C-D7
+work_item_queue_manager_status
+Work item queue thread not initialized
+<!-- 
+&amp;
+&apos;
+&quot;
+ESIF_DOMAIN_TYPE_INVALID
+ESIF_DOMAIN_TYPE_PROCESSOR
+ESIF_DOMAIN_TYPE_GRAPHICS
+ESIF_DOMAIN_TYPE_MEMORY
+ESIF_DOMAIN_TYPE_TEMPERATURE
+ESIF_DOMAIN_TYPE_FAN
+ESIF_DOMAIN_TYPE_CHIPSET
+ESIF_DOMAIN_TYPE_ETHERNET
+ESIF_DOMAIN_TYPE_WIRELESS
+ESIF_DOMAIN_TYPE_AHCI
+ESIF_DOMAIN_TYPE_MULTIFUNCTION
+ESIF_DOMAIN_TYPE_DISPLAY
+ESIF_DOMAIN_TYPE_BATTERYCHARGER
+ESIF_DOMAIN_TYPE_BATTERY
+ESIF_DOMAIN_TYPE_AUDIO
+ESIF_DOMAIN_TYPE_OTHER
+ESIF_DOMAIN_TYPE_WWAN
+ESIF_DOMAIN_TYPE_POWER
+ESIF_DOMAIN_TYPE_THERMISTOR
+ESIF_DOMAIN_TYPE_INFRARED
+ESIF_DOMAIN_TYPE_VIRTUAL
+ESIF_DOMAIN_TYPE_AMBIENT
+ESIF_DOMAIN_TYPE_CAM2D
+ESIF_DOMAIN_TYPE_NVME
+ESIF_DOMAIN_TYPE_DSX
+ESIF_DOMAIN_TYPE_RFEM
+ESIF_DOMAIN_TYPE_M2CNV
+ESIF_DOMAIN_TYPE_SOCCNV
+ESIF_DOMAIN_TYPE_IVCAM
+ESIF_DOMAIN_TYPE_DGFXCORE
+ESIF_DOMAIN_TYPE_DGFXMEM
+ESIF_DOMAIN_TYPE_DGFXMCP
+ESIF_DOMAIN_TYPE_WWANANALOG
+ESIF_DOMAIN_TYPE_WWANDIGITAL
+ESIF_DOMAIN_TYPE_WWANRFIM
+ESIF_DOMAIN_TYPE_IDGFXCORE
+ESIF_DOMAIN_TYPE_IDGFX2
+ESIF_DOMAIN_TYPE_NVDGX
+ESIF_DOMAIN_TYPE_PCIE
+ESIF_DOMAIN_TYPE_VPU
+ESIF_DOMAIN_TYPE_IPU
+ESIF_DOMAIN_TYPE_UBAT
+ESIF_DOMAIN_TYPE_MANAGER
+ESIF_DOMAIN_TYPE_ALL
+ESIF_PARTICIPANT_ENUM_INVALID
+ESIF_PARTICIPANT_ENUM_ACPI
+ESIF_PARTICIPANT_ENUM_PCI
+ESIF_PARTICIPANT_ENUM_PLAT
+ESIF_PARTICIPANT_ENUM_CONJURE
+ESIF_PARTICIPANT_ENUM_USB
+ESIF_PARTICIPANT_ENUM_SYSFS
+bad allocation
+bad function call
+regex_error(error_collate): The expression contained an invalid collating element name.
+regex_error(error_ctype): The expression contained an invalid character class name.
+regex_error(error_escape): The expression contained an invalid escaped character, or a trailing escape.
+regex_error(error_backref): The expression contained an invalid back reference.
+regex_error(error_brack): The expression contained mismatched [ and ].
+regex_error(error_paren): The expression contained mismatched ( and ).
+regex_error(error_brace): The expression contained mismatched { and }.
+regex_error(error_badbrace): The expression contained an invalid range in a { expression }.
+regex_error(error_range): The expression contained an invalid character range, such as [b-a] in most encodings.
+regex_error(error_space): There was insufficient memory to convert the expression into a finite state machine.
+regex_error(error_badrepeat): One of *?+{ was not preceded by a valid regular expression.
+regex_error(error_complexity): The complexity of an attempted match against a regular expression exceeded a pre-set level.
+regex_error(error_stack): There was insufficient memory to determine whether the regular expression could match the specified character sequence.
+regex_error(error_parse)
+regex_error(error_syntax)
+regex_error
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+cross device link
+destination address required
+device or resource busy
+directory not empty
+executable format error
+file exists
+file too large
+filename too long
+function not supported
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+interrupted
+invalid argument
+invalid seek
+io error
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no lock available
+no message available
+no message
+no protocol option
+no space on device
+no stream resources
+no such device or address
+no such device
+no such file or directory
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not enough memory
+not supported
+operation canceled
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+permission denied
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+resource unavailable try again
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many files open
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+unknown error
+0123456789-+Ee
+0123456789ABCDEFabcdef-+Xx
+0123456789ABCDEFabcdef-+XxPp
+:Sun:Sunday:Mon:Monday:Tue:Tuesday:Wed:Wednesday:Thu:Thursday:Fri:Friday:Sat:Saturday
+:Jan:January:Feb:February:Mar:March:Apr:April:May:May:Jun:June:Jul:July:Aug:August:Sep:September:Oct:October:Nov:November:Dec:December
+%b %d %H : %M : %S %Y
+%m / %d / %y
+:AM:am:PM:pm
+%I : %M : %S %p
+%H : %M
+%H : %M : %S
+%d / %m / %y
+0123456789-
+%.0Lf
+0123456789-
+0123456789-
+0123456789-+Ee
+0123456789ABCDEFabcdef-+Xx
+0123456789-
+0123456789-+Ee
+0123456789ABCDEFabcdef-+Xx
+0123456789ABCDEFabcdef-+XxPp
+0123456789ABCDEFabcdef-+XxPp
++v$x+v$xv$+xv+$xv$+x+$vx+$vx$v+x+$vx$+vx+v $+v $v $+v +$v $++$ v+$ v$ v++$ v$+ v+xv$+ v$v$ +v+ $v$ ++x$v+ $v$v ++ $v$ +v
+raB3G
+0123456789-
+0123456789-
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefghijklmnopqrstuvwxyz
+bad exception
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__swift_1
+__swift_2
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`RTTI
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+operator co_await
+operator<=>
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+`anonymous namespace'
+template-parameter-
+`template-parameter-
+generic-type-
+`generic-type-
+`non-type-template-parameter
+`template-type-parameter-
+`generic-class-parameter-
+`generic-method-parameter-
+`template-parameter
+`vtordispex{
+`vtordisp{
+`adjustor{
+`local static destructor helper'
+`template static data member constructor helper'
+`template static data member destructor helper'
+static 
+virtual 
+private: 
+protected: 
+public: 
+[thunk]:
+extern "C" 
+char 
+short 
+long 
+unsigned 
+void 
+volatile 
+volatile
+std::nullptr_t 
+std::nullptr_t
+<ellipsis>
+,<ellipsis>
+ noexcept
+short
+float
+double
+__int8
+__int16
+__int32
+__int64
+__int128
+<unknown>
+char8_t
+char16_t
+char32_t
+wchar_t
+__w64 
+UNKNOWN
+signed 
+const
+ volatile
+`unknown ecsu'
+union 
+struct 
+class 
+coclass 
+cointerface 
+enum 
+const 
+cli::array<
+cli::pin_ptr<
+{flat}
+{for 
+(null)
+[aOni*{
+eLK(w
+~ $s%r
+@b;zO]
+iu+-,
+obwQ4
+v2!L.2
+^<V7w
+INITY
+inity
+INITY
+inity
+SNAN)
+snan)
+IND)ind)S
+SNAN)
+snan)
+IND)ind)
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+INITY
+inity
+SNAN)
+snan)
+IND)ind)
+UUUUUU
+UUUUUU
+"e?<<<<<<l?
+`+!]?
+b?^Cy
+j?V()
+Il?333333c?
+.i?0@I
+d?000000`?
+\$gm?
+)|B?d!
+n]?iJ
+L?UUUUUUU?
+WaNd?
+j?{$*
+&?PPPPPPP?
+0X8b?~
+%GoU?*
+(T?j?Y
+$Ib?s
+..om?
+Zod(^?
+D W?{W
+N3`d?
+qS>g?h3
+?R0I?
+8ke?;
+c?FA@s}
+UUUUUU
+UUUUUU
+UUUUUU
+?UUUUUU
+TUUUU
+?7{KV
+?+>^m
+?kxG2)
+?TY,>5
+?!5WOo
+?E=$% B
+?49HoKC
+CorExitProcess
+NAN(SNAN)
+nan(snan)
+NAN(IND)
+nan(ind)
+e+000
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+April
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+AreFileApisANSI
+CompareStringEx
+EnumSystemLocalesEx
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+GetActiveWindow
+GetDateFormatEx
+GetEnabledXStateFeatures
+GetLastActivePopup
+GetLocaleInfoEx
+GetProcessWindowStation
+GetSystemTimePreciseAsFileTime
+GetTimeFormatEx
+GetUserDefaultLocaleName
+GetUserObjectInformationW
+GetXStateFeaturesMask
+InitializeCriticalSectionEx
+IsValidLocaleName
+LCMapStringEx
+LCIDToLocaleName
+LocaleNameToLCID
+LocateXStateFeature
+MessageBoxA
+MessageBoxW
+RoInitialize
+RoUninitialize
+AppPolicyGetProcessTerminationMethod
+AppPolicyGetThreadInitializationType
+AppPolicyGetShowDeveloperDiagnostic
+AppPolicyGetWindowingModel
+SetThreadStackGuarantee
+SystemFunction036
+log10
+atan2
+floor
+ldexp
+_cabs
+_hypot
+frexp
+_logb
+_nextafter
+UTF-8
+UTF-16LEUNICODE
+fJBGo
+A03>A|
+Q5rHg,>
+<>#n2
+c0&>`
+j>>A?1
+.>PJ;I:qE>
+:>t6k'
+])6M>&
+CWD>~3
+_oD>Kg
+AK>(v
+-BH>t
+CL:>8
+E>nEA
+N>O=I9
+F>qUxv
+/2GG>!B
+Z\>z8
+OF>;^
+]>)2X
+zY;>u:m
+P>q_Y~
+0><[cZUg^>
+v}`[>
+oI>O7
+^RfN>
+Y>kX>M
+,HR>O
+A>l$/
+H[><y5
+h>1my
+[*ncd>0
+ C>TQ
+S>$hkDh$h>[2
+UA>N0Wl
+9>powf
+?{Q}<
+?8bunz8
+?@En[vP
+?:kP<
+?UUUUUU
+?f`Y4
+?QY^&
+?7zQ6$
+1#INF
+1#QNAN
+1#SNAN
+1#IND
+UUUUUU
+UUUUUU
+TUUUU
+=imb;D
+/>58d%
+!>6'Y
+>jtm}S
+)>6{1n
+Vr.>T
++f)>0'
+Lj[;>
+3>fvw
+;H9>&X
+*StO9>T
+n03>Pu
+K~Je#>!
++M<7>
+c(>\,
+bp(=>?g
+BC?>6t9^
+BF>^G
+K&>.yC
+ 'L>[
+.xJ>Hf
+y\PD>!
+|b=})>
+c [1>H'
+uzKs@>
+3>N;kU
+kE>fvw
+A>pP&
+V6E>`"(5
+0iN>/
++h->|
+@>%>b
+>logf
+log10f
+C:\jenkins\workspace\dptf\Src\DPTF\Windows\Solution\Tools\dptftcs\Build\x64\Release\dptftcs.pdb
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCC
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.gfids
+.rdata
+.rdata$r
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata
+.xdata$x
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.pdata
+_RDATA
+.rsrc$01
+.rsrc$02
+p08N`
+$(&0$
+2((*.(
+2,(..,
+20(2.0
+24(6.4
+28(:.8
+2<(>.<
+2@(B.@
+2D(F.D
+2H(J.H
+2L(N.L
+2P(R.P
+2T(V.T
+2X(Z.X
+2\"^.\
+2`"b.`
+x t"x$8&5
+x t"x$t&x(t*x,t.x0t2x4t6x8t:x<t>x@tBxDtF8HM
+x t"8$%
+x t"x$t&x(8*
+x t"x$t&x(t*x,t.x0t2x4t6x8t:x<t>x@tBxDtFxHtJxLtN
+  "z'
+&j(j*t.q
+Nv8pPv8pRv8pTv8.V|8bX
+^n`nbzfnj
+&n(6&N$d*^$
+p08N`
+p08N`
+p08~`
+P8@HP
+"\$"&f$m
+" $<"
+ (08@
+dptftcs.dll
+??0DptfTcsEsifServicesInterface@@QEAA@AEBV0@@Z
+??0DptfTcsEsifServicesInterface@@QEAA@XZ
+??1DptfTcsEsifServicesInterface@@UEAA@XZ
+??4DptfTcsEsifServicesInterface@@QEAAAEAV0@AEBV0@@Z
+??_7DptfTcsEsifServicesInterface@@6B@
+GetApplicationInterfaceV2
+CloseHandle
+ReleaseMutex
+WaitForSingleObject
+CreateMutexA
+ReleaseSemaphore
+CreateSemaphoreA
+CreateThread
+GetCurrentThreadId
+QueryPerformanceCounter
+QueryPerformanceFrequency
+DuplicateHandle
+InitializeSRWLock
+ReleaseSRWLockExclusive
+AcquireSRWLockExclusive
+SetEvent
+ResetEvent
+CreateEventA
+Sleep
+GetCurrentProcess
+RegCloseKey
+RegOpenKeyExA
+RegQueryValueExA
+RegGetValueA
+GetFileAttributesA
+WaitForMultipleObjects
+RegNotifyChangeKeyValue
+GetSystemTime
+EventRegister
+EventUnregister
+EventWriteTransfer
+KERNEL32.dll
+ADVAPI32.dll
+FormatMessageA
+WideCharToMultiByte
+EnterCriticalSection
+LeaveCriticalSection
+InitializeCriticalSectionEx
+DeleteCriticalSection
+LocalFree
+EncodePointer
+DecodePointer
+MultiByteToWideChar
+LCMapStringEx
+GetLocaleInfoEx
+GetStringTypeW
+CompareStringEx
+GetCPInfo
+__C_specific_handler
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetStartupInfoW
+IsProcessorFeaturePresent
+GetModuleHandleW
+TerminateProcess
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+InitializeSListHead
+RtlPcToFileHeader
+RaiseException
+RtlUnwindEx
+InterlockedPushEntrySList
+InterlockedFlushSList
+GetLastError
+SetLastError
+FlsAlloc
+FlsGetValue
+FlsSetValue
+FlsFree
+ExitProcess
+FreeLibrary
+GetModuleHandleExW
+GetProcAddress
+GetModuleFileNameW
+GetCurrentThread
+HeapFree
+HeapAlloc
+GetStdHandle
+GetFileType
+GetTimeZoneInformation
+InitializeCriticalSectionAndSpinCount
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+LoadLibraryExW
+GetDateFormatW
+GetTimeFormatW
+CompareStringW
+LCMapStringW
+GetLocaleInfoW
+IsValidLocale
+GetUserDefaultLCID
+EnumSystemLocalesW
+FlushFileBuffers
+WriteFile
+GetConsoleOutputCP
+GetConsoleMode
+DeleteFileW
+RemoveDirectoryW
+HeapReAlloc
+SetConsoleCtrlHandler
+FindClose
+FindFirstFileExW
+FindNextFileW
+IsValidCodePage
+GetACP
+GetOEMCP
+GetCommandLineA
+GetCommandLineW
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+SetEnvironmentVariableW
+GetProcessHeap
+GetFileSizeEx
+SetFilePointerEx
+SetStdHandle
+CreateFileW
+ReadFile
+ReadConsoleW
+HeapSize
+SetEndOfFile
+WriteConsoleW
+OutputDebugStringW
+RtlUnwind
+sdk-version
+1.0.11700
+sctfpi
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVbad_array_new_length@std@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVruntime_error@std@@
+.?AVsystem_error@std@@
+.?AV_System_error@std@@
+.?AVbad_cast@std@@
+.?AVfailure@ios_base@std@@
+.?AVdptftcs_exception@@
+.?AVlogic_error@std@@
+.?AVios_base@std@@
+.?AV?$_Iosb@H@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AVerror_category@std@@
+.?AV_Iostream_error_category2@std@@
+.?AV_Facet_base@std@@
+.?AVfacet@locale@std@@
+.?AU_Crt_new_delete@std@@
+.?AUctype_base@std@@
+.?AV?$ctype@D@std@@
+.?AVdptftcs_out_of_range@@
+.?AVinvalid_data@@
+.?AVDptfTcsBufferStream@@
+.?AVDptfTcsEsifServicesInterface@@
+.?AVWorkItemInterface@@
+.?AVDeferredWorkItem@@
+.?AV_Ref_count_base@std@@
+.?AVWorkItemQueueInterface@@
+.?AVDeferredWorkItemQueue@@
+.?AV?$_Ref_count_obj2@VImmediateWorkItem@@@std@@
+.?AVDptfTcsMessage@@
+.?AVDptfTcsManagerMessage@@
+.?AVDomainWorkItem@@
+.?AVParticipantWorkItem@@
+.?AVWorkItem@@
+.?AVduplicate_work_item@@
+.?AV?$_Ref_count_obj2@VWIParticipantAllocate@@@std@@
+.?AV?$_Ref_count_obj2@VWIParticipantCreate@@@std@@
+.?AV?$_Ref_count_obj2@VWIParticipantDestroy@@@std@@
+.?AV?$_Ref_count_obj2@VWIDomainAllocate@@@std@@
+.?AV?$_Ref_count_obj2@VWIDomainCreate@@@std@@
+.?AV?$_Ref_count_obj2@VWIDomainDestroy@@@std@@
+.?AV?$_Ref_count_obj2@VWIPolicyOperatingSystemBatteryPercentageChanged@@@std@@
+.?AV?$_Ref_count_obj2@VWIPolicyOperatingSystemDockModeChanged@@@std@@
+.?AV?$_Ref_count_obj2@VWIPolicyOperatingSystemLidStateChanged@@@std@@
+.?AV?$_Ref_count_obj2@VWIPolicyOperatingSystemMixedRealityModeChanged@@@std@@
+.?AV?$_Ref_count_obj2@VWIPolicyOperatingSystemPlatformTypeChanged@@@std@@
+.?AV?$_Ref_count_obj2@VWIPolicyOperatingSystemPowerSchemePersonalityChanged@@@std@@
+.?AV?$_Ref_count_obj2@VWIPolicyOperatingSystemPowerSliderChanged@@@std@@
+.?AV?$_Ref_count_obj2@VWIPolicyOperatingSystemPowerSourceChanged@@@std@@
+.?AV?$_Ref_count_obj2@VWIPolicyOperatingSystemScreenStateChanged@@@std@@
+.?AV?$_Ref_count_obj2@VWIPolicyOperatingSystemSessionStateChanged@@@std@@
+.?AV?$_Ref_count_obj2@VWIPolicyOperatingSystemUserPresenceChanged@@@std@@
+.?AV?$_Ref_count_obj2@VWIPolicyPlatformUserPresenceChanged@@@std@@
+.?AV?$_Ref_count_obj2@VWIPolicySensorUserPresenceChanged@@@std@@
+.?AV?$_Ref_count_obj2@VWIPolicySensorMotionChanged@@@std@@
+.?AV?$_Ref_count_obj2@VWIDomainTemperatureThresholdCrossed@@@std@@
+.?AV?$_Ref_count_obj2@VWIDomainSocWorkloadClassificationChanged@@@std@@
+.?AV?$_Ref_count_obj2@VWIDomainEppSensitivityHintChanged@@@std@@
+.?AV?$_Ref_count_obj2@VWIDomainHardwareSocWorkloadClassificationChanged@@@std@@
+.?AVDptfTcsEsifAppServicesInterface@@
+.?AVDptfTcsEsifAppServices@@
+.?AVprimitive_try_again@@
+.?AVprimitive_not_found_in_dsp@@
+.?AVprimitive_destination_unavailable@@
+.?AVfile_open_create_failure@@
+.?AVacpi_object_not_found@@
+.?AVunsupported_result_temp_type@@
+.?AVprimitive_execution_failed@@
+.?AVDptfTcsEsifServices@@
+.?AVinvalid_data_type@@
+.?AVtemperature_out_of_range@@
+.?AVmemory_allocation_failure@@
+.?AVbuffer_too_small@@
+.?AVnot_implemented@@
+.?AVparticipant_not_enabled@@
+.?AVdomain_not_enabled@@
+.?AVdomain_control_nullptr@@
+.?AVpolicy_not_in_idsp_list@@
+.?AVparticipant_index_invalid@@
+.?AVcommand_failure@@
+.?AVimplement_me@@
+.?AV?$num_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$numpunct@D@std@@
+.?AVImmediateWorkItem@@
+.?AVImmediateWorkItemQueue@@
+.?AVIndexContainerInterface@@
+.?AVIndexContainer@@
+.?AVDptfTcsLogMessage@@
+.?AVOemVariables@@
+.?AVParticipant@@
+.?AV?$_Ref_count_obj2@VDomain@@@std@@
+.?AVParticipantManagerInterface@@
+.?AVParticipantManager@@
+.?AV?$_Ref_count_obj2@VParticipant@@@std@@
+.?AVDataCollectorInterface@@
+.?AVStaticDataCollector@@
+.?AV?$_Ref_count_obj2@VWICollectorInitiatedCallback@@@std@@
+.?AVPollingDataCollector@@
+.?AVEventDataCollector@@
+.?AVDptfTcsTelemetryLoggingServicesInterface@@
+.?AVDptfTcsTelemetryLoggingServices@@
+.?AVDataInterface@@
+.?AVVersionData@@
+.?AVEventData@@
+.?AVParticipantData@@
+.?AVPlatformData@@
+.?AVPolicyData@@
+.?AVDptfTcsManagerInterface@@
+.?AVDptfTcsManager@@
+.?AVWICollectorInitiatedCallback@@
+.?AVWIDomainAllocate@@
+.?AVWIDomainCreate@@
+.?AVWIDomainDestroy@@
+.?AVWIDomainEppSensitivityHintChanged@@
+.?AVWIDomainHardwareSocWorkloadClassificationChanged@@
+.?AVWIDomainSocWorkloadClassificationChanged@@
+.?AVWIDomainTemperatureThresholdCrossed@@
+.?AVWIParticipantAllocate@@
+.?AVWIParticipantCreate@@
+.?AVWIParticipantDestroy@@
+.?AVWIPolicyOperatingSystemBatteryPercentageChanged@@
+.?AVWIPolicyOperatingSystemDockModeChanged@@
+.?AVWIPolicyOperatingSystemLidStateChanged@@
+.?AVWIPolicyOperatingSystemMixedRealityModeChanged@@
+.?AVWIPolicyOperatingSystemPlatformTypeChanged@@
+.?AVWIPolicyOperatingSystemPowerSchemePersonalityChanged@@
+.?AVWIPolicyOperatingSystemPowerSliderChanged@@
+.?AVWIPolicyOperatingSystemPowerSourceChanged@@
+.?AVWIPolicyOperatingSystemScreenStateChanged@@
+.?AVWIPolicyOperatingSystemSessionStateChanged@@
+.?AVWIPolicyOperatingSystemUserPresenceChanged@@
+.?AVWIPolicyPlatformUserPresenceChanged@@
+.?AVWIPolicySensorMotionChanged@@
+.?AVWIPolicySensorUserPresenceChanged@@
+.?AVWorkItemQueueManagerInterface@@
+.?AVWorkItemQueueManager@@
+.?AV?$_Ref_count_obj2@VDeferredWorkItem@@@std@@
+.?AVXmlNode@@
+.?AV?$_Ref_count_obj2@VXmlNode@@@std@@
+.?AVinvalid_argument@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVoverflow_error@std@@
+.?AVbad_function_call@std@@
+.?AVregex_error@std@@
+.?AV_Locimp@locale@std@@
+.?AVcodecvt_base@std@@
+.?AV?$num_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$codecvt@DDU_Mbstatet@@@std@@
+.?AV?$codecvt@_WDU_Mbstatet@@@std@@
+.?AV?$codecvt@GDU_Mbstatet@@@std@@
+.?AV?$ctype@_W@std@@
+.?AV?$ctype@G@std@@
+.?AUmessages_base@std@@
+.?AUmoney_base@std@@
+.?AUtime_base@std@@
+.?AV?$num_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$num_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$numpunct@_W@std@@
+.?AV?$collate@_W@std@@
+.?AV?$messages@_W@std@@
+.?AV?$money_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$money_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$moneypunct@_W$0A@@std@@
+.?AV?$_Mpunct@_W@std@@
+.?AV?$moneypunct@_W$00@std@@
+.?AV?$time_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$time_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$num_get@GV?$istreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$num_put@GV?$ostreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$numpunct@G@std@@
+.?AV?$collate@G@std@@
+.?AV?$messages@G@std@@
+.?AV?$money_get@GV?$istreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$money_put@GV?$ostreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$moneypunct@G$0A@@std@@
+.?AV?$_Mpunct@G@std@@
+.?AV?$moneypunct@G$00@std@@
+.?AV?$time_get@GV?$istreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$time_put@GV?$ostreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$collate@D@std@@
+.?AV?$messages@D@std@@
+.?AV?$money_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$money_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$moneypunct@D$0A@@std@@
+.?AV?$_Mpunct@D@std@@
+.?AV?$moneypunct@D$00@std@@
+.?AV?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$time_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVpairNode@@
+SAMPLE_IDENTIFIER{5ce256cb-a826-4703-9b24-ad2d556ad23b}
+CRIMp
+PRVA<
+LEVL8
+KEYW0
+WEVTP
+CHAN8
+PRVA$
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+j0h03
+Greater Manchester1
+Salford1
+Comodo CA Limited1!0
+AAA Certificate Services0
+210525000000Z
+281231235959Z0V1
+Sectigo Limited1-0+
+$Sectigo Public Code Signing Root R460
+tFkG5
+E>nZ_
+H/(@Bp 6
+<0:08
+2http://crl.comodoca.com/AAACertificateServices.crl04
+(0&0$
+http://ocsp.comodoca.com0
+L=l9s
+Lf}/c
+Sectigo Limited1+0)
+"Sectigo Public Code Signing CA R360
+240306000000Z
+250306235959Z0Z1
+California1
+Intel Corporation1
+Intel Corporation0
+E0~);
+C0A05
+https://sectigo.com/CPS0
+B0@0>
+8http://crl.sectigo.com/SectigoPublicCodeSigningCAR36.crl0y
+m0k0D
+8http://crt.sectigo.com/SectigoPublicCodeSigningCAR36.crt0#
+http://ocsp.sectigo.com0#
+pkiengineering@intel.com0
+" aI9
+L;k8}!
+Sectigo Limited1-0+
+$Sectigo Public Code Signing Root R460
+210322000000Z
+360321235959Z0T1
+Sectigo Limited1+0)
+"Sectigo Public Code Signing CA R360
+FFlCx@
+^5hu9
+H/(@Bp 6
+D0B0@
+:http://crl.sectigo.com/SectigoPublicCodeSigningRootR46.crl0{
+o0m0F
+:http://crt.sectigo.com/SectigoPublicCodeSigningRootR46.p7c0#
+http://ocsp.sectigo.com0
+wc6n{
+ts7!:o
+n0PPd}
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Code Verification Root0
+150722210349Z
+250722210349Z0
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+%&k3m
+]:l5\
+N0L0J
+Dhttp://crl.microsoft.com/pki/crl/products/MicrosoftCodeVerifRoot.crl0
+<=9Tqdk
+Vs5sE
+0i0T1
+Sectigo Limited1+0)
+"Sectigo Public Code Signing CA R36
+;WSU,vFs
+Wh8}&un
+20240524062958Z
+Manchester1
+Sectigo Limited1,0*
+#Sectigo RSA Time Stamping Signer #4
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA0
+230503000000Z
+340802235959Z0j1
+Manchester1
+Sectigo Limited1,0*
+#Sectigo RSA Time Stamping Signer #40
+ r dAl
+C0A05
+https://sectigo.com/CPS0
+=0;09
+3http://crl.sectigo.com/SectigoRSATimeStampingCA.crl0t
+h0f0?
+3http://crt.sectigo.com/SectigoRSATimeStampingCA.crt0#
+http://ocsp.sectigo.com0
+O_(ql
+&tv\7
+OYDeKCd
+gg$\P
+v}{hO
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+190502000000Z
+380118235959Z0}1
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA0
+]IMrV
+I0G0E
+?http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
+j0h0?
+3http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+http://ocsp.usertrust.com0
+rRj;B7|
+oZ%pb
+[C]e=P
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA
+240524062958Z0?
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+230914191423Z
+240904191423Z0
+Washington1
+Redmond1
+Microsoft Corporation1;09
+2Microsoft Windows Hardware Compatibility Publisher0
+'V:VAP
+Microsoft Corporation1
+232825+5014930
+m0k0i
+chttp://www.microsoft.com/pkiops/crl/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crl0
+u0s0q
+ehttp://www.microsoft.com/pkiops/certs/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crt0
+ItEPxe
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+120418234838Z
+270418235838Z0
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+-g<'<V
+}PH.=C
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+ip(sf
+p%|Yi1$
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 2012
+9vD\n
+(https://www.microsoft.com/en-us/windows 0
+20240524220851.999Z0
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:179E-4BB0-82461%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+231012190719Z
+250110190719Z0
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:179E-4BB0-82461%0#
+Microsoft Time-Stamp Service0
+X0V0T
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+`0^0\
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+&Ja[6
+F#1gz
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+q\Q17
+&S|9a
+!]_0t
+U0S0Q
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>NGdx
+fg:SM
+xSu$W
+as.,k{n?,
+J>f;O
+!TkjE
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:179E-4BB0-82461%0#
+Microsoft Time-Stamp Service
+63%N_!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20240524205708Z
+20240525205708Z0w0=
+1/0-0
+1(0&0
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+a<kf2
+*P-Lp$'L
+
+### UTF16 strings (564)
+:Sun:Sunday:Mon:Monday:Tue:Tuesday:Wed:Wednesday:Thu:Thursday:Fri:Friday:Sat:Saturday
+:Jan:January:Feb:February:Mar:March:Apr:April:May:May:Jun:June:Jul:July:Aug:August:Sep:September:Oct:October:Nov:November:Dec:December
+:AM:am:PM:pm
+(null)
+minkernel\crts\ucrt\inc\corecrt_internal_strtox.h
+__crt_strtox::floating_point_value::as_double
+_is_double
+__crt_strtox::floating_point_value::as_float
+!_is_double
+INITY
+inity
+INITY
+inity
+SNAN)
+snan)
+IND)ind)
+SNAN)
+snan)
+IND)ind)
+         (((((                  H
+         (((((                  H
+      (                          
+INITY
+inity
+SNAN)
+snan)
+IND)ind)
+am/pm
+mscoree.dll
+LC_ALL
+LC_COLLATE
+LC_CTYPE
+LC_MONETARY
+LC_NUMERIC
+LC_TIME
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+April
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+en-US
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-file-l1-2-2
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-synch-l1-2-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+advapi32
+kernel32
+ntdll
+api-ms-win-appmodel-runtime-l1-1-2
+user32
+api-ms-
+ext-ms-
+UTF-8
+UTF-16LEUNICODE
+ja-JP
+zh-CN
+ko-KR
+zh-TW
+american
+american english
+american-english
+australian
+belgian
+canadian
+chinese
+chinese-hongkong
+chinese-simplified
+chinese-singapore
+chinese-traditional
+dutch-belgian
+english-american
+english-aus
+english-belize
+english-can
+english-caribbean
+english-ire
+english-jamaica
+english-nz
+english-south africa
+english-trinidad y tobago
+english-uk
+english-us
+english-usa
+french-belgian
+french-canadian
+french-luxembourg
+french-swiss
+german-austrian
+german-lichtenstein
+german-luxembourg
+german-swiss
+irish-english
+italian-swiss
+norwegian
+norwegian-bokmal
+norwegian-nynorsk
+portuguese-brazilian
+spanish-argentina
+spanish-bolivia
+spanish-chile
+spanish-colombia
+spanish-costa rica
+spanish-dominican republic
+spanish-ecuador
+spanish-el salvador
+spanish-guatemala
+spanish-honduras
+spanish-mexican
+spanish-modern
+spanish-nicaragua
+spanish-panama
+spanish-paraguay
+spanish-peru
+spanish-puerto rico
+spanish-uruguay
+spanish-venezuela
+swedish-finland
+swiss
+america
+britain
+china
+czech
+england
+great britain
+holland
+hong-kong
+new-zealand
+pr china
+pr-china
+puerto-rico
+slovak
+south africa
+south korea
+south-africa
+south-korea
+trinidad & tobago
+united-kingdom
+united-states
+utf-8
+zh-CHS
+ar-SA
+bg-BG
+ca-ES
+cs-CZ
+da-DK
+de-DE
+el-GR
+fi-FI
+fr-FR
+he-IL
+hu-HU
+is-IS
+it-IT
+nl-NL
+nb-NO
+pl-PL
+pt-BR
+ro-RO
+ru-RU
+hr-HR
+sk-SK
+sq-AL
+sv-SE
+th-TH
+tr-TR
+ur-PK
+id-ID
+uk-UA
+be-BY
+sl-SI
+et-EE
+lv-LV
+lt-LT
+fa-IR
+vi-VN
+hy-AM
+az-AZ-Latn
+eu-ES
+mk-MK
+tn-ZA
+xh-ZA
+zu-ZA
+af-ZA
+ka-GE
+fo-FO
+hi-IN
+mt-MT
+se-NO
+ms-MY
+kk-KZ
+ky-KG
+sw-KE
+uz-UZ-Latn
+tt-RU
+bn-IN
+pa-IN
+gu-IN
+ta-IN
+te-IN
+kn-IN
+ml-IN
+mr-IN
+sa-IN
+mn-MN
+cy-GB
+gl-ES
+kok-IN
+syr-SY
+div-MV
+quz-BO
+ns-ZA
+mi-NZ
+ar-IQ
+de-CH
+en-GB
+es-MX
+fr-BE
+it-CH
+nl-BE
+nn-NO
+pt-PT
+sr-SP-Latn
+sv-FI
+az-AZ-Cyrl
+se-SE
+ms-BN
+uz-UZ-Cyrl
+quz-EC
+ar-EG
+zh-HK
+de-AT
+en-AU
+es-ES
+fr-CA
+sr-SP-Cyrl
+se-FI
+quz-PE
+ar-LY
+zh-SG
+de-LU
+en-CA
+es-GT
+fr-CH
+hr-BA
+smj-NO
+ar-DZ
+zh-MO
+de-LI
+en-NZ
+es-CR
+fr-LU
+bs-BA-Latn
+smj-SE
+ar-MA
+en-IE
+es-PA
+fr-MC
+sr-BA-Latn
+sma-NO
+ar-TN
+en-ZA
+es-DO
+sr-BA-Cyrl
+sma-SE
+ar-OM
+en-JM
+es-VE
+sms-FI
+ar-YE
+en-CB
+es-CO
+smn-FI
+ar-SY
+en-BZ
+es-PE
+ar-JO
+en-TT
+es-AR
+ar-LB
+en-ZW
+es-EC
+ar-KW
+en-PH
+es-CL
+ar-AE
+es-UY
+ar-BH
+es-PY
+ar-QA
+es-BO
+es-SV
+es-HN
+es-NI
+es-PR
+zh-CHT
+af-za
+ar-ae
+ar-bh
+ar-dz
+ar-eg
+ar-iq
+ar-jo
+ar-kw
+ar-lb
+ar-ly
+ar-ma
+ar-om
+ar-qa
+ar-sa
+ar-sy
+ar-tn
+ar-ye
+az-az-cyrl
+az-az-latn
+be-by
+bg-bg
+bn-in
+bs-ba-latn
+ca-es
+cs-cz
+cy-gb
+da-dk
+de-at
+de-ch
+de-de
+de-li
+de-lu
+div-mv
+el-gr
+en-au
+en-bz
+en-ca
+en-cb
+en-gb
+en-ie
+en-jm
+en-nz
+en-ph
+en-tt
+en-us
+en-za
+en-zw
+es-ar
+es-bo
+es-cl
+es-co
+es-cr
+es-do
+es-ec
+es-es
+es-gt
+es-hn
+es-mx
+es-ni
+es-pa
+es-pe
+es-pr
+es-py
+es-sv
+es-uy
+es-ve
+et-ee
+eu-es
+fa-ir
+fi-fi
+fo-fo
+fr-be
+fr-ca
+fr-ch
+fr-fr
+fr-lu
+fr-mc
+gl-es
+gu-in
+he-il
+hi-in
+hr-ba
+hr-hr
+hu-hu
+hy-am
+id-id
+is-is
+it-ch
+it-it
+ja-jp
+ka-ge
+kk-kz
+kn-in
+kok-in
+ko-kr
+ky-kg
+lt-lt
+lv-lv
+mi-nz
+mk-mk
+ml-in
+mn-mn
+mr-in
+ms-bn
+ms-my
+mt-mt
+nb-no
+nl-be
+nl-nl
+nn-no
+ns-za
+pa-in
+pl-pl
+pt-br
+pt-pt
+quz-bo
+quz-ec
+quz-pe
+ro-ro
+ru-ru
+sa-in
+se-fi
+se-no
+se-se
+sk-sk
+sl-si
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sq-al
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+sv-fi
+sv-se
+sw-ke
+syr-sy
+ta-in
+te-in
+th-th
+tn-za
+tr-tr
+tt-ru
+uk-ua
+ur-pk
+uz-uz-cyrl
+uz-uz-latn
+vi-vn
+xh-za
+zh-chs
+zh-cht
+zh-cn
+zh-hk
+zh-mo
+zh-sg
+zh-tw
+zu-za
+Runtime Error!
+Program: 
+<program name unknown>
+Microsoft Visual C++ Runtime Library
+CONOUT$
+RESNAME
+WEVT_TEMPLATE
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Intel Corporation
+FileDescription
+Intel(R) Dynamic Tuning Technology Telemetry Collection Service
+FileVersion
+9.0.11701.44281
+InternalName
+dptftcs.dll
+LegalCopyright
+Copyright (c) 2013-2024 Intel Corporation All Rights Reserved
+OriginalFilename
+dptftcs.dll
+ProductName
+Intel(R) Dynamic Tuning Technology
+ProductVersion
+9.0.11701.44281
+VarFileInfo
+Translation
+Log Always
+Critical
+Error
+Warning
+Information
+Application
+EventData
+Scope
+Version
+Scope
+Version
+EventData
+PolicyName
+PolicyName
+EventData
+Participant
+Property
+ParticipantBinaryLength
+ParticipantBinaryValue
+Participant
+Property
+ParticipantBinaryLength
+ParticipantBinaryValue
+EventData
+ParticipantName
+ParticipantDomainType
+Value
+ValueType
+ParticipantName
+ParticipantDomainType
+Value
+ValueType
+EventData
+ParticipantName
+Value
+ValueType
+Timestamp
+ParticipantName
+Value
+ValueType
+Timestamp
+DptfTcsEtwProvider
+win:LogAlways
+Default
+Application
+EventData
+Message
+Message
+DPTFTCS
+win:Critical
+win:Error
+win:Warning
+win:Informational
+<<<Obsolete>>
+"Intel Corporatio
+
+### GUIDs found (1)
+5ce256cb-a826-4703-9b24-ad2d556ad23b

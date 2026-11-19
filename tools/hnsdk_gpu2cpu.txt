@@ -1,0 +1,54 @@
+﻿180038303 lea     rcx, [rsp + 0x78]
+180038308 call    0x180055360
+180038310 lea     rdx, [rip + 0x71221]   >>> S:'HNSDK_SetGPUToCPUMaxPower'
+18003831a lea     rcx, [rsp + 0x48]
+18003831f mov     r8d, 0x19
+180038325 mov     rbx, qword ptr [rax]
+180038328 movups  xmmword ptr [rsp + 0x48], xmm0
+18003832d movdqu  xmmword ptr [rsp + 0x58], xmm1
+180038333 call    0x18000f410
+180038338 lea     rax, [rip + 0x71219]   >>> S:'SetGPUToCPU success!'
+18003833f mov     r9d, 2
+180038345 mov     qword ptr [rsp + 0x28], rax
+18003834a lea     rdx, [rsp + 0x48]
+18003834f mov     r8d, 0x1738
+180038355 mov     qword ptr [rsp + 0x20], 0
+18003835e mov     rcx, rbx
+180038361 call    0x180054ea0
+180038366 mov     rdx, qword ptr [rsp + 0x60]
+18003836b cmp     rdx, 0xf
+180038371 mov     rcx, qword ptr [rsp + 0x48]
+180038379 mov     rax, rcx
+18003837c cmp     rdx, 0x1000
+180038385 mov     rcx, qword ptr [rcx - 8]
+180038394 cmp     rax, 0x1f
+18003839a call    0x1800631e0
+18003839f mov     rdi, qword ptr [rsp + 0x80]
+1800383a7 test    rdi, rdi
+1800383aa je      0x1800383d8
+1800383ac mov     ebx, 0xffffffff
+1800383b1 mov     eax, ebx
+1800383b8 cmp     eax, 1
+1800383bb jne     0x1800383d8
+1800383bd mov     rax, qword ptr [rdi]
+1800383c0 mov     rcx, rdi
+1800383c3 call    qword ptr [rax]
+1800383ca cmp     ebx, 1
+1800383cd jne     0x1800383d8
+1800383cf mov     rax, qword ptr [rdi]
+1800383d2 mov     rcx, rdi
+1800383d5 call    qword ptr [rax + 8]
+1800383da jmp     0x1800382eb
+1800383df mov     eax, 1
+1800383ec call    0x18006a654
+1800383f2 call    0x18006a654
+180038400 mov     r11, rsp
+180038404 lea     rbp, [r11 - 0x118]
+180038412 mov     rax, qword ptr [rip + 0x88ca7]
+18003841c mov     qword ptr [rbp + 0x100], rax
+180038423 lea     eax, [rcx - 0x3c]
+180038426 cmp     eax, 0x37
+18003842f lea     eax, [rdx - 0x4b]
+180038432 cmp     eax, 0xc
+18003843b lea     eax, [r8 - 0x1e]
+18003843f cmp     eax, 0x82

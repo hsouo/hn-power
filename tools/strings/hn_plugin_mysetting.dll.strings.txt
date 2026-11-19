@@ -1,0 +1,4057 @@
+### ASCII strings (3385)
+!This program cannot be run in DOS mode.
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+UATAUAVAWH
+D$xE3
+)t$0L
+A_A^A]A\]
+@SUVAWH
+(A_^][
+(A_^][
+@SVAVAWH
+d$ E3
+8A_A^^[
+L$XH3
+L$8H3
+\$PH;
+T$PH;
+T$(H+
+D$ I+
+T$(H+
+@SVWH
+t$HH+
+@UVATAVAWH
+pA_A^A\^]
+\$hL+
+|$`L+
+D$@L;
+pA_A^A\^]
+L$hH;
+VWAVH
+ A^_^
+t$ WAVAWH
+ A_A^_
+\$ WH
+\$ WH
+@SVWH
+L$`H+
+l$ VWAVH
+0A^_^
+t$ E3
+@VAVAWH
+0A_A^^
+|$ E3
+0A_A^^
+L$PI;
+\$ E3
+@SVWH
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+WAVAWH
+A_A^_
+WAVAWH
+A_A^_
+WAVAWH
+A_A^_
+WAVAWH
+A_A^_
+fA98u/I
+@SVAVH
+0A^^[
+@SVAVAWH
+(A_A^^[
+@UWAVAWH
+8A_A^_]
+SUVAUH
+L$ H+
+HA]^][
+@UWATAVH
+|$ H;
+8A^A\_]
+L$ H;
+@UVWAWH
+d$hE3
+(A__^]
+@WATAVAWH
+8A_A^A\_
+@VWAUAVH
+\$pE3
+8A^A]_^
+@SVWAWH
+(A__^[
+\$ UVWH
+WAVAWH
+t:fff
+ A_A^_
+@SUWAVH
+(A^_][
+(A^_][
+UVWATAUAVAWH
+ A_A^A]A\_^]
+|$ UH
+|$ UAVAWH
+A_A^]
+L$ SUVWH
+8_^][
+L$HH3
+t$ WAVAWH
+@A_A^_
+\$ UVWH
+UWAVH
+G\$8H
+t$ E3
+t$ UH
+UVWATAUAVAWH
+L$XE3
+H;s u
+L$HE3
+A_A^A]A\_^]
+t$ UWAVH
+(D$0f
+UVWAVAWH
+pA_A^_^]
+|$ AVH
+\$0H;
+@SUVWAVH
+ A^_^][
+ A^_^][
+|$ UATAUAVAWH
+C@H;M
+C@H;U
+A_A^A]A\]
+t$ WAVAWH
+\$0E3
+3333333
+)D$ L
+A_A^_
+H;QhH
+BQhI+
+UVWAVAWH
+(D$@f
+A_A^_^]
+@SWAVH
+t$PH;
+ A^_[
+ A^_[
+I9Khs
+M9Chs
+t$ WAVAWH
+ A_A^_
+|$8H+
+H;yhH
+ByhI+
+APHc8I+
+\$ UVWAVAWH
+0A_A^_^]
+l$ WH
+(D$0H
+SVWATAUAVAWH
+PA_A^A]A\_^[
+l$ VWATH
+\$(E3
+@A\_^
+\$ UVWAVAWH
+D$0E3
+D$09P }
+)D$ L
+PA_A^_^]
+\$ UVWAVAWH
+u.H;C
+A_A^_^]
+L$8H3
+\$ UVWH
+L$8H3
+\$ UVWH
+\$ UVWH
+t$ WH
+L$8H3
+UVWAVAWH
+L$XE3
+A_A^_^]
+@SUVAWH
+(A_^][
+@SVAVAWH
+|$ H;
+(A_A^^[
+UVWAUH
+L$ H+
+HA]_^]
+@SVATAWH
+t$ H;
+8A_A\^[
+|$ UH
+@SUVH
+L$8H3
+(D$0f
+L$`H3
+|$ UAVAWH
+tuH+A
+u:H;H
+A_A^]
+t$ UWAVH
+(D$0f
+L$`H3
+l$ VAVAWH
+|$HH+
+ A_A^^
+(D$ H
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWAVAWH
+(D$ f
+(D$ f
+\$ I;
+0A_A^_^]
+@SUVWAVH
+ A^_^][
+ A^_^][
+ A^_^][
+@SUVWAVH
+D$0E3
+D$09P }
+)D$ H
+PA^_^][
+WATAUAVAWH
+0A_A^A]A\_
+@UVWH
+t$ E3
+@SVAVAWH
+d$ H;
+8A_A^^[
+@SUVATAVH
+ A^A\^][
+@UWAVH
+0A^_]
+t$ WH
+L$HH3
+t$ WH
+)t$0H
+(t$0H
+VWAVH
+0A^_^
+VWAVH
+0A^_^
+VWAVH
+0A^_^
+t$ UWAVH
+@USVWAVH
+`A^_^[]
+t$ UWAVH
+)t$PH
+(t$PI
+t$ UWAVH
+t$ UWAVH
+t$ UWAVH
+t$ UWAVH
+@SUVH
+SUVAWH
+HA_^][
+I9:u7A
+@SVWATAUAVAWH
+L$xH3
+A_A^A]A\_^[
+@UWATAVH
+(A^A\_]
+t$ WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+)t$0M
+(t$0H
+@A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+l$ VWATAVAWH
+ A_A^A\_^
+t$ WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+|$ AVH
+t$ WH
+L$0H3
+L$`H3
+t$ WAVAWH
+ A_A^_
+UAVAWH
+A_A^]
+UWATAVAWH
+D$XfD
+D$XfD
+D$XfD
+D$XfD
+A_A^A\_]
+WAVAWH
+GD$xH
+|$ E3
+A_A^_
+L$hE3
+GT$XH
+t$ WH
+|$ UAVAWH
+fD9<xu
+D$@fD
+D$`fD
+A_A^]
+|$ AVH
+|$097
+GT$xE3
+G\$xH
+WAVAWH
+L$XE3
+L$HE3
+A_A^_
+WAVAWH
+A_A^_
+WAVAWH
+A_A^_
+UWAVH
+L$HE3
+|$ UH
+L$PE3
+|$ UH
+L$PE3
+UWAVH
+|$ UH
+L$pE3
+|$ UH
+UVWATAUAVAWH
+L$`E3
+\$ E3
+A_A^A]A\_^]
+VWAVH
+L$@E3
+|$ UH
+VWAVH
+h VWAVH
+D$hfD
+t$ UWATAVAWH
+L$@E3
+~~L9e0
+)D$ L
+L$xE3
+~~L9e0
+)D$ L
+L$xE3
+~~L9e0
+)D$ L
+L$xE3
+~~L9e0
+)D$ L
+L$xE3
+~~L9e0
+)D$ L
+L$xE3
+~~L9e0
+)D$ L
+L$@E3
+)D$ L
+L$xE3
+u9fff
+~~L9e0
+)D$ L
+A_A^A\_]
+|$ UATAUAVAWH
+A_A^A]A\]
+\$ E3
+L$xE3
+\$ E3
+t$ WH
+WATAUAVAWH
+L$xE3
+H;{ u
+L$XH;
+D$pL;
+G\$XL
+G\$XD
+H;\$xu
+A_A^A]A\_
+L$0E3
+L$`E3
+L$0E3
+L$`E3
+|$ UH
+f94_u
+L$xH3
+L$hH3
+L$hH3
+s WATAUAVAWH
+A_A^A]A\_
+|$ AVH
+VWAVH
+|$ AVAWH
+l$ A_A^
+|$ AVL
+t$@I;
+|$(A^
+l$ VWAVH
+t$8H;
+L$@H3
+@USVWATAUAVAWH
+D8Ihu
+A_A^A]A\_^[]
+WATAUAVAWH
+0A_A^A]A\_
+L$HH3
+VWATAVAWH
+0A_A^A\_^
+UVWAVAWH
+D$0E3
+D$09P }
+)D$ L
+PA_A^_^]
+\$ UVWATAUAVAWH
+T$HE3
+\$HH;_
+D$XH;D$`t
+|$ E3
+D$pHcH
+D$pHcH
+t$XH;
+l$X L
+T$HH;S8
+D$pHcH
+D$pHcH
+A_A^A]A\_^]
+D$pHcH
+L$pHcQ
+\$ UVWATAUAVAWH
+T$HE3
+\$HH;_
+|$ E3
+D$pHcH
+D$pHcH
+t$XH;
+l$X L
+T$HH;S8
+D$pHcH
+D$pHcH
+A_A^A]A\_^]
+D$pHcH
+L$pHcQ
+\$ UVWATAUAVAWH
+T$HE3
+\$HH;_
+|$ E3
+D$pHcH
+D$pHcH
+t$XH;
+l$X L
+T$HH;S8
+D$pHcH
+D$pHcH
+A_A^A]A\_^]
+D$pHcH
+L$pHcQ
+\$ UVWATAUAVAWH
+T$HE3
+\$HH;_
+|$ E3
+D$pHcH
+D$pHcH
+t$XH;
+l$X L
+T$HH;S8
+D$pHcH
+D$pHcH
+A_A^A]A\_^]
+D$pHcH
+L$pHcQ
+\$ UVWATAUAVAWH
+T$HE3
+\$HH;_
+|$ E3
+D$pHcH
+D$pHcH
+t$XH;
+l$X L
+T$HH;S8
+D$pHcH
+D$pHcH
+A_A^A]A\_^]
+D$pHcH
+L$pHcQ
+\$ UVWATAUAVAWH
+H;k u
+L;g u
+@A_A^A]A\_^]
+@SAUH
+I#M0I
+L;K u@M
+L;c u
+\$ UVWAVAWH
+ A_A^_^]
+VWATAVAWH
+0A_A^A\_^
+UVWAVAWH
+D$PHcH
+D$PHcH
+D$PHcH
+D$PHcH
+A_A^_^]
+@UAUAVH
+H;s u
+0A^A]]
+0A^A]]
+SVWAVAWH
+0A_A^_^[
+GT$ H
+GT$ H
+UWAVH
+D$PHcH
+D$PHcH
+D$PHcH
+D$PHcH
+t$ UWAVH
+D$PHcH
+D$PHcH
+D$PHcH
+D$PHcH
+SVWATAUAVAWH
+0A_A^A]A\_^[
+t$ WH
+t$ UWAVH
+D$PHcH
+D$PHcH
+D$PHcH
+D$PHcH
+@VAUAVAWH
+(A_A^A]^
+|$ UH
+D$PHcH
+D$PHcH
+D$PHcH
+D$PHcH
+L$XD+L$PD
+T$\D+T$T
+D$lA+
+D$hA+
+L$pH3
+L$XD+L$P
+L$\+L$T+
+L$`H3
+L$XD+L$PD
+T$\D+T$T
+D$lA+
+D$hA+
+L$pH3
+|$ UH
+L$0E3
+t$ WH
+GT$(L
+T$`H;
+VWATAVAWH
+D$pE3
+l$hH;
+GL$PH
+T$`H;
+A_A^A\_^
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+GL$@H
+UWAVH
+L$HfD
+T$`H;
+kL$dd
+t$ WH
+D$0D9@ }
+vb'vb'v
+)D$ H
+@SVWH
+D$ L;
+T$ H;
+L$`H3
+T$0H;
+L$PH3
+|$ AVH
+L$(H3
+L$(H3
+|$ UATAUAVAWH
+GT$HL
+A_A^A]A\]
+UVWAVAWH
+L$8E3
+D$ E3
+A_A^_^]
+t$ UWAVH
+D$8H;
+GL$8H
+L9D$HL
+BD$HH
+GT$8H
+|$ AUAVAWH
+L$8E3
+T$`H;
+A_A^A]
+SWAWH
++|$|L
+|$ AVH
+|$ UAVAWH
+A_A^]
+|$ UAVAWH
+D$PE3
+fF9<@u
+GT$PH
+A_A^]
+|$ UAVAWH
+|$ E3
+|$ E3
+A_A^]
+t$ UWATAVAWH
+A_A^A\_]
+UWAVH
+UWAVH
+UWAVH
+t$ UWAVH
+GT$xH
+UWAVH
+|$ UAVAWH
+A_A^]
+(D$0f
+L$PH3
+|$ AVH
+T$`H;
+T$pH;
+L$pH3
+VWAVH
+T$pH;
+t$ WH
+L$xH3
+t$ WH
+L$xH3
+VWAVH
+T$pH;
+L$pH3
+T$ H;
+WAVAWH
+L$xH3
+A_A^_
+|$ ATAVAWH
+D$`@80t
+t$ E3
+A_A^A\
+t$ UWATAVAWH
+A_A^A\_]
+|$ AVH
+|$ AVH
+vcH9u
+vcH9}
+VWAVH
+T$`H;
+t$ WATAUAVAWH
+S@H;P
+A_A^A]A\_
+t$ WH
+T$0H;
+S@H;P
+t$ WH
+S@H;Q
+@SUVH
+S@H;P
+\$ UVWAVAWH
+T$(E3
+t$`fD
+S@H;Q
+L$pH3
+A_A^_^]
+UVWATAUAVAWH
+GT$xL
+GT$PH
+A_A^A]A\_^]
+\$ UVWH
+D$ E3
+T$@H;
+t$ WATAUAVAWH
+L$@E3
+t$4L9r 
+W LcG
+|$@I;
+A_A^A]A\_
+D$ E3
+D$ E3
+D$ E3
+|$ AVH
+L$pH3
+s WAVAWH
+A_A^_
+VWAVH
+D$ E3
+L$XH3
+VWATAVAWH
+A_A^A\_^
+WAVAWH
+0A_A^_
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+l$PD8
+E(I9}
+A_A^A]A\]
+|$ UAVAWH
+A_A^]
+L$XH3
+L$XH3
+GT$ H
+UVWATAUAVAWH
+A_A^A]A\_^]
+L$`H3
+|$ UH
+GT$PL
+L$`H3
+T$0H;
+L$XH3
+T$0H;
+WATAUAVAWH
+t$xH;
+A_A^A]A\_
+|$ UATAUAVAWH
+)D$ L
+d$8E3
+A_A^A]A\]
+L$xH3
+T$0H;
+T$ H;
+L$HE3
+x UAVAWH
+(D$0f
+GT$0I
+GT$0I
+GT$0I
+A_A^]
+L$PE3
+L$PE3
+|$ UH
+|$ UH
+|$ UH
+|$ UH
+|$ UATAUAVAWH
+A_A^A]A\]
+UWATAVAWH
+A_A^A\_]
+L$PE3
+L$`H3
+UWATAVAWH
+A_A^A\_]
+L$PE3
+L$`H3
+T$0H;
+UWATAVAWH
+A_A^A\_]
+L$PE3
+L$`H3
+|$ UH
+t$ WAVAWH
+L$`E3
+L$`E3
+D$xH;
+GL$xH
+GL$PH
+A_A^_
+UVWAVAWH
+A_A^_^]
+VWAUAVAWH
+\$ E3
+A_A^A]_^
+t$ UWAVH
+|$ UAVAWH
+GT$pH
+L$PE3
+GT$pI
+GT$pI
+GT$pI
+A_A^]
+UWAVH
+|$ UAVAWH
+D$HfD
+A_A^]
+L$pH3
+L$pH3
+t$ WH
+L$pH3
+|$ UAVAWH
+A_A^]
+t$ WH
+L$pH3
+L$hH3
+|$ UH
+L$PE3
+L$0E3
+L$0E3
+|$ UH
+|$ AVH
+T$`H;
+VWATAVAWH
+T$PH;
+A_A^A\_^
+t$0H;5
+\$ @2
+L$@H3
+UWATAVAWH
+A_A^A\_]
+|$ UAVAWH
+GT$ I
+GT$ I
+GT$ I
+A_A^]
+GL$xH
+GL$PH
+|$ AVH
+L$XE3
+D$xfD
+D$xfD
+D$xfD
+GT$hH
+GT$hH
+VWAVH
+L$hfD
+L$HfD
+GL$XH
+|$ UATAUAVAWH
+A_A^A]A\]
+UWAVH
+t$ WATAUAVAWH
+L$@E3
+t$4L9r 
+W LcG
+|$8I;
+A_A^A]A\_
+WATAUAVAWH
+uHH;C
+A_A^A]A\_
+~t$Xf
+~t$\H
+T$`H;
+T$ H;
+WATAUAVAWH
+L$hE3
+l$`E3
+t$XE3
+GD$@I
+t$XE3
+GD$@I
+A_A^A]A\_
+t$ WH
+L$pH3
+L$@E3
+L$@E3
+L$@E3
+|$ UH
+L$@E3
+UWAVH
+D$8E3
+GT$8L
+GL$`L
+t$ UWAVH
+D$xE3
+GT$xL
+T$0H;
+GL$pL
+~t$hf
+~t$lH
+@USVWAVH
+L$8E3
+A^_^[]
+(D$`f
+@8|$`u
+L$pH3
+L$hH3
+VWAVH
+|$ AVH
+8\$Xu
+L$hH3
+L$T+L$\f
+D$X+D$P
+L$pH3
+I9Khs
+H9Shs
+v?fD;
+t$ WATAUAVAWH
+ A_A^A]A\_
+l$ ATAVAWH
+ A_A^A\
+l$ VWAVH
+t$8H;
+L$@H3
+|$8I+
+t$ WH
+GL$8H
+8/tDH
+8\t1L;
+GT$8L
+L$XH3
+L$HH3
+T$ H;
+SVWATAUAVAWH
+@A_A^A]A\_^[
+@USVWATAUAVAWH
+G|$pH
+|$ E3
+L$XE3
+T$HfH
+t$ E3
+T$HfH
+A_A^A]A\_^[]
+t$ WH
+L$@H3
+L$0H3
+D$$true3
+C(@8k
+T$ H;A
+:D4$u
+D$$fals
+D$(e3
+C(@8k
+T$ H;A
+D$$null
+C(@8k
+T$ H;A
+:D<$u/H
+L$0H3
+C(@8{
+L$0H;SHt
+D$0H;Q
+L$0H;SHt
+L$0H;SHt
+t$ WAVAWH
+D$ H;Q
+L$0H3
+@A_A^_
+S@H;SHt
+S@H;SHt
+S@H;SHt
+D$0H;Q
+L$0H;SHt
+C(@8{
+D$0H;Q
+C(@8{
+L$0H;SHt
+UWATAVAWH
+H;QHt
+S@H;SHt
+C@H;CHt
+S@H;SHt
+S@H;SHt
+A_A^A\_]
+ !!"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$%&&&&&&&&&&&&'&&()))*f
+VWAVH
+C(D8s
+D$ H;Q
+0A^_^
+t$ WH
+D$ H;Q
+L$8H3
+|$ ATAVAWH
+0A_A^A\
+t$ UWAVH
+D$PHcH
+D$PHcH
+D$PHcH
+D$PHcH
+SUVWAVH
+T$0H;
+pA^_^][
+@SVWATAUAVAWH
+|$0Mk
+>HkL$8XH
+PA_A^A]A\_^[
+@UVWH
+t$ E3
+@SUVH
+UVWAVAWH
+(D$0f
+L$@E3
+A_A^_^]
+UVWAVAWH
+(D$0f
+L$@E3
+A_A^_^]
+|$ UATAUAVAWH
+M;fPvQL
+XL;cPw
+A_A^A]A\]
+SUVAVH
+A^^][
+\$ UVWATAUAVAWH
+H;CPw
+KPH9NPw
+CPH;GPw
+EPH;CPw
+0A_A^A]A\_^]
+@SUVWATAVH
+}~fff
+|$(uTA
+l$0L;
+XH9D+PvU
+8A^A\_^][
+[ UVAVH
+)D$pI
+@SWAVH
+d$(Li
+|$ Lk
+,<I9D?PI
+FPH9EPv H
+GPH9FPv
+GPH9CPv
+CPH9EPv H
+GPH9CPv
+EPH9GPv
+GPI9FPv H
+EPH9GPv
+l$8H9CPv
+CPH9GPv H
+FPH9CPv
+@A^_[
+GPH9CPv
+CPI9FPv
+GPH9CPv
+@A^_[
+UVWAVAWH
+A_A^_^]
+WATAUAVAWH
+L$XH;
+D$hH;
+A_A^A]A\_
+x UATAUAVAWH
+L$PE3
+A_A^A]A\]
+D$ E3
+L$hH3
+@USVWATAUAVAWH
+\$HH;_
+D$XH;D$`t
+d$ E3
+D$pHcH
+D$pHcH
+t$XH;
+l$X L
+T$HH;S8
+D$pHcH
+D$pHcH
+A_A^A]A\_^[]
+D$pHcH
+L$pHcQ
+@USVWATAUAVAWH
+T$HE3
+\$HH;_
+D$XH;D$`t
+|$ E3
+D$pHcH
+D$pHcH
+t$XH;
+l$X L
+T$HH;S8
+D$pHcH
+D$pHcH
+A_A^A]A\_^[]
+D$pHcH
+L$pHcQ
+|$ UH
+D$`H9D$X
+D$hH+
+D$hH+
+|$ AVH
+\$HE3
+(D$@f
+L$pH3
+UWAVH
+WATAUAVAWH
+L$XH;
+D$hH;
+A_A^A]A\_
+fB9,@u
+UWAVH
+T$XE3
+WATAUAVAWH
+A_A^A]A\_
+l$xE3
+l$PE3
+t$ WAVAWH
+D$RH9D$@u
+L$XH3
+A_A^_
+WATAUAVAWL
+D$@I;
+t$HA_A^A]A\_
+L$ WATAUAVAWH
+|$PE3
+D$`I9
+D$HI+
+fE9<$u
+t$@A_A^A]A\_
+@SVWATAUAVAWH
+A_A^A]A\_^[
+UVWAVAWH
+D$PE3
+L9|$@v
+L9|$`vxH
+A_A^_^]
+t$ UWAVH
+|$ UH
+GD$PH
+L$pH3
+T$0H;
+UATAUAVAWH
+L$pH;
+l$ E3
+\$@H;
+GL$@H
+A_A^A]A\]
+WATAUAVAWH
+A_A^A]A\_
+|$ UATAUAVAWH
++\$xI
+GD$PH
+A_A^A]A\]
+VWATAVAWH
+L$`H3
+A_A^A\_^
+T$`H;
+T$`H;
+T$ H;
+GD$hL
+|$ ATAVAWH
+t$ E3
+A_A^A\
+T$ H;
+t$ WAVAWH
+A_A^_
+VWAVH
+|$hE3
+|$ AVH
+GD$hH
+GD$hH
+VWAVH
+t$ WATAUAVAWH
+L$0E3
+t$ E3
+t$ E3
+t$ E3
+A_A^A]A\_
+UWAVH
+VWAVH
+~D$Xf
+~D$\I
+|$h+|$`
+\$l+\$dI
+L$xH3
+VWAVH
+~D$dI
+\$t+\$lI
+|$ UH
+@SVAUAVH
+L$PH3
+xA^A]^[
+@SATH
+D9g@u
+t$ WATAUAVAWH
+L$`E3
+A_A^A]A\_
+t$ WATAUAVAWH
+A_A^A]A\_
+t$ UWAVH
+L$`E3
+|$ UATAUAVAWH
+d$ E3
+A_A^A]A\]
+L$hE3
+t$ E3
+L$@E3
+T$ H;
+T$ H;
+T$`H;
+T$`H;
+|$ UATAUAVAWH
+A_A^A]A\]
+T$`H;
+T$`H;
+T$`H;
+T$`H;
+T$`H;
+|$ AVH
+GD$hH
+GD$hH
+GD$hH
+t$ WAVAWH
+\$0E3
+)D$ L
+A_A^_
+@USVWATAUAVAWH
+T$HE3
+\$HH;_
+D$XH;D$`t
+|$ E3
+D$pHcH
+D$pHcH
+t$XH;
+l$X L
+T$HH;S8
+D$pHcH
+D$pHcH
+A_A^A]A\_^[]
+D$pHcH
+L$pHcQ
+\$ UVWATAUAVAWH
+T$HE3
+\$HH;_
+D$XH;D$`t
+|$ E3
+D$pHcH
+D$pHcH
+t$XH;
+l$X L
+T$HH;S8
+D$pHcH
+D$pHcH
+A_A^A]A\_^]
+D$pHcH
+L$pHcQ
+@UVWH
+t$ E3
+t$ WAVAWH
+ A_A^_
+\$ UVWH
+WATAUAVAWH
+L$HE3
+D$@A+
+GT$`L
+D$pfD
+A_A^A]A\_
+t$ UWATAVAWH
+fF9$@u
+D$@fD
+D$@fD
+A_A^A\_]
+l$ VWAVH
+UWAVH
+{ AVH
+D$@HcH
+D$@HcH
+D$@HcH
+D$@HcH
+WATAUAVAWH
+A_A^A]A\_
+D$`HcH
+D$`HcH
+D$`HcH
+D$`HcH
+{ AVH
+D$@HcH
+D$@HcH
+D$@HcH
+D$@HcH
+t$ WH
+H9t$H
+L$xH3
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+l$ VWAVH
+L$PE3
+GD$PH
+L$pH3
+UWAVH
+e A^_]
+SVWAVH
+8A^_^[
+WAVAWH
+\$8H;
+A_A^_
+\$ WH
+@SVWH
+|$ AVH
+VWAVH
+@A^_^
+x AVH
+x AVH
+ntelA
+ineID
+c:\recovery\OEM\version.txt
+HiggsE
+strcpy_s fail
+SystemEnvironment::GetOSBuildVersion
+SystemEnvironment::GetDeviceTypeEx
+fail to get product name. result:
+SystemEnvironment::GetProductNameForHwshare
+fail to get product promote param info. result:
+SystemEnvironment::IsSupportFingerPrint
+IsSupportFingerPrint=
+result=
+SystemEnvironment::IsSupportFingerPrintProduct
+IsSupportFingerPrintProduct=
+SystemEnvironment::IsSupportTrifingerSnipper
+IsSupportTrifingerSnipper=
+SystemEnvironment::IsSupportKeyboardLight
+IsSupportKeyboardLight=
+SystemEnvironment::IsSupportCameraCorrection
+IsSupportCameraCorrection=
+SystemEnvironment::IsSupportCameraDenoise
+IsSupportCameraDenoise=
+SystemEnvironment::IsSupportEnergyStar
+IsSupportEnergyStar=
+SystemEnvironment::IsSupportSQGData
+; IsSupportLocalManual =
+result = 
+SystemEnvironment::IsSupportTimeBack
+,GetSupportTimeBackStatus=
+SystemEnvironment::IsSupportLiveBroadcast
+,GetSupportLiveBroadcast=
+bad allocation
+Unknown exception
+bad array new length
+string too long
+WmiException
+InitConnectServer
+InitProxyBlanket
+UnInit
+super_terminal_user_agreement
+super_terminal_privacy_statement
+<?xml version="1.0" encoding="gb2312" standalone="yes" ?>
+plugins\
+HnSync\
+config\
+config\AppUpdateStatus.xml
+HWLoginGuide.exe
+plugin-list
+plugin
+process
+version
+clsid
+description
+loadorder
+%s%s%s
+%s%s%s%s
+PluginsManager.dll
+x3InitializePlugin
+x3UninitializePlugin
+x3CreateObject
+logging.cfg
+PCManager
+hwa_plugin_setting
+PCManagerMainService
+MBAMessageCenter
+HWLoginGuide
+MonPowerPlugin
+MonProcessPlugin
+MonWndPlugin
+MonSysStatePlugin
+PowerPolicyPlugin
+PowerManagerUIPlugin
+HWAccountPlugin
+hwa_plugin_account
+CommonFrame
+DoctorPlugin
+MBAUpdater
+AppMgPlugin
+MBADownload
+MBAUpdaterCheck
+hwa_plugin_NPS
+MsgCenter
+MsgCenterMobile
+DataReport
+ProtocolUnit
+BackupStorePlugin
+OSDMainService
+OSDListener
+DumpReport
+\config\assistant_settings.xml
+Products
+Product
+Pascal
+Marconi
+Kepler
+Darwin
+Volta
+Wright
+Kelvin
+Planck
+MachA
+MachR
+KeplerR
+NobelK
+NobelB
+BohrB
+BohrK
+VoltaR
+Hubble
+config\DeviceFuncSwitchConf.xml
+invalid string position
+\config\commoncfg.xml
+MessageTips
+patch
+ProductPatch
+EmergencyPatch
+SOFTWARE\PCManager\
+SOFTWARE\HONOR\
+Version
+bad cast
+map/set too long
+invalid stoi argument
+stoi argument out of range
+RegisterPlugin
+UnRegisterPlugin
+hn.plugin.setting
+[json.exception.
+, column 
+ at line 
+chrome
+msedge
+browser
+enabled_labs_experiments
+enable-media-foundation-clear
+625004002
+cannot get value
+' not found
+key '
+cannot use at() with 
+value
+invalid map<K, T> key
+object
+array
+string
+boolean
+binary
+discarded
+number
+syntax error 
+while parsing 
+; last read: '
+unexpected 
+; expected 
+<U+%.4X>
+961c151d2e87f2686a955a9be24d316f1362bf21 3.10.5
+invalid BOM; must be 0xEF 0xBB 0xBF if given
+invalid literal
+<uninitialized>
+true literal
+false literal
+null literal
+string literal
+number literal
+<parse error>
+end of input
+'[', '{', or a literal
+unknown token
+vector too long
+invalid number; expected digit after '-'
+invalid number; expected digit after '.'
+invalid number; expected '+', '-', or digit after exponent
+invalid number; expected digit after exponent sign
+invalid comment; missing closing '*/'
+invalid comment; expecting '/' or '*' after '/'
+invalid string: missing closing quote
+invalid string: '\u' must be followed by 4 hex digits
+invalid string: surrogate U+D800..U+DBFF must be followed by U+DC00..U+DFFF
+invalid string: surrogate U+DC00..U+DFFF must follow U+D800..U+DBFF
+invalid string: forbidden character after backslash
+invalid string: control character U+0000 (NUL) must be escaped to \u0000
+invalid string: control character U+0001 (SOH) must be escaped to \u0001
+invalid string: control character U+0002 (STX) must be escaped to \u0002
+invalid string: control character U+0003 (ETX) must be escaped to \u0003
+invalid string: control character U+0004 (EOT) must be escaped to \u0004
+invalid string: control character U+0005 (ENQ) must be escaped to \u0005
+invalid string: control character U+0006 (ACK) must be escaped to \u0006
+invalid string: control character U+0007 (BEL) must be escaped to \u0007
+invalid string: control character U+0008 (BS) must be escaped to \u0008 or \b
+invalid string: control character U+0009 (HT) must be escaped to \u0009 or \t
+invalid string: control character U+000A (LF) must be escaped to \u000A or \n
+invalid string: control character U+000B (VT) must be escaped to \u000B
+invalid string: control character U+000C (FF) must be escaped to \u000C or \f
+invalid string: control character U+000D (CR) must be escaped to \u000D or \r
+invalid string: control character U+000E (SO) must be escaped to \u000E
+invalid string: control character U+000F (SI) must be escaped to \u000F
+invalid string: control character U+0010 (DLE) must be escaped to \u0010
+invalid string: control character U+0011 (DC1) must be escaped to \u0011
+invalid string: control character U+0012 (DC2) must be escaped to \u0012
+invalid string: control character U+0013 (DC3) must be escaped to \u0013
+invalid string: control character U+0014 (DC4) must be escaped to \u0014
+invalid string: control character U+0015 (NAK) must be escaped to \u0015
+invalid string: control character U+0016 (SYN) must be escaped to \u0016
+invalid string: control character U+0017 (ETB) must be escaped to \u0017
+invalid string: control character U+0018 (CAN) must be escaped to \u0018
+invalid string: control character U+0019 (EM) must be escaped to \u0019
+invalid string: control character U+001A (SUB) must be escaped to \u001A
+invalid string: control character U+001B (ESC) must be escaped to \u001B
+invalid string: control character U+001C (FS) must be escaped to \u001C
+invalid string: control character U+001D (GS) must be escaped to \u001D
+invalid string: control character U+001E (RS) must be escaped to \u001E
+invalid string: control character U+001F (US) must be escaped to \u001F
+invalid string: ill-formed UTF-8 byte
+vector<bool> too long
+iterator does not fit current value
+iterator out of range
+cannot use erase() with 
+invalid_iterator
+type_error
+out_of_range
+object key
+object separator
+number overflow parsing '
+parse error
+parse_error
+other_error
+cannot compare iterators of different containers
+type must be string, but is 
+{"rand":"FB49F283D3CE446dBD0B"}
+MonProcess.dll
+HwCreateInstance
+involvedA
+SQG_DATA
+22000
+Hwa::Ux::HwSettingUI::OnBtnCommitClick
+not find some control.
+void __cdecl Hwa::Ux::HwSettingUI::OnBtnCommitClick(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\BasicFeature\CommonUI\hwa_plugin_mysetting\HwSettingUI.cpp
+^1^1^1
+607001001
+Hwa::Ux::HwSettingUI::OnEventUpdateTimer
+HnSettingUI HWA_LABEL_CIRCLE is NULL
+void __cdecl Hwa::Ux::HwSettingUI::OnEventUpdateTimer(const struct DuiLib::tagTNotifyUI &)
+Hwa::Ux::HwSettingUI::OnBtnSetOpenClick
+------------HnSettingUI shellexecute return value:%d-------------
+void __cdecl Hwa::Ux::HwSettingUI::OnBtnSetOpenClick(void)
+Hwa::Ux::HwSettingUI::OnAppSuggestionChange
+retBtnIndex is=
+void __cdecl Hwa::Ux::HwSettingUI::OnAppSuggestionChange(void)
+Hwa::Ux::HwSettingUI::OnBtnSetTouchPadClick::<lambda_c9c416df1f2f10c458a6dd217b631f7c>::operator ()
+PostIPCMessage failed
+void __cdecl Hwa::Ux::HwSettingUI::OnBtnSetTouchPadClick::<lambda_c9c416df1f2f10c458a6dd217b631f7c>::operator ()(void) const
+Hwa::Ux::HwSettingUI::OnBtnSetTouchPadKnuckleGestureClick::<lambda_cab039183c71b8555cf6b5e42d561f51>::operator ()
+void __cdecl Hwa::Ux::HwSettingUI::OnBtnSetTouchPadKnuckleGestureClick::<lambda_cab039183c71b8555cf6b5e42d561f51>::operator ()(void) const
+Hwa::Ux::HwSettingUI::OnBtnSetTouchPadEdgeGestureClick::<lambda_4e1357ba0dec71a6851ab6ec83ce4021>::operator ()
+void __cdecl Hwa::Ux::HwSettingUI::OnBtnSetTouchPadEdgeGestureClick::<lambda_4e1357ba0dec71a6851ab6ec83ce4021>::operator ()(void) const
+Hwa::Ux::HwSettingUI::OnBtnSetTouchPadMouseModeClick::<lambda_f8d44cd9f25935dee19adfa1c4cbf3ab>::operator ()
+void __cdecl Hwa::Ux::HwSettingUI::OnBtnSetTouchPadMouseModeClick::<lambda_f8d44cd9f25935dee19adfa1c4cbf3ab>::operator ()(void) const
+Hwa::Ux::HwSettingUI::OnBtnSetTouchPadShock
+void __cdecl Hwa::Ux::HwSettingUI::OnBtnSetTouchPadShock(void)
+Hwa::Ux::HwSettingUI::OnBtnSetTouchPadSenSitivity
+void __cdecl Hwa::Ux::HwSettingUI::OnBtnSetTouchPadSenSitivity(void)
+619002010
+619011005
+Update driver version during idle time
+Update butler version during idle time
+Update gameplay tips during leisure time
+Hwa::Ux::HwSettingUI::OnOptSetHonorCalendarClick
+void __cdecl Hwa::Ux::HwSettingUI::OnOptSetHonorCalendarClick(void)
+619011007
+HonorShare
+Hwa::Ux::HwSettingUI::OnOptSetHonorShareClick
+void __cdecl Hwa::Ux::HwSettingUI::OnOptSetHonorShareClick(void)
+stop service
+Computer Manager Application Permission Description
+Hwa::Ux::HwSettingUI::SetRegValue
+bool __cdecl Hwa::Ux::HwSettingUI::SetRegValue(struct HKEY__ *,const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,unsigned long,int,const int)
+Hwa::Ux::HwSettingUI::WriteBigdataUxplanSwitch
+WriteBigdataUxplanSwitch Fail, error = 
+void __cdecl Hwa::Ux::HwSettingUI::WriteBigdataUxplanSwitch(void)
+619002011
+Hwa::Ux::HwSettingUI::OnBtnMyphone
+PCManager HnSettingUI connect,pDiagnose or pContact is NULL
+void __cdecl Hwa::Ux::HwSettingUI::OnBtnMyphone(class DuiLib::CDuiString &)
+fail to alloc phonetip memory.
+619011003
+Upgrade Management
+Smart Internet
+safety protection
+intelligent assistant
+System settings
+Power settings
+Privacy permissions
+seting_other
+Basic Settings
+consumer_url
+my_setting
+C:\Windows\explorer.exe
+Hwa::Ux::HwSettingUI::OnLink
+void __cdecl Hwa::Ux::HwSettingUI::OnLink(struct DuiLib::tagTNotifyUI &)
+Hwa::Ux::HwSettingUI::InitAppSuggestionUI
+Smart assistant AssistantLayoutUI find failed
+void __cdecl Hwa::Ux::HwSettingUI::InitAppSuggestionUI(void)
+ReceExperQuestion
+619004007
+Receive user experience questionnaire
+pushmessage
+Hwa::Ux::HwSettingUI::SetPrivacyButton
+privacySwitchBtnUi is null
+void __cdecl Hwa::Ux::HwSettingUI::SetPrivacyButton(class DuiLib::COptionUI *,int)
+Hwa::Ux::HwSettingUI::CloseHonorCalendarPrivacySwitch
+void __cdecl Hwa::Ux::HwSettingUI::CloseHonorCalendarPrivacySwitch(bool)
+Hwa::Ux::HwSettingUI::CloseHonorSharePrivacySwitch
+void __cdecl Hwa::Ux::HwSettingUI::CloseHonorSharePrivacySwitch(bool)
+common
+china
+oversea
+language=en-us
+language=
+en-us
+ar-sa
+ar-eg
+es-mx
+es-us
+Hwa::Ux::HwSettingUI::GetLinkHonorConnect
+countrySite = 
+class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Hwa::Ux::HwSettingUI::GetLinkHonorConnect(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+country=aala&branchId=0&langCode=
+country=euro&branchId=0&langCode=
+country=ru&branchId=0&langCode=
+Hwa::Ux::HwSettingUI::PostIpcMsg
+PostIPCMessage to synergy failed
+bool __cdecl Hwa::Ux::HwSettingUI::PostIpcMsg(int,int,const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+Hwa::Ux::HwSettingUI::LoadAssistantConfig
+ is not exist
+Smart assistant xml file 
+bool __cdecl Hwa::Ux::HwSettingUI::LoadAssistantConfig(class std::unordered_map<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct Hwa::Ux::AssistantInfo,struct std::hash<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >,struct std::equal_to<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >,class std::allocator<struct std::pair<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const ,struct Hwa::Ux::AssistantInfo> > > &)
+ is not xml format
+Smart assistant 
+ is not products info
+MachineType
+ModeName
+Visable
+SwitchStatus
+bad conversion
+default
+unordered_map/set too long
+invalid hash bucket count
+invalid stoul argument
+stoul argument out of range
+631006000
+Hwa::Ux::HwSettingNotifyMain::PureOSReportNeedReadPoint
+covert time format error, result=
+bool __cdecl Hwa::Ux::HwSettingNotifyMain::PureOSReportNeedReadPoint(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\BasicFeature\CommonUI\hwa_plugin_mysetting\HwSettingNotifyMain.cpp
+PureSecuritySecondPhase
+607004005
+607004019
+619002013
+619002014
+619002015
+619002016
+619008002
+619008003
+624004000
+com.hihonor.id.pc
+7000000
+invalid char filename argument
+DevType
+Summary
+DevName
+IsPaired
+IsTrusted
+IsConnected
+PairedTime
+631000001
+631002010
+620000031
+620000032
+MachC
+\config\policy\AutoBrightness.xml
+Hwa::Ux::HwSettingWnd::InitWindow
+void __cdecl Hwa::Ux::HwSettingWnd::InitWindow(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\BasicFeature\CommonUI\hwa_plugin_mysetting\HwSettingWnd.cpp
+Hwa::Ux::HwSettingWnd::FilterStopService
+objIPCClientPtr is empty
+void __cdecl Hwa::Ux::HwSettingWnd::FilterStopService(void)
+FilterStopService init
+SendIPCMessage failed
+MsgPop
+Hwa::Ux::HwSettingWnd::ShowReconnectWindow::<lambda_0212d87f2ce208075ee238787a0340bf>::operator ()
+waitReonnectEvent is nullptr
+auto __cdecl Hwa::Ux::HwSettingWnd::ShowReconnectWindow::<lambda_0212d87f2ce208075ee238787a0340bf>::operator ()(void) const
+reset waitReonnectEvent
+void __cdecl Hwa::Ux::HwSettingWnd::ShowReconnectWindow::<lambda_0212d87f2ce208075ee238787a0340bf>::operator ()(void) const
+waitResult is 
+waitResult is timeout and isConnected is false
+Hwa::Ux::HwSettingWnd::ShowWebcastWindow
+new webcastOptimizationDialog failed.
+void __cdecl Hwa::Ux::HwSettingWnd::ShowWebcastWindow(void)
+Hwa::Ux::HwSettingWnd::SetWebcastPopupText
+[SetWebcastPopupText] trigReconnectMethod is 
+void __cdecl Hwa::Ux::HwSettingWnd::SetWebcastPopupText(void)
+Hwa::Ux::HwSettingWnd::OnPhoneNameChangedWhilePaired
+void __cdecl Hwa::Ux::HwSettingWnd::OnPhoneNameChangedWhilePaired(struct TagIPCMessageItem &)
+Service ipc is nullptr
+Hwa::Ux::HwSettingWnd::OnRecvPairState
+void __cdecl Hwa::Ux::HwSettingWnd::OnRecvPairState(struct TagIPCMessageItem &)
+Hwa::Ux::HwSettingWnd::OnRecvConnectState
+void __cdecl Hwa::Ux::HwSettingWnd::OnRecvConnectState(struct TagIPCMessageItem &)
+Hwa::Ux::HwSettingWnd::OnRecvQueryPairStateResponse
+void __cdecl Hwa::Ux::HwSettingWnd::OnRecvQueryPairStateResponse(struct TagIPCMessageItem &)
+Hwa::Ux::HwSettingWnd::OnRecvQueryConnectStateResponse::<lambda_7d543d8553fce832b2234ed9c4198437>::operator ()
+Close webcastWindow
+auto __cdecl Hwa::Ux::HwSettingWnd::OnRecvQueryConnectStateResponse::<lambda_7d543d8553fce832b2234ed9c4198437>::operator ()(void) const
+Hwa::Ux::HwSettingWnd::OnRecvQueryConnectStateResponse
+void __cdecl Hwa::Ux::HwSettingWnd::OnRecvQueryConnectStateResponse(struct TagIPCMessageItem &)
+trigReconnectMethod is 
+Set waitReonnectEvent
+Hwa::Ux::HwSettingWnd::IsSupportMirror
+isSupport is 
+bool __cdecl Hwa::Ux::HwSettingWnd::IsSupportMirror(void)
+Hwa::Ux::HwSettingWnd::InitWebcastOptimizationUI
+get WebcastOptimizationSwitch is
+void __cdecl Hwa::Ux::HwSettingWnd::InitWebcastOptimizationUI(void)
+Hwa::Ux::HwSettingWnd::OnClickWebcastOptimizationSwitch
+Set WebcastOptimization failed
+void __cdecl Hwa::Ux::HwSettingWnd::OnClickWebcastOptimizationSwitch(void)
+The webcast optimization switch is 
+Get MrrorIsLiveMode switch is 
+606011019
+Hwa::Ux::HwSettingWnd::OnAutoRecordDocsClick
+objIPCClientPtr is null,return
+void __cdecl Hwa::Ux::HwSettingWnd::OnAutoRecordDocsClick(void)
+Hwa::Ux::HwSettingWnd::OnAutoRecordClipboardsClick
+void __cdecl Hwa::Ux::HwSettingWnd::OnAutoRecordClipboardsClick(void)
+607004022
+Hwa::Ux::HwSettingWnd::OnTimeBackSwitchStateChange
+switchOption is NULL!
+void __cdecl Hwa::Ux::HwSettingWnd::OnTimeBackSwitchStateChange(void)
+TimeBackSwitch selected value: 
+SendBackTimeSwitchState to handoff service failed!
+SendBackTimeSwitchState to handoff service ui failed!
+Hwa::Ux::HwSettingWnd::OnRecvTimeBackSwitchChange
+TimeBackSwitch SettingWnd OnRecvTimeBackSwitchChange...
+void __cdecl Hwa::Ux::HwSettingWnd::OnRecvTimeBackSwitchChange(struct TagIPCMessageItem &)
+TimeBackSwitch selected state: 
+Hwa::Ux::HwSettingWnd::CheckPhoneConnectState
+objIPCClientPtr == nullptr
+void __cdecl Hwa::Ux::HwSettingWnd::CheckPhoneConnectState(void)
+Send MSG_SYNERGY_SHARE_QUERY_PAIR_ID failed.
+Hwa::Ux::HwSettingWnd::OnClickBoundDeviceSet
+paintManagerMainPtr == nullptr
+void __cdecl Hwa::Ux::HwSettingWnd::OnClickBoundDeviceSet(struct DuiLib::tagTNotifyUI &)
+devicePopMenum create failed
+devicePopMenum  init failed
+Hwa::Ux::HwSettingWnd::OnBoundDeviceMenuClick
+Send disconnect ipc failed
+void __cdecl Hwa::Ux::HwSettingWnd::OnBoundDeviceMenuClick(unsigned __int64)
+Hwa::Ux::HwSettingWnd::DisconnectPhone
+void __cdecl Hwa::Ux::HwSettingWnd::DisconnectPhone(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+Hwa::Ux::HwSettingWnd::DisconnectPad
+void __cdecl Hwa::Ux::HwSettingWnd::DisconnectPad(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+Hwa::Ux::HwSettingWnd::DisconnectScreen
+void __cdecl Hwa::Ux::HwSettingWnd::DisconnectScreen(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+Hwa::Ux::HwSettingWnd::RemovePhone
+void __cdecl Hwa::Ux::HwSettingWnd::RemovePhone(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+Send remove device ipc failed
+Hwa::Ux::HwSettingWnd::RemovePad
+void __cdecl Hwa::Ux::HwSettingWnd::RemovePad(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+Hwa::Ux::HwSettingWnd::RemoveScreen
+void __cdecl Hwa::Ux::HwSettingWnd::RemoveScreen(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+Hwa::Ux::HwSettingWnd::GetTrustedDevInfos
+Post GetTrustedDevInfos failed
+void __cdecl Hwa::Ux::HwSettingWnd::GetTrustedDevInfos(void)
+Hwa::Ux::HwSettingWnd::UpdateTrustedDevInfos
+Recv UpdateTrustedDevInfos failed, message is null
+void __cdecl Hwa::Ux::HwSettingWnd::UpdateTrustedDevInfos(struct TagIPCMessageItem &)
+Parse error not clear boundDevice
+summary is 
+Hwa::Ux::HwSettingWnd::OnMultiDeviceBtnClick
+SetHiShareRegistValue fail.
+void __cdecl Hwa::Ux::HwSettingWnd::OnMultiDeviceBtnClick(void)
+Hwa::Ux::HwSettingWnd::PostIPC
+objIPCClientPtr is nullptr.
+void __cdecl Hwa::Ux::HwSettingWnd::PostIPC(int,int,int,char *,int)
+Post ipc failed
+Hwa::Ux::HwSettingWnd::InitMultiDeviceSetting
+void __cdecl Hwa::Ux::HwSettingWnd::InitMultiDeviceSetting(void)
+get autoConnectSwitch is
+Hwa::Ux::HwSettingWnd::GetHiShareRegistValue
+int __cdecl Hwa::Ux::HwSettingWnd::GetHiShareRegistValue(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >,int)
+set default value result is 
+Hwa::Ux::HwSettingWnd::SetHiShareRegistValue
+set value failed
+bool __cdecl Hwa::Ux::HwSettingWnd::SetHiShareRegistValue(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >,int)
+619011009
+Open content on your phone using a computer application
+Hwa::Ux::HwSettingWnd::OnOpenFileSwitch
+Set MirrorOpenMode failed
+void __cdecl Hwa::Ux::HwSettingWnd::OnOpenFileSwitch(void)
+The open file switch is 
+Hwa::Ux::HwSettingWnd::SendLoadStatusAlertSwitch
+HnSettingWnd: ipc msg err
+void __cdecl Hwa::Ux::HwSettingWnd::SendLoadStatusAlertSwitch(unsigned char)
+StartUp
+Hwa::Ux::HwSettingWnd::SendMsgToSetPureSecuritySwitch
+Switch msg error
+void __cdecl Hwa::Ux::HwSettingWnd::SendMsgToSetPureSecuritySwitch(unsigned char,int,int)
+AntiVirus
+ZH-CN
+ZH_CN
+PureSecurityManagerPlugin
+Hwa::Ux::HwSettingWnd::InitIntelligentBrightnessPage
+brightness adjust not configured
+void __cdecl Hwa::Ux::HwSettingWnd::InitIntelligentBrightnessPage(void)
+non-china mainland area
+brightness adjust init err
+Params
+Param
+KeyName
+Value
+machinetype
+isenable
+Hwa::Ux::HwSettingWnd::SendCpuAffinitySwitch
+ipc msg err
+void __cdecl Hwa::Ux::HwSettingWnd::SendCpuAffinitySwitch(unsigned char)
+Send file animation
+Send a screenshot of the current window to your phone
+SynergyPYP
+619011006
+OnFilePathModifyBtnClick
+Hwa::Ux::HwSettingWnd::GetVCRPath
+exception.
+void __cdecl Hwa::Ux::HwSettingWnd::GetVCRPath(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &)
+Hwa::Ux::HwSettingWnd::AddDeviceItem
+create item failed.
+bool __cdecl Hwa::Ux::HwSettingWnd::AddDeviceItem(class DuiLib::CVerticalLayoutUI *,struct Hwa::Ux::BoundDeviceInfoTag)
+find deviceName or deviceConnState or phoneIcon item failed.
+find boundDeviceSetBtn item failed.
+Change the name of this machine
+BigData
+SimpleSharePlugin
+hna_plugin_myalbum
+EnergyStarNo
+supportfileshare
+Hwa::Ux::HwSettingWnd::OnRecvPubishIPCMessage
+recv connect service init finish.
+void __cdecl Hwa::Ux::HwSettingWnd::OnRecvPubishIPCMessage(struct TagIPCMessageItem &)
+Hwa::Ux::HwSettingWnd::OnRecvMCStart
+void __cdecl Hwa::Ux::HwSettingWnd::OnRecvMCStart(struct TagIPCMessageItem &)
+619011012
+Hwa::Ux::HwSettingWnd::OnPowerSafeBtn
+Retail computer, show power statu switch remind
+void __cdecl Hwa::Ux::HwSettingWnd::OnPowerSafeBtn(void)
+Hwa::Ux::HwSettingWnd::OnPowerSafeModeBtn
+Retail computer, show power mode switch remind
+void __cdecl Hwa::Ux::HwSettingWnd::OnPowerSafeModeBtn(const struct DuiLib::tagTNotifyUI &)
+Hwa::Ux::HwSettingWnd::GetPhoneLeaveCacheFlag
+GetAppDataPath fail.
+int __cdecl Hwa::Ux::HwSettingWnd::GetPhoneLeaveCacheFlag(void)
+cache\phoneleave.xml
+cacheFile not exist
+LoadFile fail.
+cacheFile no config
+phoneleaveshow
+cacheFile no phoneleaveshow
+Hwa::Ux::HwSettingWnd::OnPhoneLeaveSelectChg
+, ret=
+, value=
+select:
+void __cdecl Hwa::Ux::HwSettingWnd::OnPhoneLeaveSelectChg(void)
+phoneleave
+Hwa::Ux::HwSettingWnd::InitPhoneLeaveUI
+InitFaraway2 DisableLockWorkstation is not 0.
+void __cdecl Hwa::Ux::HwSettingWnd::InitPhoneLeaveUI(void)
+Hwa::Ux::HwSettingWnd::CreateRecursiveDirectory
+CreateDirectory parentDir failed.
+bool __cdecl Hwa::Ux::HwSettingWnd::CreateRecursiveDirectory(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &)
+MachD
+hwa_plugin_hardware_report
+Hwa::Ux::HwSettingWnd::OnBtnAutoRepairSeviceClick
+set value fail
+void __cdecl Hwa::Ux::HwSettingWnd::OnBtnAutoRepairSeviceClick(void)
+Hwa::Ux::HwSettingWnd::OnDeviceInfoQuery
+void __cdecl Hwa::Ux::HwSettingWnd::OnDeviceInfoQuery(struct TagIPCMessageItem &)
+Hwa::Ux::HwSettingWnd::ParseFromString
+IpcBoundDeviceInfo parse error
+class std::vector<struct Hwa::Ux::BoundDeviceInfoTag,class std::allocator<struct Hwa::Ux::BoundDeviceInfoTag> > __cdecl Hwa::Ux::HwSettingWnd::ParseFromString(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,bool &)
+Hwa::Ux::HwSettingWnd::GetDeviceInfoFromRegistry
+none bound device
+bool __cdecl Hwa::Ux::HwSettingWnd::GetDeviceInfoFromRegistry(void)
+Hwa::Ux::HwSettingWnd::RefreshGuidePos
+[SmartCharge] show smart charge help begin
+void __cdecl Hwa::Ux::HwSettingWnd::RefreshGuidePos(void)
+helpBtn is null,return
+tipsBottom is null,return
+arrowLeft is null,return
+scTitle is null,return
+tipsTop is null,return
+[SmartCharge] show smart charge help end.
+Hwa::Ux::HwSettingWnd::OnBtnOsAutoRecvPrompt
+OnBtnOsAutoRecvPrompt start
+void __cdecl Hwa::Ux::HwSettingWnd::OnBtnOsAutoRecvPrompt(struct DuiLib::tagTNotifyUI &)
+Hwa::Ux::HwSettingWnd::OnRecvOsAutoRecvReply
+void __cdecl Hwa::Ux::HwSettingWnd::OnRecvOsAutoRecvReply(struct TagIPCMessageItem &)
+619011010
+Power on time reminder
+BootTime
+Active defense in the background
+BackgroundDefender
+USB security check and kill
+USBPrompt
+do not disturb
+NoDisturb
+Interception
+Abnormal interception
+Clean
+en-US
+ChargeTurboBtn
+Hwa::Ux::HwSettingWnd::InitBtnTurboChargeOpen
+btnTurboChargeOpen Is Nullptr
+void __cdecl Hwa::Ux::HwSettingWnd::InitBtnTurboChargeOpen(void)
+turboChargeTipUI Is Nullptr
+Hwa::Ux::HwSettingWnd::OnbtnChargeTurboClick
+void __cdecl Hwa::Ux::HwSettingWnd::OnbtnChargeTurboClick(struct DuiLib::tagTNotifyUI &)
+Hwa::Ux::HwSettingWnd::SetChargeTurboStatus
+Set Charge Turbo Status In
+void __cdecl Hwa::Ux::HwSettingWnd::SetChargeTurboStatus(const char) const
+objIPCClientPtr is nullptr
+Post SetChargeTurboStatus failed
+Hwa::Ux::HwSettingWnd::GetChargeTurboStatus
+Get Charge Turbo Status In
+int __cdecl Hwa::Ux::HwSettingWnd::GetChargeTurboStatus(void) const
+Send GetChargeTurboStatus Success
+Send GetChargeTurboStatus Failed RetryTime
+msgRec.message is nullptr
+Get Charge Turbo Status Success Status: 
+Hwa::Ux::HwSettingWnd::SetChargeTurboTipCallback
+turboChargeTipUI is nullptr
+void __cdecl Hwa::Ux::HwSettingWnd::SetChargeTurboTipCallback(struct TagIPCMessageItem &)
+message is nullptr
+Hwa::Ux::HwSettingWnd::ReceiveMessageCenterQuit
+Recv message center quit.
+void __cdecl Hwa::Ux::HwSettingWnd::ReceiveMessageCenterQuit(struct TagIPCMessageItem &)
+type must be number, but is 
+type must be boolean, but is 
+get lang error
+Hwa::Ux::PrivacyStatementWnd::GetTermsLink
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\BasicFeature\CommonUI\hwa_plugin_mysetting\PrivacyStatementWnd.cpp
+class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Hwa::Ux::PrivacyStatementWnd::GetTermsLink(void)
+oobe_privacy_statement_v3
+oobe_user_agreement_v3
+Hwa::Ux::PrivacyStatementWnd::LinkShellExecute
+void __cdecl Hwa::Ux::PrivacyStatementWnd::LinkShellExecute(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+WaitServerExit
+void __cdecl WaitServerExit(void)
+WaitServerExit end
+MessageCenterUI.exe
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\BasicFeature\CommonUI\hwa_plugin_mysetting\StopServerWnd.cpp
+DiagnoseUI.exe
+HnPhotoViewer.exe
+WebViewer.exe
+AdvancedService.exe
+MBAUpdater.exe
+OSDListener.exe
+HiCenter.exe
+MBATestMessageClient.exe
+HandOffGuide.exe
+Recycle.exe
+TaskbarUnPin.exe
+ZipCompressBigFile.exe
+DumpReport.exe
+vc_redist.x64_2015.exe
+C:\Windows\System32\taskkill.exe /f /im 
+MonitorManage.exe
+DoStopService timeout
+Hwa::Ux::StopServerWnd::DoStopService::<lambda_fd914783b26719031c42d3f65077c9bc>::operator ()
+Hwa::Ux::StopServerWnd::DoStopService
+auto __cdecl Hwa::Ux::StopServerWnd::DoStopService::<lambda_fd914783b26719031c42d3f65077c9bc>::operator ()(void) const
+void __cdecl Hwa::Ux::StopServerWnd::DoStopService(void)
+post msg to stopService failed
+post quit patch update msg to stopService failed
+post quit pure security msg to stopService failed
+Hwa::Ux::StopServerWnd::GetTermsLink
+class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Hwa::Ux::StopServerWnd::GetTermsLink(void)
+fail to get LocalCountryMappingSettings.xml full path.
+CountryCode::GetContryCodeBySysCode
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\BasicFeature\CommonUI\hwa_plugin_mysetting\SystemConfig\CountryCode.cpp
+class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl CountryCode::GetContryCodeBySysCode(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+HwShareConfig::GetSaveDirectory
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\BasicFeature\CommonUI\hwa_plugin_mysetting\SystemConfig\HwShareConfig.cpp
+class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > __cdecl HwShareConfig::GetSaveDirectory(struct HWND__ *,const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &)
+The interfaceFileOpen show dialog is exception.
+pen_driver_cn
+pen_driver_us
+pen_driver_fr
+pen_driver_uk
+pen_driver_it
+pen_driver_de
+pen_driver_ru
+pen_driver_es
+pen_driver_kr
+pen_driver_jp
+pen_driver_ae
+pen_driver_aeen
+ae-en
+sa-en
+pen_driver_sa
+pen_driver_saen
+pen_driver_za
+Mba::Config::SystemConfigUI::InitUI
+void __cdecl Mba::Config::SystemConfigUI::InitUI(void)
+check biosCountryCode CN fail!
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\BasicFeature\CommonUI\hwa_plugin_mysetting\SystemConfig\SystemConfigUI.cpp
+Get Camera Correction Support Status:
+Mba::Config::SystemConfigUI::GetCameraCorrectionSupport
+Mba::Config::SystemConfigUI::GetCameraDenoiseOpenCallback
+void __cdecl Mba::Config::SystemConfigUI::GetCameraCorrectionSupport(bool)
+void __cdecl Mba::Config::SystemConfigUI::GetCameraDenoiseOpenCallback(char)
+Get Camera Correction Open Status:
+KeyboardLightDisable
+Unsupport KeyboardLight
+Mba::Config::SystemConfigUI::IsSupportKeyboardLightProduct
+CameraCorrection Open Status: 
+bool __cdecl Mba::Config::SystemConfigUI::IsSupportKeyboardLightProduct(void)
+report camera correction switch status
+Mba::Config::SystemConfigUI::SetCameraCorrectionOpenStatus
+void __cdecl Mba::Config::SystemConfigUI::SetCameraCorrectionOpenStatus(void)
+Mba::Config::SystemConfigUI::OnMenuClick
+void __cdecl Mba::Config::SystemConfigUI::OnMenuClick(unsigned __int64)
+Mba::Config::SystemConfigUI::ShowTOFStudyWnd
+void __cdecl Mba::Config::SystemConfigUI::ShowTOFStudyWnd(enum Mba::Config::TOFWndType)
+ChangeTOFLRStatus:
+Mba::Config::SystemConfigUI::SetTOFLROpenStatus
+void __cdecl Mba::Config::SystemConfigUI::SetTOFLROpenStatus(void)
+Mba::Config::SystemConfigUI::OnClick
+void __cdecl Mba::Config::SystemConfigUI::OnClick(struct DuiLib::tagTNotifyUI &)
+Restore factory settings
+KeyboardLightGetting Enter value:
+Mba::Config::SystemConfigUI::KeyboardLightGetting
+void __cdecl Mba::Config::SystemConfigUI::KeyboardLightGetting(unsigned short)
+5 seconds
+10 seconds
+15 seconds
+30 seconds
+1 minutes
+5 minutes
+Mba::Config::SystemConfigUI::KeyboardLightModeGetting
+never
+void __cdecl Mba::Config::SystemConfigUI::KeyboardLightModeGetting(int)
+KeyboardLitilGetting Enter value:
+pen_driver_common
+Mba::Config::SystemConfigUI::GoToPenDisclaimerURL
+zh-CN
+void __cdecl Mba::Config::SystemConfigUI::GoToPenDisclaimerURL(void)
+Mba::Config::SystemConfigUI::ShowFingerprintSetting
+void __cdecl Mba::Config::SystemConfigUI::ShowFingerprintSetting(void)
+ms-settings:signinoptions ret:
+Mba::Config::SystemConfigUI::GetKeyboardLightCallback
+fingerprint identification
+void __cdecl Mba::Config::SystemConfigUI::GetKeyboardLightCallback(unsigned short)
+GetKeyboardLightCallback Enter value:
+void __cdecl Mba::Config::SystemConfigUI::GetKeyboardLightModeCallback(int)
+Mba::Config::SystemConfigUI::GetKeyboardLightModeCallback
+Get TOF Support Status:
+Mba::Config::SystemConfigUI::GetTOFSupportCallback
+Mba::Config::SystemConfigUI::GetTOFOpenCallback
+void __cdecl Mba::Config::SystemConfigUI::GetTOFSupportCallback(char)
+void __cdecl Mba::Config::SystemConfigUI::GetTOFOpenCallback(char)
+Get TOF Open Status:
+Get TOF LR Status:
+Mba::Config::SystemConfigUI::GetTOFLRCallback
+Mba::Config::SystemConfigUI::GetTOFTapCallback
+void __cdecl Mba::Config::SystemConfigUI::GetTOFLRCallback(char)
+void __cdecl Mba::Config::SystemConfigUI::GetTOFTapCallback(char)
+Get TOF Tap Status:
+Get TOF DTap Status:
+Mba::Config::SystemConfigUI::GetTOFDTapCallback
+Mba::Config::SystemConfigUI::SetTOFTapStatus
+void __cdecl Mba::Config::SystemConfigUI::GetTOFDTapCallback(char)
+void __cdecl Mba::Config::SystemConfigUI::SetTOFTapStatus(void)
+ChangeTOFTapStatus:
+ChangeTOFDTapStatus:
+Mba::Config::SystemConfigUI::SetTOFDTapStatus
+void __cdecl Mba::Config::SystemConfigUI::SetTOFDTapStatus(void)
+RemoveBoundDeviceDialog::InitWindow
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\BasicFeature\CommonUI\hwa_plugin_mysetting\RemoveBoundDeviceDialog.cpp
+void __cdecl RemoveBoundDeviceDialog::InitWindow(void)
+Set MrrorIsLiveMode is failed
+void __cdecl WebcastOptimizationDialog::ClickBtnOperation(bool)
+WebcastOptimizationDialog::ClickBtnOperation
+void __cdecl WebcastOptimizationDialog::PostIPC(int,int,int,char *,int)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\BasicFeature\CommonUI\hwa_plugin_mysetting\WebcastOptimizationDialog.cpp
+WebcastOptimizationDialog::PostIPC
+----------------________________
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\output_temp\pdb\hn_plugin_mysetting.pdb
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$T
+.rdata$r
+.rdata$voltmd
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.tls$
+.tls$ZZZ
+.xdata
+.xdata$x
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.data$rs
+.pdata
+.rsrc$01
+.rsrc$02
+ppzB~
+$&&D*
+ H"z$J&
+^ ^"^$^&^(^*^,^.l084"6$:
+0.2<.
+ $&Ha
+R :"Y
+(R*<,Q
+0N2\0
+ $&;z
+(,.Dz
+^ ^"^$^&^(^*^,^.^0^2^4^6>8
+NdPdV-
+LdNdPbT
+X X"X$X&X(X*X,X.X0X2X4X6N80<
+BLJRNm
+@RBLDLH
+ T"D&E
+^ ^"P$6(
+$z&8*
+$j&^(
+hn_plugin_mysetting.dll
+??0?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAA@XZ
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@$$QEAV01@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@$$QEAV01@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@_K1AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@_KAEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_W@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_WAEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_W_K@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_W_KAEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@U_String_constructor_concat_tag@1@AEAV01@1@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@U_String_constructor_concat_tag@1@AEBV01@QEB_W_K23@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@V?$initializer_list@_W@1@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@XZ
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@_K_W@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@_K_WAEBV?$allocator@_W@1@@Z
+??0EventDRprtConfig@@QEAA@$$QEAV0@@Z
+??0EventDRprtConfig@@QEAA@AEBV0@@Z
+??0EventDRprtConfig@@QEAA@XZ
+??0IOChannel@@QEAA@AEBV0@@Z
+??0IOChannel@@QEAA@XZ
+??0IpcBufferBuild@@QEAA@AEBV0@@Z
+??1?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAA@XZ
+??1?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAA@XZ
+??1?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@XZ
+??1IOChannel@@UEAA@XZ
+??1UrlsManager@util@mba@@AEAA@XZ
+??4?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAAAEAV01@$$QEAV01@@Z
+??4?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAAAEAV01@AEBV01@@Z
+??4?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAAEAV01@$$QEAV01@@Z
+??4?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAAEAV01@AEBV01@@Z
+??4?$_Wrap_alloc@V?$allocator@_W@std@@@std@@QEAAAEAU01@$$QEAU01@@Z
+??4?$_Wrap_alloc@V?$allocator@_W@std@@@std@@QEAAAEAU01@AEBU01@@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@$$QEAV01@@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@AEBV01@@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@QEB_W@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@V?$initializer_list@_W@1@@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@_W@Z
+??4EventDRprtConfig@@QEAAAEAV0@$$QEAV0@@Z
+??4EventDRprtConfig@@QEAAAEAV0@AEBV0@@Z
+??4HNIpcPackage@@QEAAAEAV0@AEBV0@@Z
+??4IOChannel@@QEAAAEAV0@AEBV0@@Z
+??4IpcBufferBuild@@QEAAAEAV0@AEBV0@@Z
+??4LogMonitor@@QEAAAEAV0@AEBV0@@Z
+??4LogPerform@@QEAAAEAV0@AEBV0@@Z
+??4NetworkProc@@QEAAAEAV0@$$QEAV0@@Z
+??4NetworkProc@@QEAAAEAV0@AEBV0@@Z
+??A?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_W_K@Z
+??A?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_W_K@Z
+??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@AEBV01@@Z
+??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@QEB_W@Z
+??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@V?$initializer_list@_W@1@@Z
+??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@_W@Z
+??_7EventDRprtConfig@@6B@
+??_7IOChannel@@6B@
+??_7IpcBufferBuild@@6B@
+?ExpandArgs@CBIDataReport@@AEAAXAEAV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z
+?GetDataStream@HNIpcPackage@@QEAAPEAVDataStream@@XZ
+?_Activate_SSO_buffer@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAXXZ
+?_Become_small@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXXZ
+?_Calculate_growth@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBA_K_K@Z
+?_Calculate_growth@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@CA_K_K00@Z
+?_Check_offset@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBAX_K@Z
+?_Check_offset_exclusive@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBAX_K@Z
+?_Clamp_suffix_size@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBA_K_K0@Z
+?_Copy_s@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEA_W_K_K1@Z
+?_Deallocate_for_capacity@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@CAXAEAV?$allocator@_W@2@QEA_W_K@Z
+?_Eos@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAX_K@Z
+?_Equal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_NAEBV12@@Z
+?_Equal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_NQEB_W@Z
+?_Erase_noexcept@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAAEAV12@_K_K@Z
+?_Get_first@?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAAAEAU?$_Wrap_alloc@V?$allocator@_W@std@@@2@XZ
+?_Get_first@?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEBAAEBU?$_Wrap_alloc@V?$allocator@_W@std@@@2@XZ
+?_Getal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAAEAV?$allocator@_W@2@XZ
+?_Getal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBAAEBV?$allocator@_W@2@XZ
+?_Large_mode_engaged@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBA_NXZ
+?_Memcpy_val_from@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXAEBV12@@Z
+?_Myptr@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAPEA_WXZ
+?_Myptr@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBAPEB_WXZ
+?_Orphan_all@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?_Swap_bx_large_with_small@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@SAXAEAV?$_String_val@U?$_Simple_types@_W@std@@@2@0@Z
+?_Swap_data@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXAEAV12@@Z
+?_Swap_proxy_and_iterators@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXAEAV12@@Z
+?_Take_contents@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXAEAV12@@Z
+?_Tidy_deallocate@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXXZ
+?_Tidy_init@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXXZ
+?_Unchecked_begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAPEA_WXZ
+?_Unchecked_begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?_Unchecked_end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAPEA_WXZ
+?_Unchecked_end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?_Xran@?$_String_val@U?$_Simple_types@_W@std@@@std@@SAXXZ
+?__autoclassinit2@CBIDataReport@@QEAAX_K@Z
+?__autoclassinit2@EventDataReport@@QEAAX_K@Z
+?__autoclassinit2@HNIpcPackage@@QEAAX_K@Z
+?__autoclassinit2@IpcBufferBuild@@QEAAX_K@Z
+?__autoclassinit2@LogMonitor@@QEAAX_K@Z
+?__autoclassinit2@LogPerform@@QEAAX_K@Z
+?__autoclassinit2@UrlsManager@util@mba@@QEAAX_K@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@_K_K@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W_K@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$initializer_list@_W@2@@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_W@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@$$QEAV12@@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@_K_K@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W_K@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$initializer_list@_W@2@@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_W@Z
+?at@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_W_K@Z
+?at@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_W_K@Z
+?back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_WXZ
+?back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_WXZ
+?begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?c_str@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?capacity@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?cbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?cend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?clear@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAHAEBV12@@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAHQEB_W@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0AEBV12@00@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0AEBV12@@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0QEB_W0@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0QEB_W@Z
+?copy@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEA_W_K_K@Z
+?crbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?crend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?data@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?empty@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_NXZ
+?end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0@Z
+?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@@Z
+?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0@Z
+?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?front@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_WXZ
+?front@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_WXZ
+?get_allocator@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$allocator@_W@2@XZ
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$initializer_list@_W@2@@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@_K_W@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@_W@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0_W@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KAEBV12@0_K@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KAEBV12@@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KQEB_W0@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KQEB_W@Z
+?length@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?max_size@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?pop_back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?push_back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_W@Z
+?rbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$reverse_iterator@V?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?rbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?rend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$reverse_iterator@V?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?rend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0AEBV12@@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0QEB_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0QEB_W_K@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0V?$initializer_list@_W@2@@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0_K_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0AEBV12@@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0QEB_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_K0_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_KAEBV12@01@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_KQEB_W0@Z
+?reserve@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_K@Z
+?resize@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_K_W@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?shrink_to_fit@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?size@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?substr@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV12@_K0@Z
+?swap@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXAEAV12@@Z
+InitializePluginModule
+UninitializePluginModule
+?format@MessageFormat@icu_71@@SAAEAVUnicodeString@2@AEBV32@PEBVFormattable@2@HAEAV32@AEAW4UErrorCode@@@Z
+??1Formattable@icu_71@@UEAA@XZ
+??0Formattable@icu_71@@QEAA@AEBVUnicodeString@1@@Z
+icuin71.dll
+??1UnicodeString@icu_71@@UEAA@XZ
+?getTerminatedBuffer@UnicodeString@icu_71@@QEAAPEB_SXZ
+??0UnicodeString@icu_71@@QEAA@PEB_W@Z
+icuuc71.dll
+?GetCurrentUserLanguage@SystemInfo@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+??1SystemInfo@@QEAA@XZ
+??0SystemInfo@@QEAA@XZ
+?ReplacePlaceholder@StringProc@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV23@00@Z
+?GetAppVersion@MateBookVersionMgr@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?GetInstance@MateBookVersionMgr@@SAPEAV1@XZ
+?IsWhiteLogoMachineType@MBASoftShelf@@QEAA_NXZ
+?GetInstance@MBASoftShelf@@SAPEAV1@XZ
+?IsSupportDevice@SmBiosHelper@@QEAA_NXZ
+?GetInstance@SmBiosHelper@@SAPEAV1@XZ
+?SetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEBHK@Z
+?GetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEAKK@Z
+?GetCurrentUserSidstr@HNPROCESS@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ
+?IsElementNull@HnXmlElement@@QEBA_NXZ
+?NextSiblingElement@HnXmlElement@@QEBA?AV1@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?Attribute@HnXmlElement@@QEBA?BV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z
+?FirstNode@HnXmlElement@@QEBA?AV1@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?StringToWString@StringProc@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z
+?GetCurrentDir4Config@LogUtil@@SA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?Instance@UrlsManager@util@mba@@SAAEAV123@XZ
+?LoadFile@HnXMLDocument@@QEAA?AW4HnXmlError@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?FirstNode@HnXMLDocument@@QEAA?AVHnXmlElement@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+??1HnXMLDocument@@QEAA@XZ
+?FileExists@DE@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?UnicodeToANSI@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z
+?SetRootKey@Registry@DE@@QEAAXPEAUHKEY__@@@Z
+?ValueExists@Registry@DE@@QEAA_NAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
+?OpenKey@Registry@DE@@QEAA_NAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@_N@Z
+??1Registry@DE@@UEAA@XZ
+??0Registry@DE@@QEAA@XZ
+?SetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@11K@Z
+?GetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEAHK@Z
+?GetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEAV45@K@Z
+?GetSelfFullFilePath@HELPER@HNPROCESS@@YA_NAEAV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV34@@Z
+?GetCountrySite@MBASoftShelf@@QEAA?AW4CountrySite@@XZ
+?CheckCountryCodeIsCN@MBASoftShelf@@QEAA_NXZ
+?GetCC@MBASoftShelf@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?IsSupportProperty@MBASoftShelf@@QEBA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z
+?IsSupportPlugin@MBASoftShelf@@QEBA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?GetSysProductName@SmBiosHelper@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ
+??1HnXmlElement@@QEAA@XZ
+?UTF8ToUnicode@DE@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z
+?FirstAttribute@HnXmlElement@@QEBA?AVHnXmlAttribute@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?Value@HnXmlElement@@QEBA?BV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?CreateRecursiveDirectory@FileInfo@@YAHAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
+?IsAttributeNull@HnXmlAttribute@@QEBA_NXZ
+?Value@HnXmlAttribute@@QEBA?BV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?RootElement@HnXMLDocument@@QEAA?AVHnXmlElement@@XZ
+?IsRetailComputer@DE@@YA_NXZ
+?UnicodeToUTF8@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z
+?Trim@DE@@YAXAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?GetHwSharePath@DE@@YA_NAEAV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
+?LowerCase@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z
+?HexStringToBytesString@DE@@YAHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAV23@@Z
+?KeyExists@Registry@DE@@QEAA_NAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
+?CreateKey@Registry@DE@@QEAA_NAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
+?SetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEBKK@Z
+?GetAppDataPath@DE@@YAHAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+JudgeITVersion
+?IsSupportHonorFileShare@MBASoftShelf@@QEBA_NXZ
+?IsSupportHnCalendar@MBASoftShelf@@QEBA_NXZ
+?GetHWShareName@MBASoftShelf@@SA?AW4HWShareName@@XZ
+?IsSupportAccountFeatrue@MBASoftShelf@@QEAA_NXZ
+?IsSupportfeature@MBASoftShelf@@QEBA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?GetSecType@SmBiosHelper@@QEAAEXZ
+??1HnXmlAttribute@@QEAA@XZ
+?ExecuteCommand@LogUtil@@SAHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?DelName@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1K@Z
+?QueryPidByProcessName@HELPER@HNPROCESS@@YAJAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAV?$vector@KV?$allocator@K@std@@@4@W4QueryProcessType@12@@Z
+?NextAttribute@HnXmlAttribute@@QEBA?AV1@XZ
+?IsTouchDeviceExist@TouchScreen@@YA_NXZ
+?GetSystemDPI@SystemInfo@@QEAAHXZ
+Util.dll
+?FindControl@CPaintManagerUI@DuiLib@@QEBAPEAVCControlUI@2@PEB_W@Z
+?SetFont@CControlUI@DuiLib@@QEAAXH@Z
+?GetStyle@WindowImplBase@DuiLib@@UEAAJXZ
+?MessageNormalTreat@WindowImplBase@DuiLib@@UEAA_NI_K_JAEA_JAEAH@Z
+?MessageDeviceTreat@WindowImplBase@DuiLib@@UEAA_NI_K_JAEA_JAEAH@Z
+?MessageSysTreat@WindowImplBase@DuiLib@@UEAA_NI_K_JAEA_JAEAH@Z
+?HandleCustomMessage@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?HandleMessage@WindowImplBase@DuiLib@@UEAA_JI_K_J@Z
+?OnMouseMove@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnLButtonUp@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnLButtonDown@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnSetFocus@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnKillFocus@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnKeyDown@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnCreate@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnSysCommand@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnChar@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnSize@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnInput@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnMouseLeave@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnMouseHover@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnMouseWheel@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnGetMinMaxInfo@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnNcPreHitTest@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnNcHitTest@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnNcPaint@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnNcCalcSize@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnNcActivate@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnDestroy@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?OnClose@WindowImplBase@DuiLib@@UEAA_JI_K_JAEAH@Z
+?MessageHandler@WindowImplBase@DuiLib@@UEAA_JI_K_JAEA_N@Z
+?QueryControlText@WindowImplBase@DuiLib@@UEAAPEB_WPEB_W0@Z
+?CreateControl@WindowImplBase@DuiLib@@UEAAPEAVCControlUI@2@PEB_W@Z
+?GetClassStyle@WindowImplBase@DuiLib@@UEBAIXZ
+?ResponseDefaultKeyEvent@WindowImplBase@DuiLib@@MEAA_J_K@Z
+?OnClick@WindowImplBase@DuiLib@@UEAAXAEAUtagTNotifyUI@2@@Z
+?Notify@WindowImplBase@DuiLib@@UEAAXAEAUtagTNotifyUI@2@@Z
+?OnFinalMessage@WindowImplBase@DuiLib@@UEAAXPEAUHWND__@@@Z
+??1WindowImplBase@DuiLib@@UEAA@XZ
+??0WindowImplBase@DuiLib@@QEAA@XZ
+?GetMessageMap@WindowImplBase@DuiLib@@MEBAPEBUDUI_MSGMAP@2@XZ
+?GetSuperClassName@CWindowWnd@DuiLib@@MEBAPEB_WXZ
+??BCDuiString@DuiLib@@QEBAPEB_WXZ
+??1CDuiString@DuiLib@@QEAA@XZ
+??0CDuiString@DuiLib@@QEAA@PEB_WH@Z
+?OnMoveAnimationEnd@WindowImplBase@DuiLib@@UEAAXXZ
+?OnResizeAnimationEnd@WindowImplBase@DuiLib@@UEAAXXZ
+?OnResize@WindowImplBase@DuiLib@@UEAAXAEBUtagSIZE@@@Z
+?OnDisplayResolutionChanged@WindowImplBase@DuiLib@@UEAAXII@Z
+?OnActivate@WindowImplBase@DuiLib@@UEAAXW4ActivateState@12@W4MinimizedState@12@@Z
+?GetManagerName@WindowImplBase@DuiLib@@MEAAPEB_WXZ
+?GetSkinType@WindowImplBase@DuiLib@@MEAA?AVCDuiString@2@XZ
+?InitResource@WindowImplBase@DuiLib@@UEAAXXZ
+?FindControl@CPaintManagerUI@DuiLib@@QEBAPEAVCControlUI@2@UtagPOINT@@@Z
+?messageMap@CNotifyPump@DuiLib@@1UDUI_MSGMAP@2@B
+?NotifyPump@CNotifyPump@DuiLib@@QEAAXAEAUtagTNotifyUI@2@@Z
+?CenterWindow@CWindowWnd@DuiLib@@QEAAXXZ
+?Close@CWindowWnd@DuiLib@@QEAAXI@Z
+?GetHWND@CWindowWnd@DuiLib@@QEBAPEAUHWND__@@XZ
+??8CDuiString@DuiLib@@QEBA_NPEB_W@Z
+?GetString@UICulture@DuiLib@@QEAA?AVCDuiString@2@PEB_W@Z
+?GetInstance@UICulture@DuiLib@@SAPEAV12@XZ
+?GetData@CDuiString@DuiLib@@QEBAPEB_WXZ
+??YCEventSource@DuiLib@@QEAAXAEBVCDelegateBase@1@@Z
+?GetObjectW@CDelegateBase@DuiLib@@IEAAPEAXXZ
+??1CDelegateBase@DuiLib@@UEAA@XZ
+??0CDelegateBase@DuiLib@@QEAA@PEAXPEBX@Z
+??0CDelegateBase@DuiLib@@QEAA@AEBV01@@Z
+?AddVirtualWnd@CNotifyPump@DuiLib@@QEAA_NVCDuiString@2@PEAV12@@Z
+?SendMessageW@CWindowWnd@DuiLib@@QEAA_JI_K_J@Z
+??9CDuiString@DuiLib@@QEBA_NPEB_W@Z
+??4CDuiString@DuiLib@@QEAAAEBV01@AEBV01@@Z
+??0CDuiString@DuiLib@@QEAA@XZ
+?SendNotify@CPaintManagerUI@DuiLib@@QEAAXPEAVCControlUI@2@PEB_W_K_J_N@Z
+?KillTimer@CPaintManagerUI@DuiLib@@QEAA_NPEAVCControlUI@2@I@Z
+?GetPaintWindow@CPaintManagerUI@DuiLib@@QEBAPEAUHWND__@@XZ
+?ParseBind@UICulture@DuiLib@@QEAA?AVCDuiString@2@PEB_W@Z
+?dispatch@UIMainQueue@DuiLib@@QEAA_NAEBV?$function@$$A6AXXZ@std@@@Z
+?getInstance@UIMainQueue@DuiLib@@SAAEAV12@XZ
+?SetSelected@COptionUI@DuiLib@@QEAAX_N@Z
+?IsSelected@COptionUI@DuiLib@@QEBA_NXZ
+?SelectItemByName@CTabLayoutUI@DuiLib@@QEAA_NVCDuiString@2@@Z
+?GetCurSel@CTabLayoutUI@DuiLib@@QEAAHXZ
+?GetLinkContentIndex@CTextUI@DuiLib@@QEAAHAEBUtagPOINT@@@Z
+?SetBkImage@CControlUI@DuiLib@@QEAAXPEB_W@Z
+?ShowInfo@MessageDialog@DuiLib@@YAHPEAUHWND__@@PEB_W1W4MessageDialogButton@CTextMessageDialog@2@@Z
+?ShowModal@CWindowWnd@DuiLib@@QEAAIXZ
+?ShowWindow@CWindowWnd@DuiLib@@QEAAX_N0@Z
+?Create@CWindowWnd@DuiLib@@QEAAPEAUHWND__@@PEAU3@PEB_WKKHHHHPEAUHMENU__@@@Z
+??4CDuiString@DuiLib@@QEAAAEBV01@PEB_W@Z
+?IsEmpty@CDuiString@DuiLib@@QEBA_NXZ
+??0CDuiString@DuiLib@@QEAA@AEBV01@@Z
+??1CNotifyPump@DuiLib@@QEAA@XZ
+??0CNotifyPump@DuiLib@@QEAA@XZ
+?InitWindow@WindowImplBase@DuiLib@@UEAAXXZ
+?SetMaskState@CPaintManagerUI@DuiLib@@SAXPEAUHWND__@@W4DialogMaskState@2@K@Z
+?GetRoot@CPaintManagerUI@DuiLib@@QEBAPEAVCControlUI@2@XZ
+?GetLocaleLanguage@UICulture@DuiLib@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ
+?CenterToControl@WindowImplBase@DuiLib@@QEAAXPEAVCControlUI@2@@Z
+?FindSubControl@CContainerUI@DuiLib@@QEAAPEAVCControlUI@2@PEB_W@Z
+?GetResourcePath@CPaintManagerUI@DuiLib@@SAAEBVCDuiString@2@XZ
+?GetPaintDC@CPaintManagerUI@DuiLib@@QEBAPEAUHDC__@@XZ
+?Create@CDialogBuilder@DuiLib@@QEAAPEAVCControlUI@2@VSTRINGorID@2@PEB_WPEAVIDialogBuilderCallback@2@PEAVCPaintManagerUI@2@PEAV32@@Z
+??1CDialogBuilder@DuiLib@@UEAA@XZ
+??0CDialogBuilder@DuiLib@@QEAA@XZ
+?RestoreScale@CResourceManager@DuiLib@@QEAAHH@Z
+?Scale@CResourceManager@DuiLib@@QEAAHH@Z
+?GetScale@CResourceManager@DuiLib@@QEAAIXZ
+?GetMultiVarString@UICulture@DuiLib@@QEAA?AVCDuiString@2@PEB_WZZ
+?GetMultiVarStr@UICulture@DuiLib@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@V34@V?$vector@HV?$allocator@H@std@@@4@H@Z
+?getDirection@UICulture@DuiLib@@QEAA?AW4LayoutDirection@2@XZ
+?DrawHtmlText@CRenderEngine@DuiLib@@SAXPEAUHDC__@@PEAVCPaintManagerUI@2@AEAUtagRECT@@PEB_WKHPEAU5@PEAVCDuiString@2@AEAHIPEAH_NH@Z
+?DrawTextW@CRenderEngine@DuiLib@@SAXPEAUHDC__@@PEAVCPaintManagerUI@2@AEAUtagRECT@@PEB_WKHI_N@Z
+?SetEnabled@CListContainerElementUI@DuiLib@@UEAAX_N@Z
+?GetMenuUI@CMenuWnd@DuiLib@@QEAAPEAVCMenuUI@2@XZ
+?Init@CMenuWnd@DuiLib@@QEAAXPEAVCMenuElementUI@2@VSTRINGorID@2@UtagPOINT@@PEAVCPaintManagerUI@2@PEAV?$map@VCDuiString@DuiLib@@_NU?$less@VCDuiString@DuiLib@@@std@@V?$allocator@U?$pair@$$CBVCDuiString@DuiLib@@_N@std@@@4@@std@@K@Z
+??1CMenuWnd@DuiLib@@QEAA@XZ
+??0CMenuWnd@DuiLib@@QEAA@XZ
+?SetText@CToastSimpleUI@DuiLib@@QEAAXPEB_W@Z
+??1CToastSimpleUI@DuiLib@@QEAA@XZ
+??0CToastSimpleUI@DuiLib@@QEAA@W4WndFixType@1@IV?$function@$$A6AXPEAX@Z@std@@I@Z
+??1CDuiPoint@DuiLib@@UEAA@XZ
+??0CDuiPoint@DuiLib@@QEAA@XZ
+?IsShowHtml@CLabelUI@DuiLib@@QEAA_NXZ
+?GetFont@CLabelUI@DuiLib@@QEBAHXZ
+?GetTextColor@CLabelUI@DuiLib@@QEBAKXZ
+?SetTextColor@CLabelUI@DuiLib@@QEAAXK@Z
+?GetTextStyle@CLabelUI@DuiLib@@QEBAIXZ
+?Format@CDuiString@DuiLib@@QEAAHPEB_WZZ
+?Find@CDuiString@DuiLib@@QEBAHPEB_WH@Z
+?Append@CDuiString@DuiLib@@QEAAXPEB_W@Z
+?GetInstance@CResourceManager@DuiLib@@SAPEAV12@XZ
+??1STRINGorID@DuiLib@@QEAA@XZ
+?GetNcHit@CButtonUI@DuiLib@@UEAA_NXZ
+?SetVisible@CButtonUI@DuiLib@@UEAAX_N@Z
+?SetHotForeImage@CButtonUI@DuiLib@@UEAAXPEB_W@Z
+?GetHotForeImage@CButtonUI@DuiLib@@UEAAPEB_WXZ
+?SetDisabledImage@CButtonUI@DuiLib@@UEAAXPEB_W@Z
+?GetDisabledImage@CButtonUI@DuiLib@@UEAAPEB_WXZ
+?SetFocusedImage@CButtonUI@DuiLib@@UEAAXPEB_W@Z
+?GetFocusedImage@CButtonUI@DuiLib@@UEAAPEB_WXZ
+?SetPushedImage@CButtonUI@DuiLib@@UEAAXPEB_W@Z
+?GetPushedImage@CButtonUI@DuiLib@@UEAAPEB_WXZ
+?SetHotImage@CButtonUI@DuiLib@@UEAAXPEB_W@Z
+?GetHotImage@CButtonUI@DuiLib@@UEAAPEB_WXZ
+?SetNormalImage@CButtonUI@DuiLib@@UEAAXPEB_W@Z
+?GetNormalImage@CButtonUI@DuiLib@@UEAAPEB_WXZ
+?DoEvent@CButtonUI@DuiLib@@UEAAXAEAUtagTEventUI@2@@Z
+?Activate@CButtonUI@DuiLib@@UEAA_NXZ
+?GetControlFlags@CButtonUI@DuiLib@@UEBAIXZ
+?UpdateThemeColor@COptionUI@DuiLib@@MEAAXXZ
+?GetToolTip@COptionUI@DuiLib@@UEBA?AVCDuiString@2@XZ
+?PaintText@COptionUI@DuiLib@@UEAAXPEAUHDC__@@@Z
+?PaintForeImage@COptionUI@DuiLib@@UEAAXPEAUHDC__@@@Z
+?PaintStatusImage@COptionUI@DuiLib@@UEAAXPEAUHDC__@@@Z
+?PaintBkColor@COptionUI@DuiLib@@UEAAXPEAUHDC__@@@Z
+?SetAttribute@COptionUI@DuiLib@@UEAAXPEB_W0@Z
+?Selected@COptionUI@DuiLib@@UEAAX_N0@Z
+?SetEnabled@COptionUI@DuiLib@@UEAAX_N@Z
+?SetManager@COptionUI@DuiLib@@UEAAXPEAVCPaintManagerUI@2@PEAVCControlUI@2@_N@Z
+?GetInterface@COptionUI@DuiLib@@UEAAPEAXPEB_W@Z
+?GetClass@COptionUI@DuiLib@@UEBAPEB_WXZ
+??1COptionUI@DuiLib@@UEAA@XZ
+??0COptionUI@DuiLib@@QEAA@XZ
+?DoPostPaint@CControlUI@DuiLib@@UEAAXPEAUHDC__@@AEBUtagRECT@@@Z
+?PaintBorder@CControlUI@DuiLib@@UEAAXPEAUHDC__@@@Z
+?PaintForeColor@CControlUI@DuiLib@@UEAAXPEAUHDC__@@@Z
+?PaintBkImage@CControlUI@DuiLib@@UEAAXPEAUHDC__@@@Z
+?SetCurAttr@CControlUI@DuiLib@@UEAAXPEB_W@Z
+?SetDirectionPadding@CControlUI@DuiLib@@UEAAXPEB_W@Z
+?Event@CControlUI@DuiLib@@UEAAXAEAUtagTEventUI@2@@Z
+?Init@CControlUI@DuiLib@@UEAAXXZ
+?FindControl@CControlUI@DuiLib@@UEAAPEAV12@P6APEAV12@PEAV12@PEAX@Z1I@Z
+?SetUseGdiPlusText@CControlUI@DuiLib@@UEAAX_N@Z
+?IsFloat@CControlUI@DuiLib@@UEBA_NXZ
+?SetFocus@CControlUI@DuiLib@@UEAAXXZ
+?IsFocused@CControlUI@DuiLib@@UEBA_NXZ
+?SetKeyboardEnabled@CControlUI@DuiLib@@UEAAX_N@Z
+?IsKeyboardEnabled@CControlUI@DuiLib@@UEBA_NXZ
+?SetMouseEnabled@CControlUI@DuiLib@@UEAAX_N@Z
+?IsMouseEnabled@CControlUI@DuiLib@@UEBA_NXZ
+?SetHighlight@CControlUI@DuiLib@@UEAAX_N@Z
+?IsHighlight@CControlUI@DuiLib@@UEBA_NXZ
+?IsEnabled@CControlUI@DuiLib@@UEBA_NXZ
+?SetInternVisible@CControlUI@DuiLib@@UEAAX_N@Z
+?IsVisible@CControlUI@DuiLib@@UEBA_NXZ
+?SetTag@CControlUI@DuiLib@@UEAAX_K@Z
+?GetTag@CControlUI@DuiLib@@UEBA_KXZ
+?SetUserData@CControlUI@DuiLib@@UEAAXPEB_W@Z
+?GetUserData@CControlUI@DuiLib@@UEAAAEBVCDuiString@2@XZ
+?SetContextMenuUsed@CControlUI@DuiLib@@UEAAX_N@Z
+?IsContextMenuUsed@CControlUI@DuiLib@@UEBA_NXZ
+?SetShortcut@CControlUI@DuiLib@@UEAAX_W@Z
+?GetShortcut@CControlUI@DuiLib@@UEBA_WXZ
+?SetCursor@CControlUI@DuiLib@@UEAAXG@Z
+?GetCursor@CControlUI@DuiLib@@UEAAGXZ
+?GetToolTipWidth@CControlUI@DuiLib@@UEAAHXZ
+?SetToolTipWidth@CControlUI@DuiLib@@UEAAXH@Z
+?SetToolTip@CControlUI@DuiLib@@UEAAXPEB_W@Z
+?SetWave@CControlUI@DuiLib@@UEAAX_N@Z
+?SetFloatPercent@CControlUI@DuiLib@@UEAAXUtagTPercentInfo@2@@Z
+?GetFloatPercent@CControlUI@DuiLib@@UEBA?AUtagTPercentInfo@2@XZ
+?GetMaxHeight@CControlUI@DuiLib@@UEBAHXZ
+?GetMinHeight@CControlUI@DuiLib@@UEBAHXZ
+?GetMaxWidth@CControlUI@DuiLib@@UEBAHXZ
+?GetMinWidth@CControlUI@DuiLib@@UEBAHXZ
+?GetFixedHeight@CControlUI@DuiLib@@UEBAHXZ
+?GetFixedWidth@CControlUI@DuiLib@@UEBAHXZ
+?GetFixedXY@CControlUI@DuiLib@@UEBA?AUtagSIZE@@XZ
+?GetPadding@CControlUI@DuiLib@@UEBA?AUtagRECT@@XZ
+?GetY@CControlUI@DuiLib@@UEBAHXZ
+?GetX@CControlUI@DuiLib@@UEBAHXZ
+?GetHeight@CControlUI@DuiLib@@UEBAHXZ
+?GetWidth@CControlUI@DuiLib@@UEBAHXZ
+?Move@CControlUI@DuiLib@@UEAAXUtagSIZE@@_N@Z
+?GetPos@CControlUI@DuiLib@@UEBAAEBUtagRECT@@XZ
+?GetClientPos@CControlUI@DuiLib@@UEBA?AUtagRECT@@XZ
+?GetRelativePos@CControlUI@DuiLib@@UEBA?AUtagRECT@@XZ
+?SetOpacity@CControlUI@DuiLib@@UEAAXH@Z
+?SetBlur@CControlUI@DuiLib@@UEAAXH@Z
+?SetDropEnable@CControlUI@DuiLib@@UEAAX_N@Z
+?IsDropEnabled@CControlUI@DuiLib@@UEBA_NXZ
+?SetDragEnable@CControlUI@DuiLib@@UEAAX_N@Z
+?IsDragEnabled@CControlUI@DuiLib@@UEBA_NXZ
+?SetResourceText@CControlUI@DuiLib@@UEAAX_N@Z
+?IsResourceText@CControlUI@DuiLib@@UEBA_NXZ
+?GetDisableText@CControlUI@DuiLib@@UEBA?AVCDuiString@2@XZ
+?SetDisableText@CControlUI@DuiLib@@UEAAXPEB_W@Z
+?GetText@CControlUI@DuiLib@@UEBA?AVCDuiString@2@XZ
+?GetParent@CControlUI@DuiLib@@UEBAPEAV12@XZ
+?GetManager@CControlUI@DuiLib@@UEBAPEAVCPaintManagerUI@2@XZ
+?SetName@CControlUI@DuiLib@@UEAAXPEB_W@Z
+?GetName@CControlUI@DuiLib@@UEBA?AVCDuiString@2@XZ
+?OnAnimationStop@CAnimPanelUI@DuiLib@@UEAAXH@Z
+?OnAnimationStep@CAnimPanelUI@DuiLib@@UEAAXHHH@Z
+?OnAnimationStart@CAnimPanelUI@DuiLib@@UEAAXHH@Z
+?DoInit@CAnimPanelUI@DuiLib@@UEAAXXZ
+?SetFloat@CLabelUI@DuiLib@@UEAAX_N@Z
+?SetPadding@CLabelUI@DuiLib@@UEAAXUtagRECT@@@Z
+?SetDirectionPos@CLabelUI@DuiLib@@UEAA?AUtagRECT@@U3@@Z
+?SetPos@CLabelUI@DuiLib@@UEAAXUtagRECT@@_N@Z
+?SetMaxHeight@CLabelUI@DuiLib@@UEAAXH@Z
+?SetMinHeight@CLabelUI@DuiLib@@UEAAXH@Z
+?SetMaxWidth@CLabelUI@DuiLib@@UEAAXH@Z
+?SetMinWidth@CLabelUI@DuiLib@@UEAAXH@Z
+?SetFixedXY@CLabelUI@DuiLib@@UEAAXUtagSIZE@@@Z
+?SetFixedWidthEx@CLabelUI@DuiLib@@UEAAXH@Z
+?SetFixedWidth@CLabelUI@DuiLib@@UEAAXH@Z
+?SetFixedHeightEx@CLabelUI@DuiLib@@UEAAXH@Z
+?SetFixedHeight@CLabelUI@DuiLib@@UEAAXH@Z
+?DoPaint@CLabelUI@DuiLib@@UEAAXPEAUHDC__@@AEBUtagRECT@@@Z
+?SetText@CLabelUI@DuiLib@@UEAAXPEB_W@Z
+?SetAutoCalcWidth@CLabelUI@DuiLib@@UEAAX_N@Z
+?GetAutoCalcWidth@CLabelUI@DuiLib@@UEBA_NXZ
+?EstimateSize@CLabelUI@DuiLib@@UEAA?AUtagSIZE@@U3@@Z
+?OnAnimationElapse@CUIAnimation@DuiLib@@UEAAXH@Z
+?SetCurrentFrame@CUIAnimation@DuiLib@@UEAAHHH@Z
+?GetCurrentFrame@CUIAnimation@DuiLib@@UEAAHH@Z
+?IsAnimationRunning@CUIAnimation@DuiLib@@UEAAHH@Z
+?StopAnimation@CUIAnimation@DuiLib@@UEAAXH@Z
+?StartAnimation@CUIAnimation@DuiLib@@UEAAHHHHH@Z
+??BCWindowWnd@DuiLib@@QEBAPEAUHWND__@@XZ
+?GetItemTextPadding@CListUI@DuiLib@@QEBA?AUtagRECT@@XZ
+?SetItemTextPadding@CListUI@DuiLib@@QEAAXUtagRECT@@@Z
+?GetLinePadding@CMenuElementUI@DuiLib@@QEBA?AUtagRECT@@XZ
+?SetLinePadding@CMenuElementUI@DuiLib@@QEAAXUtagRECT@@@Z
+?StopAnim@CAnimPanelUI@DuiLib@@QEAAXXZ
+?StartAnim@CAnimPanelUI@DuiLib@@QEAAXXZ
+?SetTimerEllapse@CAnimPanelUI@DuiLib@@QEAAXI@Z
+?SetAnimImage@CAnimPanelUI@DuiLib@@QEAAXPEB_W@Z
+?SetIsLoop@CAnimPanelUI@DuiLib@@QEAAX_N@Z
+?SetMaxFrame@CAnimPanelUI@DuiLib@@QEAAXH@Z
+?SetMinFrame@CAnimPanelUI@DuiLib@@QEAAXH@Z
+?SetTimer@CControlUI@DuiLib@@QEAA_NII@Z
+?SetDPI@CPaintManagerUI@DuiLib@@QEAAXH@Z
+?Resize@WindowImplBase@DuiLib@@QEAAXHHW4AnimateResizePolicy@12@@Z
+DuiLib.dll
+?Instance@EventDataReport@@SAAEAV1@XZ
+?SendMsg@EventDataReport@@QEAA_NAEAULogInfo@@@Z
+?GetMsg@EventDataReport@@QEAA?AULogInfo@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z
+?Report@CBIDataReport@@AEAA_NHAEBV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z
+?GetInstance@CBIDataReport@@SAPEAV1@XZ
+DataReport.dll
+?SendIPCMessage@IPCMessageClient@@QEBA_NAEAUTagIPCMessageItem@@0I@Z
+?PostIPCMessage@IPCMessageClient@@QEBA_NAEBUTagIPCMessageItem@@@Z
+?UnRegisterMessageCallback@IPCMessageClient@@QEAA_NH@Z
+??1IPCMessageClient@@QEAA@XZ
+??0IPCMessageClient@@QEAA@H_N0@Z
+?UnRegisterMessageCallbackAll@IPCMessageClient@@QEAA_NXZ
+?UnpacketInt@HNIpcPackage@@QEAAHAEAH@Z
+?UnpacketString@HNIpcPackage@@QEAAHAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+??1HNIpcPackage@@QEAA@XZ
+??0HNIpcPackage@@QEAA@PEAVIOChannel@@@Z
+?SubscribeIPCMessage@IPCMessageClient@@QEAA_NII@Z
+?Write@IpcBufferBuild@@UEAAHPEBDI@Z
+?Read@IpcBufferBuild@@UEAAHPEADI@Z
+??1IpcBufferBuild@@UEAA@XZ
+??0IpcBufferBuild@@QEAA@PEAXI_N@Z
+IPCMessage.dll
+InitializeCriticalSectionEx
+GetLastError
+DeleteCriticalSection
+GetModuleFileNameW
+LoadLibraryW
+GetProcAddress
+GetModuleHandleW
+FreeLibrary
+GetTickCount64
+GetTickCount
+Sleep
+CreateDirectoryW
+lstrlenW
+GetShortPathNameW
+GetSystemPowerStatus
+WaitForSingleObject
+CreateEventW
+GetFileAttributesA
+SetEvent
+CloseHandle
+ResetEvent
+WTSGetActiveConsoleSessionId
+GetDriveTypeW
+GetVolumeInformationW
+FindFirstVolumeW
+FindVolumeClose
+FindNextVolumeW
+lstrcmpW
+OutputDebugStringW
+LocalFree
+MultiByteToWideChar
+WideCharToMultiByte
+KERNEL32.dll
+MoveWindow
+IsWindow
+ScreenToClient
+GetWindowRect
+GetSystemMetrics
+SendMessageW
+ShowWindow
+IsWindowVisible
+GetCursorPos
+IsIconic
+UpdateWindow
+ClientToScreen
+GetMonitorInfoW
+MonitorFromWindow
+MessageBoxW
+SetWindowPos
+GetWindow
+PostMessageW
+USER32.dll
+GetTextExtentPoint32W
+GDI32.dll
+ImpersonateLoggedOnUser
+ADVAPI32.dll
+ShellExecuteA
+ShellExecuteW
+SHCreateDirectoryExW
+SHBrowseForFolderW
+SHGetPathFromIDListW
+SHCreateItemFromParsingName
+SHGetFolderPathW
+SHGetSpecialFolderLocation
+SHELL32.dll
+CoCreateInstance
+ole32.dll
+OLEAUT32.dll
+?_Xlength_error@std@@YAXPEBD@Z
+?_Xbad_alloc@std@@YAXXZ
+?_Xout_of_range@std@@YAXPEBD@Z
+??1_Lockit@std@@QEAA@XZ
+??0_Lockit@std@@QEAA@H@Z
+?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ
+?uncaught_exception@std@@YA_NXZ
+?id@?$ctype@_W@std@@2V0locale@2@A
+?_Xinvalid_argument@std@@YAXPEBD@Z
+?_Xbad_function_call@std@@YAXXZ
+?_Osfx@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAXXZ
+?flush@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV12@XZ
+?sputn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEAA_JPEB_W_J@Z
+?setstate@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEAAXH_N@Z
+??0?$basic_iostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z
+??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAA@XZ
+?sputc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEAAG_W@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z
+??0?$basic_ios@DU?$char_traits@D@std@@@std@@IEAA@XZ
+??0?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
+?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z
+??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ
+?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JXZ
+?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z
+?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z
+?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAPEAV12@PEAD_J@Z
+?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAXAEBVlocale@2@@Z
+??1?$basic_ios@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??1?$basic_ostream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??1?$basic_iostream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+?getloc@ios_base@std@@QEBA?AVlocale@2@XZ
+?_Getcat@?$ctype@_W@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z
+?widen@?$ctype@_W@std@@QEBA_WD@Z
+??Bid@locale@std@@QEAA_KXZ
+?_New_Locimp@_Locimp@locale@std@@CAPEAV123@AEBV123@@Z
+?_Init@locale@std@@CAPEAV_Locimp@12@_N@Z
+?id@?$codecvt@_WDU_Mbstatet@@@std@@2V0locale@2@A
+?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ
+?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ
+?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z
+?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z
+??4?$_Yarn@D@std@@QEAAAEAV01@PEBD@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@H@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@K@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@PEBX@Z
+??1?$codecvt@_WDU_Mbstatet@@@std@@MEAA@XZ
+??0?$codecvt@_WDU_Mbstatet@@@std@@QEAA@_K@Z
+?out@?$codecvt@_WDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEB_W1AEAPEB_WPEAD3AEAPEAD@Z
+?_Addfac@_Locimp@locale@std@@AEAAXPEAVfacet@23@_K@Z
+?_Decref@facet@locale@std@@UEAAPEAV_Facet_base@3@XZ
+?_Incref@facet@locale@std@@UEAAXXZ
+?_Throw_Cpp_error@std@@YAXH@Z
+_Mtx_lock
+_Cnd_do_broadcast_at_thread_exit
+_Thrd_detach
+_Mtx_unlock
+_To_wide
+_Stat
+_Mtx_destroy_in_situ
+_Mtx_init_in_situ
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@PEBX@Z
+??0?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAA@XZ
+??0?$basic_ios@_WU?$char_traits@_W@std@@@std@@IEAA@XZ
+??0?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAA@PEAV?$basic_streambuf@_WU?$char_traits@_W@std@@@1@_N@Z
+??1?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+?_Lock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ
+?_Unlock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ
+?showmanyc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JXZ
+?uflow@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAGXZ
+?xsgetn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JPEA_W_J@Z
+?xsputn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JPEB_W_J@Z
+?setbuf@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAPEAV12@PEA_W_J@Z
+?sync@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAHXZ
+?imbue@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAXAEBVlocale@2@@Z
+??1?$basic_ios@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+??1?$basic_ostream@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@_N@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@_K@Z
+??0?$basic_iostream@_WU?$char_traits@_W@std@@@std@@QEAA@PEAV?$basic_streambuf@_WU?$char_traits@_W@std@@@1@@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@G@Z
+??1?$basic_iostream@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+?widen@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEBA_WD@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z
+?put@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV12@_W@Z
+MSVCP140.dll
+PathIsNetworkPathW
+PathIsDirectoryW
+SHLWAPI.dll
+?GetLogger@@YAAEBVLogger@log4cplus@@XZ
+??1Logger@log4cplus@@UEAA@XZ
+??0Logger@log4cplus@@QEAA@AEBV01@@Z
+?isEnabledFor@Logger@log4cplus@@QEBA_NH@Z
+?get_macro_body_oss@detail@log4cplus@@YAAEAV?$basic_ostringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ
+?macro_forced_log@detail@log4cplus@@YAXAEBVLogger@2@HAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEBDH2@Z
+log4cplus.dll
+PathCchRemoveFileSpec
+api-ms-win-core-path-l1-1-0.dll
+WTSQueryUserToken
+WTSAPI32.dll
+BluetoothFindFirstRadio
+BluetoothFindRadioClose
+BluetoothGetRadioInfo
+BluetoothFindNextRadio
+bthprops.cpl
+__CxxFrameHandler4
+__std_exception_destroy
+__std_exception_copy
+__std_terminate
+_purecall
+wcsstr
+_CxxThrowException
+memchr
+memcmp
+memcpy
+memmove
+memset
+__C_specific_handler
+__current_exception
+__current_exception_context
+__std_type_info_destroy_list
+VCRUNTIME140_1.dll
+VCRUNTIME140.dll
+_invalid_parameter_noinfo_noreturn
+strtod
+strtoll
+localeconv
+_errno
+__stdio_common_vsprintf
+strtoull
+strtol
+wcstol
+tolower
+wcscpy_s
+_invalid_parameter_noinfo
+_localtime64_s
+_beginthreadex
+strtoul
+wcstoul
+terminate
+_time64
+toupper
+_wcsicmp
+towlower
+_wtoi
+wcsncmp
+strcpy_s
+ceilf
+malloc
+_callnewh
+_seh_filter_dll
+_configure_narrow_argv
+_initialize_narrow_environment
+_initialize_onexit_table
+_register_onexit_function
+_execute_onexit_table
+_crt_atexit
+_cexit
+_initterm
+_initterm_e
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll
+?WcharToChar@DE@@YAPEADPEB_W@Z
+?GetOemString1@SmBiosHelper@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ
+?GetInstance@MachineType@ProductAdapt@@SAAEBV12@XZ
+?GetProductName@MachineType@ProductAdapt@@QEBAHAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?GetPromoteParamInfo@MachineType@ProductAdapt@@QEBAHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAUPromoteParamInfo@2@@Z
+?GetInstance@ProductFeature@ProductAdapt@@SAAEBV12@XZ
+?GetFingerprintStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+?GetFingerprintProductStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+?GetKeyboardLightStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+?GetTriFingerSnipperStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+?GetEnergyStarStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+?GetSQGDataStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+?GetSupportTimeBackStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+?GetSupportLiveBroadcast@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+?GetSupportCameraCorrection@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+?GetSupportCameraDenoise@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+?StringToWStringByUTF8@StringProc@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z
+ReleaseSRWLockExclusive
+AcquireSRWLockExclusive
+WakeAllConditionVariable
+SleepConditionVariableSRW
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+IsDebuggerPresent
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+__RTDynamicCast
+.?AV_com_error@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVbad_array_new_length@std@@
+.?AVruntime_error@std@@
+.?AVother_error@detail@nlohmann@@
+.?AVexception@detail@nlohmann@@
+.?AVinvalid_iterator@detail@nlohmann@@
+.P6A?AV?$shared_ptr@VMBAPlugin@@@std@@XZ
+.?AVbad_cast@std@@
+.?AVtype_error@detail@nlohmann@@
+.?AVout_of_range@detail@nlohmann@@
+.?AVparse_error@detail@nlohmann@@
+.?AVout_of_range@std@@
+.?AV<lambda_eb66335423023faa94e181dc623c04ec>@@
+.?AVrange_error@std@@
+.?AV<lambda_f8d44cd9f25935dee19adfa1c4cbf3ab>@@
+.?AV<lambda_cab039183c71b8555cf6b5e42d561f51>@@
+.?AV<lambda_c9c416df1f2f10c458a6dd217b631f7c>@@
+.?AV<lambda_4e1357ba0dec71a6851ab6ec83ce4021>@@
+.?AV<lambda_f4b258788d17d3bf41f020eca7e7b147>@@
+.?AV<lambda_b9ab914de5d739e5e9d9272a98079e13>@@
+.?AV<lambda_756227c3749ebe47c4dda1e813ff7141>@@
+.?AV<lambda_7a80e8e3366ace9ef8582680551486de>@@
+.?AV?$_Binder@U_Unforced@std@@AEAP8HwSettingNotifyMain@Ux@Hwa@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV345@AEBU?$_Ph@$00@2@@std@@
+.?AV<lambda_c24f58eb6283cca3558387d41b797178>@@
+.?AV<lambda_cdeab5e17bf8e9e4e4962bdf4891629d>@@
+.?AV<lambda_50c9c689b8e3023b6fcb2817516bd735>@@
+.?AV<lambda_9a13af8bbdc55cba2ab19d1fc88db8ed>@@
+.?AV<lambda_7d543d8553fce832b2234ed9c4198437>@@
+.?AV<lambda_dbea5d47b3fd28fde0a2849557356314>@@
+.?AVCControlUI@DuiLib@@
+.?AV<lambda_b1aae335897103f23994cad42853ec32>@@
+.?AV?$_Binder@U_Unforced@std@@AEAP8HwSettingWnd@Ux@Hwa@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV345@AEBU?$_Ph@$00@2@@std@@
+.?AV<lambda_7eb5ed978710bc1e14830bb57963bf66>@@
+.?AV?$_Binder@U_Unforced@std@@P8HwSettingWnd@Ux@Hwa@@EAAX_N@ZPEAV345@AEBU?$_Ph@$00@2@@std@@
+.?AV<lambda_8264dd8843dd5b990909723ae46ebc11>@@
+.?AV<lambda_9230ed62833e39fd870cbb9da13e5d27>@@
+.?AV<lambda_d959e7c87944318d76965cc94db09fcf>@@
+.?AV?$_Binder@U_Unforced@std@@P8HwSettingWnd@Ux@Hwa@@EAAXXZPEAV345@@std@@
+.?AV<lambda_3e3c1c379d808daaaa4387aa8ff91c10>@@
+.?AVCHorizontalLayoutUI@DuiLib@@
+.?AV<lambda_51dc9b2e8115697f5eac06c18b6cd09d>@@
+.?AV<lambda_14a8af71426705a2148a0f4f67b2aa90>@@
+.?AV<lambda_0cb73ac456b91316dfac94ccf5c3cbba>@@
+.?AV<lambda_3d20ae3e0195de2c1aa50b670ffcb0e9>@@
+.?AVCOptionUI@DuiLib@@
+.?AV<lambda_4ebaaa4000b09eb53d4d09fb5e7ed6ed>@@
+.?AV<lambda_870a2925f2008bd0ac86f2d00bcd9411>@@
+.?AV<lambda_6688b43fb5b58711253fa32184190929>@@
+.?AVCLabelUI@DuiLib@@
+.?AVCVerticalLayoutUI@DuiLib@@
+.?AV<lambda_0cef367ae1c5c324916f526b753c88a9>@@
+.?AV<lambda_3e570bb2da19fbef945a6ff294cfc90b>@@
+.?AV<lambda_b51f31fd3fbe844fd3ca5e8bccc0d360>@@
+.?AV<lambda_34c137a60d15b60e016bf409d5d12a1b>@@
+.?AV<lambda_b78eebca5c0ac56216e3633bb41ca3b1>@@
+.?AV<lambda_4ec3deeb0862d71101de2dca7cbce2f4>@@
+.?AVCButtonUI@DuiLib@@
+.?AV<lambda_04ae8c14cf1d9c721b481edac5af0ce2>@@
+.?AV?$_Binder@U_Unforced@std@@P8HwSettingWnd@Ux@Hwa@@EAAXPEAX@ZAEBQEAV345@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@AEAP8SystemConfigMsg@Config@Mba@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV345@AEBU?$_Ph@$00@2@@std@@
+.?AV<lambda_3c7955eafc7238c55203eb3f8f34f8f7>@@
+.?AV<lambda_7e4e579ad6273c783cf95dbca2465d1d>@@
+.?AV<lambda_6092972ded65a1b6ad5055bfdfa97303>@@
+.?AV<lambda_e24cf0cab0152491695d42039a0b454f>@@
+.?AV<lambda_b57bc8a115481c15604e6e845fd19885>@@
+.?AV<lambda_16f3658acb92ea9b4be0eda1fa765721>@@
+.?AV<lambda_8a4fb6dece9272eaf76d35976f7ae2ea>@@
+.?AV<lambda_8456b6c9c9aa6f283500dd8a6bf0ef5a>@@
+.?AV<lambda_eb93f61a342bedc51d3010cd861d6fef>@@
+.?AV<lambda_e7e039952537f42c3d1cac5d2457fc66>@@
+.?AV<lambda_b2bfa6eff2df3f824c4466de2068a1eb>@@
+.?AV<lambda_c6b31256ab907816504dcb71233181f7>@@
+.?AV<lambda_9679b73179a8de9c23750a75819a7972>@@
+.?AVCTextUI@DuiLib@@
+.?AVtype_info@@
+.?AVWindowImplBase@DuiLib@@
+.?AVIDialogBuilderCallback@DuiLib@@
+.?AVIMessageFilterUI@DuiLib@@
+.?AVCNotifyPump@DuiLib@@
+.?AVIQueryControlText@DuiLib@@
+.?AVHnPopupHoverItemView@Ux@Hwa@@
+.?AVINotifyUI@DuiLib@@
+.?AVCWindowWnd@DuiLib@@
+.?AVEventDRprtConfig@@
+.?AVHwFeedbackWnd@Ux@Hwa@@
+.?AVHwAboutWnd@Ux@Hwa@@
+.?AV?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$_Func_base@V?$shared_ptr@VMBAPlugin@@@std@@$$V@std@@
+.?AVMBAUIPlugin@@
+.?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AVios_base@std@@
+.?AVHwPluginSetting@Ux@Hwa@@
+.?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@
+.?AVCDelegateBase@DuiLib@@
+.?AV?$_Iosb@H@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$_Func_impl_no_alloc@P6A?AV?$shared_ptr@VMBAPlugin@@@std@@XZV12@$$V@std@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AVMBAPlugin@@
+.?AV_Ref_count_base@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$CDelegate@VHwSettingNotifyMain@Ux@Hwa@@V123@@DuiLib@@
+.?AV?$_Ref_count_obj2@VHwPluginSetting@Ux@Hwa@@@std@@
+.?AVHwSettingConfirmUI@Ux@Hwa@@
+.?AVHwPhoneTip@Ux@Hwa@@
+.?AVcodecvt_base@std@@
+.?AV_Facet_base@std@@
+.?AU_Crt_new_delete@std@@
+.?AV?$basic_ostringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$wstring_convert@V?$codecvt_utf8@_W$0BAPPPP@$0A@@std@@_WV?$allocator@_W@2@V?$allocator@D@2@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_4e1357ba0dec71a6851ab6ec83ce4021>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_c9c416df1f2f10c458a6dd217b631f7c>@@X$$V@std@@
+.?AVHwSettingUI@Ux@Hwa@@
+.?AV?$_Func_impl_no_alloc@V<lambda_f4b258788d17d3bf41f020eca7e7b147>@@X$$V@std@@
+.?AV?$_Func_base@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_f8d44cd9f25935dee19adfa1c4cbf3ab>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_cab039183c71b8555cf6b5e42d561f51>@@X$$V@std@@
+.?AV?$codecvt_utf8@_W$0BAPPPP@$0A@@std@@
+.?AVfacet@locale@std@@
+.?AV?$codecvt@_WDU_Mbstatet@@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_eb66335423023faa94e181dc623c04ec>@@X$$V@std@@
+.?AVHwSettingNotifyMain@Ux@Hwa@@
+.?AV?$_Func_impl_no_alloc@V<lambda_b9ab914de5d739e5e9d9272a98079e13>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_7a80e8e3366ace9ef8582680551486de>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@AEAP8HwSettingNotifyMain@Ux@Hwa@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV345@AEBU?$_Ph@$00@2@@std@@XAEAUTagIPCMessageItem@@@std@@
+.?AV?$_Func_base@XAEAUTagIPCMessageItem@@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_756227c3749ebe47c4dda1e813ff7141>@@X$$V@std@@
+.?AV?$basic_stringbuf@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_14a8af71426705a2148a0f4f67b2aa90>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_0cb73ac456b91316dfac94ccf5c3cbba>@@X$$V@std@@
+.?AV?$_Func_base@X_N@std@@
+.?AVIOChannel@@
+.?AV?$_Func_impl_no_alloc@V<lambda_0cef367ae1c5c324916f526b753c88a9>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_870a2925f2008bd0ac86f2d00bcd9411>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_b51f31fd3fbe844fd3ca5e8bccc0d360>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_d959e7c87944318d76965cc94db09fcf>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_dbea5d47b3fd28fde0a2849557356314>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_9a13af8bbdc55cba2ab19d1fc88db8ed>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8HwSettingWnd@Ux@Hwa@@EAAXPEAX@ZAEBQEAV345@AEBU?$_Ph@$00@2@@std@@XPEAX@std@@
+.?AVHwSettingWnd@Ux@Hwa@@
+.?AV?$_Func_impl_no_alloc@V<lambda_8264dd8843dd5b990909723ae46ebc11>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@AEAP8HwSettingWnd@Ux@Hwa@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV345@AEBU?$_Ph@$00@2@@std@@XAEAUTagIPCMessageItem@@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_c24f58eb6283cca3558387d41b797178>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_cdeab5e17bf8e9e4e4962bdf4891629d>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_3e570bb2da19fbef945a6ff294cfc90b>@@X$$V@std@@
+.?AVIPCDataIO@@
+.?AV?$_Func_impl_no_alloc@V<lambda_7d543d8553fce832b2234ed9c4198437>@@X$$V@std@@
+.?AVIpcBufferBuild@@
+.?AV?$basic_ostream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_51dc9b2e8115697f5eac06c18b6cd09d>@@X$$V@std@@
+.?AV?$_Func_base@XPEAX@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_7eb5ed978710bc1e14830bb57963bf66>@@X$$V@std@@
+.?AV?$basic_ios@_WU?$char_traits@_W@std@@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_b1aae335897103f23994cad42853ec32>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_4ebaaa4000b09eb53d4d09fb5e7ed6ed>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_3d20ae3e0195de2c1aa50b670ffcb0e9>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_34c137a60d15b60e016bf409d5d12a1b>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_3e3c1c379d808daaaa4387aa8ff91c10>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_04ae8c14cf1d9c721b481edac5af0ce2>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8HwSettingWnd@Ux@Hwa@@EAAX_N@ZPEAV345@AEBU?$_Ph@$00@2@@std@@X_N@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_b78eebca5c0ac56216e3633bb41ca3b1>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_6688b43fb5b58711253fa32184190929>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_50c9c689b8e3023b6fcb2817516bd735>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_4ec3deeb0862d71101de2dca7cbce2f4>@@X$$V@std@@
+.?AV?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@
+.?AUIIPCDataIO@@
+.?AV?$_Func_impl_no_alloc@V<lambda_9230ed62833e39fd870cbb9da13e5d27>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8HwSettingWnd@Ux@Hwa@@EAAXXZPEAV345@@std@@X$$V@std@@
+.?AV?$basic_ostringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AVPrivacyStatementWnd@Ux@Hwa@@
+.?AVServiceOptionUI@@
+.?AVIUIAnimation@DuiLib@@
+.?AVCUIAnimation@DuiLib@@
+.?AVCAnimPanelUI@DuiLib@@
+.?AVStopServerWnd@Ux@Hwa@@
+.?AVOnekeyWnd@Config@Mba@@
+.?AV?$codecvt_utf8_utf16@_W$0BAPPPP@$0A@@std@@
+.?AV?$wstring_convert@V?$codecvt_utf8_utf16@_W$0BAPPPP@$0A@@std@@_WV?$allocator@_W@2@V?$allocator@D@2@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@AEAP8SystemConfigMsg@Config@Mba@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV345@AEBU?$_Ph@$00@2@@std@@XAEAUTagIPCMessageItem@@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_6092972ded65a1b6ad5055bfdfa97303>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_e7e039952537f42c3d1cac5d2457fc66>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_9679b73179a8de9c23750a75819a7972>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_eb93f61a342bedc51d3010cd861d6fef>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_8456b6c9c9aa6f283500dd8a6bf0ef5a>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_b57bc8a115481c15604e6e845fd19885>@@X$$V@std@@
+.?AV?$basic_iostream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_7e4e579ad6273c783cf95dbca2465d1d>@@X$$V@std@@
+.?AV?$basic_stringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_c6b31256ab907816504dcb71233181f7>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_b2bfa6eff2df3f824c4466de2068a1eb>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_e24cf0cab0152491695d42039a0b454f>@@X$$V@std@@
+.?AVSystemConfigUI@Config@Mba@@
+.?AV?$basic_istream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_8a4fb6dece9272eaf76d35976f7ae2ea>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_16f3658acb92ea9b4be0eda1fa765721>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_3c7955eafc7238c55203eb3f8f34f8f7>@@X$$V@std@@
+.?AVHwAddNewWnd@Ux@Hwa@@
+.?AVRemoveBoundDeviceDialog@@
+.?AVTOFTestStudyWnd@Config@Mba@@
+.?AVWebcastOptimizationDialog@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' processorArchitecture='amd64' publicKeyToken='6595b64144ccf1df' language='*' />
+    </dependentAssembly>
+  </dependency>
+</assembly>
+0L1 0
+GlobalSign Root CA - R31
+GlobalSign1
+GlobalSign0
+200728000000Z
+290318000000Z0S1
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+p\$x %
+Bng~B
+tsg1z
+n0l0-
+!http://ocsp.globalsign.com/rootr30;
+/http://secure.globalsign.com/cacert/root-r3.crt06
+/0-0+
+%http://crl.globalsign.com/root-r3.crl0G
+@0>0<
+&https://www.globalsign.com/repository/0
+b wul
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+200728000000Z
+300728000000Z0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+-http://ocsp.globalsign.com/codesigningrootr450F
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+:0806
+0http://crl.globalsign.com/codesigningrootr45.crl0U
+N0L0A
+&https://www.globalsign.com/repository/0
+jh4%B
+wF*=#}(s
+1R95)
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+231215060929Z
+261128091510Z0
+Private Organization1
+91440300MA5G49LC9K1
+Guangdong1
+Shenzhen1
+Guangdong1
+Shenzhen1^0\
+34011
+Honor Device Co., Ltd.1
+Honor Device Co., Ltd.0
+fKz|fz
+(nkd_
+aJM|tu
+@http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+3http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+N0L0A
+&https://www.globalsign.com/repository/0
+@0>0<
+6http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+JB]b$
+"cp`k
+0l0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 2020
+qLPVM
+(Pefm
+LJ6VU
+RwsxR
+th'6o-
+20250214045036Z0
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 2025
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+250109084043Z
+360107084043Z0P1
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 20250
+xc#|(
+[fC@*82
+i0g0;
+/http://subca.repository.certum.pl/ctsca2021.cer0(
+http://subca.ocsp-certum.com0
+2000.
+(http://subca.crl.certum.pl/ctsca2021.crl0
+\8=x;
+&n|<j
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+210519053207Z
+360518053207Z0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+g!5 e
+)0'0%
+http://crl.certum.pl/ctnca2.crl0l
+`0^0(
+http://subca.ocsp-certum.com02
+&http://repository.certum.pl/ctnca2.cer09
+2000.
+http://www.certum.pl/CPS0
+iMi=}B
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1"0 
+Certum Trusted Network CA0
+210531064306Z
+290917064306Z0
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+dg?":
+cyD~Kc$
+.4?)LR
+(0&0$
+http://crl.certum.pl/ctnca.crl0k
+_0]0(
+http://subca.ocsp-certum.com01
+%http://repository.certum.pl/ctnca.cer09
+2000.
+http://www.certum.pl/CPS0
+[.&iB<
+Se"u-
+0k0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+250214045036Z07
+/1(0&0$0"
+jj0o0Z
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+
+### UTF16 strings (667)
+HARDWARE\DESCRIPTION\System\Product
+Software\HONOR\BIOS
+Software\Microsoft\Windows NT\CurrentVersion
+HARDWARE\DESCRIPTION\System\BIOS
+SOFTWARE\PCManager\HNLoginGuide
+\Software\PCManager\LastestSetting
+\Control Panel\Desktop\PerMonitorSettings
+DpiValue
+LastestOSVersion
+LastestDPIValue
+LastestDPIIndex
+CurrentBuild
+DeviceTypeEx
+BIOSCountryCode
+ERROR : Unable to initialize critical section in CAtlBaseModule
+gtextContent
+HnPopupHoverItemView
+SuperTerminalPrivacy
+HnCalendarPrivacyAgreed
+HonorShareConect
+Capture
+SuperCallSwitch
+SuperHandoffSwitch
+SuperNotificationSwitch
+NetworkSharingSwitch
+appsuggestion
+FirstSetApp
+tab_setting
+tab_set_announce
+tab_set_basic
+tab_set_myphone
+tab_set_hishare
+tab_set_bkrecom
+tab_set_about
+layout/fbrecord.xml
+main_tab_container
+layout/no_feedback.xml
+disconnect
+layout/setting_disconnect.xml
+btn_set_distip
+btn_set_cancel
+label_set_version_tip
+edit_record
+edit_record_sa
+label_des_tip
+btn_bk_comit
+fankuiwndclosebtn
+btn_set_revise
+btn_set_update
+text_set_policy
+btn_set_connect
+btn_set_disconnect
+btn_set_start
+btn_set_app_suggestion
+btn_boot_software_remind
+btn_stop_server
+opt_set_update
+opt_set_self_update
+opt_set_sqgdata_update
+opt_set_skills_update
+opt_set_force_update
+opt_set_bigdata_ux_plan
+open_bigdata_ux_plan_html
+opt_set_min
+opt_set_close
+btn_set_open
+text_set_receiv
+IDS_PWM_CONFIRM_CANCEL
+btn_set_honorcalendar
+btn_set_share
+privacy_super_terminate_statement
+btn_privacy_statement
+btnSystemBootTimeSwitch
+btnAntiVirusBackgroundSwitch
+btnHarassmentInterceptionSwitch
+btnComputerCleanSwitch
+controlComputerCleanDetailTip
+verBootSecure
+btnNotDisturbSwitch
+btnAntiVirusUSBSwitch
+powerSafeManageDetailTip
+layout\HnPopupHoverItemView.xml
+layout\PowerSafeManagePopupWin.xml
+btn_set_touchpad
+btn_set_touchpadKnuckleGesture
+btn_set_touchpadEdgeGesture
+btn_set_touchpadMouseMode
+btn_touchpad_lingmindu
+btn_touchpad_shock_intensity
+plugins\
+\HnSync\
+skin\
+..\BasicService\
+..\PCManager\
+..\OfficeCenter\
+tHwFeedbackWnd
+lclick
+layout/fankuiWnd.xml
+nHwAboutWnd
+layout/guanyuWnd_common_pc.xml
+layout/guanyuWnd_whitelogo.xml
+layout/guanyuWnd.xml
+CopyRightLabel
+IDS_SET_COPYRITHT_NEW
+IDS_SET_MTRAN
+label_set_version
+IDS_SET_CUR_VERSION_TYPE
+guanyuwndclosebtn
+\SOFTWARE\HONOR\PCManager\setting
+res\drawable\SystemConfig\PenDisclaimer.html
+res\drawable\SystemConfig\PenDisclaimer_En.html
+tabSystemConfigContent
+btnSystemConfigEntry
+btnSystemConfigBack
+btnSystemConfigMarkPair
+btnSetFingerprint
+btn_trifinger_start
+btnPenDriverDownload
+btnMoreHandwriteSetting
+btnPenDisclaimer
+btnKeyboardLight
+btnKeyboardLitil
+Onekey_btn
+btn_test_wave
+btn_test_press
+btn_test_DTap
+opt_SystemConfigInfo
+opt_Handwrite
+opt_Fingerprint
+opt_FN
+optHotkeyFirst
+optFunctionFirst
+opt_set_smart
+opt_set_press
+opt_set_wave
+opt_set_DTap
+opt_set_correction
+opt_set_denoise
+btn_set_system_reset
+layoutOption
+lytHandwriteOpt
+lytFingerprintOpt
+TriFingerSwitch
+layoutOnekey
+midlleline
+layoutKeyboard
+layoutKeyboardModel
+FileStoragePathLayout
+layoutSmart
+layoutTOFUseOption
+smartTof
+CameraCorrectionLayout
+CameraDenoiseLayout
+label_waveDes1
+label_waveDes2
+label_waveDes3
+label_PressDes1
+label_PressDes2
+label_PressDes3
+label_DTapDes1
+label_DTapDes2
+label_DTapDes3
+layout//webcastOptimization.xml
+setbtn
+MBAPluginsManager.dll
+\Google\Chrome\User Data\Local State
+\Microsoft\Edge\User Data\Local State
+HwSettingConfirmUI
+layout\setting_confirm.xml
+txtContent
+btnOK
+btnCancel
+center
+align
+\SOFTWARE\PCManager\HNLoginGuide
+\SOFTWARE\HONOR\PCManager\SmartOffice
+SOFTWARE\HONOR\PCManager\setting
+\SOFTWARE\PCManager\setting
+MonProcess.dll
+DriverUpdate_Instance
+stopservicewnd
+privacystatementwnd
+btn_set_push_accept_message
+pushmessage
+btn_set_receive_experience_question_accept_message
+ReceiveExperienceQuestionMessage
+showForceOpt
+textchanged
+setfocus
+timer
+\SOFTWARE\PCManager\TouchPadSetting
+checkupdate
+selfupdate
+SQGData
+skillsData
+verticalOther
+controlBoundary
+horizontalStopServer
+bind='IDS_SET_BK_COMIT'
+bind='IDS_SET_COMTIP'
+bind='IDS_SET_COM_FTIP'
+setting_new_version_effect
+file='drawable/setting/searching_334/
+searching
+.png'
+hishare
+C:\Windows\explorer.exe
+bind='IDS_PRIVACY_CLOSE_APP_SUGGESTION_CONTENT'
+label_touchpad_shock_intensity
+label_touchpad_lingmindu
+sensitivity
+shock
+mouseMode
+knuckle
+touchPadFunc
+autostart
+forceupdate
+bind='IDS_PRIVACY_CLOSE_HONOR_CALENDAR_CONTENT'
+bind='IDS_PRIVACY_CLOSE_HONOR_SHARE_CONTENT'
+res\drawable\setting\uxp.html
+minclose
+autoconnect
+seting_qudong
+force_Update_VLayout
+setting_qudong_layout
+manual_Update_VLayout
+seting_wenjian
+safety_protection
+assistant_protection
+opt_System
+sseting_new_power
+seting_privacy
+seting_other
+privacy-policy
+etext_set_opensource
+res\drawable\setting\osl.html
+text_bigdata_ux_plan
+fail to get html full path. 
+seting_power
+seting_yingjian
+opt_ITMonitor
+basic_setting_push_message_layout
+assistant
+basic_setting_other_layout_Tile
+basic_setting_other_layout
+basic_setting_receive_experience_question_layout
+settingmenu_setting
+settingmenu_fankui
+settingmenu_guanyu
+settingmenu_xinzeng
+settingmenu_pureOSReport
+seting_btname
+zh_cn
+(Default)
+SYSTEM\CurrentControlSet\Control\Nls\Locale
+\SOFTWARE\PCManager\PureSecurity\MonthReport
+PureOSReportMonthHandle
+PureOSReportMonth
+\SOFTWARE\HONOR\PCManager\Synergy
+WebcastOptimizationDialog
+SettingWnd
+layout/setting2_commonpc.xml
+layout/setting70.xml
+com.hihonor.id.pc
+07000000
+layout//RemoveBoundDevice.xml
+RemoveBoundDeviceDialog
+PhotoPath
+MusicPath
+VideoPath
+ReceivePath
+\SOFTWARE\HONOR\PCManager\Synergy\PairPhone2
+IsPaired
+PairedDeviceIsTrusted
+Summary
+IsConnected
+DevName
+DevType
+MrrorIsLiveMode
+IsPhoneMirrorSupported
+IsFileSystemSupported
+IsBootSoftWareRemind
+IsSystemBootTimePromptSupport
+IsAntiVirusBackGroundPromptSupport
+IsAntiVirusUSBPromptSupport
+IsNotDisturb
+IsOpen
+IsComputerCleanPromptSupport
+\SOFTWARE\PCManager\SoftIntercept
+bound_device_set
+layout/BoundDeviceMenu.xml
+layout\bound_device_item.xml
+MENU_BOUND_DEVICE_DISCONNECT
+MENU_BOUND_DEVICE_REMOVE
+bound_device_list
+bound_device_layout
+device_name
+device_conn_state
+phone_icon
+drawable\setting\ic_phone_@2x.png
+drawable\setting\ic_phone_gray_@2x.png
+drawable\setting\ic_pad_@2x.png
+drawable\setting\ic_pad_gray_@2x.png
+\Backup\Photos
+\Backup\Music
+\Backup\Videos
+\Screenshot
+mouseenter
+mouseleave
+scroll
+selectchanged
+return
+SubscribeIPCMessage fail,messageid=
+pguideTop
+guideText
+collaboration_setting_layout
+lyt_privacy_honor_calendar
+lyt_privacy_honor_share
+privacy_super_calendar_statement
+privacy_honor_share_statement
+IDS_PRIVACY_HONOR_CALENDAR_STATEMENT
+IDS_PRIVACY_HONOR_SHARE_STATEMENT
+basic_stop_server_layout
+join_ux_plan
+seting_trans_bolt
+Honor Share
+HONOR Magic-link
+ServiceOptionUI
+seting_qudong_zidongxiazai
+wifiauto
+\HwShare
+seting_wenjian_findme
+seting_wenjian_filepath
+seting_album_filepath
+setting_video_filepath
+setting_vcr_filepath
+IDS_START_WEBCAST_OPTIMIZATION_SUCCESS
+IDS_START_WEBCAST_OPTIMIZATION_SUCCESS_DESC
+IDS_CLOSE_WEBCAST_OPTIMIZATION_SUCCESS
+webcast_desc_text
+webcast_title
+IDS_START_WEBCAST_OPTIMIZATION
+IDS_START_WEBCAST_OPTIMIZATION_DESC
+IDS_CLOSE_WEBCAST_OPTIMIZATION
+IDS_CLOSE_WEBCAST_OPTIMIZATION_DESC
+Enter OnPhoneNameChangedWhilePaired
+Enter OnRecvPairState
+Enter OnRecvConnectState
+webcast_opyimization_layout
+webcast_optimization_switch
+phone_not_support_webcast
+time_back_layout
+time_back_content
+IDS_SETTING_TIME_BACK_DESCRIPTION
+time_back_switch
+btn_set_auto_record_docs
+btn_set_auto_record_clipboards
+recorddocs
+recordclipboards
+Discovery
+AutoDiscovery
+TimeBackSwitch
+seting_wenjian_localname_modify
+seting_wenjian_filepath_modify
+seting_album_filepath_modify
+btn_set_album_allow_auto_bkup
+setting_album_filepath_open
+setting_music_filepath_modify
+setting_music_filepath_open
+setting_video_filepath_modify
+setting_video_filepath_open
+seting_wenjian_localname_modify_ok
+seting_wenjian_localname_modify_no
+seting_send_file_animation
+seting_send_file_sound
+seting_window_screenshot_to_phone
+setting_vcr_filepath_modify
+setting_vcr_filepath_open
+multi_device_switch
+settingwndclosebtn
+btnIntelligentOpen
+btnSmartChargeOpen
+btnLoadStatusAlert
+btnPreloadAlert
+btnCpuAffinityAlert
+btnSafeManageBtn
+optHouseBtn
+optWorkBtn
+optTravelBtn
+btnMonitorSet
+btnAutoResolution
+btnAutoReapirOpen
+tip_btn
+minTaskBar_btn
+disconnect_btn
+seting_switch
+btnBrightnessOpen
+btnTurboChargeOpen
+AutoConnectSwitch
+dmulti_device_sync_layout
+multi_device_setting
+Not support account feature
+Set multiDeviceSyncLayout and multiDeviceSyncLayout visible is false
+get registry failed
+nMirrorOpenMode
+MirrorNoviceOpenMode
+label_set_start_tip
+file_connection_description
+phone_not_support
+file_connection_switch
+CastCloseTimes
+CastMiniTaskBar
+CastDisconnectStatus
+IDS_PWM_CONFIRM_CLOSE
+IDS_PWM_CONFIRM_CONTENT_MIN
+smartcharge
+file='drawable\setting\BtnOpen_True.png'
+PSMtitle
+customCharge_mode_layout
+safeManageOptLayout
+file='drawable\setting\BtnOpen_False.png'
+btnSuperOpen
+drawable\setting\BtnOpen_True.png
+drawable\setting\BtnOpen_False.png
+smartSaveEle_mode_layout
+seting_new_power_option_layout
+load_status_layout
+seting_power_option_layout
+boot_protection_layout
+verAntiVirus
+notDisturbCard
+text=&quot;bind='IDS_SETTING_VIRUS_NOT_DISTURB_EXCLUDE_ANTIVIRUS_DEC'&quot; 
+descripattr
+safeprotect
+Vertical_Layout_all
+preload_layout
+aintelligent_brightness_layout
+ScreenBrightStatus
+Software\PCManager\MBAPowerManager
+cpu_affinity_layout
+seting_wenjian_localname_2
+seting_wenjian_localname
+TransBolt_ShowSendAnimation
+TransBolt_PlaySendSound
+TransBolt_ForegroundWindow
+seting_send_file
+seting_send_sound
+seting_send_screenshot
+IDS_SYNERGY_SETTING_SAVE_PATH_TOO_LONG
+IDS_PC_ID_DIALOG_NOTE
+setting_music_filepath
+VCRPath
+height
+IDS_SETTINGS_DEVICE_CONNECT
+IDS_SETTINGS_DEVICE_DISCONNECT
+seting_faraway_lock
+OptionUI
+edit_account_proxy
+edit_password_proxy
+btn_login_proxy
+alabel_set_update
+basic_setting_bigdata_ux_plan_layout
+seting_qudong_option_layout
+seting_wenjian_option_layout
+seting_album_layout1
+seting_album_layout2
+seting_album_layout3
+setting_energystar
+basic_setting_energy_star_layout
+seting_hwshare_allow_findme_title
+seting_hwshare_allow_findme
+IDS_POWER_SAFE_MANAGE_STATU_TIPS
+IDS_POWER_SAFE_MANAGE_MODE_TIPS
+PSMStatusLayout
+seting_other_option_layout
+safeManageHouseTitle
+safeManageHouseDesc
+safeManageWorDesc
+IDS_SETTING_SAFE_MANAGE_HOUSE_TITLE_OLD
+IDS_SETTING_SAFE_MANAGE_HOUSE_DESC
+IDS_SETTING_SAFE_MANAGE_WORK_DESC
+safeManagerTravelDesc
+IDS_SETTING_SAFE_MANAGE_HOUSE_DESC_NEW
+IDS_SETTING_SAFE_MANAGE_WORK_DESC_NEW
+IDS_SETTING_SAFE_MANAGE_TRAVEL_DESC_NEW
+smartCharge_mode_layout
+phoneleaveon
+SOFTWARE\HONOR\PCManager\Synergy
+DisableLockWorkstation
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon
+seting_faraway_title
+seting_faraway_layout
+lytITMonitor
+opt_ITMonitor_layout
+AutoResolution
+\Software\PCManager\ITMonitor
+file='drawable/setting/BtnOpen_True.png'
+file='drawable/setting/BtnOpen_False.png'
+ms-settings:display
+RepairLayout
+RepairTitle
+AutoRepair
+\Software\HONOR\PCManager\setting
+btnSmartChargeHelp
+IDS_SMART_CHARGE_FULL_TIPS
+arrowLeft
+smartChargeTitle
+width
+IDS_SETTING_COMPUTER_CLEAN_DETAIL_PROMPT
+HnSettingPopupHoverView
+IDS_POWER_SAFE_MANAGER_MODE_DESC
+turboCharge_mode_layout
+turboChargeTip
+res\layout\
+IDS_PCM_TERMS_OF_SERVICE_COMMON_1_HONOR
+IDS_PCM_TERMS_OF_SERVICE_CN_1_HONOR
+layout\PrivacyStatementWnd.xml
+private_statement_text
+china_look1
+btn_confirm
+shell execute error: 
+btn_cancel
+layout\StopserverWnd.xml
+MBAMessageCenter.exe
+notice_text
+PCManagerMainService.exe
+layout/COnekeyWnd.xml
+OnekeyWnd
+btn_onekey_ok
+btn_onekey_close
+btn_onekey_cancel
+\Control Panel\International\Geo
+config\LocalCountryMappingSettings.xml
+Nation
+Query user token falied when get user folder.
+.SetFolder failed.
+\OneHop
+\Magic-link
+BTName
+para /useMachineSkillTopF
+Software\PCManager\TOF
+Software\PCManager\MessageTips
+file='drawable/SystemConfig/img_useF12_default_@2x.png'
+file='drawable/SystemConfig/ic_settingcenter_confirm.png' source='0,0,21,21' dest='12,9,26,23'
+file='drawable/SystemConfig/img_useFn_default_@2x.png'
+file='drawable/SystemConfig/img_useF12_selected_@2x.png'
+file='drawable/SystemConfig/img_useFn_selected_@2x.png'
+keyboard_light_menu0
+keyboard_light_menu2
+keyboard_light_menu1
+keyboard_light_menu4
+keyboard_light_menu3
+keyboard_light_menu6
+keyboard_light_menu5
+keyboard_litil_menu1
+keyboard_litil_menu0
+keyboard_litil_menu3
+keyboard_litil_menu2
+onekey
+opentrifinger
+winpe
+el_gr
+nzh-CN
+10,10,10,0
+layoutOnekey_btn
+padding
+biosOnekey
+textReset
+layoutReset
+textResetDesc
+wordbreak
+BRN-FXXC
+keyboard_light_menu
+keyboard light click, value:
+keyboard_litil_menu
+)LRShowStudyWnd
+LRactivation
+TAPShowStudyWnd
+TAPactivation
+Show TOF study window error. Wnd type is
+Set TOF first use registry error. Errorcode is
+ssettingwndbackbtn
+pressLoading
+waveLoading
+file='drawable/setting/setting_press/press_.png' reverse = 'true'
+file='drawable/setting/setting_slide/slide_.png' reverse = 'true'
+opt_System_layout
+keyboard light click
+btn_check_tutorial click
+btn_check_tutorial
+layout/settingMenu_keyboard.xml
+settingMenukeyboard
+layout/settingMenu_keyboard_litil.xml
+line1
+line0
+line3
+line2
+line5
+line4
+ms-settings:bluetooth
+line6
+useKeyBoardFn
+useKeyBoardF12
+IDS_SYSCONF_KEYBOARD_LIGHT_MODE_0
+IDS_SYSCONF_KEYBOARD_LIGHT_MODE_1
+IDS_SYSCONF_KEYBOARD_LIGHT_MODE_2
+IDS_SYSCONF_KEYBOARD_LIGHT_MODE_3
+IDS_SYSCONF_KEYBOARD_LIGHT_MODE_4
+IDS_SYSCONF_KEYBOARD_LIGHT_MODE_5
+IDS_SYSCONF_KEYBOARD_LIGHT_MODE_6
+IDS_SYSCONF_KEYBOARD_LITIL_MODE_1
+IDS_SYSCONF_KEYBOARD_LITIL_MODE_0
+IDS_SYSCONF_KEYBOARD_LITIL_MODE_3
+IDS_SYSCONF_KEYBOARD_LITIL_MODE_2
+ms-settings:pen
+fail to get url full path. 
+ms-settings:signinoptions
+XinzengWnd
+xinzeng_root
+layout/xinzenggongnengWnd.xml
+xinzengwndclosebtn
+tblContent
+cancelBtn
+remove_tips
+agreeRemoveBtn
+GetWindowRect failed
+SetWindowPos HWND_TOPMOST failed
+::GetMonitorInfo failed
+bind='IDS_DIALOG_DEVICE_REMOVE_TITLE'
+SetWindowPos HWND_NOTOPMOST failed
+layout/TOFTestStudyWnd.xml
+TOFTestStudyWnd
+TapShowStudyWnd
+no_tips_Check
+IDS_SYSCONF_SMART_GESTURE_WAVE_TIPS4
+title
+IDS_SYSCONF_SMART_GESTURE_PRESS_TIPS3
+webcast_desc_tip
+start_or_close_webcast_layout
+close_btn
+cancel_btn
+start_or_close_webcast_success_layout
+start_btn
+)ok_btn
+'////////\\\\\\\\
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+VS_VERSION_INFO
+StringFileInfo
+080404b0
+CompanyName
+Honor Device Co., Ltd.
+FileDescription
+hwa_plugin_mysetting
+FileVersion
+11.0.0.0
+InternalName
+hwa_plugin_mysetting.dll
+LegalCopyright
+Copyright (C) Honor Device Co., Ltd. 2016-2020. All rights reserved.
+OriginalFilename
+hwa_plugin_mysetting.dll
+ProductName
+hwa_plugin_mysetting
+ProductVersion
+11.0.0.0
+VarFileInfo
+Translation
+
+### GUIDs found (0)

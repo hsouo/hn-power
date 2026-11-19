@@ -1,0 +1,173 @@
+18002fd70 mov      qword ptr [rsp + 8], rbx 
+18002fd75 mov      qword ptr [rsp + 0x18], rsi 
+18002fd7a mov      qword ptr [rsp + 0x20], rdi 
+18002fd7f push     r14 
+18002fd81 sub      rsp, 0x390 
+18002fd88 mov      rax, qword ptr [rip + 0x932b1] 
+18002fd8f xor      rax, rsp 
+18002fd92 mov      qword ptr [rsp + 0x380], rax 
+18002fd9a mov      ebx, edx 
+18002fd9c xor      r14d, r14d 
+18002fd9f mov      dword ptr [rsp + 0x24], r14d 
+18002fda4 xor      dil, dil 
+18002fda7 mov      r8d, edx 
+18002fdaa xor      edx, edx 
+18002fdac mov      ecx, 0x410 
+18002fdb1 call     qword ptr [rip + 0xe369] ->KERNEL32:OpenProcess
+18002fdb7 mov      rsi, rax 
+18002fdba mov      qword ptr [rsp + 0x48], rax 
+18002fdbf test     rax, rax 
+18002fdc2 je       0x180030052 
+18002fdc8 xor      edx, edx 
+18002fdca mov      r8d, 0x20a 
+18002fdd0 lea      rcx, [rsp + 0x170] 
+18002fdd8 call     0x18003922a 
+18002fddd mov      r9d, 0x104 
+18002fde3 lea      r8, [rsp + 0x170] 
+18002fdeb xor      edx, edx 
+18002fded mov      rcx, rsi 
+18002fdf0 call     qword ptr [rip + 0xe30a] ->KERNEL32:K32GetModuleFileNameExW
+18002fdf6 xor      edx, edx 
+18002fdf8 lea      rcx, [rsp + 0x170] 
+18002fe00 call     qword ptr [rip + 0xe242] ->HFileInfo:?VerifyDigitalSignature@FileInfo@@YA_NPEB_W_N@Z
+18002fe06 movzx    edi, al 
+18002fe09 mov      byte ptr [rsp + 0x20], al 
+18002fe0d xor      edx, edx 
+18002fe0f mov      r8d, 0xf8 
+18002fe15 lea      rcx, [rsp + 0x70] 
+18002fe1a call     0x18003922a 
+18002fe1f lea      rcx, [rsp + 0x70] 
+18002fe24 call     0x1800085e0 
+18002fe29 nop       
+18002fe2a lea      rdx, [rip + 0x8188f] 
+18002fe31 lea      rcx, [rsp + 0x80] 
+18002fe39 call     0x180020780 
+18002fe3e mov      edx, ebx 
+18002fe40 mov      rcx, rax 
+18002fe43 call     qword ptr [rip + 0xe5b7] ->MSVCP140:??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@K@Z
+18002fe49 lea      rdx, [rip + 0x81868] 'szPath:'
+18002fe50 mov      rcx, rax 
+18002fe53 call     0x180008d40 
+18002fe58 lea      rdx, [rsp + 0x170] 
+18002fe60 mov      rcx, rax 
+18002fe63 call     0x180020780 
+18002fe68 lea      rdx, [rip + 0x81839] ' bResult:'
+18002fe6f mov      rcx, rax 
+18002fe72 call     0x180008d40 
+18002fe77 movzx    edx, dil 
+18002fe7b mov      rcx, rax 
+18002fe7e call     qword ptr [rip + 0xe604] ->MSVCP140:??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@_N@Z
+18002fe84 lea      rdx, [rip + 0x7efa5] 
+18002fe8b mov      rcx, rax 
+18002fe8e call     0x180008d40 
+18002fe93 lea      rdx, [rip + 0x817e6] 'IOCPServer::VerifyClientSignature'
+18002fe9a mov      rcx, rax 
+18002fe9d call     0x180008d40 
+18002fea2 lea      rdx, [rip + 0x7ef63] 
+18002fea9 mov      rcx, rax 
+18002feac call     0x180008d40 
+18002feb1 lea      rdx, [rip - 0x26f08] 
+18002feb8 mov      rcx, rax 
+18002febb call     qword ptr [rip + 0xe46f] ->MSVCP140:??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z
+18002fec1 nop       
+18002fec2 xorps    xmm0, xmm0 
+18002fec5 movups   xmmword ptr [rsp + 0x28], xmm0 
+18002feca mov      qword ptr [rsp + 0x38], r14 
+18002fecf mov      qword ptr [rsp + 0x40], 7 
+18002fed8 mov      word ptr [rsp + 0x28], r14w 
+18002fede mov      dword ptr [rsp + 0x24], 2 
+18002fee6 mov      rcx, qword ptr [rsp + 0xf8] 
+18002feee mov      eax, ecx 
+18002fef0 and      al, 0x22 
+18002fef2 cmp      al, 2 
+18002fef4 je       0x18002ff24 
+18002fef6 mov      rax, qword ptr [rsp + 0xc8] 
+18002fefe mov      rdx, qword ptr [rax] 
+18002ff01 test     rdx, rdx 
+18002ff04 je       0x18002ff24 
+18002ff06 mov      rax, qword ptr [rsp + 0xa8] 
+18002ff0e mov      r9, qword ptr [rax] 
+18002ff11 cmp      rdx, qword ptr [rsp + 0xf0] 
+18002ff19 cmovb    rdx, qword ptr [rsp + 0xf0] 
+18002ff22 jmp      0x18002ff53 
+18002ff24 test     cl, 4 
+18002ff27 jne      0x18002ff8e 
+18002ff29 mov      rax, qword ptr [rsp + 0xc0] 
+18002ff31 mov      rdx, qword ptr [rax] 
+18002ff34 test     rdx, rdx 
+18002ff37 je       0x18002ff8e 
+18002ff39 mov      rax, qword ptr [rsp + 0xa0] 
+18002ff41 mov      r9, qword ptr [rax] 
+18002ff44 mov      rax, qword ptr [rsp + 0xd8] 
+18002ff4c movsxd   rcx, dword ptr [rax] 
+18002ff4f lea      rdx, [rdx + rcx*2] 
+18002ff53 sub      rdx, r9 
+18002ff56 mov      rax, r9 
+18002ff59 sar      rdx, 1 
+18002ff5c test     rax, rax 
+18002ff5f je       0x18002ff8e 
+18002ff61 lea      rcx, [rsp + 0x28] 
+18002ff66 cmp      rdx, 7 
+18002ff6a ja       0x18002ff88 
+18002ff6c mov      qword ptr [rsp + 0x38], rdx 
+18002ff71 lea      rbx, [rdx + rdx] 
+18002ff75 mov      r8, rbx 
+18002ff78 mov      rdx, r9 
+18002ff7b call     0x180039224 
+18002ff80 mov      word ptr [rsp + rbx + 0x28], r14w 
+18002ff86 jmp      0x18002ff8e 
+18002ff88 call     0x180006300 
+18002ff8d nop       
+18002ff8e lea      rcx, [rsp + 0x28] 
+18002ff93 cmp      qword ptr [rsp + 0x40], 7 
+18002ff99 cmova    rcx, qword ptr [rsp + 0x28] 
+18002ff9f call     qword ptr [rip + 0xe30b] ->KERNEL32:OutputDebugStringW
+18002ffa5 mov      rdx, qword ptr [rsp + 0x40] 
+18002ffaa cmp      rdx, 7 
+18002ffae jbe      0x18002ffeb 
+18002ffb0 lea      rdx, [rdx*2 + 2] 
+18002ffb8 mov      rcx, qword ptr [rsp + 0x28] 
+18002ffbd mov      rax, rcx 
+18002ffc0 cmp      rdx, 0x1000 
+18002ffc7 jb       0x18002ffe5 
+18002ffc9 add      rdx, 0x27 
+18002ffcd mov      rcx, qword ptr [rcx - 8] 
+18002ffd1 sub      rax, rcx 
+18002ffd4 add      rax, -8 
+18002ffd8 cmp      rax, 0x1f 
+18002ffdc jbe      0x18002ffe5 
+18002ffde call     qword ptr [rip + 0xe6ac] ->api-ms-win-crt-runtime-l1-1-0:_invalid_parameter_noinfo_noreturn
+18002ffe4 int3      
+18002ffe5 call     0x18003832c 
+18002ffea nop       
+18002ffeb mov      rax, qword ptr [rsp + 0x70] 
+18002fff0 movsxd   rcx, dword ptr [rax + 4] 
+18002fff4 lea      rax, [rip + 0x7f145] 
+18002fffb mov      qword ptr [rsp + rcx + 0x70], rax 
+180030000 mov      rax, qword ptr [rsp + 0x70] 
+180030005 movsxd   rcx, dword ptr [rax + 4] 
+180030009 lea      edx, [rcx - 0x98] 
+18003000f mov      dword ptr [rsp + rcx + 0x6c], edx 
+180030013 lea      rcx, [rsp + 0x88] 
+18003001b call     0x180008510 
+180030020 lea      rcx, [rsp + 0x90] 
+180030028 call     qword ptr [rip + 0xe312] ->MSVCP140:??1?$basic_iostream@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+18003002e lea      rcx, [rsp + 0x108] 
+180030036 call     qword ptr [rip + 0xe2ec] ->MSVCP140:??1?$basic_ios@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+18003003c nop       
+18003003d jmp      0x180030049 
+18003003f movzx    edi, byte ptr [rsp + 0x20] 
+180030044 mov      rsi, qword ptr [rsp + 0x48] 
+180030049 mov      rcx, rsi 
+18003004c call     qword ptr [rip + 0xe15e] ->KERNEL32:CloseHandle
+180030052 movzx    eax, dil 
+180030056 mov      rcx, qword ptr [rsp + 0x380] 
+18003005e xor      rcx, rsp 
+180030061 call     0x1800382d0 
+180030066 lea      r11, [rsp + 0x390] 
+18003006e mov      rbx, qword ptr [r11 + 0x10] 
+180030072 mov      rsi, qword ptr [r11 + 0x20] 
+180030076 mov      rdi, qword ptr [r11 + 0x28] 
+18003007a mov      rsp, r11 
+18003007d pop      r14 
+18003007f ret       

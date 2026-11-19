@@ -1,0 +1,109 @@
+﻿### 4 exports matched in MonPowerPlugin.dll
+==============================================================================================================
+### ?GetInstance@FirmwarePropertyExecutor@@SAAEAV1@XZ   func 0x1800022f0-0x18000237f (143 bytes)
+  0x1800022f0: push rbx
+  0x1800022f2: sub rsp, 0x20
+  0x1800022f6: mov ecx, dword ptr [rip + 0xdf44]
+  0x1800022fc: mov rax, qword ptr gs:[0x58]
+  0x180002305: mov edx, 4
+  0x18000230a: mov rax, qword ptr [rax + rcx*8]
+  0x18000230e: mov ecx, dword ptr [rdx + rax]
+  0x180002311: cmp dword ptr [rip + 0xdfe9], ecx
+  0x180002317: jle 0x180002372
+  0x180002319: lea rcx, [rip + 0xdfe0]
+  0x180002320: call 0x180006368
+  0x180002325: cmp dword ptr [rip + 0xdfd4], -1
+  0x18000232c: jne 0x180002372
+  0x18000232e: xorps xmm0, xmm0
+  0x180002331: xor eax, eax
+  0x180002333: movups xmmword ptr [rip + 0xdfae], xmm0
+  0x18000233a: mov qword ptr [rip + 0xdfb7], rax
+  0x180002341: lea rbx, [rip + 0xdfa0]
+  0x180002348: mov rcx, rbx
+  0x18000234b: call 0x1800026d0
+  0x180002350: lea rcx, [rip + 0x5759]
+  0x180002357: call 0x180006774
+  0x18000235c: nop 
+  0x18000235d: lea rcx, [rip + 0xdf9c]
+  0x180002364: call 0x1800062fc
+  0x180002369: mov rax, rbx
+  0x18000236c: add rsp, 0x20
+  0x180002370: pop rbx
+  0x180002371: ret 
+  0x180002372: lea rax, [rip + 0xdf6f]
+  0x180002379: add rsp, 0x20
+  0x18000237d: pop rbx
+  0x18000237e: ret 
+==============================================================================================================
+### ??1FirmwarePropertyExecutor@@QEAA@XZ   func 0x180002660-0x18000269b (59 bytes)
+  0x180002660: push rbx
+  0x180002662: sub rsp, 0x20
+  0x180002666: mov rbx, rcx
+  0x180002669: mov rcx, qword ptr [rcx + 0x10]
+  0x18000266d: test rcx, rcx
+  0x180002670: je 0x18000267b
+  0x180002672: mov rax, qword ptr [rcx]
+  0x180002675: call qword ptr [rax + 0xb0]
+  0x18000267b: mov rcx, qword ptr [rbx + 8]
+  0x18000267f: test rcx, rcx
+  0x180002682: je 0x180002692
+  0x180002684: call qword ptr [rip + 0x79ee]
+  0x18000268a: mov qword ptr [rbx + 8], 0
+  0x180002692: mov byte ptr [rbx], 0
+  0x180002695: add rsp, 0x20
+  0x180002699: pop rbx
+  0x18000269a: ret 
+==============================================================================================================
+### ??0FirmwarePropertyExecutor@@AEAA@XZ   func 0x1800026a0-0x1800026c4 (36 bytes)
+  0x1800026a0: push rbx
+  0x1800026a2: sub rsp, 0x20
+  0x1800026a6: xor eax, eax
+  0x1800026a8: mov byte ptr [rcx], 0
+  0x1800026ab: mov qword ptr [rcx + 8], rax
+  0x1800026af: mov rbx, rcx
+  0x1800026b2: mov qword ptr [rcx + 0x10], rax
+  0x1800026b6: call 0x1800026d0
+  0x1800026bb: mov rax, rbx
+  0x1800026be: add rsp, 0x20
+  0x1800026c2: pop rbx
+  0x1800026c3: ret 
+==============================================================================================================
+### ?GetInstance@MonPowerEvent@@SAAEAV1@XZ   func 0x1800033f0-0x18000349e (174 bytes)
+  0x1800033f0: push rbx
+  0x1800033f2: sub rsp, 0x20
+  0x1800033f6: mov ecx, dword ptr [rip + 0xce44]
+  0x1800033fc: mov rax, qword ptr gs:[0x58]
+  0x180003405: mov edx, 4
+  0x18000340a: mov rax, qword ptr [rax + rcx*8]
+  0x18000340e: mov ecx, dword ptr [rdx + rax]
+  0x180003411: cmp dword ptr [rip + 0xd1f9], ecx
+  0x180003417: jle 0x180003491
+  0x180003419: lea rcx, [rip + 0xd1f0]
+  0x180003420: call 0x180006368
+  0x180003425: cmp dword ptr [rip + 0xd1e4], -1
+  0x18000342c: jne 0x180003491
+  0x18000342e: xor r9d, r9d
+  0x180003431: mov r8b, 1
+  0x180003434: mov edx, 0x90000
+  0x180003439: lea rbx, [rip + 0xd090]
+  0x180003440: mov rcx, rbx
+  0x180003443: call qword ptr [rip + 0x6bc7]
+  0x180003449: mov word ptr [rip + 0xd196], 0
+  0x180003452: xor eax, eax
+  0x180003454: mov qword ptr [rip + 0xd195], rax
+  0x18000345b: mov qword ptr [rip + 0xd196], rax
+  0x180003462: mov qword ptr [rip + 0xd197], rax
+  0x180003469: mov dword ptr [rip + 0xd199], eax
+  0x18000346f: lea rcx, [rip + 0x5e9a]
+  0x180003476: call 0x180006774
+  0x18000347b: nop 
+  0x18000347c: lea rcx, [rip + 0xd18d]
+  0x180003483: call 0x1800062fc
+  0x180003488: mov rax, rbx
+  0x18000348b: add rsp, 0x20
+  0x18000348f: pop rbx
+  0x180003490: ret 
+  0x180003491: lea rax, [rip + 0xd038]
+  0x180003498: add rsp, 0x20
+  0x18000349c: pop rbx
+  0x18000349d: ret 

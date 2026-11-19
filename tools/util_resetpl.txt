@@ -1,0 +1,25 @@
+﻿### 1 exports matched in Util.dll
+==============================================================================================================
+### ?ResetCpuPl@PowerLimit@@QEAAXXZ   func 0x1800e28e0-0x1800e2937 (87 bytes)
+  0x1800e28e0: push rbx
+  0x1800e28e2: sub rsp, 0x30
+  0x1800e28e6: mov rax, qword ptr [rip + 0x17cc13]
+  0x1800e28ed: xor rax, rsp
+  0x1800e28f0: mov qword ptr [rsp + 0x28], rax
+  0x1800e28f5: lea rdx, [rsp + 0x20]
+  0x1800e28fa: mov dword ptr [rsp + 0x20], 0
+  0x1800e2902: mov rbx, rcx
+  0x1800e2905: call 0x1800e2280
+  0x1800e290a: test al, al
+  0x1800e290c: je 0x1800e2924
+  0x1800e290e: cmp dword ptr [rsp + 0x20], 0x2d
+  0x1800e2913: je 0x1800e2924
+  0x1800e2915: lea rdx, [rip + 0x115564]   ; "-"
+  0x1800e291c: mov rcx, rbx
+  0x1800e291f: call 0x1800e25b0
+  0x1800e2924: mov rcx, qword ptr [rsp + 0x28]
+  0x1800e2929: xor rcx, rsp
+  0x1800e292c: call 0x18014fb40
+  0x1800e2931: add rsp, 0x30
+  0x1800e2935: pop rbx
+  0x1800e2936: ret 

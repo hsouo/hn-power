@@ -1,0 +1,7207 @@
+### ASCII strings (7095)
+!This program cannot be run in DOS mode.
+Rich{
+.text
+`.rdata
+@.data
+.pdata
+@minATL
+@.rsrc
+@.reloc
+x ATAVAWH
+upL9%
+)t$`L
+D$XH;
+A_A^A\
+x UATAUAVAWH
+Ct$HI
+)D$pH
+Ct$(H
+vb'vb'v
+vb'vb'v
+A_A^A]A\]
+p WATAUAVAWH
+)t$pL
+D$pH;
+A_A^A]A\_
+x UATAUAVAWH
+l$(E3
+Ct$PI
+)D$pH
+Ct$(H
+A_A^A]A\]
+WATAUAVAWH
+upL9-
+)t$`L
+D$XH;
+A_A^A]A\_
+UAVAWH
+A_A^]
+x UATAUAVAWH
+Ct$`H
+Ct$@H
+Ct$ H
+A_A^A]A\]
+UAVAWH
+A_A^]
+UATAUAVAWH
+unL9-<
+A_A^A]A\]
+UVWATAUAVAWH
+)t$0L
+A_A^A]A\_^]
+UATAUAVAWH
+unL9-
+A_A^A]A\]
+x UATAUAVAWH
+d$pE3
+Ct$pH
+Ct$ H
+Ct$HH
+vb'vb'v
+vb'vb'v
+A_A^A]A\]
+x UATAUAVAWH
+Ct$`H
+Ct$@H
+Ct$ H
+A_A^A]A\]
+UAVAWH
+A_A^]
+x UATAUAVAWH
+Ct$`I
+Ct$ H
+3333333
+3333333
+A_A^A]A\]
+UAVAWH
+A_A^]
+UAVAWH
+A_A^]
+UAVAWH
+A_A^]
+x ATAVAWH
+upL9%X
+)t$`L
+D$XH;
+A_A^A\
+x UATAUAVAWH
+Ct$HI
+)D$pH
+Ct$(H
+vb'vb'v
+vb'vb'v
+A_A^A]A\]
+p WATAUAVAWH
+)t$pL
+D$pH;
+A_A^A]A\_
+x UATAUAVAWH
+Ct$`H
+Ct$@H
+Ct$ H
+A_A^A]A\]
+WATAUAVAWH
+upL9-
+)t$`L
+D$XH;
+A_A^A]A\_
+UAVAWH
+A_A^]
+x UATAUAVAWH
+uqL9|$(
+Ct$0H
+3333333
+3333333
+A_A^A]A\]
+UATAUAVAWH
+unL9-
+A_A^A]A\]
+x UATAUAVAWH
+Ct$`I
+Ct$ I
+C|$@H
+vb'vb'v
+uvL9-
+A_A^A]A\]
+UATAUAVAWH
+unL9-
+A_A^A]A\]
+x UATAUAVAWH
+l$xE3
+Ct$xH
+Ct$ H
+Ct$HH
+A_A^A]A\]
+UAVAWH
+A_A^]
+UATAUAVAWH
+uxH9=
+A_A^A]A\]
+x UATAUAVAWH
+Ct$`H
+Ct$@H
+Ct$ H
+H9=Dw
+A_A^A]A\]
+UATAUAVAWH
+u~H9=[j
+A_A^A]A\]
+x UATAUAVAWH
+Ct$(H
+Ct$XH
+H956Q
+A_A^A]A\]
+x UATAUAVAWH
+Ct$`I
+Ct$ H
+3333333
+3333333
+A_A^A]A\]
+x UATAUAVAWH
+d$(E3
+Ct$HI
+)D$pH
+Ct$(H
+vb'vb'v
+vb'vb'v
+A_A^A]A\]
+x UATAUAVAWH
+Ct$`H
+Ct$@H
+Ct$ H
+A_A^A]A\]
+UAVAWH
+A_A^]
+UATAUAVAWH
+unL9-
+A_A^A]A\]
+x UATAUAVAWH
+l$(E3
+Ct$PI
+)D$pH
+Ct$(H
+A_A^A]A\]
+UAVAWH
+A_A^]
+x UATAUAVAWH
+Ct$`H
+Ct$@H
+Ct$ H
+vb'vb'v
+vb'vb'v
+A_A^A]A\]
+x UATAUAVAWH
+A_A^A]A\]
+x UATAUAVAWH
+Ct$`H
+Ct$@H
+Ct$ H
+A_A^A]A\]
+UAVAWH
+A_A^]
+x UATAUAVAWH
+Ct$@H
+Ct$`H
+Ct$ H
+3333333
+3333333
+A_A^A]A\]
+x UATAUAVAWH
+l$(E3
+Ct$PI
+)D$pH
+Ct$(H
+A_A^A]A\]
+UATAUAVAWH
+unL9-$
+A_A^A]A\]
+x UATAUAVAWH
+Ct$ H
+Ct$@H
+Ct$`H
+3333333
+3333333
+A_A^A]A\]
+x UATAUAVAWH
+A_A^A]A\]
+t$ UH
+t$ UH
+x AVH
+x UATAUAVAWH
+Ct$@H
+Ct$ H
+Ct$`H
+A_A^A]A\]
+UAVAWH
+A_A^]
+x UATAUAVAWH
+Ct$`I
+Ct$@H
+Ct$ H
+3333333
+3333333
+A_A^A]A\]
+UATAUAVAWH
+unL9-T
+A_A^A]A\]
+x UATAUAVAWH
+l$xE3
+Ct$xH
+Ct$ H
+Ct$HH
+A_A^A]A\]
+UAVAWH
+A_A^]
+x UATAUAVAWH
+d$(E3
+Ct$HI
+)D$pH
+Ct$(H
+vb'vb'v
+vb'vb'v
+A_A^A]A\]
+x UATAUAVAWH
+l$(E3
+Ct$PI
+)D$pH
+Ct$(H
+A_A^A]A\]
+UAVAWH
+A_A^]
+UATAUAVAWH
+unL9-
+A_A^A]A\]
+x UATAUAVAWH
+l$(E3
+Ct$PI
+)D$pH
+Ct$(H
+A_A^A]A\]
+UAVAWH
+A_A^]
+x UATAUAVAWH
+uqL9|$(
+Ct$0H
+3333333
+3333333
+A_A^A]A\]
+x UATAUAVAWH
+d$(E3
+Ct$HI
+)D$pH
+Ct$(H
+vb'vb'v
+vb'vb'v
+A_A^A]A\]
+x UATAUAVAWH
+Ct$@H
+Ct$ H
+Ct$hH
+A_A^A]A\]
+UAVAWH
+A_A^]
+UATAUAVAWH
+unL9-
+A_A^A]A\]
+x UATAUAVAWH
+l$xE3
+Ct$xH
+Ct$ H
+Ct$HH
+H9=Fl
+A_A^A]A\]
+UAVAWH
+A_A^]
+x UATAUAVAWH
+d$(E3
+Ct$HI
+)D$pH
+Ct$(H
+vb'vb'v
+vb'vb'v
+A_A^A]A\]
+x UATAUAVAWH
+l$(E3
+Ct$PI
+)D$pH
+Ct$(H
+H9=/a
+A_A^A]A\]
+UAVAWH
+A_A^]
+x UATAUAVAWH
+l$(E3
+Ct$PI
+)D$pH
+Ct$(H
+H9=/Z
+A_A^A]A\]
+x UATAUAVAWH
+l$(E3
+Ct$PI
+)D$pH
+Ct$(H
+A_A^A]A\]
+x UATAUAVAWH
+Ct$@H
+Ct$ H
+Ct$hH
+A_A^A]A\]
+x UATAUAVAWH
+l$(E3
+Ct$PI
+)D$pH
+Ct$(H
+A_A^A]A\]
+UATAUAVAWH
+unL9-
+A_A^A]A\]
+x UATAUAVAWH
+Ct$`H
+Ct$@H
+Ct$ H
+H9=E5
+A_A^A]A\]
+UAVAWH
+A_A^]
+UAVAWH
+Ct$(H
+Ct$XH
+A_A^]
+UAVAWH
+Ct$`H
+Ct$@H
+Ct$ H
+A_A^]
+UATAUAVAWH
+uoL9-
+A_A^A]A\]
+UATAUAVAWH
+uoL9-w
+A_A^A]A\]
+UATAUAVAWH
+uxH9=4
+A_A^A]A\]
+x UATAUAVAWH
+Ct$`H
+Ct$@H
+Ct$ H
+A_A^A]A\]
+x UATAUAVAWH
+l$(E3
+Ct$PI
+)D$pH
+Ct$(H
+A_A^A]A\]
+UATAUAVAWH
+fffffff
+A_A^A]A\]
+s WATAUAVAWH
+vb'vb'v
+)D$@L
+A_A^A]A\_
+s WATAUAVAWH
+vb'vb'v
+)D$@L
+A_A^A]A\_
+d$ UAVAWH
+A_A^]
+UATAUAVAWH
+unL9-$
+A_A^A]A\]
+UATAUAVAWH
+unL9-
+A_A^A]A\]
+UATAUAVAWH
+unL9-
+A_A^A]A\]
+UATAUAVAWH
+unL9-
+A_A^A]A\]
+x UATAUAVAWH
+Ct$@H
+Ct$`H
+Ct$ H
+3333333
+3333333
+A_A^A]A\]
+T$@H;
+\$ WH
+t$ WATAUAVAWH
+A_A^A]A\_
+\$ VWATAVAWH
+|$(I;
+T$ H;
+PA_A^A\_^
+t$ WATAUAVAWH
+tAxDA
+t5x8H
+0A_A^A]A\_
+@SUVH
+@SUVH
+@SUVH
+@SUVH
+@SUVH
+@UVWH
+t$ E3
+@SUVH
+@SUVH
+@UVWH
+t$ E3
+@SUVH
+l$ VWATAVAWH
+t$0@8s
+tIxLL
+l$pA8w
+A_A^A\_^
+l$ VWATAVAWH
+t$0@8s
+tIxLL
+l$pA8w
+A_A^A\_^
+l$ VWATAVAWH
+t$0@8s
+tIxLL
+l$pA8w
+A_A^A\_^
+l$ VWATAVAWH
+t$0@8s
+tIxLL
+l$pA8w
+A_A^A\_^
+|$8ff
+E9H }1I
+D;I |pI
+$D9@ }
+E;K |
+|$8ff
+E9H }1I
+D;I |pI
+$D9@ }
+E;K |
+\$ VWAWH
+ A__^
+\$ VWAWH
+ A__^
+\$ VWAWH
+ A__^
+D$=L;
+L$@H3
+L$=fff
+D$=L;
+L$@H3
+D$=L;
+L$@H3
+WAVAWH
+0A_A^_
+@USVWAVH
+A^_^[]
+@USVWAVH
+A^_^[]
+@USVWAVH
+A^_^[]
+L$8H3
+VWAVH
+ A^_^
+ A^_^
+(t$pH
+t$ WH
+L$8H3
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SUVWAUAVAWH
+ A_A^A]_^][
+@UVWAVH
+(A^_^]
+(A^_^]
+l$ VWATAVAWH
+L$0E3
+)D$`fH
+usI9n
+)D$PL
+A_A^A\_^
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+t$ WH
+L$8H3
+L$0H3
+L$0H3
+l$ VWAVH
+3333333
+)D$0L
+l$ VWAVH
+)D$0L
+@SVWATAUAVAWH
+D9` }
+A_A^A]A\_^[
+@SVWATAUAVAWH
+|$0H9z
+A_A^A]A\_^[
+)D$0L
+t$ WAVAWH
+t$fff
+ A_A^_
+t$ AVH
+u.H;P
+M90u7
+t$ WH
+@SUVWATAVH
+8A^A\_^][
+8A^A\_^][
+@SUVWAUAVH
+(A^A]_^][
+(A^A]_^][
+@SUVWAWH
+ A__^][
+ A__^][
+|$ UATAUAVAWH
+C@H;u
+t>H;U
+C@H;U
+A_A^A]A\]
+UVWATAUAVAWH
+T$PE3
+l$ E3
+A_A^A]A\_^]
+VWAWH
+d$ E3
+d$ E3
+l$(E3
+(t$0L
+PA__^
+UVWATAUAVAWH
+A_A^A]A\_^]
+l$ VWAVH
+t_fff
+L$0H3
+@A^_^
+ !"#$%&'()
+0123456789:;<=>?@ABCDEFG
+HIJKLMNOPQRSTUVWXYZ[\
+cdefghijklmnopqrs
+vwxyz{|}~
+UVWATAUAVAWH
+(D$0L
+`A_A^A]A\_^]
+|$ ATAUAVAWL
+|$@A_A^A]A\
+l$ VWAVH
+L$HE3
+D$eL;
+D$eM+
+CT$(L
+L$hH3
+@SUVAWH
+(A_^][
+(A_^][
+@SWAVH
+0A^_[
+L$=fff
+D$=L;
+L$@H3
+D$=L;
+L$@H3
+L$ SUVWH
+8_^][
+@UVWH
+t$ E3
+@UVAVH
+|$ E3
+0A^^]
+@USVWAVH
+A^_^[]
+@USVWATAUAVAWH
+t`xcL
+@8<2u
+A_A^A]A\_^[]
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+L$HH3
+@SUVH
+l$ VWATAVAWH
+t$0@8s
+tIxLL
+l$pA8w
+A_A^A\_^
+l$ VWAVH
+\$(E3
+0A^_^
+VWATAVAWH
+@A_A^A\_^
+t$ WATAUAVAWH
+A_A^A]A\_
+@SVWATAUAVAWH
+l$ L;{
+PA_A^A]A\_^[
+@UVWH
+t$ E3
+@UVAVH
+|$ E3
+0A^^]
+\$ VWAWH
+ A__^
+SUWAWH
+HA__][
+SWAVAWH
+HA_A^_[
+t$ WATAUAVAWH
+A_A^A]A\_
+t$ I;
+WAVAWH
+0A_A^_
+WAVAWH
+0A_A^_
+WAVAWH
+0A_A^_
+WAVAWH
+0A_A^_
+WAVAWH
+0A_A^_
+WATAUAVAWH
+0A_A^A]A\_
+@USVWATAVAWH
+A_A^A\_^[]
+@USVWATAUAVAWH
+CT$hL
+A_A^A]A\_^[]
+@USVWATAVAWH
+A_A^A\_^[]
+@USVWATAVAWH
+A_A^A\_^[]
+L$0H3
+UVWATAUAVAWH
+A_A^A]A\_^]
+t$ WATAUAVAWH
+\$$@2
+A_A^A]A\_
+D$UL;
+L$XH3
+SUAVAWH
+l$hI+
+8A_A^][
+UVWATAUAVAWH
+ A_A^A]A\_^]
+WAVAWH
+ A_A^_
+UVWAVAWH
+A_A^_^]
+L$hH3
+@SVWATAVAWH
+L$0E3
+\$0H;
+A_A^A\_^[
+|$ UATAUAVAWH
+A_A^A]A\]
+t$ WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+t$ E3
+A_A^A]A\_^]
+VWATAVAWH
+L$PE3
+A_A^A\_^
+@SUVWAVH
+A^_^][
+t$ WAVAWH
+A_A^_
+t$ WAVAWH
+A_A^_
+@SVWATAVAWH
+\$0H;
+A_A^A\_^[
+UVWATAUAVAWH
+L$(E3
+D$PHcH
+D$PHcH
+Ct$0L
+D$PHcH
+D$PHcH
+A_A^A]A\_^]
+L$pH3
+@SVWATAUAVAWH
+|$pL;
+\$@I;]
+uR;J |MI;
+A_A^A]A\_^[
+ !"#$%&'()
+0123456789:;<=>?@ABCDEFG
+HIJKLMNOPQRSTUVWXYZ[\
+cdefghijklmnopqrs
+vwxyz{|}~
+@UVAUAWH
+tQxTH
+\$`u/L
+8A_A]^]
+8A_A]^]
+@VWAVH
+ A^_^
+ A^_^
+ A^_^
+UVWATAWH
+ A_A\_^]
+AXHc8H
+ A_A\_^]
+ A_A\_^]
+ A_A\_^]
+UUUUUUU
+@VWAVAWH
+hA_A^_^
+d$PI+
+hA_A^_^
+|$ AV
+L9Qhs
+I9Jhs
+UVWATAUAVAWH
+A_A^A]A\_^]
+]0H;]8
+L$HE3
+D$=L;
+L$@H3
+t$ AWH
+K L;G0
+@SUVH
+@SUVH
+|$8ff
+E9H }1I
+D;I |pI
+$D9@ }
+E;K |
+l$ VWATAVAWH
+t$0@8s
+tIxLL
+l$pA8w
+A_A^A\_^
+\$ VWAWH
+ A__^
+l$ VWATAVAWH
+L$0E3
+)D$`fH
+usI9n
+)D$PL
+A_A^A\_^
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@SVWH
+K L;G0
+G 8C 
+l$ VWAVH
+vb'vb'v
+)D$0L
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+VWAVH
+ !"#$%&'()
+0123456789:;<=>?@ABCDEFG
+HIJKLMNOPQRSTUVWXYZ[\
+cdefghijklmnopqrs
+vwxyz{|}~
+VWAVH
+L$@H3
+PA^_^
+\$ WH
+\$ WH
+\$ WH
+t$ WATAUAVAWH
+t$(M;
+t$ I;
+A_A^A]A\_
+t$ WATAUAVAWH
+)t$PM
+t$(M;
+t$ I;
+(t$PI
+A_A^A]A\_
+@SVWATAUAVAWH
+t$(M;
+L$pH3
+A_A^A]A\_^[
+t$ WATAUAVAWH
+|$(M;
+t$ I;
+A_A^A]A\_
+t$ WATAUAVAWH
+|$(M;
+t$ I;
+A_A^A]A\_
+t$ WATAUAVAWH
+|$(M;
+t$ I;
+A_A^A]A\_
+t$ WATAUAVAWH
+\$ I;
+A_A^A]A\_
+t$ WATAUAVAWH
+A_A^A]A\_
+t$ WATAUAVAWH
+\$ I;
+A_A^A]A\_
+t$ WATAUAVAWH
+t$(I;
+|$ I;
+A_A^A]A\_
+VWATAVAWH
+D$ I;
+@A_A^A\_^
+WAVAWH
+0A_A^_
+@USVWATAVAWH
+A_A^A\_^[]
+@SUVWAUAVAWH
+u7H;C
+A_A^A]_^][
+UVWAVAWH
+`A_A^_^]
+UVWAVAWH
+)t$`H
+(t$`H
+pA_A^_^]
+|$ AVH
+)t$0L
+(t$0H
+@USVWATAVAWH
+A_A^A\_^[]
+l$ VWAVH
+L$`H3
+UVWAVAWH
+`A_A^_^]
+VWAVH
+0A^_^
+UVWAVAWH
+`A_A^_^]
+VWAVH
+0A^_^
+UVWAVAWH
+`A_A^_^]
+VWAVH
+0A^_^
+UVWAVAWH
+`A_A^_^]
+t$ WH
+@SUVWAVH
+(D$@f
+A^_^][
+UVWAVAWH
+\$pE3
+T$(H;
+A_A^_^]
+UVWATAUAVAWH
+D$0'H
+L$pE3
+A_A^A]A\_^]
+UVWATAUAVAWH
+L$hE3
+A_A^A]A\_^]
+SUVWAVAWH
+(A_A^_^][
+@USVWATAVAWH
+A_A^A\_^[]
+l$ VWAVH
+3333333
+)D$0L
+@USVWATAUAVAWH
+L$`E3
+D$hH;
+A_A^A]A\_^[]
+@USVWATAVAWH
+A_A^A\_^[]
+t$ WH
+t$ AVH
+u.H;P
+M90u7
+(D$0L
+(L$@A
+T$ E3
+L$8H3
+UWATAVAWH
+trH+A
+A_A^A\_]
+)D$0L
+L$0I+
+\$ I+
+(D$ f
+(D$ f
+@USVWATAVAWH
+pA_A^A\_^[]
+L$0H;SHt
+t$ WH
+T$ H;CHt
+D$8H;
+L$8H3
+UVWATAUAVAWH
+D$(L;
+L;d$(
+L$HH3
+PA_A^A]A\_^]
+L$pH3
+3333333
+VWAVH
+C(D8s
+L$@H;SHt
+ A^_^
+D$8E3
+L$8H3
+T$ E3
+L$8H3
+T$ E3
+L$8H3
+t$ UWATAVAWH
+A_A^A\_]
+(D$ I
+UWATAVAWH
+A_A^A\_]
+WAVAWH
+(D$ f
+0A_A^_
+L$0H3
+C(@8{
+L$ H;SHt
+D$$trueA
+D$$falsH
+D$(eH
+D$$nullA
+L$0H3
+L$8H;SHt
+C(@8{
+D$8H;SHt
+C(@8{
+L$8H;SHt
+t$ WAVAWH
+C(D8{
+L$PH;SHt
+ A_A^_
+t$ WAVAWH
+D$ H;QHt
+S@H;SHt
+S@H;SHt
+S@H;SHt
+S@H;SHt
+L$0H3
+@A_A^_
+@USVWATAUAVAWH
+EPH;QHt
+S@H;SHt
+C@H;CHt
+S@H;SHt
+D$(H;
+A_A^A]A\_^[]
+ !!"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$%&&&&&&&&&&&&'&&()))*f
+C(@8{
+L$0H;SHt
+t$ WH
+t$ WH
+@USVWATAVAWH
+A_A^A\_^[]
+UVWATAUAVAWH
+t`xcL
+A_A^A]A\_^]
+\$ UVWATAUAVAWH
+|$@;]
+A_A^A]A\_^]
+l$Hfff
+tTxWL
+M;4$L
+@USVWATAVAWH
+A_A^A\_^[]
+@USVWATAUAVAWH
+L$hE3
+t!fff
+D$`H;
+A_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+l$ VWAVH
+3333333
+)D$@L
+@SVWATAUAVAWH
+D9@ }
+D;B }
+D9` }
+D;c }
+D$hD9` }
+A_A^A]A\_^[
+t$ WAVAWH
+A_A^_
+)D$0L
+{ AVH
+ !"#$%&'()
+0123456789:;<=>?@ABCDEFG
+HIJKLMNOPQRSTUVWXYZ[\
+cdefghijklmnopqrs
+vwxyz{|}~
+t$ WATAUAVAWH
+tAxDA
+t5x8H
+0A_A^A]A\_
+@SVWH
+@SUVH
+t$ WH
+@ H;}
+9r }/H
+A;p |bH
+L$(8H
+D$ 9P }
+UVWATAUAVAWH
+d$ E3
+)D$PL
+`A_A^A]A\_^]
+@USVWATAUAVAWH
+\$HE3
+fffffff
+D$x9P
+}[L9~
+A_A^A]A\_^[]
+t$ WH
+D$ D9@
+fffffff
+)D$PH
+t$ WH
+@SVWATAUAVAWH
+D$(E3
+D$(9H }
+vb'vb'v
+A_A^A]A\_^[
+VWAWH
+u=fff
+ A__^
+ A__^
+t$ AVH
+u.H;P
+M90u7
+@USVWATAVAWH
+A_A^A\_^[]
+@SVWAVAWH
+7H;7t#I
+A_A^_^[
+@USVWATAUAVAWH
+t`xcL
+@8<2u
+A_A^A]A\_^[]
+\$ VWAWH
+ A__^
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWAVAWH
+t$ E3
+)D$0L
+`A_A^_^]
+t$ WATAUAVAWH
+)D$0L
+A_A^A]A\_
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+t$ WATAUAVAWH
+)D$0L
+A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SVWH
+|$ UH
+UVWATAUAVAWH
+A_A^A]A\_^]
+VWAVH
+L$hE3
+ !"#$%&'()
+0123456789:;<=>?@ABCDEFG
+HIJKLMNOPQRSTUVWXYZ[\
+cdefghijklmnopqrs
+vwxyz{|}~
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+|$ UH
+UVWATAUAVAWH
+A_A^A]A\_^]
+VWATAVAWH
+A_A^A\_^
+ !"#$%&'()
+0123456789:;<=>?@ABCDEFG
+HIJKLMNOPQRSTUVWXYZ[\
+cdefghijklmnopqrs
+vwxyz{|}~
+@USVWATAVAWH
+A_A^A\_^[]
+@SVWAVAWH
+7H;7t#I
+A_A^_^[
+@USVWATAUAVAWH
+t`xcL
+@8<2u
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@SVWATAUAVAWH
+P ;Z tZH
+D9x }
+D;{ }
+D9x }
+A_A^A]A\_^[
+t$ WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+ !"#$%&'()
+0123456789:;<=>?@ABCDEFG
+HIJKLMNOPQRSTUVWXYZ[\
+cdefghijklmnopqrs
+vwxyz{|}~
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+)D$0L
+UWAVH
+t$ WATAUAVAWH
+A_A^A]A\_
+@SUVH
+@SUVH
+@SUVH
+@SUVH
+@UVWH
+t$ E3
+|$8ff
+E9H s1I
+D;I rpI
+$D9@ s
+E;K r
+\$ VWAUAVAWH
+t$0@8s
+tLxOL
+l$pA8w
+@A_A^A]_^
+\$ VWAWH
+ A__^
+\$ VWAWH
+ A__^
+\$ VWAWH
+ A__^
+VWATAVAWH
+A_A^A\_^
+@SUVWAVH
+)D$0L
+A^_^][
+@SUVWAVH
+A^_^][
+UVWAVAWH
+\$pE3
+T$(H;
+A_A^_^]
+UVWATAUAVAWH
+D$0'H
+L$pE3
+A_A^A]A\_^]
+UVWATAUAVAWH
+L$hE3
+A_A^A]A\_^]
+UVWATAUAVAWH
+3333333
+3333333
+t$@I;
+A_A^A]A\_^]
+VWAVH
+l$8I;
+l$ VWAVH
+t$8H;
+l$ VWATAVAWH
+L$0E3
+)D$`fH
+usI9n
+)D$PL
+A_A^A\_^
+@USVWATAUAVAWH
+\$PE3
+A_A^A]A\_^[]
+t$ WH
+D$ D9@ s
+)D$PH
+UUUUUUU
+)D$0L
+UUUUUUU
+)D$0L
+)D$0L
+l$ VWAVH
+3333333
+)D$@L
+t$ WH
+L$HH3
+t$ WH
+L$HH3
+t$ UWATAVAWH
+D9@ s
+A_A^A\_]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+@SVWATAUAVAWH
+A_A^A]A\_^[
+UWATAVAWH
+A_A^A\_]
+|$ UATAUAVAWH
+A_A^A]A\]
+@UVAWH
+tQxTH
+ A_^]
+t$XH;
+UVWATAUAVAWH
+t`xcM
+d$p@2
+H;D$h
+H;D$h
+A_A^A]A\_^]
+t$ WATAUAVAWH
+H;D$Pt
+L$`H3
+A_A^A]A\_
+t$ WATAUAVAWH
+A_A^A]A\_
+@SVWATAUAVAWH
+D9@ }
+D;B }
+D9x }
+D;{ }
+D$xD9x }
+D;z }~H
+A_A^A]A\_^[
+l$ VWAVH
+t$ WATAUAVAWH
+)D$pL
+A_A^A]A\_
+T$8E3
+t$ UWATAVAWH
+A_A^A\_]
+t$ UWAVH
+@SVWATAUAVAWH
+u+;J r&I;
+D$XE3
+A_A^A]A\_^[
+l$ VWAVH
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+VWAVH
+T$PH;
+VWAVH
+T$PH;
+ !"#$%&'()
+0123456789:;<=>?@ABCDEFG
+HIJKLMNOPQRSTUVWXYZ[\
+cdefghijklmnopqrs
+vwxyz{|}~
+@USVWATAVAWH
+pA_A^A\_^[]
+L$0H;SHt
+t$ WH
+T$ H;CHt
+D$8H;
+L$8H3
+UVWATAUAVAWH
+D$(L;
+L;d$(
+L$HH3
+PA_A^A]A\_^]
+VWAVH
+C(D8s
+L$@H;SHt
+ A^_^
+t$ UWATAVAWH
+A_A^A\_]
+L$0H3
+C(@8{
+L$ H;SHt
+D$$trueA
+D$$falsH
+D$(eH
+D$$nullA
+L$0H3
+L$8H;SHt
+C(@8{
+D$8H;SHt
+C(@8{
+L$8H;SHt
+t$ WAVAWH
+C(D8{
+L$PH;SHt
+ A_A^_
+t$ WAVAWH
+D$ H;QHt
+S@H;SHt
+S@H;SHt
+S@H;SHt
+S@H;SHt
+L$0H3
+@A_A^_
+@USVWATAUAVAWH
+EPH;QHt
+S@H;SHt
+C@H;CHt
+S@H;SHt
+D$(H;
+A_A^A]A\_^[]
+ !!"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$%&&&&&&&&&&&&'&&()))*f
+C(@8{
+L$0H;SHt
+\$ WH
+D$ L;
+T$ H;
+L$`H3
+@USVWATAVAWH
+A_A^A\_^[]
+@SVWAVAWH
+7H;7t#I
+A_A^_^[
+@USVWATAUAVAWH
+t`xcL
+F8<2u
+A_A^A]A\_^[]
+{ AVH
+@USVWATAUAVAWH
+t`xcL
+@8<2u
+A_A^A]A\_^[]
+t$ WH
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+ !"#$%&'()
+0123456789:;<=>?@ABCDEFG
+HIJKLMNOPQRSTUVWXYZ[\
+cdefghijklmnopqrs
+vwxyz{|}~
+@USVWATAVAWH
+A_A^A\_^[]
+@SVWAVAWH
+7H;7t#I
+A_A^_^[
+t$ WATAUAVAWH
+A_A^A]A\_
+@SUVH
+@SUVH
+@USVWATAUAVAWH
+t_xbL
+F8<2u
+A_A^A]A\_^[]
+{ AVH
+t$ WATAUAVAWH
+A_A^A]A\_
+@SUVH
+@SUVH
+@USVWATAUAVAWH
+t`xcL
+@8<2u
+A_A^A]A\_^[]
+t$ WH
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWAVAWH
+A_A^_^]
+l$ VWAVH
+ !"#$%&'()
+0123456789:;<=>?@ABCDEFG
+HIJKLMNOPQRSTUVWXYZ[\
+cdefghijklmnopqrs
+vwxyz{|}~
+@USVWATAVAWH
+A_A^A\_^[]
+@SVWAVAWH
+7H;7t#I
+A_A^_^[
+@USVWATAUAVAWH
+t_xbL
+F8<2u
+A_A^A]A\_^[]
+{ AVH
+@USVWATAUAVAWH
+t`xcL
+@8<2u
+A_A^A]A\_^[]
+t$ WH
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWAVAWH
+A_A^_^]
+l$ VWAVH
+ !"#$%&'()
+0123456789:;<=>?@ABCDEFG
+HIJKLMNOPQRSTUVWXYZ[\
+cdefghijklmnopqrs
+vwxyz{|}~
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAVAWH
+A_A^A\_^[]
+t$ WATAUAVAWH
+A_A^A]A\_
+@USVWATAUAVAWH
+t`xcL
+@8<2u
+A_A^A]A\_^[]
+VWATAVAWH
+0A_A^A\_^
+t$ WATAUAVAWH
+A_A^A]A\_
+@SVWATAUAVAWH
+D$`Lk
+t$@I;
+d$(M;
+6HkL$H8I
+pA_A^A]A\_^[
+@SVWATAUAVAWH
+t$(I;
+|$ I;
+PA_A^A]A\_^[
+t$ WATAUAVAWH
+tAxDA
+t5x8H
+0A_A^A]A\_
+@SUVH
+@SUVH
+@SUVH
+@SUVH
+UVWATAUAVAWH
+\$0E3
+t$ E3
+UUUUUUU
+)D$PL
+`A_A^A]A\_^]
+@USVWAVH
+A^_^[]
+UVWATAUAVAWH
+)D$`fH
+)D$0L
+A_A^A]A\_^]
+UVWATAUAVAWH
+L$0E3
+)D$`fH
+usM9f
+)D$PL
+A_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+t$8H+
+@USWH
+\$ VWAVH
+D$ E3
+CT$ D
+@A^_^
+\$ VWAVH
+T$ fI
+CT$ D
+L$hH3
+pA^_^
+@USVWAVH
+A^_^[]
+ATAVAWH
+L$PH3
+A_A^A\
+ATAVAWH
+L$PH3
+A_A^A\
+UVWAVAWH
+D$pE3
+A_A^_^]
+ATAVAWH
+L$PH3
+A_A^A\
+UVWATAUAVAWH
+)D$`L
+)D$pL
+A_A^A]A\_^]
+|$ UH
+SVWATAUAVAWH
+Ct$8H
+A0H;A8t
+A_A^A]A\_^[
+|$ UATAUAVAWH
+D$xHc_ f
+3333333
+3333333
+3333333
+3333333
+A_A^A]A\]
+|$ UH
+|$ UAVAWH
+D$`HcH
+D$`HcH
+D$`HcH
+D$`HcH
+A_A^]
+@USVWATAUAVH
+D$@HcH
+D$@HcH
+D$@HcH
+D$@HcH
+A^A]A\_^[]
+@USVWATAVAWH
+A_A^A\_^[]
+VWATAVAWH
+A_A^A\_^
+|$ AVH
+t$ AVH
+|$8fff
+\$ UVAVH
+L$0H3
+@A^^]
+UVWATAUAVAWH
+3333333
+A_A^A]A\_^]
+\$ UVWH
+H;\$ t4
+D$ H+
+L$(H3
+L$(L;
+t$ WH
+L$8H3
+@SUVH
+@SUVH
+E8H }1I
+D:I |pI
+$D8@ }
+E:K |
+E8H s1I
+D:I rpI
+$D8@ s
+E:K r
+D8A s
+D:B s
+D$(D8@ s
+)D$`H
+UVWATAUAVAWH
+A_A^A]A\_^]
+|$ UATAUAVAWH
+:J }~H
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+t$ WATAUAVAWH
+)D$0L
+A_A^A]A\_
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+t$ WH
+L$@H3
+R$fE;J*
+VWAVH
+\$ E3
+@A^_^
+l$ VWAVH
+)D$@H
+l$ E3
+VWAVH
+D$ E3
+@A^_^
+@WATAVAWH
+8A_A^A\_
+\$ UVWH
+D$ E3
+)D$@L
+L$ SUVWH
+L$HH3
+X_^][
+L$ SUVWAVH
+L$HE3
+L$XH3
+`A^_^][
+L$@H3
+SVWATAUAVAWH
+\$ E3
+Ct$pH
+D$ E3
+H;T$Xw
+CD$HH
+H+T$XE3
+CD$HL
+|$ E3
+A_A^A]A\_^[
+/t=fA
+\$ UVWAVAWH
+ A_A^_^]
+L$0H3
+H;\$Hw
+L$8H+T$HE3
+CL$8H
+L$XH3
+L$ SVWH
+UVWATAUAVAWH
+D$ M;
+0A_A^A]A\_^]
+UVWATAUAVAWH
+D$ M;
+0A_A^A]A\_^]
+t$ WATAUAVAWH
+D$ H;
+0A_A^A]A\_
+t$ WATAUAVAWH
+D$ H;
+0A_A^A]A\_
+UVWATAUAVAWH
+ A_A^A]A\_^]
+t$ WATAUAVAWH
+D$ H;
+0A_A^A]A\_
+\$ WH
+\$ WH
+\$ WH
+@SVWH
+@SVWH
+t$ WAVAWI
+t$8A_A^_
+UVWATAUAVAWH
+L$$A9M
+t$ L;
+L$$A;M
+A_A^A]A\_^]
+t$ WH
+UVWATAUAVAWH
+v(I;v0
+A_A^A]A\_^]
+UWATAVAWH
+udH;~ u^
+A_A^A\_]
+t$ WAVAWH
+@A_A^_
+\$ I;
+t$ WAVAWH
+@A_A^_
+\$ I;
+VWATAVAWH
+@A_A^A\_^
+D$ I;
+WAVAWH
+ A_A^_
+@SUVWAVAWH
+T$PH+
+D$PM+
+T$`H+
+L$hH3
+xA_A^_^][
+UVWAVAWH
+T$PH+
+D$PM+
+T$`H+
+L$hH3
+pA_A^_^]
+VWAVH
+L$8H3
+@UVWAVAWH
+0A_A^_^]
+t$ WH
+|$ E3
+UVWATAUAVAWH
+A_A^A]A\_^]
+|$ E3
+|$PE3
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+|$ UATAUAVAWH
+CL$8L
+t$8E3
+CL$8L
+t$8E3
+CL$8L
+t$8E3
+l$Hff
+CL$8L
+\$8E3
+CL$8L
+A_A^A]A\]
+C$9C w
+|$ ATAVAWH
+0A_A^A\
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+t$HE3
+;w sTH
+@UVATAUAVH
+ A^A]A\^]
+|$ AVH
+9\u4H
+Cx<bu
+9\u4H
+9\u4H
+9\u4H
+9\u4H
+{|?uWH
+9\u4H
+9\u4H
+9\u4H
+L$(H3
+l$ WH
+t$ WH
+udH;~ u^
+|$ AVH
+{|^u\H
+9\u4H
+{|]u_
+9\u4H
+Cx<fu
+Cx<au
+Cx<cuY
+9\u4H
+|$0t&
+9\u-H
+9\u4H
+Cx<au
+9\u4H
+@8{tra
+t$ WH
+t$ WH
+9\u4H
+@SWAUH
+9\u4H
+0A]_[
+L$(H3
+@SAUH
+t$(M;}
+9\u4H
+|$ AVH
+9\u4H
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+E9u ~7H
+A_A^A]A\_^]
+UVWATAUAVAWH
+L$pH3
+A_A^A]A\_^]
+t$ WH
+(9Q|uWH
+:\u6L
+9\u4H
+9\u/L
+UVWATAUAVAWH
+T$hH+
+L$xH3
+A_A^A]A\_^]
+:\u6L
+9\u4H
+9\u4H
+9\u-H
+@VWATAUAVH
+t=IcE
+`A^A]A\_^
+y|?ui
+l$8t'
+@SUVWAVH
+@A^_^][
+@A^_^][
+)D$0L
+\$ E3
+D$0M+
+)D$@I
+L$@I+
+(D$ f
+(L$0f
+T$ M;
+t$ WH
+@SWAVH
+(D$ H
+(D$0L
+(L$@H
+L$HH3
+@SVWATAUAVAWH
+fffffff
+D$XD;
+l$@E3
+D$XD;d$HD
+81uxL
+A_A^A]A\_^[
+@SVWH
+D$0H;
+t$ WH
+T$0H;
+@SUAVH
+|$ E3
+0A^][
+@SUAVH
+|$ E3
+0A^][
+@SUAVH
+|$ E3
+0A^][
+@SUVH
+|$8ff
+E9H }1I
+D;I |pI
+$D9@ }
+E;K |
+|$8ff
+E9H }1I
+D;I |pI
+$D9@ }
+E;K |
+D$=L;
+L$@H3
+@SVWH
+UVWAVAWH
+A_A^_^]
+VWAVH
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+vb'vb'v
+D$@9P }
+;Q }mL9-[
+)D$`H
+D$@9H }
+;K }dL9-
+@USVWATAUAVAWH
+D9A }
+E;A |
+D$@D9@ }
+D;B }uH
+vb'vb'v
+)D$pH
+UUUUUUU
+A_A^A]A\_^[]
+l$ WATAVH
+@A^A\_
+@A^A\_
+UVWATAUAVAWH
+vb'vb'v
+~cL9-
+~YL9n
+UUUUUUU
+A_A^A]A\_^]
+H9_8u
+D9H }
+t$ AVH
+u.H;P
+M90u7
+t$ AVH
+u.H;P
+M90u7
+UWATAVAWH
+t_fff
+u)E8f
+L$ H3
+0A_A^A\_]
+VWAVH
+L$ H3
+0A^_^
+D$=L;
+L$@H3
+t$ WH
+@SVWH
+|$8ff
+@USVWATAUAVAWH
+|$ E3
+A_A^A]A\_^[]
+@SUVWATAVAWH
+L$@H3
+PA_A^A\_^][
+L$0H3
+D$ D9@
+)D$PH
+D$8E3
+t$ WAVAWH
+8GTt\D
+A_A^_
+UVWAVAWH
+@A_A^_^]
+D8CdtXA
+UWAVH
+L$(H3
+@SVWH
+|$8ff
+E9H }1I
+D;I |pI
+$D9@ }
+E;K |
+@SWAUAVH
+8A^A]_[
+D$ H;
+CT$ L
+UVWAVAWH
+L$0E3
+)D$`fH
+UUUUUUU
+u]H9n
+)D$PL
+A_A^_^]
+t$ WH
+VWATAVAWH
+L$`E3
+D$@H;
+CT$@L
+D$ H;
+A_A^A\_^
+)D$ H
+t$ WH
+D$ D9@ }
+UUUUUUU
+)D$PH
+WATAUAVAWH
+/u,I+
+ A_A^A]A\_
+ATAUAVH
+l$ E3
+L$PH3
+A^A]A\
+@SVWH
+|$ UATAUAVAWH
+l$ E3
+CT$8H
+A_A^A]A\]
+UVWATAUAVAWH
+CD$XH
+d$ E3
+H;T$Hw
+CD$8H
+H+T$HE3
+CD$8H
+A_A^A]A\_^]
+K UVWH
+K WAVAWH
+A_A^_
+@SUVAWH
+(A_^][
+(A_^][
+VWAVH
+L$@H3
+PA^_^
+VWAVH
+L$@H3
+PA^_^
+VWAVH
+L$@H3
+PA^_^
+VWAVH
+L$@H3
+PA^_^
+VWAVH
+L$@H3
+PA^_^
+@SUVWAVAWH
+(A_A^_^][
+(A_A^_^][
+t$ WATAUAVAWH
+tAxDA
+t5x8H
+0A_A^A]A\_
+@SUVH
+@SUVH
+@SUVH
+@UVWH
+t$ E3
+\$ UVWH
+\$ VWAWH
+ A__^
+UVWATAUAVAWH
+3333333
+)D$PL
+`A_A^A]A\_^]
+UVWATAUAVAWH
+d$ E3
+)D$PL
+`A_A^A]A\_^]
+UVWATAUAVAWH
+d$ E3
+)D$PL
+`A_A^A]A\_^]
+UVWATAUAVAWH
+)D$PL
+`A_A^A]A\_^]
+UVWATAUAVAWH
+)t$PH
+L$@H3
+(t$PH
+`A_A^A]A\_^]
+l$Hfff
+tTxWL
+M;4$L
+l$Hfff
+tTxWL
+M;4$L
+VWAVH
+0A^_^
+UVWAVAWH
+L$@H3
+PA_A^_^]
+t$ WH
+WATAUAVAWH
+D$h9H }
+t`xcL
+A_A^A]A\_
+t$ WH
+l$ VWAVH
+)D$0L
+|$ AVH
+D$ D9@ }
+)D$PL
+|$ AVH
+D$ D9@ }
+)D$PL
+UWAVH
+L$PE3
+D$XH;
+uxH;3tsH
+)D$03
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+t_xbL
+A_A^A]A\_^]
+UVWATAUAVAWH
+t`xcL
+u=H;H
+A_A^A]A\_^]
+UVWATAUAVAWH
+l$(I;
+d$PE3
+3333333
+d$PE3
+A_A^A]A\_^]
+UVWATAUAVAWH
+3333333
+3333333
+A_A^A]A\_^]
+\$ UVWATAUAVAWH
+L$hE3
+t]x`L
+t`xcL
+@8<2u
+A_A^A]A\_^]
+UVWATAUAVAWH
+t_xbL
+t_xbL
+tcxfL
+D$(E3
+A84?u
+A_A^A]A\_^]
+UVWATAUAVAWH
+3333333
+3333333
+\$xE3
+A_A^A]A\_^]
+@WAWH
+l$0H;
+@SVWATAUAVAWH
+L$0E3
+A_A^A]A\_^[
+VWAWH
+u=fff
+ A__^
+ A__^
+t$ AVH
+u.H;P
+M90u7
+C L;C(
+SWAVAWH
+HA_A^_[
+WAVAWH
+0A_A^_
+WAVAWH
+0A_A^_
+WAVAWH
+0A_A^_
+@USVWAVH
+A^_^[]
+t$ UWATAVAWH
+A_A^A\_]
+t$ UWATAVAWH
+A_A^A\_]
+@SUVWAVH
+A^_^][
+t$ WH
+L$8H3
+s WATAUAVAWH
+H;\$X
+H;t$`
+uKH;C
+A_A^A]A\_
+L$@H3
+CD$`L
+D$ H;
+@SVWH
+L$PH3
+CD$`L
+D$ H;
+@SVWATAUAVAWH
+\$XE3
+C\$8H
+////////
+D$(/H
+A_A^A]A\_^[
+CD$`L
+D$ H;
+UVWATAUAVAWH
+EPH+EHH
+3333333
+A_A^A]A\_^]
+\$ UVWAVAWH
+M`H;Mh
+A_A^_^]
+CD$`L
+D$ H;
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+t$ WH
+\$ UVWATAUAVAWH
+l$0L9j
+C\$8H
+////////
+D$(/H
+A_A^A]A\_^]
+@USVWATAVAWH
+d$0L9b
+C\$8H
+////////
+D$(/H
+A_A^A\_^[]
+@USVWATAVAWH
+d$0L9b
+C\$8H
+////////
+D$(/H
+A_A^A\_^[]
+\$ UVWATAUAVAWH
+l$0L9j
+C\$8H
+////////
+D$(/H
+A_A^A]A\_^]
+\$ UVWATAUAVAWH
+l$0L9j
+C\$8H
+////////
+D$(/H
+A_A^A]A\_^]
+t$ UWAVH
+(D$@f
+T$hH;
+UVWAVAWH
+3333333
+A_A^_^]
+UVWATAUAVAWH
+d$ E3
+)D$PL
+`A_A^A]A\_^]
+l$ VWAVH
+0A^_^
+VWATAVAWH
+D$ E3
+t$0E3
+A_A^A\_^
+@SUVWAVH
+`A^_^][
+@SUVWAVH
+A^_^][
+VWATAVAWH
+@A_A^A\_^
+\$ UVWH
+@SUVH
+\$ UVWH
+|$8ff
+E9H }1I
+D;I |pI
+$D9@ }
+E;K |
+l$ VWATAVAWH
+t$0@8s
+tIxLL
+l$pA8w
+A_A^A\_^
+\$ VWAWH
+ A__^
+l$ VWATAVAWH
+L$0E3
+)D$`fH
+usI9n
+)D$PL
+A_A^A\_^
+l$ VWAVH
+3333333
+)D$@L
+UVWATAUAVAWH
+\$0E3
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+D$89H }
+;J }rH
+)D$pL
+A_A^A]A\_
+L$=fff
+D$=L;
+L$@H3
+\$ UVWAVAWH
+L$8E3
+A_A^_^]
+L$=fff
+D$=L;
+L$@H3
+CL$XH
+D$ E3
+H;T$Hw
+H+T$HH
+L$8E3
+CL$8H
+D$HI+
+C\$8H;
+L$8E3
+t$ E3
+L$ SUVWH
+8_^][
+VWAVH
+0A^_^
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+\$ WH
+\$ WH
+t$ WATAUAVAWH
+A_A^A]A\_
+t$ WATAUAVAWH
+A_A^A]A\_
+\$ UVWATAUAVAWH
+)D$PL
+`A_A^A]A\_^]
+\$ UVWAVAWH
+t$@E3
+)D$ L
+A_A^_^]
+@SVWATAUAVAWH
+D$HLk
+|$ L;w
+7HkL$08H
+PA_A^A]A\_^[
+@SVWATAUAVAWH
+|$ L;c
+PA_A^A]A\_^[
+@SVWATAUAVAWH
+l$8E3
+d$0M;
+PA_A^A]A\_^[
+@SVWATAUAVAWH
+D$PLi
+L$0I;
+d$(H;
+`A_A^A]A\_^[
+@SUVH
+@SUVH
+@SUVH
+@SUVH
+@SUVH
+@SUVH
+@SUVH
+\$ VWAUAVAWH
+t$0@8s
+tLxOL
+l$pA8w
+@A_A^A]_^
+l$ VWATAVAWH
+t$0@8s
+tIxLL
+l$pA8w
+A_A^A\_^
+\$ VWAWH
+ A__^
+\$ VWAWH
+ A__^
+\$ VWAWH
+ A__^
+UVWAVAWH
+A_A^_^]
+UVWAVAWH
+u9H;H
+A_A^_^]
+D$=L;
+L$@H3
+|$ AVI
+|$(A^
+t$ WAVAWH
+ A_A^_
+@SUVWATAUAVAWH
+D$@H;F0
+A_A^A]A\_^][
+t$ WAVAWH
+@A_A^_
+\$ I;
+VWATAVAWH
+@A_A^A\_^
+D$ I;
+@SUVWATAVAWH
+|$(E3
+)D$PL
+A_A^A\_^][
+t$ E3
+UVWATAUAVAWH
+A_A^A]A\_^]
+L$8H3
+@SUVWATAUAVAWH
+3333333
+|$ E3
+)D$0L
+A_A^A]A\_^][
+@SATAWH
+t$PI;
+L$HH3
+pA_A\[
+@VAUAVAWH
+tFxIL
+|$ u-I
+(A_A^A]^
+(A_A^A]^
+@VAUAVAWH
+tFxIL
+|$ u-I
+(A_A^A]^
+(A_A^A]^
+@VAUAVAWH
+tFxIL
+|$ u-I
+(A_A^A]^
+(A_A^A]^
+@SVAWH
+tLxOL
+0A_^[
+@SVAWH
+tLxOL
+0A_^[
+@SVAWH
+tLxOL
+0A_^[
+@SVAWH
+tLxOL
+0A_^[
+@SVAWH
+tLxOL
+0A_^[
+@SVAWH
+tLxOL
+0A_^[
+UVWATAUAVAWH
+D$@M;0
+H;|$(
+L;|$0
+A_A^A]A\_^]
+\$ WH
+@UVWAVAWH
+0A_A^_^]
+t$ WH
+l$ VWAVH
+0A^_^
+UVWATAUAVAWH
+D$pH9
+D$xH9
+|$XE3
+|$@H;
+T$HH+
+A_A^A]A\_^]
+UVWATAUAVAWH
+D$pH9
+D$xH9
+|$XE3
+|$@H;
+T$HH+
+A_A^A]A\_^]
+UVWATAUAVAWH
+D$pH9
+D$xH9
+|$XE3
+|$@H;
+T$HH+
+A_A^A]A\_^]
+UVWATAUAVAWH
+tYx\L
+tSxVL
+tSxVL
+A_A^A]A\_^]
+UVWATAUAVAWH
+tYx\L
+tSxVL
+tSxVL
+A_A^A]A\_^]
+l$ VWAVH
+t$0H;
+@A^_^
+l$ VWAVH
+ A^_^
+l$ VWAVH
+@A^_^
+l$ VWAVH
+t$0H;
+@A^_^
+@USVWATAUAVAWH
+tVxYL
+|$HE3
+tOxRL
+|$XE3
+H9D$X
+H9L$`
+tOxRL
+|$xE3
+H9D$x
+tDxGH
+A_A^A]A\_^[]
+t$ E3
+USVWATAVAWH
+A_A^A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SUVWAVH
+L$@H3
+PA^_^][
+L$0H3
+@USVWATAVAWH
+A_A^A\_^[]
+@USVWATAUAVAWH
+tWxZL
+t$HE3
+tWxZL
+EhH9E
+EpH9E
+tWxZL
+|$pE3
+H9D$p
+H9D$x
+3333333
+3333333
+A_A^A]A\_^[]
+VWAVH
+ A^_^
+UVWATAUAVAWH
+t]x`M
+t$ E3
+D$xH9
+tUxXM
+l$8E3
+H9D$8
+H9D$@
+tUxXM
+l$XE3
+H9D$X
+H9D$`
+t'fff
+A_A^A]A\_^]
+@USVWATAUAVAWH
+tZx]M
+D$XH9
+D$`H9
+d$HI;
+A_A^A]A\_^[]
+t$8H+
+|$ UH
+t$ WH
+L$(H3
+t$ WH
+t$ WH
+l$ VWAVH
+ A^_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A9~ ~4H
+L$(L+
+D$(H+
+A_A^A]A\_^]
+UVWATAUAVAWH
+L$pH3
+A_A^A]A\_^]
+u.H;C
+I98u*A
+VWAVH
+)D$ H
+)D$ H
+L$(fH
+0A^_^
+UVWATAUAVAWH
+T$HH+
+L$XH3
+`A_A^A]A\_^]
+VWAVH
+@A^_^
+@WATAUAVH
+\$`I;
+t;IcF
+hA^A]A\_
+hA^A]A\_
+hA^A]A\_
+hA^A]A\_
+hA^A]A\_
+gfffffffH
+t$8H+
+\$ UVWH
+UVWAVAWH
+A_A^_^]
+@SUVWATAUAVAWH
+|$ L;
+L$pH3
+A_A^A]A\_^][
+@SVWH
+@SVWH
+@SVWATAUAVAWH
+D$@H;
+L$@H;
+3333333
+)t$pL
+A_A^A]A\_^[
+\$ UVWATAUAVAWH
+D$PH;
+3333333
+L$PH9A
+)t$@L
+A_A^A]A\_^]
+@USVWATAUAVAWH
+3333333
+3333333
+t7fff
+A_A^A]A\_^[]
+S H;S(t
+@USVWATAUAVAWH
+D$XH;
+D$xL;
+L;t$x
+ H;L$X
+tUxXL
+|$HE3
+tUxXL
+|$HE3
+t$pE3
+A_A^A]A\_^[]
+UVWAVAWH
+0A_A^_^]
+l$ VWATAVAWH
+L$hH3
+A_A^A\_^
+L$@H3
+UVWATAUAVAWH
+A_A^A]A\_^]
+D$=L;
+L$@H3
+@USVWATAUAVAWH
+t$pE3
+\$8L;
+D$HE3
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+t$HE3
+\$8L;
+D$PE3
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+D$`E3
+|$HL;}
+A_A^A]A\_^[]
+X UVWATAUAVAWH
+CL$ H
+CL$@H
+CL$`H
+A_A^A]A\_^]
+X UVWATAUAVAWH
+CL$ H
+A_A^A]A\_^]
+@USVWATAUAVAWH
+L$0I;A(
+L$0I;A8
+u>H;C
+uYH;C
+H;\$x
+D$`I;q`u&M
+uHH;C
+A_A^A]A\_^[]
+\$ UVWAVAWH
+D$8E3
+A_A^_^]
+@USVWAVAWH
+A_A^_^[]
+@USVWAVAWH
+A_A^_^[]
+@USVWATAUAVAWH
+t$4@8q 
+ L;t$Xt
+]XI;]X
+A_A^A]A\_^[]
+\$ UVWATAUAVAWH
+|$(H;
+A_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@SUVWATAUAVAWH
+|$0H;
+L$xH3
+A_A^A]A\_^][
+@SVWATAUAVAWH
+|$P@8y0
+t$PE3
+t$0H;
+A_A^A]A\_^[
+@USVWATAUAVAWH
+|$HE3
+A_A^A]A\_^[]
+L$ SWH
+VWATAVAWH
+0A_A^A\_^
+SUWAWH
+HA__][
+t$8H+
+UVWAVAWH
+A_A^_^]
+UWAVH
+D$0HcH
+D$0HcH
+D$0HcH
+D$0HcH
+UVWATAUAVAWH
+T$XE3
+CT$8L
+CT$8L
+A_A^A]A\_^]
+UVWATAUAVAWH
+8/u,H
+D$`H;
+8/uTH
+D$xH;
+A_A^A]A\_^]
+t$ WH
+L$8H3
+UVWAVAWH
+A_A^_^]
+UWAVH
+UVWAVAWH
+A_A^_^]
+|$ UATAUAVAWH
+L$PH;
+A_A^A]A\]
+T$ E3
+L$HH3
+L$PH3
+WAVAWH
+D$@tC
+A_A^_
+x AVH
+WAVAWH
+|$ E3
+|$0E3
+|$(E3
+H9D$@~
+A_A^_
+L$HH3
+t$ WH
+L$`H3
+t$ UWAVH
+*teD;
+\$@E3
+UVWATAUAVAWH
+L$pH;
+ A_A^A]A\_^]
+SVWAVH
+8A^_^[
+WAVAWH
+\$8H;
+A_A^_
+LcA<A
+HcA<H
+x AVH
+|$ AVH
+VWAVH
+@A^_^
+WAVAWH
+0A_A^_
+ntelA
+GenuD
+ED$`H
+u0HcH<H
+D$H9D$ s"
+\$ WH
+@SVWH
+M H1E
+ H3E H3E
+\$ UH
+M H1E
+ H3E H3E
+;^Xu&H
+LcKX3
+SUVWH
+SUVWAUAVAWH
+0A_A^A]_^][
+SUVWH
+SUVWATAVAWH
+0A_A^A\_^][
+SUVWH
+8_^][
+SUVWH
+8_^][
+gfffffffH+
+LifePercentage
+EVENT
+COMMAND
+RESULT
+Intel.Ipf.Battery
+PartKey
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+"LifePercentage" : {
+        "type": ["integer", "null"],
+"minimum": 0,
+"maximum": 100,
+"readOnly": true,
+        "description" : "The percentage of full battery charge remaining. Null when status is unknown."
+"additionalProperties" : false
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "type": "object",
+  "properties": {
+    "LifePercentageChanged": {
+"type": ["integer", "null"],
+"minimum": 0,
+"maximum":100,
+"description" : "The percentage of full battery charge remaining."
+"additionalProperties": false
+IETM.DFL
+LifePercentageChanged
+Unknown exception
+bad array new length
+string too long
+false
+map/set too long
+ESIF_DATA_ANGLE
+ESIF_DATA_AUTO
+ESIF_DATA_BINARY
+ESIF_DATA_BLOB
+ESIF_DATA_DECIBEL
+ESIF_DATA_DSP
+ESIF_DATA_ENUM
+ESIF_DATA_FREQUENCY
+ESIF_DATA_GUID
+ESIF_DATA_HANDLE
+ESIF_DATA_INSTANCE
+ESIF_DATA_INT16
+ESIF_DATA_INT32
+ESIF_DATA_INT64
+ESIF_DATA_INT8
+ESIF_DATA_IPV4
+ESIF_DATA_IPV6
+ESIF_DATA_JSON
+ESIF_DATA_PERCENT
+ESIF_DATA_POINTER
+ESIF_DATA_POWER
+ESIF_DATA_QUALIFIER
+ESIF_DATA_REGISTER
+ESIF_DATA_STRING
+ESIF_DATA_STRUCTURE
+ESIF_DATA_TABLE
+ESIF_DATA_TEMPERATURE
+ESIF_DATA_TIME
+ESIF_DATA_UINT16
+ESIF_DATA_UINT32
+ESIF_DATA_UINT64
+ESIF_DATA_UINT8
+ESIF_DATA_UNICODE
+ESIF_DATA_VOID
+ESIF_DATA_XML
+ESIF_EVENT_NONE
+ESIF_EVENT_DTT_ACTIVE_RELATIONSHIP_TABLE_CHANGED
+ESIF_EVENT_DTT_THERMAL_RELATIONSHIP_TABLE_CHANGED
+ESIF_EVENT_FOREGROUND_APP_CHANGED
+ESIF_EVENT_PARTICIPANT_SUSPEND
+ESIF_EVENT_PARTICIPANT_RESUME
+ESIF_EVENT_CORE_CAPABILITY_CHANGED
+ESIF_EVENT_DTT_DISPLAY_CAPABILITY_CHANGED
+ESIF_EVENT_DTT_DISPLAY_STATUS_CHANGED
+ESIF_EVENT_PERF_CAPABILITY_CHANGED
+ESIF_EVENT_PERF_CONTROL_CHANGED
+ESIF_EVENT_POWER_CAPABILITY_CHANGED
+ESIF_EVENT_DTT_PRIORITY_CHANGED
+ESIF_EVENT_TEMP_THRESHOLD_CROSSED
+ESIF_EVENT_PARTICIPANT_SPEC_INFO_CHANGED
+ESIF_EVENT_PARTICIPANT_CREATE
+ESIF_EVENT_PARTICIPANT_UNREGISTER
+ESIF_EVENT_PARTICIPANT_SHUTDOWN
+ESIF_EVENT_ACPI
+ESIF_EVENT_DTT_PASSIVE_TABLE_CHANGED
+ESIF_EVENT_DISPLAY_ORIENTATION_CHANGED
+ESIF_EVENT_DEVICE_ORIENTATION_CHANGED
+ESIF_EVENT_MOTION_CHANGED
+ESIF_EVENT_DTT_SYSTEM_COOLING_POLICY_CHANGED
+ESIF_EVENT_RF_PROFILE_CHANGED
+ESIF_EVENT_RF_CONNECTION_STATUS_CHANGED
+ESIF_EVENT_LOG_VERBOSITY_CHANGED
+ESIF_EVENT_POWER_SOURCE_CHANGED
+ESIF_EVENT_DRIVER_TEMP_THRESHOLD_INTERRUPT
+ESIF_EVENT_DRIVER_SUSPEND
+ESIF_EVENT_DRIVER_RESUME
+ESIF_EVENT_DTT_ADAPTIVE_PERFORMANCE_CONDITIONS_TABLE_CHANGED
+ESIF_EVENT_DTT_ADAPTIVE_PERFORMANCE_ACTIONS_TABLE_CHANGED
+ESIF_EVENT_OS_POWER_SOURCE_CHANGED
+ESIF_EVENT_OS_LID_STATE_CHANGED
+ESIF_EVENT_OS_BATTERY_PERCENT_CHANGED
+ESIF_EVENT_OS_PLATFORM_TYPE_CHANGED
+ESIF_EVENT_OS_DOCK_MODE_CHANGED
+ESIF_EVENT_OEM_VARS_CHANGED
+ESIF_EVENT_DTT_VIRTUAL_SENSOR_CALIB_TABLE_CHANGED
+ESIF_EVENT_DTT_VIRTUAL_SENSOR_POLLING_TABLE_CHANGED
+ESIF_EVENT_DTT_VIRTUAL_SENSOR_RECALC_CHANGED
+ESIF_EVENT_BATTERY_STATUS_CHANGED
+ESIF_EVENT_BATTERY_INFORMATION_CHANGED
+ESIF_EVENT_PLATFORM_BATTERY_STEADY_STATE_CHANGED
+ESIF_EVENT_PLATFORM_POWER_SOURCE_CHANGED
+ESIF_EVENT_CHARGER_TYPE_CHANGED
+ESIF_EVENT_PLATFORM_REST_OF_POWER_CHANGED
+ESIF_EVENT_DTT_POWER_BOSS_CONDITIONS_TABLE_CHANGED
+ESIF_EVENT_DTT_POWER_BOSS_ACTIONS_TABLE_CHANGED
+ESIF_EVENT_DTT_POLICY_LOADED_UNLOADED
+ESIF_EVENT_DTT_POLICY_ACTIVITY_LOGGING_ENABLED
+ESIF_EVENT_DTT_POLICY_ACTIVITY_LOGGING_DISABLED
+ESIF_EVENT_DTT_PARTICIPANT_ACTIVITY_LOGGING_ENABLED
+ESIF_EVENT_DTT_PARTICIPANT_ACTIVITY_LOGGING_DISABLED
+ESIF_EVENT_DTT_PARTICIPANT_CONTROL_ACTION
+ESIF_EVENT_MAX_BATTERY_POWER_CHANGED
+ESIF_EVENT_OS_POWERSCHEME_PERSONALITY_CHANGED
+ESIF_EVENT_OS_MOBILE_NOTIFICATION
+ESIF_EVENT_EMERGENCY_CALL_MODE_TABLE_CHANGED
+ESIF_EVENT_APP_LOADED
+ESIF_EVENT_APP_UNLOADED
+ESIF_EVENT_DTT_ADAPTIVE_PERFORMANCE_PARTICIPANT_CONDITION_TABLE_CHANGED
+ESIF_EVENT_ACTION_LOADED
+ESIF_EVENT_ACTION_UNLOADED
+ESIF_EVENT_DTT_PID_ALGORITHM_TABLE_CHANGED
+ESIF_EVENT_DTT_POWER_BOSS_MATH_TABLE_CHANGED
+ESIF_EVENT_APP_UNLOADING
+ESIF_EVENT_DTT_ACTIVE_CONTROL_POINT_RELATIONSHIP_TABLE_CHANGED
+ESIF_EVENT_PARTICIPANT_UNREGISTER_COMPLETE
+ESIF_EVENT_DTT_SUPPORTED_POLICIES_CHANGED
+ESIF_EVENT_LF_UNLOADED
+ESIF_EVENT_ENERGY_THRESHOLD_CROSSED
+ESIF_EVENT_DTT_POWER_SHARING_ALGORITHM_TABLE_CHANGED
+ESIF_EVENT_DTT_WORKLOAD_HINT_CONFIGURATION_CHANGED
+ESIF_EVENT_PRIMARY_PARTICIPANT_ARRIVED
+ESIF_EVENT_FAN_CAPABILITIES_CHANGED
+ESIF_EVENT_DTT_ALIVE_REQUEST
+ESIF_EVENT_OS_MIXED_REALITY_MODE_CHANGED
+ESIF_EVENT_BATTERY_COUNT_NOTIFICATION
+ESIF_EVENT_OS_SCREEN_STATE_CHANGED
+ESIF_EVENT_OS_USER_PRESENCE_CHANGED
+ESIF_EVENT_BATTERY_HIGH_FREQUENCY_IMPEDANCE_CHANGED
+ESIF_EVENT_BATTERY_NO_LOAD_VOLTAGE_CHANGED
+ESIF_EVENT_BATTERY_STATE_OF_CHARGE_CHANGED
+ESIF_EVENT_BATTERY_TEMPERATURE_CHANGED
+ESIF_EVENT_DTT_VOLTAGE_THRESHOLD_MATH_TABLE_CHANGED
+ESIF_EVENT_OS_POWER_SLIDER_VALUE_CHANGED
+ESIF_EVENT_WORKLOAD_CLASSIFICATION_CHANGED
+ESIF_EVENT_DTT_POWER_SHARING_ALGORITHM_TABLE_2_CHANGED
+ESIF_EVENT_OS_GAME_MODE_CHANGED
+ESIF_EVENT_SESSION_STATE_CHANGED
+ESIF_EVENT_SENSOR_USER_PRESENCE_CHANGED
+ESIF_EVENT_PLATFORM_USER_PRESENCE_CHANGED
+ESIF_EVENT_EXTERNAL_MONITOR_CONNECTION_STATE_CHANGED
+ESIF_EVENT_BIOMETRIC_PRESENCE_SENSOR_INSTANCE_CHANGED
+ESIF_EVENT_PARTICIPANT_CREATE_COMPLETE
+ESIF_EVENT_DTT_EPP_SENSITIVITY_HINT_CHANGED
+ESIF_EVENT_OS_USER_INTERACTION_CHANGED
+ESIF_EVENT_FOREGROUND_BACKGROUND_RATIO_CHANGED
+ESIF_EVENT_SENSOR_MODE_CHANGED
+ESIF_EVENT_USER_PRESENCE_CORRELATION_STATUS_CHANGED
+ESIF_EVENT_DISPLAY_OFF
+ESIF_EVENT_DISPLAY_ON
+ESIF_EVENT_DTT_INTELLIGENT_THERMAL_MANAGEMENT_TABLE_CHANGED
+ESIF_EVENT_BIOMETRIC_PRESENCE_SENSOR_WAKE
+ESIF_EVENT_ONLOOKER_SENSOR_STATUS_CHANGED
+ESIF_EVENT_ONLOOKER_SENSOR_HUMAN_COUNT_CHANGED
+ESIF_EVENT_BIOMETRIC_PRESENCE_SENSOR_DISTANCE_CHANGED
+ESIF_EVENT_BIOMETRIC_PRESENCE_SENSOR_STATUS_CHANGED
+ESIF_EVENT_APP_BROADCAST
+ESIF_EVENT_WINDOWS_LOW_POWER_MODE_ENTRY
+ESIF_EVENT_WINDOWS_LOW_POWER_MODE_EXIT
+ESIF_EVENT_APP_BROADCAST_UNPRIVILEGED
+ESIF_EVENT_TPG_POWER_STATE_CHANGED
+ESIF_EVENT_COLLABORATION_CHANGED
+ESIF_EVENT_FAN_SPEED_THRESHOLD_CROSSED
+ESIF_EVENT_ACTION_UNLOAD_REQUEST
+ESIF_EVENT_TPG_TPP_LIMIT_CHANGED
+ESIF_EVENT_SOC_WORKLOADTYPE_CHANGED
+ESIF_EVENT_SOC_POWER_FLOOR_CHANGED
+ESIF_EVENT_PCIE_THROTTLE_REQUESTED
+ESIF_EVENT_PROCESS_LOAD_NOTIFICATION
+ESIF_EVENT_SYSTEM_IN_BAG
+ESIF_EVENT_IP_ALIGNMENT_STATE_CHANGED
+ESIF_EVENT_SENSOR_USER_PRESENCE_WITH_ENROLLMENT_CHANGED
+ESIF_EVENT_PLATFORM_USER_PRESENCE_WITH_ENROLLMENT_CHANGED
+ESIF_EVENT_FACE_ID_CAPABILITY_CHANGED
+ESIF_EVENT_IP_ALIGNMENT_STATUS
+ESIF_EVENT_SPLIT_RATIO_CHANGED
+ESIF_EVENT_RESERVED_TGP_CHANGED
+ESIF_EVENT_OPPORTUNISTIC_BOOST_MODE_CHANGED
+ESIF_EVENT_LAST_HID_SOURCE_LOCATION_CHANGED
+ESIF_EVENT_PROCESS_UNLOAD_NOTIFICATION
+ESIF_EVENT_SESSION_DISCONNECTED
+[json.exception.
+U1(\Q
+~)p$w
+11eU%
+C:\home\jenkins\agent\workspace\ipf-extensible-framework\Src\src\shared\Exceptions.h
+Ipf::IpfException::IpfException
+ - Unexpected data type from esif event: 
+Ipf::BatteryEnumeratorProvider::EventHandler
+ - Unexpected event received by EventHandler: 
+ - Unexpected path received by EventHandler: 
+BatteryEnumeratorProvider : Unknown primitive property name
+ - Unexpected value for event 
+cannot use operator[] with a string argument with 
+"bytes": [
+"subtype": 
+{"bytes":[
+],"subtype":
+null}
+<discarded>
+object
+array
+string
+boolean
+binary
+discarded
+number
+\u%04x
+\u%04x\u%04x
+invalid UTF-8 byte at index 
+incomplete UTF-8 string; last byte: 0x
+\ufffd
+0123456789ABCDEF
+961c151d2e87f2686a955a9be24d316f1362bf21 3.11.3
+vector too long
+type_error
+00010203040506070809101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899
+00010203040506070809101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899
+00010203040506070809101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899other_error
+PartKey
+    "$schema": "http://json-schema.org/draft-07/schema", 
+    "type": "object",
+"properties" : {
+"State": {
+"type": "object",
+"description" : "Battery state",
+"properties": {
+"HighFrequencyImpedance": {
+"type": ["integer", "null"],
+"readOnly": true,
+"description" : "High frequency impedance value in 1m Ohm."
+"MaxPeakCurrent": {
+"type": ["integer", "null"],
+"minimum" : 0,
+"readOnly": true,
+"description" : "Battery discharge current capability in milliampere"
+"NoLoadVoltage": {
+"type": ["integer", "null"],
+"readOnly": true,
+"description" : "battery instantaneous no-load voltage in millivolt"
+"SteadyState": {
+"type": ["integer", "null"],
+"readOnly": true,
+"minimum" : 0,
+"description" : "Max sustained power for battery in miliwatts"
+"MaxBatteryPower": {
+"type": ["integer", "null"],
+"readOnly": true,
+"minimum" : 0,
+"description" : "Maximum platform power that can be supported by the battery in mW."
+"additionalProperties": false
+    },
+     "additionalProperties": false
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "type": "object",
+    "properties": {
+"PartKey": {
+"type": "string"
+"additionalProperties": false
+State.HighFrequencyImpedance
+State.MaxPeakCurrent
+State.NoLoadVoltage
+State.SteadyState
+State.MaxBatteryPower
+Participant not found in config
+type must be string, but is 
+Intel.Ipf.SocThermal
+Intel.Ipf.SocPower
+Intel.Ipf.SocPerformance
+Intel.Ipf.SystemState
+Intel.Ipf.UserPresence
+Intel.Ipf.DisplayEnumerator
+Intel.Ipf.BatteryEnumerator
+Intel.Ipf.SystemPower
+Intel.Ipf.StorageEnumerator
+Intel.Ipf.Storage
+Intel.Ipf.WifiEnumerator
+Intel.Ipf.Wifi
+Intel.Ipf.WifiThermal
+Intel.Ipf.CPUState
+Intel.Ipf.CPUStates
+Intel.Ipf.CPUThermal
+Intel.Ipf.CPUCounters
+Intel.Ipf.PowerAdapterEnumerator
+Intel.Ipf.PowerAdapter
+Intel.Ipf.PlatformEnumerator
+Intel.Ipf.WwanEnumerator
+Intel.Ipf.Wwan
+Intel.Ipf.WwanThermal
+Intel.Ipf.TemperatureSensorEnumerator
+Intel.Ipf.TemperatureSensor
+Intel.Ipf.TemperatureSensorThermal
+Intel.Ipf.GraphicsDiagnostics
+Intel.Ipf.SocDiagnostics
+Intel.Ipf.SocThermalStatus
+Intel.Ipf.SystemAgentVoltage
+Intel.Ipf.MemoryTimingsEnumerator
+Intel.Ipf.MemoryTimings
+Intel.Ipf.SocInfo
+Intel.Ipf.MemoryStatus
+Intel.Ipf.MemoryThermal
+Tracing initialized
+C:\home\jenkins\agent\workspace\ipf-extensible-framework\Src\src\coreprovider\CoreProviderApi.cpp
+EtwInit::EtwInit
+Stopping tracing
+EtwInit::~EtwInit
+CoreProvider
+  "schema_type": "provider_manifest",
+  "schema_revision": 5,
+  "body": {
+"Intel.Ipf.SocThermal": {
+  "unique_id": "3C7F02BD-8B0F-4717-AE83-2C8210A7B646",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF SOC Thermal Provider"
+"Intel.Ipf.SocPower": {
+  "unique_id": "083C76C9-6EF7-4570-8872-7F55188FF2A1",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF SOC Power Provider"
+  "Intel.Ipf.SocPerformance": {
+  "unique_id": "088DAD3A-8504-412B-8A3D-2E3B2EEC7B1A",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF SOC Performance Provider"
+  "Intel.Ipf.SystemState": {
+  "unique_id": "7073BCD1-F02E-4910-98D5-501D420B25E7",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF System State Provider"
+ "Intel.Ipf.UserPresence": {
+  "unique_id": "0EDE8F64-9D57-4CE5-8D7F-4C0C6585748F",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF UserPresence Provider"
+"Intel.Ipf.DisplayEnumerator": {
+      "unique_id": "99A53A62-23CB-4241-8339-D08FFE024E68",
+      "version": "0.1",
+      "author": "Intel Corp",
+      "description": "IPF DisplayEnumerator Provider"
+    },
+ "Intel.Ipf.BatteryEnumerator": {
+  "unique_id": "F9D81021-82AE-4432-9CA6-64EA803FB7AF",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF BatteryEnumerator Provider"
+ "Intel.Ipf.Battery": {
+  "unique_id": "E146435D-09F2-41AF-97A5-8516472B2125",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF Battery Provider"
+ "Intel.Ipf.SystemPower": {
+  "unique_id": "89AFED9C-349F-4F6F-A69E-F6AD9BF418B4",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF System Power Provider"
+ "Intel.Ipf.StorageEnumerator": {
+  "unique_id": "9AA75211-13FD-4702-A85C-418C6D48FD07",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF StorageEnumerator Provider"
+ "Intel.Ipf.Storage": {
+  "unique_id": "46954897-799A-43CD-902E-EAAA99176E62",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF Storage Provider"
+ "Intel.Ipf.WifiEnumerator": {
+  "unique_id": "D6539D88-E5A8-4641-ABE9-36A5AED72B36",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF WifiEnumerator Provider"
+ "Intel.Ipf.Wifi": {
+  "unique_id": "392CAC39-999C-466E-B556-2617AB325C9E",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF Wifi Provider"
+"Intel.Ipf.WifiThermal": {
+  "unique_id": "968B4316-19D6-47F1-A682-EFDBD1FFB993",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF Wifi Thermal Provider"
+ "Intel.Ipf.CPUState": {
+  "unique_id": "79D8347C-7F4E-4F6C-8F9F-B50664DFC788",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF CPU State Provider"
+ "Intel.Ipf.CPUThermal": {
+  "unique_id": "FFAA10E8-EDDF-47E3-9B86-7A51C3EB4D21",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF CPU Thermal Provider"
+ "Intel.Ipf.CPUCounters": {
+  "unique_id": "270DDC98-FFDB-4B92-9592-3FEDECFACAE7",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF CPU Thermal Provider"
+ "Intel.Ipf.CPUStates": {
+  "unique_id": "233828FB-0537-4AD2-B951-91E32F47BC97",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF CPU States Provider"
+ "Intel.Ipf.PowerAdapterEnumerator": {
+  "unique_id": "0B159B7E-C0B1-462C-A70F-AECCE95B9674",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF Power Adapter Enumerator Provider"
+ "Intel.Ipf.PowerAdapter": {
+  "unique_id": "5C20A197-DF74-45C5-95F2-A79FCA08BEA1",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF Power Adapter Provider"
+"Intel.Ipf.PlatformEnumerator": {
+  "unique_id": "50CF3563-71B1-40D0-960E-E15F10CCAABF",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF Platform Enumerator Provider"
+ "Intel.Ipf.WwanEnumerator": {
+  "unique_id": "37C9D4D5-5DCF-4634-B846-FE534954408D",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF WWAN Enumerator Provider"
+ "Intel.Ipf.Wwan": {
+  "unique_id": "7A5C2A1F-7908-4260-B6B3-0F938F662F67",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF WWAN Provider"
+"Intel.Ipf.WwanThermal": {
+  "unique_id": "17D62DB5-14D7-4EE4-9CCE-DD4232FD782C",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF WWAN Thermal Provider"
+ "Intel.Ipf.TemperatureSensorEnumerator": {
+  "unique_id": "ECD5D42D-B8D7-4671-8942-2CCF52FF0B7D",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF Temperature Sensor Enumerator Provider"
+ "Intel.Ipf.TemperatureSensor": {
+  "unique_id": "AF2AF92D-29D3-4A86-8659-07FC54B24A8F",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF Temperature Sensor Provider"
+ "Intel.Ipf.TemperatureSensorThermal": {
+  "unique_id": "DC33991E-B964-4308-BB7D-716EBF7D3E87",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF Temperature Sensor Thermal Provider"
+"Intel.Ipf.GraphicsDiagnostics": {
+  "unique_id": "620CACB2-CFE7-4179-A9FF-DCDF3EC41691",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF Graphics Diagnostics Provider"
+ "Intel.Ipf.SocDiagnostics": {
+  "unique_id": "E4F2CAD2-B463-4AFC-9F46-9BF4CF20B5B3",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF Soc Diagnostics Provider"
+ "Intel.Ipf.SocThermalStatus": {
+  "unique_id": "4F6B7A21-B7AE-4196-B960-D1353CC4130B",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF Soc Thermal Status Provider"
+ "Intel.Ipf.SystemAgentVoltage": {
+  "unique_id": "CE247C40-C952-428E-95C6-565E9B9E0E01",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF System Agent Voltage Provider"
+"Intel.Ipf.MemoryTimingsEnumerator": {
+  "unique_id": "ED8AA7BD-1DDB-4082-B77C-92DC86B71B80",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF Memory Timings Enumerator Provider"
+ "Intel.Ipf.MemoryTimings": {
+  "unique_id": "F7607AEC-7548-4E39-A4BE-ECA8B6943016",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF Memory Timings Provider"
+ "Intel.Ipf.SocInfo": {
+  "unique_id": "D9739FEC-448B-4CCA-9411-E829A75998DC",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF Soc Info Provider"
+ "Intel.Ipf.MemoryStatus": {
+  "unique_id": "A6CFE502-59FD-4954-B8C8-09F9C73E5878",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF Memory Status Provider"
+ "Intel.Ipf.MemoryThermal": {
+  "unique_id": "090E5888-B064-44F9-A6DD-181A9C124A88",
+  "version": "0.1",
+  "author": "Intel Corp",
+  "description": "IPF Memory Thermal Provider"
+bad variant access
+ESIF_OK
+ESIF_I_ACPI_TRIP_POINT_NOT_PRESENT
+ESIF_I_ACPI_OBJECT_NOT_PRESENT
+ESIF_I_AGAIN
+ESIF_I_MSR_AFFINITY
+ESIF_I_INIT_PAUSED
+ESIF_I_NO_LEGACY_SUPPORT
+ESIF_E_NOT_IMPLEMENTED
+ESIF_E_NO_LOWER_FRAMEWORK
+ESIF_E_NOT_SUPPORTED
+ESIF_E_UNSPECIFIED
+ESIF_E_INVALID_HANDLE
+ESIF_E_ITERATION_DONE
+ESIF_E_STOP_POLL
+ESIF_E_ORDERED_INSERT
+ESIF_E_API_ERROR
+ESIF_E_MAXIMUM_CAPACITY_REACHED
+ESIF_E_DISABLED
+ESIF_E_NOT_INITIALIZED
+ESIF_E_UNSUPPORTED_CLIENT_SDK
+ESIF_E_NO_ACPI_SUPPORT
+ESIF_E_NO_ACPII_SUPPORT
+ESIF_E_NO_ACPI5_SUPPORT
+ESIF_E_ACPI_RESULT_TYPE
+ESIF_E_ACPI_REQUEST_TYPE
+ESIF_E_ACPI_EVAL_FAILURE
+ESIF_E_ACPI_OBJECT_NOT_FOUND
+ESIF_E_UNSUPPORTED_ACPI_NOTIFY_EVENT
+ESIF_E_ACTION_NOT_IMPLEMENTED
+ESIF_E_OVERFLOWED_RESULT_TYPE
+ESIF_E_UNSUPPORTED_ACTION_TYPE
+ESIF_E_UNSUPPORTED_REQUEST_DATA_TYPE
+ESIF_E_UNSUPPORTED_RESULT_DATA_TYPE
+ESIF_E_INVALID_REQUEST_TYPE
+ESIF_E_XFORM_NOT_AVAILABLE
+ESIF_E_REQUEST_DATA_OUT_OF_BOUNDS
+ESIF_E_ACTION_ALREADY_STARTED
+ESIF_E_APP_ALREADY_STARTED
+ESIF_E_NEED_LARGER_BUFFER
+ESIF_E_NEED_BINARY_BUFFER
+ESIF_E_REQ_SIZE_TYPE_MISTMATCH
+ESIF_E_COMPRESSION_ERROR
+ESIF_E_CALLBACK_IS_NULL
+ESIF_E_COMMAND_DATA_INVALID
+ESIF_E_DSP_ALREADY_LOADED
+ESIF_E_CPC_SHORT
+ESIF_E_CPC_SIZE_INVALID
+ESIF_E_CPC_SIGNATURE
+ESIF_E_CPC_PRIMITIVE_SIZE_INVALID
+ESIF_E_IPC_DATA_INVALID
+ESIF_E_NO_MEMORY
+ESIF_E_NO_CREATE
+ESIF_E_NO_MMIO_SUPPORT
+ESIF_E_NO_MBI_SUPPORT
+ESIF_E_MSR_IO_FAILURE
+ESIF_E_MSR_MULTI_VALUES
+ESIF_E_MSR_AFFINITY
+ESIF_E_PARTICIPANT_NOT_FOUND
+ESIF_E_PARAMETER_IS_NULL
+ESIF_E_PARAMETER_IS_OUT_OF_BOUNDS
+ESIF_E_NULL_PRIMITIVE
+ESIF_E_NEED_DSP
+ESIF_E_PRIMITIVE_ACTION_FAILURE
+ESIF_E_PRIMITIVE_DST_UNAVAIL
+ESIF_E_PRIMITIVE_NOT_FOUND_IN_DSP
+ESIF_E_OPCODE_NOT_IMPLEMENTED
+ESIF_E_PRIMITIVE_NO_ACTION_SUCCESSFUL
+ESIF_E_PRIMITIVE_NO_ACTION_AVAIL
+ESIF_E_PRIMITIVE_SUR_NOT_FOUND_IN_DSP
+ESIF_E_UNSUPPORTED_REQUEST_TEMP_TYPE
+ESIF_E_UNSUPPORTED_RESULT_TEMP_TYPE
+ESIF_E_TIMEOUT
+ESIF_E_NOT_TABLE
+ESIF_E_UNSUPPORTED_REQUEST_POWER_TYPE
+ESIF_E_UNSUPPORTED_RESULT_POWER_TYPE
+ESIF_E_NEED_ALGORITHM
+ESIF_E_UNSUPPORTED_ALGORITHM
+ESIF_E_NOT_FOUND
+ESIF_E_READONLY
+ESIF_E_IO_ERROR
+ESIF_E_IO_OPEN_FAILED
+ESIF_E_IO_DELETE_FAILED
+ESIF_E_IO_HASH_FAILED
+ESIF_E_IO_INVALID_NAME
+ESIF_E_IO_ALREADY_EXISTS
+ESIF_E_WS_DISC
+ESIF_E_WS_INIT_FAILED
+ESIF_E_WS_SOCKET_ERROR
+ESIF_E_WS_SERVER_ERROR
+ESIF_E_WS_INVALID_ADDR
+ESIF_E_WS_ALREADY_STARTED
+ESIF_E_WS_INCOMPLETE
+ESIF_E_WS_INVALID_REQUEST
+ESIF_E_WS_UNAUTHORIZED
+ESIF_E_UNSUPPORTED_REQUEST_TIME_TYPE
+ESIF_E_UNSUPPORTED_RESULT_TIME_TYPE
+ESIF_E_UNSUPPORTED_REQUEST_PERCENT_TYPE
+ESIF_E_UNSUPPORTED_RESULT_PERCENT_TYPE
+ESIF_E_IFACE_DISABLED
+ESIF_E_IFACE_NOT_SUPPORTED
+ESIF_E_EVENT_NOT_FOUND
+ESIF_E_EVENT_FILTERED
+ESIF_E_INVALID_ARGUMENT_COUNT
+ESIF_E_INVALID_PARTICIPANT_ID
+ESIF_E_INVALID_DOMAIN_ID
+ESIF_E_INVALID_CAPABILITY_MASK
+ESIF_E_SESSION_DISCONNECTED
+ESIF_E_SESSION_REQUEST_FAILED
+ESIF_E_SESSION_ALREADY_STARTED
+ESIF_E_SESSION_PERMISSION_DENIED
+ESIF_E_ABAT_ERRORS_RSVD
+C:\home\jenkins\agent\workspace\ipf-extensible-framework\Src\src\coreprovider\CoreProviderShared.cpp
+Ipf::CoreProviderShared::RegisterEventHelper
+ error: 
+Error registering for esif event 
+No primitive associated with property: "
+Empty Primitive
+Empty partkey
+CoreConnectionException
+Primitive not supported
+ errcode=
+Unexpected exception from CoreApi GetPrimitive: 
+Core connection exception: 
+Primitive not supported. Check permissions: 
+Unexpected exception from CoreApi SetPrimitive: 
+ is duplicated!
+invalid map<K, T> key
+JSON pointer must be empty or begin with '/' - was: '
+escape character '~' must be followed with '0' or '1'
+cannot use key() for non-object iterators
+invalid string position
+list too long
+unresolved reference token '
+ at byte 
+parse error
+parse_error
+invalid_iterator
+cannot use operator[] with a numeric argument with 
+cannot compare iterators of different containers
+' must not begin with '0'
+array index '
+' is not a number
+ exceeds size_type
+array index 
+out_of_range
+WorkloadClassificationChanged
+HWWorkloadClassificationChanged
+Invalid
+Semi-Active
+Bursty
+Sustained
+Battery Life
+Unknown/NA
+"$schema": "http://json-schema.org/draft-07/schema#",
+"type": "object",
+"description": "CPU State provider",
+"properties": {
+"SWWorkloadClassification": {
+"type": ["string", "null"],
+"enum": [null, "Invalid", "Semi-Active", "Bursty", "Sustained", "Battery Life"],
+"readOnly": true,
+"description": "Temporarily disabled. Provides the workload classification detected through the SW."
+"IsSWWorkloadClassificationSupported": {
+"type": ["boolean", "null"],
+"readOnly": true,
+"description": "Is workload classification detected through the SW"
+"HWWorkloadClassification": {
+"type": ["string", "null"],
+"enum": [null, "Idle", "Battery Life", "Sustained", "Bursty", "Unknown/NA"],
+"readOnly": true,
+"description": "HW workload classification"
+"HWWorkloadClassificationSupported": {
+"type": ["boolean", "null"],
+"readOnly": true,
+"description": "HW workload classification supported"
+"additionalProperties": false
+"$schema": "http://json-schema.org/draft-07/schema",
+"type": ["object", "null"],
+"properties": {
+"WorkloadClassificationChanged": {
+"type": "boolean",
+"description": "Workload Classification Changed"
+"HWWorkloadClassificationChanged": {
+"type": "boolean",
+"description": "HW Workload Classification Changed"
+"additionalProperties": false
+SWWorkloadClassification
+HWWorkloadClassification
+IsSWWorkloadClassificationSupported
+HWWorkloadClassificationSupported
+ - Invalid Event path: 
+Ipf::CPUStateProvider::RegisterEvent
+Ipf::CPUStateProvider::UnregisterEvent
+ - Unexpected event received: 
+Ipf::CPUStateProvider::EventHandler
+{"WorkloadClassificationChanged": true}
+{"HWWorkloadClassificationChanged": true}
+"$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "http://json-schema.org/draft-07/schema#",
+    "title": "CPU States Provider Schema",
+"type" : "object",
+"properties" : {
+"Core": {
+"type": "array",
+"minItems": 1,
+"items": {
+"type" : "object",
+"properties": {
+"TargetPStateValue": {
+"type": ["integer", "null"],
+"description": "Target performance state value per core"
+"additionalProperties": false
+"additionalProperties": false
+"$schema": "http://json-schema.org/draft-07/schema",
+"type": "object",
+"properties": {
+"GetCoresPState": {
+"type":"object",
+"properties": {
+"AffinityData": {
+"type": "array",
+"items": {
+"type": "object", 
+"properties": {
+"Group" : {
+"type": "integer"
+"AffinityMask" : {
+"type": "integer"
+"additionalProperties": false,
+"required": [ "Group", "AffinityMask" ]
+"additionalProperties": false,
+"required": [ "AffinityData"]
+"SetCoresPState": {
+"type":"object",
+"properties": {
+"AffinityData": {
+"type": "array",
+"items": {
+"type": "object", 
+"properties": {
+"Group" : {
+"type": "integer"
+"AffinityMask" : {
+"type": "integer"
+"Data": {
+"type": "integer"
+"additionalProperties": false,
+"required": [ "Group", "AffinityMask", "Data"]
+"additionalProperties": false,
+"required": [ "AffinityData"]
+"additionalProperties": false
+"$schema": "http://json-schema.org/draft-07/schema",
+"type": "object",
+"properties": {
+"GetCoresPState": {
+"type": "object",
+"properties": {
+"Success": {
+"type": "boolean"
+"ErrorMessage":{
+"type": "string"
+"Values": {
+"type": "array",
+"items": {
+"type": "integer"
+"required": [ "Success"],
+"additionalProperties": false
+"SetCoresPState": {
+"type": "object",
+"properties": {
+"Success": {
+"type": "boolean"
+"ErrorMessage":{
+"type": "string"
+"required": [ "Success"],
+"additionalProperties": false
+"additionalProperties": false
+GetCoresPState
+SetCoresPState
+, column 
+ at line 
+Set value is not supported
+AffinityData
+Group
+AffinityMask
+TCPU.PKG
+Success
+ESIF_E_
+ErrorMessage
+Values
+value
+syntax error 
+while parsing 
+; last read: '
+unexpected 
+; expected 
+<U+%.4X>
+invalid BOM; must be 0xEF 0xBB 0xBF if given
+invalid literal
+<uninitialized>
+true literal
+false literal
+null literal
+string literal
+number literal
+<parse error>
+end of input
+'[', '{', or a literal
+unknown token
+invalid number; expected digit after '-'
+invalid number; expected digit after '.'
+invalid number; expected '+', '-', or digit after exponent
+invalid number; expected digit after exponent sign
+invalid comment; missing closing '*/'
+invalid comment; expecting '/' or '*' after '/'
+invalid string: missing closing quote
+invalid string: '\u' must be followed by 4 hex digits
+invalid string: surrogate U+D800..U+DBFF must be followed by U+DC00..U+DFFF
+invalid string: surrogate U+DC00..U+DFFF must follow U+D800..U+DBFF
+invalid string: forbidden character after backslash
+invalid string: control character U+0000 (NUL) must be escaped to \u0000
+invalid string: control character U+0001 (SOH) must be escaped to \u0001
+invalid string: control character U+0002 (STX) must be escaped to \u0002
+invalid string: control character U+0003 (ETX) must be escaped to \u0003
+invalid string: control character U+0004 (EOT) must be escaped to \u0004
+invalid string: control character U+0005 (ENQ) must be escaped to \u0005
+invalid string: control character U+0006 (ACK) must be escaped to \u0006
+invalid string: control character U+0007 (BEL) must be escaped to \u0007
+invalid string: control character U+0008 (BS) must be escaped to \u0008 or \b
+invalid string: control character U+0009 (HT) must be escaped to \u0009 or \t
+invalid string: control character U+000A (LF) must be escaped to \u000A or \n
+invalid string: control character U+000B (VT) must be escaped to \u000B
+invalid string: control character U+000C (FF) must be escaped to \u000C or \f
+invalid string: control character U+000D (CR) must be escaped to \u000D or \r
+invalid string: control character U+000E (SO) must be escaped to \u000E
+invalid string: control character U+000F (SI) must be escaped to \u000F
+invalid string: control character U+0010 (DLE) must be escaped to \u0010
+invalid string: control character U+0011 (DC1) must be escaped to \u0011
+invalid string: control character U+0012 (DC2) must be escaped to \u0012
+invalid string: control character U+0013 (DC3) must be escaped to \u0013
+invalid string: control character U+0014 (DC4) must be escaped to \u0014
+invalid string: control character U+0015 (NAK) must be escaped to \u0015
+invalid string: control character U+0016 (SYN) must be escaped to \u0016
+invalid string: control character U+0017 (ETB) must be escaped to \u0017
+invalid string: control character U+0018 (CAN) must be escaped to \u0018
+invalid string: control character U+0019 (EM) must be escaped to \u0019
+invalid string: control character U+001A (SUB) must be escaped to \u001A
+invalid string: control character U+001B (ESC) must be escaped to \u001B
+invalid string: control character U+001C (FS) must be escaped to \u001C
+invalid string: control character U+001D (GS) must be escaped to \u001D
+invalid string: control character U+001E (RS) must be escaped to \u001E
+invalid string: control character U+001F (US) must be escaped to \u001F
+invalid string: ill-formed UTF-8 byte
+vector<bool> too long
+object key
+object separator
+number overflow parsing '
+attempting to parse an empty input; check that your input string or stream contains the expected JSON
+excessive array size: 
+excessive object size: 
+cannot get value
+iterator does not fit current value
+iterator out of range
+cannot use erase() with 
+type must be number, but is 
+"$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "http://json-schema.org/draft-07/schema#",
+    "title": "CPU Thermal Provider Schema",
+"type" : "object",
+"properties" : {
+"Core": {
+"type": "array",
+"minItems": 1,
+"items": {
+"type" : "object",
+"properties": {
+"Temperature" : { 
+"type": ["integer", "null"],
+"minimum": 2731,
+"maximum": 3731,
+"readOnly": true,
+"description": "Temperature per core in deciK." 
+"additionalProperties": false
+"additionalProperties": false
+"$schema": "http://json-schema.org/draft-07/schema",
+"type": "object",
+"properties": {
+"GetCoresTemperature": {
+"type":"object",
+"properties": {
+"AffinityData": {
+"type": "array",
+"items": {
+"type": "object", 
+"properties": {
+"Group" : {
+"type": "integer"
+"AffinityMask" : {
+"type": "integer"
+"additionalProperties": false,
+"required": [ "Group", "AffinityMask"]
+"additionalProperties": false,
+"required": [ "AffinityData"]
+"additionalProperties": false,
+"required": [ "GetCoresTemperature"]
+"$schema": "http://json-schema.org/draft-07/schema",
+"type": "object",
+"properties": {
+"GetCoresTemperature": {
+"type": "object",
+"properties": {
+"Success": {
+"type": "boolean"
+"ErrorMessage":{
+"type": "string"
+"Values": {
+"type": "array",
+"items": {
+"type": "integer"
+"required": [ "Success"],
+"additionalProperties": false
+"required": [ "GetCoresTemperature"],
+"additionalProperties": false
+GetCoresTemperature
+"$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "http://json-schema.org/draft-07/schema#",
+    "title": "CPU Counters Provider Schema",
+"type" : "object",
+"properties" : {
+"Core": {
+"type": "array",
+"minItems": 1,
+"items": {
+"type" : "object",
+"properties": {
+"FixedCounter1" : { 
+"type": ["integer", "null"],
+"readOnly": true,
+"description": "Fixed-function performance counter1 - Unhalted core clock cycles counter. Counts the number of core cycles that the core is not in a halt state (actively executing instructions)." 
+"FixedCounter2" : { 
+"type": ["integer", "null"],
+"readOnly": true,
+"description": "Fixed-function, performance counter 2 - Unhalted core reference cycles counter. Counts the number of reference cycles that the core is not in a halt state (actively executing instructions)." 
+"FixedCounterCtrl" : { 
+"type" : [ "integer", "null"],
+"description": "Fixed Function Counter Control"
+"additionalProperties": false
+"additionalProperties": false
+"$schema": "http://json-schema.org/draft-07/schema",
+"type": "object",
+"properties": {
+"GetCoresCounter": {
+"type":"object",
+"properties": {
+"AffinityData": {
+"type": "array",
+"items": {
+"type": "object", 
+"properties": {
+"Group" : {
+"type": "integer"
+"AffinityMask" : {
+"type": "integer"
+"additionalProperties": false,
+"required": [ "Group", "AffinityMask"]
+"CounterName":{
+"type": ["string", "null"],
+      
+"enum": [null, "FixedCounter1", "FixedCounter2", "FixedCounterCtrl", "TimeStampCounter", "MPerf", "APerf"]
+"additionalProperties": false,
+      
+"required": [ "CounterName", "AffinityData" ]
+"SetCoresCounter": {
+"type":"object",
+"properties": {
+"AffinityData": {
+"type": "array",
+"items": {
+"type": "object", 
+"properties": {
+"Group" : {
+"type": "integer"
+"AffinityMask" : {
+"type": "integer"
+"Data": {
+"type": "integer"
+"additionalProperties": false,
+"required": [ "Group", "AffinityMask", "Data"]
+"CounterName":{
+"type": ["string", "null"],
+      
+"enum": [null, "FixedCounterCtrl"]
+"additionalProperties": false
+"additionalProperties": false
+"$schema": "http://json-schema.org/draft-07/schema",
+"type": "object",
+"properties": {
+"GetCoresCounter": {
+"type": "object",
+"properties": {
+"Success": {
+"type": "boolean"
+"ErrorMessage":{
+"type": "string"
+"Values": {
+"type": "array",
+"items": {
+"type": "integer"
+"required": ["Success"]
+"SetCoresCounter": {
+"type": "object",
+"properties": {
+"Success": {
+"type": "boolean"
+"ErrorMessage":{
+"type": "string"
+"required": ["Success"],
+"additionalProperties": false
+"additionalProperties": false
+GetCoresCounter
+SetCoresCounter
+CounterName
+FixedCounterCtrl
+FixedCounter1
+FixedCounter2
+TimeStampCounter
+MPerf
+APerf
+Intel.Ipf.Display
+Not Connected
+Connected
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+"MonitorCount" : {
+        "type": ["integer", "null"],
+"readOnly": true,
+        "description" : "Total number of monitors. Null when no user logged in locally."
+    },
+"ExternalMonitorCount" : {
+        "type": ["integer", "null"],
+"readOnly": true,
+        "description" : "Number of external monitors. Null when no user logged in locally."
+    },
+"ExternalWiredMonitorCount" : {
+        "type": ["integer", "null"],
+"readOnly": true,
+        "description" : "Number of wired external monitors. Null when no user logged in locally."
+    },
+"ExternalWirelessMonitorCount" : {
+        "type": ["integer", "null"],
+"readOnly": true,
+        "description" : "Number of wireless external monitors. Null when no user logged in locally."
+    },
+"HighestDisplayResolution" : {
+        "type": ["integer", "null"],
+"readOnly": true,
+        "description" : "Pixel count of highest display resolution among all monitors. Null when no user logged in locally."
+    },
+"HighestExternalDisplayResolution" : {
+        "type": ["integer", "null"],
+"readOnly": true,
+        "description" : "Pixel count of highest display resolution among all external monitors. Null when no user logged in locally."
+    },
+"HighestWiredDisplayResolution" : {
+        "type": ["integer", "null"],
+"readOnly": true,
+        "description" : "Pixel count of highest display resolution among all wired monitors. Null when no user logged in locally."
+    },
+"HighestWirelessDisplayResolution" : {
+        "type": ["integer", "null"],
+"readOnly": true,
+        "description" : "Pixel count of highest display resolution among all wireless monitors. Null when no user logged in locally."
+    },
+"TotalExternalDisplayResolution" : {
+        "type": ["integer", "null"],
+"readOnly": true,
+        "description" : "Pixel count of total display resolution among all external monitors. Null when no user logged in locally."
+    },
+"ExternalMonitorConnectionStatus" : {
+        "type": ["string", "null"],
+"enum": [null, "Not Connected", "Connected"],
+"readOnly": true,
+        "description" : "External monitor connection status. Null when no user logged in locally."
+    }
+  "additionalProperties" : false
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "type": "object",
+  "properties": {
+    "ExternalMonitorConnectionStatusChanged": {
+      "type": ["string", "null"],
+  "enum": [null, "Not Connected", "Connected"],
+      "description" : "External monitor connection status."
+      }
+  "additionalProperties": false
+MonitorCount
+ExternalMonitorCount
+ExternalWiredMonitorCount
+ExternalWirelessMonitorCount
+HighestDisplayResolution
+HighestExternalDisplayResolution
+HighestWiredDisplayResolution
+HighestWirelessDisplayResolution
+TotalExternalDisplayResolution
+ExternalMonitorConnectionStatus
+ExternalMonitorConnectionStatusChanged
+Ipf::DisplayEnumeratorProvider::EventHandler
+PowerAdapter
+Storage
+TemperatureSensor
+MemoryTimings
+PartKey
+PartKey
+"$schema": "http://json-schema.org/draft-07/schema", 
+"type": "object",
+"properties" : {
+"State": {
+"type": "object",
+"description" : "Power adpater state",
+"properties": {
+"ACVoltage": {
+"type": ["integer", "null"],
+"readOnly": true,
+"description" : "AC nominal voltage in mV"
+"ACCurrent": {
+"type": ["integer", "null"],
+"readOnly": true,
+"description" : "AC nominal current in mA"
+"additionalProperties": false
+"additionalProperties": false
+"$schema": "http://json-schema.org/draft-07/schema",
+"type": "object",
+"properties": {
+"PartKey": {
+"type": "string"
+"additionalProperties": false
+State.ACVoltage
+State.ACCurrent
+PowerAdapterProvider : Participant not found in config
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+"MinimumPreference" : {
+        "type": ["integer", "null"],
+"minimum": 0,
+"maximum": 10000,
+        "description" : "Minimum preference in centi-percent."
+    },
+"MaximumPreference" : {
+        "type": ["integer", "null"],
+"minimum": 0,
+"maximum": 10000,
+        "description" : "Maximum preference in centi-percent."
+"TurboGraphicsPerfStatus" : {
+"type": ["integer", "null"],
+"readOnly": true,
+"description" : "Graphics performance status."
+"GraphicsTurboRatioLimit" : {
+"type": ["integer", "null"],
+"description" : "This field indicates the maximum base frequency limit for the Integrated graphics Engine (GT) allowed during run-time."
+"GraphicsPerfLimit" : {
+"type": ["integer", "null"],
+"readOnly": true,
+"description" : "Max GT (graphics engine) frequency measured in units of 50 Mhz."
+"additionalProperties" : false
+MinimumPreference
+MaximumPreference
+TurboGraphicsPerfStatus
+GraphicsTurboRatioLimit
+GraphicsPerfLimit
+Disabled
+Enabled
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+"PSys" : {
+        "type": ["integer", "null"],
+"minimum": 0,
+"readOnly": true,
+        "description" : "Power in milliwatts"
+    },
+"IntegratedGfx" : {
+        "type": ["integer", "null"],
+"minimum": 0,
+"readOnly": true,
+        "description" : "Power in milliwatts"
+    },
+"IA" : {
+        "type": ["integer", "null"],
+"minimum": 0,
+"readOnly": true,
+        "description" : "Power in milliwatts"
+    },
+"PSysEnergy" : {
+        "type": ["integer", "null"],
+"minimum": 0,
+"readOnly": true,
+        "description" : "Energy in millijoules"
+    },
+"IntegratedGfxEnergy" : {
+        "type": ["integer", "null"],
+"minimum": 0,
+"readOnly": true,
+        "description" : "Energy in millijoules"
+    },
+"IAEnergy" : {
+        "type": ["integer", "null"],
+"minimum": 0,
+"readOnly": true,
+        "description" : "Energy in millijoules"
+    },
+"ThermalDesignPower" : {
+        "type": ["integer", "null"],
+"minimum": 0,
+"readOnly": true,
+        "description" : "Thermal Design Power in milliwatts"
+    },
+"TimeUnit" : {
+"type": ["integer", "null"],
+"readOnly": true,
+"description" : "Time units used for power control registers. The actual unit value is calculated by 1 s / Power(2,TimeUnit)."
+"PowerUnit" : {
+"type": ["integer", "null"],
+"readOnly": true,
+"description" : "Power units used for power control registers. The actual unit value is calculated by 1 W / Power(2,PowerUnit)."
+"PowerLimitLock" : {
+"type": ["integer", "null"],
+"readOnly": true,
+"description" : "When set, all settings in this register are locked and are treated as Read Only. This bit will typically be set by BIOS at boot time."
+"PackageTimeLimitMax" : {
+"type": ["integer", "null"],
+"readOnly": true,
+"description" : "Max Package Time window in milliseconds."
+"PowerLimitEnable" : {
+"type": ["boolean", "null"],
+"readOnly": true,
+"description" : "If true, TDP limits for Turbo mode are programmable."
+"PowerMax" : {
+"type": ["integer", "null"],
+"readOnly": true,
+"description" : "The maximal package power setting allowed for the SKU, measured in milliwatts (mW)."
+"PowerMin" : {
+"type": ["integer", "null"],
+"readOnly": true,
+"description" : "The minimal package power setting allowed for the SKU, measured in milliwatts (mW)."
+"PL1" : {
+"type": "object",
+"description" : "Power level 1",
+"properties": {
+"Limit" : { 
+"type" : ["integer", "null"],
+"minimum": 0,
+"description" : "Power limit in milliwatts"
+"Enable" : { 
+"type" : ["string", "null"],
+"enum": [null, "Disabled", "Enabled"],
+"description" : "Power limit enable"
+"TimeWindow" : { 
+"type" : ["integer", "null"],
+"minimum": 0,
+        
+"description" : "Time window in milliseconds"
+"additionalProperties" : false
+"PL2" : {
+"type": "object",
+"description" : "Power level 2",
+"properties": {
+"Limit" : { 
+"type" : ["integer", "null"],
+"minimum": 0,
+        
+"description" : "Power limit in milliwatts"
+"Enable" : { 
+"type" : ["string", "null"],
+"enum": [null, "Disabled", "Enabled"],
+        
+"description" : "Power limit enable"
+"additionalProperties" : false
+"PL4" : {
+"type": "object",
+"description" : "Power level 4",
+"properties": {
+"Limit" : { 
+"type" : ["integer", "null"],
+"minimum": 0,
+        
+"description" : "Power limit in milliwatts"
+"additionalProperties" : false
+"additionalProperties" : false
+IntegratedGfx
+PSysEnergy
+IntegratedGfxEnergy
+IAEnergy
+ThermalDesignPower
+TimeUnit
+PowerUnit
+PowerLimitLock
+PackageTimeLimitMax
+PowerLimitEnable
+PowerMax
+PowerMin
+PL1.Limit
+PL1.Enable
+PL1.TimeWindow
+PL2.Limit
+PL2.Enable
+PL4.Limit
+ for property: 
+ - Invalid set value: 
+Ipf::SocPowerProvider::SetValue
+ - Invalid set property: 
+Ipf::SocPowerProvider::RegisterEvent
+Ipf::SocPowerProvider::UnregisterEvent
+Ipf::SocPowerProvider::EventHandler
+{"PackageTempThresholdCrossed": true}
+"$schema": "http://json-schema.org/draft-07/schema#",
+"type": "object",
+"properties": {
+"TCCOffset" : {
+"type": ["integer", "null"],
+"minimum": 2732,
+"maximum": 3362,
+"description" : "Temperature Offset in decikelvin. Sets will be rounded to the nearest 10 decikelvin."
+"TjMax" : {
+"type": ["integer", "null"],
+"minimum": 0,
+"readOnly": true,
+"description" : "Maximum Junction Temperature in decikelvin"
+"PackageTemp" : {
+"type": ["integer", "null"],
+"minimum": 0,
+"readOnly": true,
+"description" : "Temperature in decikelvin. This will be rounded to the nearest whole degree C. 0.5C or 50deciK will be round up."
+"IsTCCOffsetProgrammable" : {
+"type": ["boolean", "null"],
+"readOnly": true,
+"description" : "If true, TCC offset is programmable."
+"GraphicsTemperatureValid" : {
+"type": ["boolean", "null"],
+"readOnly": true,
+"description" : "This bit indicates that the GraphicsTCCOffset field is valid. It is set by PCODE if the temperature is within valid thermal sensor range."
+"GraphicsTCCOffset" : {
+"type": ["integer", "null"],
+"readOnly": true,
+"description" : "Processor graphics temperature offset in deciK. This number is meaningful only if GraphicsTemperatureValid field is true."
+"additionalProperties" : false
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "type": "object",
+  "properties": {
+    "PackageTempThresholdCrossed": {
+      "type": "boolean"
+      }
+    },
+    "additionalProperties": false
+TCCOffset
+PackageTemp
+TjMax
+IsTCCOffsetProgrammable
+GraphicsTemperatureValid
+GraphicsTCCOffset
+PackageTempThresholdCrossed
+Ipf::SocThermalProvider::RegisterEvent
+Ipf::SocThermalProvider::UnregisterEvent
+Ipf::SocThermalProvider::EventHandler
+PartKey
+PartKey
+"$schema": "http://json-schema.org/draft-07/schema", 
+"type": "object",
+"properties" : {
+"Thermal": {
+"type": "object",
+"description" : "Storage Thermal",
+"properties": {
+"DeviceTemperature": {
+"type": ["integer", "null"],
+"readOnly": true,
+"description" : "Device temperature in Deci-K"
+"additionalProperties": false
+"additionalProperties": false
+"$schema": "http://json-schema.org/draft-07/schema",
+"type": "object",
+"properties": {
+"PartKey": {
+"type": "string"
+"additionalProperties": false
+Thermal.DeviceTemperature
+StorageProvider : Participant not found in config
+DockModeChanged
+GameModeChanged
+LidStatusChanged
+MixedRealityModeChanged
+MotionChanged
+PlatformTypeChanged
+PowerSourceChanged
+ScreenStatusChanged
+InBagStatusChanged
+CollaborationModeChanged
+Undocked
+Docked
+Closed
+No Motion
+Motion Detected
+Clamshell
+Tablet
+Short-term DC
+Unknown
+In Bag
+Not In Bag
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "description": "System State provider",
+  "properties": {
+    "DockMode": {
+      "type": ["string", "null"],
+      "enum": [null, "Invalid", "Undocked", "Docked"],
+      "readOnly": true,
+      "description": "System dock state"
+    },
+    "GameMode": {
+      "type": ["string", "null"],
+      "enum": [null, "Off", "On"],
+      "readOnly": true,
+      "description": "Game mode"
+    },
+    "LidStatus": {
+      "type": ["string", "null"],
+      "enum": [null, "Closed", "Open"],
+      "readOnly": true,
+      "description": "Lid status"
+    },
+    "MixedRealityMode": {
+      "type": ["string", "null"],
+      "enum": [null, "Off", "On"],
+      "readOnly": true,
+      "description": "Mixed Reality state"
+    },
+    "LastMotion": {
+      "type": ["string", "null"],
+      "enum": [null, "No Motion", "Motion Detected"],
+      "readOnly": true,
+      "description": "Last system motion"
+    },
+    "PlatformType": {
+      "type": ["string", "null"],
+      "enum": [null, "Invalid", "Clamshell", "Tablet", "Tent"],
+      "readOnly": true,
+      "description": "Platform type"
+    },
+    "PowerSource": {
+      "type": ["string", "null"],
+      "enum": [null, "AC", "DC", "Short-term DC"],
+      "readOnly": true,
+      "description": "OS power source"
+    },
+    "ScreenStatus": {
+      "type": ["string", "null"],
+      "enum": [null, "Off", "On"],
+      "readOnly": true,
+      "description": "Screen status"
+    },
+"InBag": {
+      "type": ["string", "null"],
+      "enum": [null, "Unknown", "In Bag", "Not In Bag"],
+  "readOnly": true,
+      "description": "System in bag"
+    },
+"CollaborationMode": {
+      "type": ["boolean", "null"],
+  "readOnly": true,
+      "description": "Collaboration Mode"
+    }
+  "additionalProperties": false
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "type": ["object", "null"],
+  "properties": {
+    "DockModeChanged": {
+      "type": ["string", "null"],
+      "enum": [null, "Invalid", "Undocked", "Docked"],
+  "description": "Dock mode status"
+    },
+    "GameModeChanged": {
+      "type": ["string", "null"],
+  "enum": [null, "Off", "On"],
+  "description": "Game mode status"
+    },
+    "LidStatusChanged": {
+      "type": ["string", "null"],
+      "enum": [null, "Open", "Closed"],
+  "description": "Lid status"
+    },
+    "MixedRealityModeChanged": {
+      "type": ["string", "null"],
+      "enum": [null, "Off", "On"],
+  "description": "Mixed reality mode"
+    },
+    "MotionChanged": {
+      "type": ["string", "null"],
+      "enum": [null, "No Motion", "Motion Detected"],
+      "description": "System motion detected"
+    },
+    "PlatformTypeChanged": {
+      "type": ["string", "null"],
+      "enum": [null, "Invalid", "Clamshell", "Tablet", "Tent"],
+      "description": "Platform type: Clamshell, Tablet, or Tent"
+    },
+    "PowerSourceChanged": {
+      "type": ["string", "null"],
+      "enum": [null, "AC", "DC", "Short-term DC"],
+      "description": "Power Source"
+    },
+    "ScreenStatusChanged": {
+      "type": ["string", "null"],
+      "enum": [null, "Off", "On"],
+      "description": "Screen status"
+    },
+"InBagStatusChanged": {
+      "type": ["string", "null"],
+      "enum": [null, "Unknown", "In Bag", "Not In Bag"],
+      "description": "System in bag"
+    },
+"CollaborationModeChanged": {
+      "type": ["integer", "null"],
+      "description": "Collaboration Mode change status"
+    }
+  "additionalProperties": false
+DockMode
+GameMode
+LidStatus
+MixedRealityMode
+LastMotion
+PlatformType
+PowerSource
+ScreenStatus
+InBag
+CollaborationMode
+Ipf::SystemStateProvider::RegisterEvent
+Ipf::SystemStateProvider::UnregisterEvent
+ in SystemStateProvider: 
+Failed to register for event 
+C:\home\jenkins\agent\workspace\ipf-extensible-framework\Src\src\coreprovider\SystemStateProvider.cpp
+Ipf::SystemStateProvider::PartHandler
+Ipf::SystemStateProvider::EventHandler
+ - Unexpected event_name received by RaiseEvent: 
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+"RestOfPlatformPower" : {
+        "type": ["integer", "null"],
+"minimum": 0,
+"readOnly": true,
+        "description" : "Rest of Platform Power in milliwatts"
+    }
+  "additionalProperties" : false
+RestOfPlatformPower
+/Platform.System.State.ScreenStatusChanged
+Present
+Inactive
+Vision
+User Input Received
+No User Interaction For The Timeout Period
+Not Present
+Disengaged
+Engaged/Present
+Face Engaged
+Invalid
+Non-vision
+External Non-vision
+External Vision
+Invalid
+LastPlatformUserPresence
+LastSensorUserPresence
+LastOSUserPresence
+LastUserInteraction
+LastDistance
+LastSensorCapability
+LastMultiHumanSensorStatus
+SensorType
+FaceIDSupported
+FaceIDEnrolled
+PresenceValue
+FaceRegistered
+PlatformUserPresenceChanged
+SensorUserPresenceChanged
+OSUserPresenceChanged
+UserInteractionChanged
+DistanceChanged
+PlatformUserPresenceStateChanged
+SensorUserPresenceStateChanged
+SensorCapabilityChanged
+MultiHumanSensorStatusChanged
+FacesDetectedChanged
+"$schema": "http://json-schema.org/draft-07/schema#",
+"type": "object",
+"properties": {
+"LastOSUserPresence": {
+"type": ["string", "null"],
+"enum": [null, "Present", "Inactive"],
+"readOnly": true,
+"description": "Last OS user presence state"
+"LastSensorUserPresence": {
+"type": ["string", "null"],
+"enum": [null, "Not Present", "Disengaged", "Engaged/Present"],
+"readOnly": true,
+"description": "Last Sensor user presence state"
+"LastPlatformUserPresence": {
+"type": ["string", "null"],
+"enum": [null, "Not Present", "Disengaged", "Engaged/Present", "Face Engaged"],
+"readOnly": true,
+"description": "Last Platform user presence state"
+"LastUserInteraction": {
+"type": ["string", "null"],
+"enum": [null, "No User Interaction For The Timeout Period", "User Input Received"],
+"readOnly": true,
+"description": "Last OS user interaction state"
+"LastDistance": {
+"type": ["integer", "null"],
+"minimum": 0,
+"readOnly": true,
+"description": "Last User distance from sensor in millimeters"
+"LastSensorCapability": {
+"type": ["object", "null"],
+"properties": {
+"SensorType": {
+"type": ["string", "null"],
+"enum": [null, "Non-vision", "Vision", "External Non-vision", "External Vision", "Invalid"],
+"description": "Type of the active sensor [sensor currently providing the data for the provider]"
+"FaceIDSupported": {
+"type": ["boolean", "null"],
+"description": "Is Face ID supported on this system"
+"FaceIDEnrolled": {
+"type": ["boolean", "null"],
+"description": "True if at least one user has registered their face, False otherwise"
+"description": "Information about system's face ID support and enrollment status",
+"additionalProperties": false
+"LastMultiHumanSensorStatus": {
+"type": ["object", "null"],
+"properties": {
+"SensorStatus" : {
+"type": ["string", "null"],
+"enum": [null, "Invalid", "Valid", "Obstructed"],
+"description": "Current status of the Multi-Human Detection virtual sensor"
+"FaceIDCapable" : {
+"type": ["boolean", "null"],
+"description": "True if the sensor can detect Face ID information, False otherwise"
+"FaceIDEnrolled" : {
+"type": ["boolean", "null"],
+"description": "True if at least one user has registered their face, False otherwise"
+"AttentionCapable" : {
+"type": ["boolean", "null"],
+"description": "True if the sensor can detect face orientation, False otherwise"
+"description": "Information about system's Multi-Human Detection sensor support and status",
+"additionalProperties": false
+"additionalProperties": false
+"$schema": "http://json-schema.org/draft-07/schema",
+"type": "object",
+"properties": {
+"PlatformUserPresenceChanged": {
+"type": ["string", "null"],
+"enum": [null, "Not Present", "Disengaged", "Engaged/Present", "Face Engaged"],
+"description": "Platform user presence state [Deprecated; use PlatformUserPresenceStateChanged instead]"
+"PlatformUserPresenceStateChanged": {
+"type": ["object", "null"],
+"properties": {
+"PresenceValue": {
+"type": ["string"],
+"enum": [null, "Not Present", "Disengaged", "Engaged/Present", "Face Engaged", "Invalid"],
+"description": "User presence as reported by the active sensor"
+"FaceRegistered": {
+"type": "boolean",
+"description": "Primary face enrollment status"
+"description": "Platform user presence state",
+"additionalProperties": false
+"SensorUserPresenceChanged": {
+"type": ["string", "null"],
+"enum": [null, "Not Present", "Disengaged", "Engaged/Present"],
+"description": "Sensor user presence state [Deprecated; use SensorUserPresenceStateChanged instead]"
+"SensorUserPresenceStateChanged": {
+"type": ["object", "null"],
+"properties": {
+"PresenceValue": {
+"type": ["string"],
+"enum": [null, "Not Present", "Disengaged", "Engaged/Present", "Invalid"],
+"description": "User presence as reported by the active sensor"
+"FaceRegistered": {
+"type": "boolean",
+"description": "Primary face enrollment status"
+"description": "Sensor user presence state",
+"additionalProperties": false
+"OSUserPresenceChanged": {
+"type": ["string", "null"],
+"enum": [null, "Present", "Inactive"],
+"description": "OS user presence state"
+"UserInteractionChanged": {
+"type": ["string", "null"],
+"enum": [null, "No User Interaction For The Timeout Period", "User Input Received"],
+"description": "User interaction state"
+"DistanceChanged": {
+"type": ["integer", "null"],
+"minimum": 0,
+"readOnly": true,
+"description": "User distance from sensor in millimeters"
+"SensorCapabilityChanged": {
+"type": ["object", "null"],
+"properties": {
+"SensorType": {
+"type": ["string", "null"],
+"enum": [null, "Non-vision", "Vision", "External Non-vision", "External Vision", "Invalid"],
+"description": "Type of the active sensor [sensor currently providing the data for the provider]"
+"FaceIDSupported": {
+"type": ["boolean", "null"],
+"description": "Is Face ID supported on this system"
+"FaceIDEnrolled": {
+"type": ["boolean", "null"],
+"description": "True if at least one user has registered their face, False otherwise"
+"description": "Information about system's face ID support and enrollment status",
+"additionalProperties": false
+"MultiHumanSensorStatusChanged": {
+"type": ["object", "null"],
+"properties": {
+"SensorStatus" : {
+"type": ["string", "null"],
+"enum": [null, "Invalid", "Valid", "Obstructed"],
+"description": "Current status of the Multi-Human Detection virtual sensor"
+"FaceIDCapable" : {
+"type": ["boolean", "null"],
+"description": "True if the sensor can detect Face ID information, False otherwise"
+"FaceIDEnrolled" : {
+"type": ["boolean", "null"],
+"description": "True if at least one user has registered their face, False otherwise"
+"AttentionCapable" : {
+"type": ["boolean", "null"],
+"description": "True if the sensor can detect face orientation, False otherwise"
+"description": "Information about system's Multi-Human Detection sensor support and status",
+"additionalProperties": false
+"FacesDetectedChanged": {
+"type": "array",
+"Items": {
+"type": "object",
+"properties": {
+"FaceRegistered": {
+"type": "string",
+"enum": ["Not Registered", "Known", "Unknown", "Not Supported"],
+"description": "Face registration status as reported by the sensor. If the confidence is 0, Unknown will be reported. If the sensor cannot report this information, Not Supported will be reported."
+"FaceIDConfidence": {
+"type": "number"
+"AttentionStatus": {
+"type": "string",
+"enum": ["Not Attentive", "Disengaged", "Attentive", "Unknown", "Not Supported"],
+"description": "Attention status as reported by the sensor. If the confidence is 0, Unknown will be reported. If the sensor cannot report this information, Not Supported will be reported."
+"AttentionConfidence": {
+"type": "number"
+"additionalProperties": false
+"description": "FaceID information for all faces detected by the sensor"
+"additionalProperties": false
+ - Invalid event path: 
+Ipf::UserPresenceProvider::RegisterEvent
+ - Invalid IPF Core Event path: 
+Ipf::UserPresenceProvider::RegisterIpfCoreEvent
+ - Missing IPF Core event handler for path: 
+/Platform.System.State.ScreenStatus
+Unable to get sensor manager, this event cannot be activated!
+Tried to register for the onlooker sensor without a valid sensor manager!
+C:\home\jenkins\agent\workspace\ipf-extensible-framework\Src\src\coreprovider\UserPresenceProvider.cpp
+Ipf::UserPresenceProvider::RegisterOnlookerEvents
+Ipf::UserPresenceProvider::UnregisterEvent
+Ipf::UserPresenceProvider::UnregisterIpfCoreEvent
+ - Unexpected null value for event 
+Ipf::UserPresenceProvider::PassthroughEventHandler
+ - Unexpected data type from IPF Core event: 
+Ipf::UserPresenceProvider::FaceIDEventHandler
+Ipf::UserPresenceProvider::SensorCapabilityHandler
+cannot create object from initializer list
+PartKey
+PartKey
+"$schema": "http://json-schema.org/draft-07/schema", 
+"type": "object",
+"properties" : {
+        "Power" : {
+            "type": "object",
+"description" : "Wifi Power",
+"properties": {
+"CurrentValue": {
+"type": ["integer", "null"],
+"readOnly": true,
+"description" : "Current Power in milliwatts"
+                "LimitValue": {
+"type": ["integer", "null"],
+"description" : "Power Limit in milliwatts"
+"additionalProperties": false
+        }
+"additionalProperties": false
+Power.CurrentValue
+Power.LimitValue
+WifiProvider : Participant not found in config
+Thermal
+PartKey
+"$schema": "http://json-schema.org/draft-07/schema", 
+"type": "object",
+"description" : "Wifi Thermal",
+"properties" : {
+"DeviceTemperature": {
+"type": ["integer", "null"],
+"readOnly": true,
+"description" : "Device temperature in deci-K"
+"additionalProperties": false
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "type": "object",
+    "properties": {
+        "DeviceTemperatureThresholdCrossed": {
+            "type": "boolean",
+            "description" : "Event when the temperature threshold is crossed"
+        }
+"additionalProperties": false
+DeviceTemperature
+DeviceTemperatureThresholdCrossed
+WifiThermalProvider : Participant not found in config
+Ipf::WifiThermalProvider::RegisterEvent
+Ipf::WifiThermalProvider::UnregisterEvent
+Ipf::WifiThermalProvider::EventHandler
+PartKey
+WWANANALOG
+WWANDIGITAL
+WWANRFIM
+PartKey
+"$schema": "http://json-schema.org/draft-07/schema", 
+"type": "object",
+"properties" : {
+"DeviceType" : {
+"type": ["string", "null"],
+"enum" : [null, "WWANANALOG", "WWANDIGITAL", "WWANRFIM"],
+"readOnly": true,
+"description" : "Provides the WWAN Device Type. It indicates whether the device instance is analog or digital."
+"additionalProperties": false
+DeviceType
+WwanProvider : Participant not found in config
+PartKey
+"$schema": "http://json-schema.org/draft-07/schema", 
+"type": "object",
+"description" : "WWAN Thermal",
+"properties": {
+"DeviceTemperature": {
+"type": ["integer", "null"],
+"readOnly": true,
+"description" : "Temperature of the Device in Deci-K"
+"LowerDeviceTemperatureThreshold": {
+"type": ["integer", "null"],
+"description" : "Specifies the Lower Device Temperature Threshoold for Device Temperature Notification"
+"UpperDeviceTemperatureThreshold": {
+"type": ["integer", "null"],
+"description" : "Specifies the Upper Device Temperature Threshoold for Device Temperature Notification"
+"additionalProperties": false
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "type": "object",
+    "properties": {
+        "DeviceTemperatureThresholdCrossed": {
+            "type": "boolean",
+            "description" : "Triggers when the temperture of the device crosses the threshold"
+        }
+    },
+    "additionalProperties" : false
+LowerDeviceTemperatureThreshold
+UpperDeviceTemperatureThreshold
+WwanThermalProvider : Participant not found in config
+Ipf::WwanThermalProvider::RegisterEvent
+Ipf::WwanThermalProvider::UnregisterEvent
+Ipf::WwanThermalProvider::EventHandler
+PartKey
+PartKey
+"$schema": "http://json-schema.org/draft-07/schema", 
+"type": "object",
+"properties" : {
+"Info" : {
+"type": "object",
+"description" : "Temperature Sensor Info",
+"properties": {
+"UniqueID": {
+"type": ["string", "null"],
+"readOnly": true,
+"description" : "Unique ID for the Temperature Sensor"
+"FriendlyName": {
+"type": ["string", "null"],
+"readOnly": true,
+"description" : "Friendly Name for the Temperature Sensor"
+"additionalProperties" : false
+"additionalProperties": false
+Info.UniqueID
+Info.FriendlyName
+TemperatureSensorProvider : Participant not found in config
+PartKey
+"$schema": "http://json-schema.org/draft-07/schema", 
+"type": "object",
+"properties": {
+"SensorTemperature": {
+"type": ["integer", "null"],
+"readOnly": true,
+"description" : "Device temperature in deci-K"
+"additionalProperties": false
+"$schema": "http://json-schema.org/draft-07/schema",
+"type": "object",
+"properties": {
+"TemperatureThresholdCrossed": {
+"type": "boolean",
+"description" : "Event when the temperature threshold is crossed"
+"additionalProperties": false
+SensorTemperature
+TemperatureThresholdCrossed
+TemperatureSensorThermalProvider : Participant not found in config
+Ipf::TemperatureSensorThermalProvider::RegisterEvent
+Ipf::TemperatureSensorThermalProvider::UnregisterEvent
+Ipf::TemperatureSensorThermalProvider::EventHandler
+"$schema": "http://json-schema.org/draft-07/schema#",
+"type": "object",
+"description" : "Graphics Diagnostics provider",
+"properties": {
+"ClipReasons" : { 
+"type" : ["integer", "null"],
+"description" : "Indicator of processor core frequency clipping."
+"additionalProperties" : false
+ClipReasons
+"$schema": "http://json-schema.org/draft-07/schema#",
+"type": "object",
+"description" : "SOC Diagnostics provider",
+"properties": {
+"ClipReasons" : { 
+"type" : ["integer", "null"],
+"description" : "Indicates whether the CPU frequency is being limited"
+"additionalProperties" : false
+"$schema": "http://json-schema.org/draft-07/schema#",
+"type": "object",
+"properties": {
+"Diagnostics" : {
+"type": "object",
+"description" : "Soc Thermal Status Diagnostics",
+"properties": {
+"ThermalMonitorLog" : { 
+"type" : ["integer", "null"],
+"description" : "Indicates if a thermal monitor event has been detected."
+"ProchotLog" : { 
+"type" : ["integer", "null"],
+"description" : "Indicates if a PROCHOT event has been asserted."
+"PmaxLog" : { 
+"type" : ["integer", "null"],
+"description" : "Indicates if the CPU has hit the max power threshold at least once."
+"additionalProperties" : false
+"additionalProperties" : false
+Diagnostics.ThermalMonitorLog
+Diagnostics.ProchotLog
+Diagnostics.PmaxLog
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "description": "System Agent Performance Provider",
+  "properties": {
+"CurrentValue": {
+      "type": ["integer", "null"],
+  "readOnly": true,
+      "description": "System agent voltage in U3.13 notation."
+    }
+  "additionalProperties": false
+CurrentValue
+PartKey
+PartKey
+    "$schema": "http://json-schema.org/draft-07/schema", 
+    "type": "object",
+"properties" : {
+"CH0" : {
+"type": "object",
+"description" : "Memory Timings Channel 0",
+"properties": {
+"GearMode" : {
+"type" : ["integer", "null"],
+"description" : "Indicates which gear mode is in use for Memory Controller Channel 0 (CH0): 0 - Gear2, 1 - Gear4"
+"additionalProperties" : false
+"CH1" : {
+"type": "object",
+"description" : "Memory Timings Channel 1",
+"properties": {
+"GearMode" : {
+"type" : ["integer", "null"],
+"description" : "Indicates which gear mode is in use for Memory Controller Channel 1 (CH1): 0 - Gear2, 1 - Gear4."
+"additionalProperties" : false
+    },
+     "additionalProperties": false
+CH0.GearMode
+CH1.GearMode
+CoreCount
+MaxNonTurboRatio
+MaxEfficiencyRatio
+MicrocodeUpdate
+HWPEnable
+HWPSupportCheck
+ConfigTdpLevels
+SENTERLocalEnableStatus
+TPMType
+HLATControlsState
+HLATPLRMask
+ProgrammableRatioLimit
+TurboModeDisable
+EISTEnable
+HWPInterruptEnable
+EngineeringSample
+VMXTableLockStatus
+VMXInsideEnableStatus
+VMXOutsideEnableStatus
+SENTERGlobalEnableStatus
+BIOSGuardSupportStatus
+HardwareShieldSupportStatus
+BIOSGuardLockStatus
+BIOSGuardEnableStatus
+BootGuardVBootStatus
+BootGuardMBootStatus
+BootGuardSupportStatus
+TPMStatus
+HardwareEncryptionEnableStatus
+BrandString
+ExtModel
+Family
+Flags
+Generation
+Microcode
+Model
+Signature
+CPUID
+Stepping
+APICShift
+HybridArchitecture
+EDRAM
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "description": "System State provider",
+  "properties": {
+"CoreCount": {
+      "type": ["integer", "null"],
+  "minimum": 0,
+  "readOnly": true,
+      "description": "Processor logical core count."
+    },
+    "MaxNonTurboRatio": {
+      "type": ["integer", "null"],
+      "minimum": 0,
+      "maximum": 120,
+      "readOnly": true,
+      "description": "Max non-turbo ratio. This is given in units of 100 MHz"
+    },
+    "ProgrammableRatioLimit": {
+      "type": ["boolean", "null"],
+      "readOnly": true,
+      "description": "If true, turbo ratios are programmable."
+    },
+    "MaxEfficiencyRatio": {
+      "type": ["integer", "null"],
+      "minimum": 0,
+      "maximum": 120,
+      "readOnly": true,
+      "description": "Maximum efficiency ratio. This is given in units of 100 MHz."
+    },
+    "MicrocodeUpdate": {
+      "type": ["integer", "null"],
+      "readOnly": true,
+      "description": "The microcode update signature ID"
+    },
+    "TurboModeDisable": {
+      "type": ["boolean", "null"],
+      "readOnly": true,
+      "description": "If true, turbo mode is disabled"
+    },
+    "EISTEnable": {
+      "type": ["boolean", "null"],
+      "readOnly": true,
+      "description": "If true, enhanced Intel SpeedStep Technology is enabled (EIST)."
+    },
+    "HWPInterruptEnable": {
+      "type": ["boolean", "null"],
+      "readOnly": true,
+      "description": "If true, HWP interrupt feature is present."
+    },
+    "HWPEnable": {
+      "type": ["integer", "null"],
+      "readOnly": true,
+      "description": "Software sets this bit to enable HWP with autonomous selection."
+    },
+"HWPSupportCheck": {
+      "type": ["integer", "null"],
+  "readOnly": true,
+      "description": "Setting this bit will cause the HWP Base feature bit to report as present in CPUID; clearing this bit will cause CPUID to report the feature as non-present."
+    },
+"EngineeringSample": {
+      "type": ["boolean", "null"],
+  "readOnly": true,
+      "description": "If true, the CPU is an engineering sample."
+    },
+"ConfigTdpLevels": {
+      "type": ["integer", "null"],
+  "readOnly": true,
+      "description": "The config TDP level:  0: Config TDP not supported, 1: One additional TDP level supported, 2: Two additional TDP levels supported, 3: Reserved."
+    "BrandString": {
+"type": ["string","null"],
+"description": "Brand String of the SOC",
+"readOnly": true
+    },
+    "ExtModel": {
+        "type": ["string","null"],
+"description": "Processor Extended Model Information",
+"default": "NA",
+"readOnly": true
+    },
+    "Family": {
+        "type": ["string","null"],
+"description": "Family to which Processor belongs",
+"readOnly": true
+    },
+"Flags": {
+"type": ["string","null"],
+"description": "Flags associated with the SOC",
+"readOnly": true
+"Generation": {
+"type": ["integer", "null"],
+"description": "Generation of the SOC",
+"readOnly": true
+"Microcode": {
+"type": ["string","null"],
+"description": "Microcode version of the processor",
+"readOnly": true
+    "Model": {
+        "type": ["string","null"],
+"description": "Processor Model",
+"readOnly": true
+"Signature": {
+"type": ["string","null"],
+"description": "Signature of the processor",
+"readOnly": true
+"CPUID": {
+"type": ["string","null"],
+"description": "CPUID of the processor",
+"readOnly": true
+"Type": {
+"type": ["string","null"],
+"description": "Processor Type",
+"readOnly": true
+"Stepping": {
+        "type": ["string","null"],
+"description": "Processor Internal Stepping",
+"readOnly": true
+    },
+    "APICShift": {
+        "type": ["string","null"],
+        "description": "amount to shift the APIC ID by to make it unique-per-physical-core",
+        "readOnly": true
+    },
+    "HybridArchitecture": {
+        "type": ["string","null"],
+        "description": "Determines the system is Hybrid",
+        "readOnly": true
+    },
+    "EDRAM": {
+        "type": ["string","null"],
+        "description": "EDRAM Status",
+        "readOnly": true
+    },
+"VMXTableLockStatus": {
+        "type": ["boolean","null"],
+        "description": "VMX Table Lock Status",
+        "readOnly": true
+    },
+"VMXInsideEnableStatus": {
+        "type": ["boolean","null"],
+        "description": "VMX Inside Enable Status",
+        "readOnly": true
+    },
+"VMXOutsideEnableStatus": {
+        "type": ["boolean","null"],
+        "description": "VMX Outside Enable Status",
+        "readOnly": true
+    },
+"SENTERLocalEnableStatus": {
+        "type": ["boolean","null"],
+        "description": "SENTER Local Enable Status",
+        "readOnly": true
+    },
+"SENTERGlobalEnableStatus": {
+        "type": ["boolean","null"],
+        "description": "SENTER Global Enable Status",
+        "readOnly": true
+    },
+"BIOSGuardSupportStatus": {
+        "type": ["boolean","null"],
+        "description": "BIOS Guard Support Status",
+        "readOnly": true
+    },
+"HardwareShieldSupportStatus": {
+        "type": ["boolean","null"],
+        "description": "Hardware Shield Support Status",
+        "readOnly": true
+    },
+"BIOSGuardLockStatus": {
+        "type": ["boolean","null"],
+        "description": "BIOS Guard Lock Status",
+        "readOnly": true
+    },
+"BIOSGuardEnableStatus": {
+        "type": ["boolean","null"],
+        "description": "BIOS Guard Enable Status",
+        "readOnly": true
+    },
+"BootGuardVBootStatus": {
+        "type": ["boolean","null"],
+        "description": "Boot Guard VBoot Status",
+        "readOnly": true
+    },
+"BootGuardMBootStatus": {
+        "type": ["boolean","null"],
+        "description": "Boot Guard MBoot Status",
+        "readOnly": true
+    },
+"BootGuardSupportStatus": {
+        "type": ["boolean","null"],
+        "description": "Boot Guard Support Status",
+        "readOnly": true
+    },
+"TPMType": {
+        "type": ["integer","null"],
+        "description": "TPM Type",
+        "readOnly": true
+    },
+"TPMStatus": {
+        "type": ["boolean","null"],
+        "description": "TPM Status",
+        "readOnly": true
+    },
+"HardwareEncryptionEnableStatus": {
+        "type": ["boolean","null"],
+        "description": "Hardware Encryption Enable Status",
+        "readOnly": true
+    },
+"HLATControlsState": {
+        "type": ["integer","null"],
+        "description": "HLAT Controls State",
+        "readOnly": true
+    },
+"HLATPLRMask": {
+        "type": ["integer","null"],
+        "description": "HLATPLR Mask",
+        "readOnly": true
+    },
+    "Core": {
+    "type": ["array", "null"],
+    "items": {
+     
+"type": "object",
+"properties": {
+"PhysicalCoreIndex": {
+                "type": ["integer", "null"]
+            },
+"Type": {
+"type": ["string","null"]
+"LogicalCoreIndex": {
+"type": ["integer", "null"]
+"APICID": {
+"type": ["integer", "null"]
+"EAX-ECX": {
+"type": "object",
+"patternProperties": {
+"0x[0-9a-f]{8}-0x[0-9a-f]{8}": {
+"type": "object",
+"properties": {
+"eax": {
+"type": ["string","null"]
+"ebx": {
+"type": ["string","null"]
+"ecx": {
+"type": ["string","null"]
+"edx": {
+"type": ["string","null"]
+"additionalProperties": false
+"additionalProperties": false
+    }
+  "additionalProperties": false
+invalid stoi argument
+stoi argument out of range
+ Failure in GetCPURegisters
+APICID
+PhysicalCoreIndex
+LogicalCoreIndex
+EAX-ECX
+cannot use push_back() with 
+Not Attentive
+Disengaged
+Attentive
+Valid
+Invalid
+Obstructed
+Unknown
+Not Supported
+Unknown
+Known
+Not Registered
+FacesDetectedChanged
+FaceRegistered
+FaceIDConfidence
+AttentionStatus
+AttentionConfidence
+MultiHumanSensorStatusChanged
+SensorStatus
+FaceIDCapable
+FaceIDEnrolled
+AttentionCapable
+"$schema": "http://json-schema.org/draft-07/schema#",
+"type": "object",
+"description" : "Memory Status provider",
+"properties": {
+"GearType" : { 
+"type" : ["integer", "null"],
+"readOnly": true,
+"description" : "Gear type associated with locked Qclk ratio, 0 --> Gear2, 1 --> Gear4."
+"QCLKCurrentIndex" : { 
+"type" : ["integer", "null"],
+"readOnly": true,
+"description" : "0x0: Qclk GV PT0, 0x1: Qclk GV PT1, 0x2: Qclk GV PT2, 0x3: Qclk GV PT3."
+"Frequency" : { 
+"type" : ["integer", "null"],
+"readOnly": true,
+"description" : "Memory frequency in units Mhz"
+"Speed" : { 
+"type" : ["integer", "null"],
+"readOnly": true,
+"description" : "Memory speed in units MT/s"
+"MemoryType" : { 
+"type" : ["integer", "null"],
+"readOnly": true,
+"description" : "Memory type"
+"additionalProperties" : false
+GearType
+QCLKCurrentIndex
+Frequency
+Speed
+MemoryType
+"$schema": "http://json-schema.org/draft-07/schema#",
+"type": "object",
+"description" : "Memory Status provider",
+"properties": {
+"TemperatureMultiplier" : { 
+"type" : ["integer", "null"],
+"readOnly": true,
+"description" : "Virtual maximum memory MPR/MR4 reading, Calculated as a maximum of all DDR/LPDDR memory MPR/MR4 readings."
+"additionalProperties" : false,
+"required": ["TemperatureMultiplier"]
+TemperatureMultiplier
+generic
+system
+unknown error
+%02hd:%02hd:%02hd.%03hd
+FATAL
+ERROR
+WARNING
+DEBUG
+[<%s>%s@%s#%d]<%s>: %s
+%s:%s
+bad cast
+Original OEM Processor
+Intel OverDrive Processor
+Dual Processor
+Intel Reserved
+Unknown Processor
+C:\Windows\System32\cmd.exe /c reg query HKLM\HARDWARE\DESCRIPTION\System\CentralProcessor\0 /v "Update Revision"
+Update Revision
+REG_BINARY
+Quark
+Knights
+i[0-9]-
+NODATA
+()$^.*+?[]|\-{},:=!
+alnum
+alpha
+blank
+cntrl
+digit
+graph
+lower
+print
+punct
+space
+upper
+xdigit
+\}{'=
+ForceRemove
+NoRemove
+Delete
+DNatlTraceGeneral
+atlTraceCOM
+atlTraceQI
+atlTraceRegistrar
+atlTraceRefcount
+atlTraceWindowing
+atlTraceControls
+atlTraceHosting
+atlTraceDBClient
+atlTraceDBProvider
+atlTraceSnapin
+atlTraceNotImpl
+atlTraceAllocation
+atlTraceException
+atlTraceTime
+atlTraceCache
+atlTraceStencil
+atlTraceString
+atlTraceMap
+atlTraceUtil
+atlTraceSecurity
+atlTraceSync
+atlTraceISAPI
+Destruction callback was null!
+Entering function...
+C:\home\jenkins\agent\workspace\ipf-extensible-framework\Src\src\coreprovider\userpresence\win\WindowsSensorFrameworkManager.cpp
+Ipf::UserPresence::SensorReleaseToken::~SensorReleaseToken
+Exiting function...
+Ipf::UserPresence::WindowsSensorFrameworkManager::WindowsSensorFrameworkManager
+Exiting function: Exit code = 0x%08X...
+Unable to initialize COM library because of error 
+Unable to subscribe for sensor manager events because of error 
+WSF manager was not provided!
+7zUnable to communicate with Windows sensor manager because of error 0x%x
+Ipf::UserPresence::WindowsSensorFrameworkManager::InitializeComComponents
+Unable to create sensor manager subscription because of error 0x%x
+Unable to subscribe for sensor manager events because of error 0x%x
+Ipf::UserPresence::WindowsSensorFrameworkManager::GetSensor
+Invalid sensor type!
+Cannot have more than one subscription to a sensor at a time
+Ipf::UserPresence::WindowsSensorFrameworkManager::~WindowsSensorFrameworkManager
+Invalid sensor type provided!
+Ipf::UserPresence::WindowsSensorFrameworkManager::GetCompatibleCustomSensor
+No sensors detected
+Unable to get sensor count
+Unable to get device path property for sensor; hr = 0x%08X
+Custom sensor candidate = %s
+Found matching sensor of type %d
+Ipf::UserPresence::WindowsSensorFrameworkManager::OnSensorEnter
+Arriving sensor = %s
+New onlooker sensor arrived!
+Updated OD sensor!
+Ipf::UserPresence::SensorManagerEvents::RuntimeClassInitialize
+Ipf::UserPresence::SensorManagerEvents::~SensorManagerEvents
+{0277
+Unable to get sensor reading for custom value; hr = 0x%08x
+C:\home\jenkins\agent\workspace\ipf-extensible-framework\Src\src\coreprovider\userpresence\win\OnlookerSensorWrl.cpp
+Ipf::UserPresence::GetCustomValue
+Failed to get custom value!
+Null OD sensor was provided
+No Onlooker event handler was provided!
+No Onlooker configurator was provided
+Unable to configure sensor due to error = 
+Unable to subscribe to OD events due to error = 
+Ipf::UserPresence::OnlookerSensorWrl::~OnlookerSensorWrl
+Ipf::UserPresence::OnlookerSensorWrl::ReleaseSensor
+Onlooker raw Custom Data 1 = %u
+Ipf::UserPresence::OnlookerSensorWrl::GetOnlookerSensorStatus
+user_index
+Face %u raw data: Presence = 0x%x Attention = 0x%x Location = 0x%x Size = 0x%x Face ID = 0x%x
+Ipf::UserPresence::OnlookerSensorWrl::GetUserFaceData
+Sensor data report was null!
+Unable to parse OD data packet due to exception: %s
+Ipf::UserPresence::OnlookerSensorWrl::OnDataUpdated
+Onlooker sensor reported leave event!
+Ipf::UserPresence::OnlookerSensorWrl::OnLeave
+NULL object pointer parameter
+Ipf::UserPresence::OnlookerSensorWrl::QueryInterface
+SMinimum report interval %d
+C:\home\jenkins\agent\workspace\ipf-extensible-framework\Src\src\coreprovider\userpresence\win\OnlookerSensorConfigurator.cpp
+Ipf::UserPresence::OnlookerSensorConfigurator::ConfigureSensor
+Current report interval %d
+C:\home\jenkins\agent\workspace\ipf-extensible-framework\Src\src\coreprovider\win\cunknown.cpp
+CUnknown::CUnknown
+CUnknown::~CUnknown
+CUnknown::QueryInterface
+NULL object pointer parameter
+Failed to load library: 
+Failed to create instance of 
+Unknown Exception
+InstallDir
+Error Locating Framework Directory
+CoreApiR2
+CoreApiProxy.dll
+Parameter is Null
+Library Already Loaded
+Symbol Not Found
+Cannot Open Library
+Incompatible Version
+Incompatible Build Configuration
+Invalid Digital Signature
+CoreApiInstance
+Create
+Destroy
+Revision
+GetDllBuildType
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "type": "object",    
+    "properties": {},
+    "additionalProperties": false
+schema_type
+schema_revision
+event_settings
+properties
+NamespaceChanged
+ProviderSchemaChanged
+instance
+TriggerType
+Sampling
+RelativeThreshold
+CurrentValue
+CurrentTime
+TriggerSampling
+TriggerThreshold
+SamplingInterval
+UpperThreshold
+LowerThreshold
+PropertyCapabilities
+SamplingIntervalMin
+SamplingIntervalMax
+UpperThresholdMin
+UpperThresholdMax
+LowerThresholdMin
+LowerThresholdMax
+RelativeThresholdMin
+RelativeThresholdMax
+Roles
+Public
+Elevated
+Unsupported method by provider: 
+Invalid schema 
+Failed to validate against JSON schema: 
+Framework pointer is null
+"schema_type": "provider_capabilities",
+"schema_revision": 1,
+"body": {
+"PropertyCapabilities": {
+Provider capabilities for 
+Provider init for 
+ : when updating schema for provider 
+"type": "object",
+"properties": {
+"TriggerType": {
+"type": "string",
+"enum": ["Sampling"]
+"CurrentValue": {
+"CurrentTime": {
+"type": "integer",
+"format": "time-stamp"
+      
+      
+"required": ["TriggerType", "CurrentValue"],
+"additionalProperties": false
+ :: ExecuteCommand
+ :: SetValue
+.   Only TriggerSampling is supported for generic events handled by the framework.
+Invalid event settings for generic event 
+Bname
+class
+children
+properties
+NamespaceChanged
+ProviderStatusChanged
+Provider
+Exception
+Framework internal error: 
+Invalid path: 
+Null delegate
+Create child failed
+data: 
+command: 
+config: 
+result: 
+unknown schema type
+Unknown path: 
+<null>
+Failed to register for event. Event is unknown in provider event schema
+Failed to unregister for event.
+) is out of range
+array index '-' (
+cannot use at() with 
+' not found
+key '
+ is out of range
+invalid vector subscript
+incompatible ReferenceType for get_ref, actual type is 
+Intel.Ipf.Framework
+schema_type
+schema_revision
+platform_config
+provider_manifest
+provider_config
+provider_catalog
+module_properties
+get_properties
+provider_capabilities
+event_settings
+namespace
+    {
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "type": "object",
+        "title": "Provider Manifest revision 5",
+        "description": "Schema to validate provider manifests revision 5",
+        "examples": [
+            {
+                "Intel.Ipf.Examples.Example": {
+    "unique_id": "7A93D4B2-140D-4435-A7AF-ACFA889C31B3",
+                    "version": 5,
+                    "author": "Intel Corp",
+                    "description": "Provider exercised by ExampleClient.  Also used for unit tests.",
+    "attach": [ {"location": "Platform", "instance": "Example", "init": { "Color": "blue" }} ]
+                }
+            }
+        ],
+"additionalProperties": {
+"$ref": "#/properties/provider"
+        "properties": {
+            "provider": {
+                "type": "object",
+                "properties": {
+                    "unique_id": {
+    "type": "string"
+    },
+    "version": {
+                        "type": "string",
+                        "pattern": "^(6553[0-5]|655[0-2][0-9]|65[0-4][0-9]{2}|6[0-4][0-9]{3}|[1-5][0-9]{4}|[1-9][0-9]{1,3}|[0-9])(\\.(6553[0-5]|655[0-2][0-9]|65[0-4][0-9]{2}|6[0-4][0-9]{3}|[1-5][0-9]{4}|[1-9][0-9]{1,3}|[0-9])){0,2}$"
+                    },
+                    "author":{"type":"string"},
+                    "description":{"type":"string"},
+    "attach": {
+    "type": "array",
+    "items": {
+    "type": "object",
+                      
+    "required": ["location", "name"],
+    "properties": {
+    "location": {
+                                  "type": "string"
+                                },
+    "name": {
+                                  "type": "string"
+                                },
+    "init": {
+                                  "type": "object"
+                                }
+    },
+    "additionalProperties": false
+    }
+    }
+                },
+                "required": [
+    "unique_id",
+                    "version"
+                ],
+                "additionalProperties": false
+            }
+        },
+        
+        "minProperties": 1
+    }
+    {
+        "$schema": "http://json-schema.org/draft-07/schema",
+        "type": "object",
+        "title": "The container schema",
+        "description": "The container schema is a header + body.",
+        "examples":[
+            {
+                "schema_type": "provider_manifest",
+                "schema_revision": 5,
+                "body": {}
+            }
+        ],
+        "required": [
+            "schema_type",
+            "schema_revision",
+            "body"
+        ],
+        "properties": {
+            "schema_type": {
+            "type": "string",
+            "title": "The schema_type schema",
+            "description": "One of the known types of schemas that can be contained.",
+            "examples": [
+                "provider_manifest",
+                "platform_config",
+                "provider_packages"
+                ]        
+            },
+            "schema_revision": {
+                "type": "integer",
+                "title": "The schema revision",
+                "description": "The revision of this type of schema"
+            },
+            "body": {
+                "type": "object",
+                "title": "The body schema",
+                "description": "The body of the schema is validated vs the schema type & version",
+                "properties": {},
+                "minProperties": 1,
+                "additionalProperties": true
+                }
+            },
+            "additionalProperties": false
+        }
+    {
+    "description":"schema to load local providers and init parameters",
+    "type":"object",
+        "examples": [
+            {
+                "local_providers": [
+"ExampleProvider.dll" 
+    "init": {
+                    "Intel.Ipf.Examples.Example":
+{                           
+"Color": "green"
+            }
+        ],
+    "properties":{
+"local_providers": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            },
+            "init": {
+                "type": "object"
+            }
+    },
+    "additionalProperties": false
+    }
+    {
+    "description":"schema for provider catalog",
+    "type":"object",
+        "examples": [
+            {
+                "provider_packages": [
+"ExampleProvider.dll"
+    ]
+            }
+        ],
+    "properties":{
+"provider_packages": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            }
+    },
+        "required":["provider_packages"],
+    "additionalProperties": false
+    }
+    "description":"schema for get properties",
+    "type":"object",
+        "examples": [
+            {
+                "properties_type": [
+"namespace",
+                    "catalog"
+    ]
+            }
+        ],
+    "properties":{
+"properties_type": {
+                "type": "array",
+                "items": {
+                    "type": "string",
+                     "enum": ["namespace", "catalog"]
+                } 
+            }
+    },
+        "required":["properties_type"],
+    "additionalProperties": false
+    }
+"description": "Schema for module properties",
+"type": "object",
+"examples": [
+            {
+"filename": "ClientApiProxy.dll",
+"is_debug_build": true,
+"is_debug_runtime": false,
+"is_static_runtime": false,
+"product_copyright": "",
+"product_description": "",
+"product_name": "",
+"product_vendor": "",
+"product_version": "",
+"sdk_version": "2.0.8888.9999"
+            }
+        ],
+"properties": {
+"filename": {
+"type": "string"
+"is_debug_build": {
+"type": "boolean"
+"is_debug_runtime": {
+"type": "boolean"
+"is_static_runtime": {
+"type": "boolean"
+"product_copyright": {
+"type": "string"
+"product_description": {
+"type": "string"
+"product_name": {
+"type": "string"
+"product_vendor": {
+"type": "string"
+"product_version": {
+"type": "string"
+"sdk_version": {
+"type": "string"
+"required":["filename", "is_debug_build", "is_debug_runtime", "is_static_runtime",
+        "product_copyright", "product_description", "product_name",
+"product_vendor", "product_version", "sdk_version"],
+"additionalProperties": false
+    {
+        "type": "object",
+        "properties": {
+            "name": { "type": "string" },
+            "class": { "type": "string" },
+            "init":{
+                "type":"object" 
+            },
+            "children": {
+                "type": "array",
+                "items": { "$ref": "#" }
+            }
+        },
+        "required":["class","name"]
+    }
+    {
+    "description":"middle schema, parent is container_schema, sub schema validates the namespace",
+    "type":"object",
+    "properties":{
+"options": {
+"type": "object",
+"properties": {
+"enable_provider_discovery": {
+"type": "boolean",
+"default": true
+"additionalProperties": false
+"modules": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                },
+                "minItems": 0
+            },
+"namespace":{
+"type":"object"
+    },
+    "required":["modules","namespace"],
+    "additionalProperties": false
+    }
+  "description": "Provider capabilities to support sampling and threshold events.  Roles may be specified but are not currently supported",
+  "type": "object",
+  "examples": [
+"PropertyCapabilities": {
+"Temperature": {
+"SamplingIntervalMin": 1000,
+"SamplingIntervalMax": null,
+"UpperThresholdMin": 100,
+"UpperThresholdMax": null,
+"LowerThresholdMin": null,
+"LowerThresholdMax": 90,
+"RelativeThresholdMin": 10,
+"RelativeThresholdMax": null,
+"Roles": ["Elevated", "Public"]
+  "properties": {
+    "PropertyCapabilities": {
+      "type": "object",
+      "patternProperties": {
+        "^.*$": {
+          "type": "object",
+          "properties": {
+            "SamplingIntervalMin": {
+              "type": [
+                "null",
+                "integer"
+              ],
+              "default": null
+            },
+            "SamplingIntervalMax": {
+              "type": [
+                "null",
+                "integer"
+              ],
+              "default": null
+            },
+            "UpperThresholdMin": {
+              "type": [
+                "null",
+                "integer"
+              ],
+              "default": null
+            },
+            "UpperThresholdMax": {
+              "type": [
+                "null",
+                "integer"
+              ],
+              "default": null
+            },
+            "LowerThresholdMin": {
+              "type": [
+                "null",
+                "integer"
+              ],
+              "default": null
+            },
+            "LowerThresholdMax": {
+              "type": [
+                "null",
+                "integer"
+              ],
+              "default": null
+            },
+            "RelativeThresholdMin": {
+              "type": [
+                "null",
+                "integer"
+              ],
+              "default": null
+            },
+            "RelativeThresholdMax": {
+              "type": [
+                "null",
+                "integer"
+              ],
+              "default": null
+            },
+"Roles": {
+              "type": "array",
+              "items": {
+"type": "string"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+  "additionalProperties": false
+    }
+  "additionalProperties": false
+  "type": ["object", "null"],
+  "properties": {
+    "TriggerSampling": {
+      "description": "Trigger at some interval. May be used for any property types",
+      "type": "object",
+      "properties": {
+        "SamplingInterval": {
+          "type": "integer",
+          "description": "Sampling interval in milliseconds"
+        }
+      },
+      "required": [
+        "SamplingInterval"
+      ],
+      "additionalProperties": false
+    },
+    "TriggerThreshold": {
+      "description": "Trigger on some threshold. May only be used for number or integer property types",
+      "type": "object",
+      "properties": {
+        "SamplingInterval": {
+          "type": "integer",
+          "description": "Sampling interval in milliseconds"
+        },
+        "UpperThreshold": {
+          "type": "number",
+          "description": "Absolute upper threshold"
+        },
+        "LowerThreshold": {
+          "type": "number",
+          "description": "Absolute lower threshold"
+        },
+        "RelativeThreshold": {
+          "type": "number",
+          "description": "Relative change required to raise an event.  Relative trigger reference resets after every raised event"
+        }
+      },
+      "required": [
+        "SamplingInterval"
+      ],
+      "anyOf": [
+        {
+          "required": [
+            "UpperThreshold"
+          ]
+        },
+        {
+          "required": [
+            "LowerThreshold"
+          ]
+        },
+        {
+          "required": [
+            "RelativeThreshold"
+          ]
+        }
+      ],
+      "additionalProperties": false
+    }
+  "additionalProperties": false
+Invalid JSON schema: 
+ schema_type is missing or invalid
+ schema_revision is missing  or invalid
+ schema_type is invalid
+ schema_revision is invalid
+Error Reading Module Path [
+\VarFileInfo\Translation
+\StringFileInfo\%04x%04x\%s
+2.2.10000.20
+"sdk_version": "
+ProductVersion
+"product_version": "
+CompanyName
+"product_vendor": "
+ProductName
+"product_name": "
+FileDescription
+"product_description": "
+LegalCopyright
+"product_copyright": "
+"is_static_runtime": 
+"is_debug_runtime": 
+"is_debug_build": 
+"schema_type": "module_properties",
+"schema_revision": 1,
+"body": {
+"filename": "
+allOf
+anyOf
+oneOf
+unresolved or freed schema-reference 
+ already inserted
+schema with 
+' needs loading, but no loader callback given
+external schema reference '
+' has still the following undefined references: 
+<root>
+after all files have been parsed, '
+no root schema has yet been set for validating an instance
+no file found serving requested root-URI. 
+no schema find for request initial URI: 
+the subschema has succeeded, but it is required to not validate
+at least one subschema has failed, but all of them are required to validate - 
+more than one subschema has succeeded, but exactly one of them is required to validate
+unexpected instance type
+instance not found in required enum
+instance not const
+integer
+default
+const
+instance is too short as per minLength:
+instance is too long as per maxLength: 
+a content checker was not provided but a contentEncoding or contentMediaType for this string have been present: '
+content-checking failed: 
+expected string, but get binary data
+instance does not match regex pattern: 
+a format checker was not provided but a format keyword for this string is present: 
+format-checking failed: 
+maxLength
+minLength
+contentEncoding
+contentMediaType
+schema contains contentEncoding/contentMediaType but content checker was not set
+pattern
+format
+expected to be null
+instance invalid as per false-schema
+' not found in object as a dependency
+required property '
+too many properties
+too few properties
+' not found in object
+validation failed for additional property '
+maxProperties
+minProperties
+required
+properties
+patternProperties
+additionalProperties
+dependencies
+propertyNames
+array has too many items
+array has too few items
+items have to be unique for this array
+array does not contain required element as per 'contains'
+maxItems
+minItems
+uniqueItems
+items
+additionalItems
+contains
+definitions
+$schema
+title
+description
+, expected: boolean or object
+invalid JSON-type for a schema for 
+instance is not a multiple of 
+instance exceeds or equals maximum of 
+instance exceeds maximum of 
+instance is below or equals minimum of 
+instance is below minimum of 
+no subschema has succeeded, but one of them is required to validate
+JSON pointer has no parent
+cannot use offsets with object iterators
+deque<T> too long
+maximum
+minimum
+exclusiveMaximum
+exclusiveMinimum
+multipleOf
+type must be boolean, but is 
+type must be array, but is 
+) to an URN URI (
+Cannot add a path (
+    "title": "JSON schema for JSONPatch files",
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "array",
+    "items": {
+        "oneOf": [
+            {
+                "additionalProperties": false,
+                "required": [ "value", "op", "path"],
+                "properties": {
+                    "path" : { "$ref": "#/definitions/path" },
+                    "op": {
+                        "description": "The operation to perform.",
+                        "type": "string",
+                        "enum": [ "add", "replace", "test" ]
+                    },
+                    "value": {
+                        "description": "The value to add, replace or test."
+                    }
+                }
+            },
+            {
+                "additionalProperties": false,
+                "required": [ "op", "path"],
+                "properties": {
+                    "path" : { "$ref": "#/definitions/path" },
+                    "op": {
+                        "description": "The operation to perform.",
+                        "type": "string",
+                        "enum": [ "remove" ]
+                    }
+                }
+            },
+            {
+                "additionalProperties": false,
+                "required": [ "from", "op", "path" ],
+                "properties": {
+                    "path" : { "$ref": "#/definitions/path" },
+                    "op": {
+                        "description": "The operation to perform.",
+                        "type": "string",
+                        "enum": [ "move", "copy" ]
+                    },
+                    "from": {
+                        "$ref": "#/definitions/path",
+                        "description": "A JSON Pointer path pointing to the location to move/copy from."
+                    }
+                }
+            }
+        ]
+    },
+    "definitions": {
+        "path": {
+            "description": "A JSON Pointer path.",
+            "type": "string"
+        }
+    }
+remove
+replace
+)0n4d(
+ORD,\(
+M'b+F
+E|JV8
+-qZ~C
+la^iEE
+n,OvL
+M'b+F
+M'b+F
+K$ZQH
+70q)G
+M'b+F
+$3VeK|JV8
+Y3@)A
+]$C9"D
+M'b+F
+1"EYg-
+\YeOvL
+PDNya
+M'b+F
+iun8r3
+&hh*G?iP
+i0n4d(
+ORD,\(OvL
+la^iEE
+KH'^)8
+Doo\m1
+0n4d(
+ORD,\(
+3!XI-X
+X|D,;
+L|JV8
+ Ry10D
+SleepConditionVariableCS
+WakeAllConditionVariable
+bad allocation
+=L9o<
+C:\home\jenkins\agent\workspace\ipf-extensible-framework\Src\build\Release\CoreProvider.pdb
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.gfids
+.rdata
+.rdata$CastGuardVftablesA
+.rdata$CastGuardVftablesC
+.rdata$T
+.rdata$r
+.rdata$voltmd
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.tls$
+.tls$ZZZ
+.xdata
+.xdata$x
+ATL$__a
+ATL$__z
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.data$rs
+.pdata
+minATL$__a
+minATL$__m
+minATL$__z
+.rsrc$01
+.rsrc$02
+"@$@&F$B(
+<B>6@
+N<PHT
+.",T0",
+*z,r.",
+0B264
+ R"8*]
+R$r& $Z(J
+T*b,H
+&F(F*L(B,
+HxJ.LXNPti
+xBz6|
+@pBXD(FpHpJXL(NpPpRXT(V8l}
+<B>6@
+J4LXN
+R4TXV
+Z4\X^
+b4dXf
+j4lXn
+r4tXv
+z4|X~
+.~0H2-
+HBJ6L
+F F"L B$
+HxJ.LXNPty
+xBz6|
+H~J"L@N8t
+x@z*|
+l l"l$l&6(Q
+"n$V&
+.n0V2
+:n<V>
+JnLVN
+XhZV\
+dhf`h
+0F2F4L2B6
+TBV6X
+$n&v(~*Z,
+.h0l2~4Z6
+8h:l<~>Z@
+BhDpF
+H~JZL
+NhP8|A
+&P(n*
+2h48He
+ ."d$
+$`&&$
+z L"V ($Z "&V
+$B&6(
+$`&&$
+z L"V "$X
+$B&6(
+0B264
+: f"Y
+&2$d(
+@ d"I
+,.$d(
+V$T.V$`*V
+ p"h$!
+(p*h,!
+0p2h4!
+8p:l<!
+D(FpHpJ
+L(NpPpR
+T(VpXpZ
+\(^p`pb
+d(fphpj
+l(npppr
+t(vpxpz
+J4LXN
+R4TXV
+Z4\X^
+b4dXf
+j4lXnnp
+r.tXvnx
+z.|X~n
+"|$b&2
+"X&p(b&
+*X.p0h.
+<.:@>:846446
+<B>6@
+((* 3
+68:)3
+D V"m
+(x.x0x2|4
+$$.&F
+0026k
+", n$
+"((*M
+2 T&V
+X"p$f"$&h(X,p.l,$0n2v6v8b6<:z<4>,@zB4D,FzHvLvNjLzRvTpR8VxXx\xp:t:v:x:z:|:~4
+$r&6(%
+.r062
+$h&d(<*Z,
+.h0n2<4Z6
+8h:n<<>Z@
+BhDrF<HZJ
+LhN8zI
+(H*","."0(2((
+DjFBH
+J@Nj8
+Nh8j2
+4^.`.bF
+(4^@(B^
+^88:2
+^"T(V,X2X
+& $"r$a
+.:F<(>X@(>>B.D.FFH
+Z,*4A
+:x,z>
+@x,rD
+Fx,rJ
+Lx,rP
+RXT^V
+Rd\d^
+RRd^f
+n,082,(2^
+"|$L&
+"~$((2"
+0|2(620j8
+DvF(J2DjL
+Z|\(`*ZLd
+h(l*ffn
+(.^@(B^@(N^@
+A<>PD
+*n,l.
+NlPZRhT@X
+dxfjh
+bp2r|v(x
+z6|X~
+\rPtV&((^6(8^:(J8L2Z(\^~
+"H V$)
+b p"F |$Z,
+02*4(2&
+b p"F |$Z,
+02*4(2&
+CoreProvider.dll
+GetDllBuildType
+GetDllProperties
+GetDllVersion
+ProviderApiCreate
+ProviderApiDestroy
+ProviderApiRevision
+OutputDebugStringA
+GetLocalTime
+ReadFile
+CloseHandle
+SetHandleInformation
+GetLastError
+CreatePipe
+WaitForSingleObject
+GetExitCodeProcess
+GetCurrentThread
+CreateProcessA
+GetLogicalProcessorInformation
+SetThreadAffinityMask
+DecodePointer
+RaiseException
+InitializeCriticalSectionEx
+DeleteCriticalSection
+WideCharToMultiByte
+HeapAlloc
+HeapFree
+GetProcessHeap
+FreeLibrary
+GetProcAddress
+LoadLibraryExA
+GetModuleFileNameA
+GetModuleHandleExA
+KERNEL32.dll
+UnregisterClassA
+USER32.dll
+CoUninitialize
+CoInitializeEx
+CoIncrementMTAUsage
+CoDecrementMTAUsage
+CoCreateInstance
+PropVariantClear
+ole32.dll
+EventRegister
+EventUnregister
+EventProviderEnabled
+EventWriteString
+RegCloseKey
+RegQueryValueExA
+ADVAPI32.dll
+?_Xbad_alloc@std@@YAXXZ
+?_Xlength_error@std@@YAXPEBD@Z
+_Mbrtowc
+?_Getcvt@_Locinfo@std@@QEBA?AU_Cvtvec@@XZ
+?_W_Getdays@_Locinfo@std@@QEBAPEBGXZ
+?_W_Getmonths@_Locinfo@std@@QEBAPEBGXZ
+?_Xout_of_range@std@@YAXPEBD@Z
+??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAA@XZ
+??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ
+?sbumpc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHXZ
+?sgetc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHXZ
+?snextc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHXZ
+?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ
+??1?$basic_ios@DU?$char_traits@D@std@@@std@@UEAA@XZ
+?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z
+??0?$basic_ios@DU?$char_traits@D@std@@@std@@IEAA@XZ
+??0?$basic_istream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
+??1?$basic_istream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+?_Ipfx@?$basic_istream@DU?$char_traits@D@std@@@std@@QEAA_N_N@Z
+?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAXAEBVlocale@2@@Z
+?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAPEAV12@PEAD_J@Z
+?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JXZ
+?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z
+?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z
+_Mtx_init_in_situ
+_Mtx_destroy_in_situ
+_Mtx_lock
+_Mtx_unlock
+?_Throw_C_error@std@@YAXH@Z
+?_Xbad_function_call@std@@YAXXZ
+?uncaught_exception@std@@YA_NXZ
+?_Xinvalid_argument@std@@YAXPEBD@Z
+?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z
+?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z
+?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAVios_base@1@AEAV21@@Z@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@I@Z
+?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ
+??0?$basic_iostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z
+??1?$basic_iostream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+?setw@std@@YA?AU?$_Smanip@_J@1@_J@Z
+?_Syserror_map@std@@YAPEBDH@Z
+?_Winerror_map@std@@YAHH@Z
+??0_Lockit@std@@QEAA@H@Z
+??1_Lockit@std@@QEAA@XZ
+_Strcoll
+_Strxfrm
+??0_Locinfo@std@@QEAA@PEBD@Z
+??1_Locinfo@std@@QEAA@XZ
+?_Getcoll@_Locinfo@std@@QEBA?AU_Collvec@@XZ
+?c_str@?$_Yarn@D@std@@QEBAPEBDXZ
+??Bid@locale@std@@QEAA_KXZ
+??0facet@locale@std@@IEAA@_K@Z
+??1facet@locale@std@@MEAA@XZ
+?_Init@locale@std@@CAPEAV_Locimp@12@_N@Z
+?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ
+?tolower@?$ctype@D@std@@QEBADD@Z
+?tolower@?$ctype@D@std@@QEBAPEBDPEADPEBD@Z
+?_Getcat@?$ctype@D@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z
+?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAADD@Z
+?_Xregex_error@std@@YAXW4error_type@regex_constants@1@@Z
+?_Decref@facet@locale@std@@UEAAPEAV_Facet_base@3@XZ
+?_Incref@facet@locale@std@@UEAAXXZ
+?id@?$ctype@D@std@@2V0locale@2@A
+?id@?$collate@D@std@@2V0locale@2@A
+_Xtime_get_ticks
+_Thrd_join
+_Thrd_id
+_Mtx_current_owns
+_Cnd_init_in_situ
+_Cnd_destroy_in_situ
+_Cnd_wait
+_Cnd_timedwait
+_Cnd_signal
+_Cnd_do_broadcast_at_thread_exit
+?_Throw_Cpp_error@std@@YAXH@Z
+??0?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
+??1?$basic_ostream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@_K@Z
+MSVCP140.dll
+CM_Get_Device_ID_ListA
+CM_Get_Device_ID_List_SizeA
+CM_Get_Device_Interface_ListA
+CM_Get_Device_Interface_List_SizeA
+CM_Open_Device_Interface_Key_ExA
+CFGMGR32.dll
+WinVerifyTrust
+WINTRUST.dll
+GetFileVersionInfoSizeA
+GetFileVersionInfoA
+VerQueryValueA
+VERSION.dll
+_purecall
+__std_terminate
+__std_exception_copy
+__std_exception_destroy
+_CxxThrowException
+__CxxFrameHandler4
+memcmp
+memcpy
+memmove
+memset
+__RTDynamicCast
+memchr
+strchr
+__current_exception
+__current_exception_context
+__C_specific_handler
+__std_type_info_destroy_list
+VCRUNTIME140.dll
+VCRUNTIME140_1.dll
+_invalid_parameter_noinfo_noreturn
+_dsign
+calloc
+__stdio_common_vsprintf
+localeconv
+_dclass
+_errno
+strtoull
+isdigit
+strtod
+strtoll
+strtol
+__acrt_iob_func
+__stdio_common_vswprintf
+__stdio_common_vsnwprintf_s
+__stdio_common_vfprintf
+__stdio_common_vsnprintf_s
+strcat_s
+strncpy_s
+malloc
+realloc
+_recalloc
+wcscpy_s
+strnlen
+terminate
+_beginthreadex
+__stdio_common_vsprintf_s
+nextafter
+remainder
+strtoul
+___lc_codepage_func
+_callnewh
+_seh_filter_dll
+_configure_narrow_argv
+_initialize_narrow_environment
+_initialize_onexit_table
+_register_onexit_function
+_execute_onexit_table
+_crt_atexit
+_crt_at_quick_exit
+_cexit
+_initterm
+_initterm_e
+_invalid_parameter_noinfo
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+LocalFree
+FormatMessageA
+SetCurrentDirectoryW
+GetCurrentDirectoryW
+CreateDirectoryW
+CreateFileW
+FindClose
+FindFirstFileExW
+FindNextFileW
+GetDiskFreeSpaceExW
+GetFileAttributesW
+GetFileAttributesExW
+GetFileInformationByHandle
+GetFinalPathNameByHandleW
+GetFullPathNameW
+SetEndOfFile
+SetFileAttributesW
+SetFileInformationByHandle
+SetFilePointerEx
+SetFileTime
+GetTempPathW
+AreFileApisANSI
+DeviceIoControl
+CreateDirectoryExW
+CopyFileW
+MoveFileExW
+CreateHardLinkW
+GetFileInformationByHandleEx
+CreateSymbolicLinkW
+MultiByteToWideChar
+EnterCriticalSection
+LeaveCriticalSection
+InitializeCriticalSectionAndSpinCount
+SetEvent
+ResetEvent
+WaitForSingleObjectEx
+CreateEventW
+GetModuleHandleW
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetStartupInfoW
+IsProcessorFeaturePresent
+GetCurrentProcess
+TerminateProcess
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+DisableThreadLibraryCalls
+InitializeSListHead
+OutputDebugStringW
+.?AVbad_array_new_length@std@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVruntime_error@std@@
+.?AVIpfException@Ipf@@
+.?AVInvalidArgumentException@Ipf@@
+.?AVProviderException@Ipf@@
+.?AVexception@detail@json_abi_v3_11_3@nlohmann@@
+.?AVtype_error@detail@json_abi_v3_11_3@nlohmann@@
+.?AVother_error@detail@json_abi_v3_11_3@nlohmann@@
+.?AV?$_Binder@U_Unforced@std@@P8BatteryEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8BatteryEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8BatteryEnumeratorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8BatteryProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8BatteryProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AVSocThermalProvider@Ipf@@
+.?AVIProvider@Ipf@@
+.?AVSocPowerProvider@Ipf@@
+.?AVSocPerformanceProvider@Ipf@@
+.?AVSystemStateProvider@Ipf@@
+.?AVUserPresenceProvider@Ipf@@
+.?AVDisplayEnumeratorProvider@Ipf@@
+.?AVSystemPowerProvider@Ipf@@
+.?AVStorageEnumeratorProvider@Ipf@@
+.?AVStorageProvider@Ipf@@
+.?AVWifiEnumeratorProvider@Ipf@@
+.?AVWifiProvider@Ipf@@
+.?AVWifiThermalProvider@Ipf@@
+.?AVCPUStateProvider@Ipf@@
+.?AVCPUStatesProvider@Ipf@@
+.?AVCPUThermalProvider@Ipf@@
+.?AVCPUCountersProvider@Ipf@@
+.?AVPowerAdapterEnumeratorProvider@Ipf@@
+.?AVPowerAdapterProvider@Ipf@@
+.?AVPlatformEnumeratorProvider@Ipf@@
+.?AVWwanEnumeratorProvider@Ipf@@
+.?AVWwanProvider@Ipf@@
+.?AVWwanThermalProvider@Ipf@@
+.?AVTemperatureSensorEnumeratorProvider@Ipf@@
+.?AVTemperatureSensorProvider@Ipf@@
+.?AVTemperatureSensorThermalProvider@Ipf@@
+.?AVGraphicsDiagnosticsProvider@Ipf@@
+.?AVSocDiagnosticsProvider@Ipf@@
+.?AVSocThermalStatusProvider@Ipf@@
+.?AVSystemAgentVoltageProvider@Ipf@@
+.?AVMemoryTimingsEnumeratorProvider@Ipf@@
+.?AVMemoryTimingsProvider@Ipf@@
+.?AVSocInfoProvider@Ipf@@
+.?AVMemoryStatusProvider@Ipf@@
+.?AVMemoryThermalProvider@Ipf@@
+.P6APEAVIProvider@Ipf@@PEAVIFramework@1@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+.?AVbad_variant_access@std@@
+.?AVFrameworkException@Ipf@@
+.?AVCoreConnectionException@Ipf@@
+.?AVCoreApiException@Ipf@@
+.?AVPrimitiveNotSupportedException@Ipf@@
+.?AVparse_error@detail@json_abi_v3_11_3@nlohmann@@
+.?AVinvalid_iterator@detail@json_abi_v3_11_3@nlohmann@@
+.?AVout_of_range@detail@json_abi_v3_11_3@nlohmann@@
+.?AV?$_Binder@U_Unforced@std@@P8CPUStateProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8CPUStateProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8CPUStateProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8CPUStatesProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8CPUStatesProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8CPUThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8CPUThermalProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8CPUCountersProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8CPUCountersProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8DisplayEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8DisplayEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8DisplayEnumeratorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8PlatformEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8PlatformEnumeratorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8PowerAdapterEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8PowerAdapterEnumeratorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8PowerAdapterProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8PowerAdapterProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SocPerformanceProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SocPerformanceProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SocPowerProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SocPowerProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SocPowerProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SocThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SocThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SocThermalProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8StorageEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8StorageEnumeratorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8StorageProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8StorageProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SystemStateProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SystemStateProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SystemStateProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SystemPowerProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SystemPowerProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8UserPresenceProvider@Ipf@@EAAXAEBV?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@Uadl_serializer@json_abi_v3_11_3@nlohmann@@V?$vector@EV?$allocator@E@std@@@2@X@json_abi_v3_11_3@nlohmann@@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8UserPresenceProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8UserPresenceProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8UserPresenceProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8UserPresenceProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@AEBV?$function@$$A6A?AV?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@Uadl_serializer@json_abi_v3_11_3@nlohmann@@V?$vector@EV?$allocator@E@std@@@2@X@json_abi_v3_11_3@nlohmann@@I@Z@2@0W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEAY0BP@$$CBDV<lambda_95b03874a48f2bc78aebb80eb65c1346>@@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8UserPresenceProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@AEBV?$function@$$A6A?AV?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@Uadl_serializer@json_abi_v3_11_3@nlohmann@@V?$vector@EV?$allocator@E@std@@@2@X@json_abi_v3_11_3@nlohmann@@I@Z@2@0W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEAY0CB@$$CBDV<lambda_a1ffabe6aafd56f1344b97e55edc5c10>@@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8UserPresenceProvider@Ipf@@EAAXXZPEAV34@@std@@
+.?AV<lambda_95b03874a48f2bc78aebb80eb65c1346>@@
+.?AV<lambda_a1ffabe6aafd56f1344b97e55edc5c10>@@
+.?AV?$_Binder@U_Unforced@std@@P8WifiEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8WifiEnumeratorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8WifiProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8WifiProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8WifiThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8WifiThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8WifiThermalProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8WwanEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8WwanEnumeratorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8WwanProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8WwanProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8WwanThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8WwanThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8WwanThermalProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8TemperatureSensorEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8TemperatureSensorEnumeratorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8TemperatureSensorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8TemperatureSensorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8TemperatureSensorThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8TemperatureSensorThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8TemperatureSensorThermalProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8GraphicsDiagnosticsProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8GraphicsDiagnosticsProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SocDiagnosticsProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SocDiagnosticsProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SocThermalStatusProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SocThermalStatusProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SystemAgentVoltageProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SystemAgentVoltageProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8MemoryTimingsEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8MemoryTimingsEnumeratorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8MemoryTimingsProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8MemoryTimingsProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SocInfoProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SocInfoProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8MemoryStatusProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8MemoryStatusProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8MemoryThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8MemoryThermalProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AVsystem_error@std@@
+.?AV_System_error@std@@
+.?AVbad_cast@std@@
+.?AV<lambda_7eee757d7a03ca71d74ad053eb76a6d3>@@
+.P6A_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+.?AVCAtlException@ATL@@
+.?AV<lambda_7dde711104f760cb91143f816c2170a6>@@
+.?AV?$_Binder@U_Unforced@std@@P8WindowsSensorFrameworkManager@UserPresence@Ipf@@EAAJPEAUISensor@@W4__MIDL___MIDL_itf_sensorsapi_0000_0000_0001@@@ZPEAV345@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AVlogic_error@std@@
+.?AVinvalid_argument@std@@
+.?AVJsonException@Ipf@@
+.?AVProviderNotFoundException@Ipf@@
+.?AVAccessDeniedException@Ipf@@
+.?AVTimeoutException@Ipf@@
+.?AVLimitExceededException@Ipf@@
+.?AVout_of_range@std@@
+.?AV<lambda_d618c4bc078bd86289336a4329552fa4>@@
+.?AV<lambda_86df45ec417d6fe69f0c7c7b3cba33a6>@@
+.?AV<lambda_1be43c6f29c33b3f9c284cf9aebb20a2>@@
+.?AV<lambda_fbdd55832844d862ed1c08767fa75c4a>@@
+.?AV<lambda_baa75d07c12de201e41808a8a330bb35>@@
+.P6AXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0AEBV?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@Uadl_serializer@json_abi_v3_11_3@nlohmann@@V?$vector@EV?$allocator@E@std@@@2@X@json_abi_v3_11_3@nlohmann@@@Z
+.?AV_Ref_count_base@std@@
+.?AU?$output_adapter_protocol@D@detail@json_abi_v3_11_3@nlohmann@@
+.?AVBatteryEnumeratorProvider@Ipf@@
+.?AVProviderDelegate@Ipf@@
+.?AV?$_Func_base@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_base@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_base@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@W4esif_event_type@@PEBUesif_data@@@std@@
+.?AV?$output_string_adapter@DV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@detail@json_abi_v3_11_3@nlohmann@@
+.?AV?$_Ref_count_obj2@V?$output_string_adapter@DV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@detail@json_abi_v3_11_3@nlohmann@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8BatteryEnumeratorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8BatteryEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8BatteryEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@std@@
+.?AVBatteryProvider@Ipf@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8BatteryProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8BatteryProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_base@PEAVIProvider@Ipf@@PEAVIFramework@2@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@std@@
+.?AV?$_Func_impl_no_alloc@P6APEAVIProvider@Ipf@@PEAVIFramework@2@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@ZPEAV12@PEAV32@AEBV45@@std@@
+.?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_istringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AVios_base@std@@
+.?AV?$_Iosb@H@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8CPUStateProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8CPUStateProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8CPUStateProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8CPUStatesProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8CPUStatesProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8CPUThermalProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8CPUThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8CPUCountersProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8CPUCountersProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8DisplayEnumeratorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8DisplayEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8DisplayEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8PlatformEnumeratorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8PlatformEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8PowerAdapterEnumeratorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8PowerAdapterEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8PowerAdapterProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8PowerAdapterProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SocPerformanceProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SocPerformanceProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SocPowerProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SocPowerProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SocPowerProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SocThermalProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SocThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SocThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8StorageEnumeratorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8StorageEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8StorageProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8StorageProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SystemStateProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SystemStateProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SystemStateProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SystemPowerProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SystemPowerProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AVISensorManagerFactory@UserPresence@Ipf@@
+.?AVSensorManagerFactory@UserPresence@Ipf@@
+.?AV?$_Func_base@V?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@Uadl_serializer@json_abi_v3_11_3@nlohmann@@V?$vector@EV?$allocator@E@std@@@2@X@json_abi_v3_11_3@nlohmann@@I@std@@
+.?AV?$_Func_base@X$$V@std@@
+.?AV?$_Func_base@XV?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@Uadl_serializer@json_abi_v3_11_3@nlohmann@@V?$vector@EV?$allocator@E@std@@@2@X@json_abi_v3_11_3@nlohmann@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8UserPresenceProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8UserPresenceProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8UserPresenceProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8UserPresenceProvider@Ipf@@EAAXAEBV?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@Uadl_serializer@json_abi_v3_11_3@nlohmann@@V?$vector@EV?$allocator@E@std@@@2@X@json_abi_v3_11_3@nlohmann@@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XV?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@Uadl_serializer@json_abi_v3_11_3@nlohmann@@V?$vector@EV?$allocator@E@std@@@2@X@json_abi_v3_11_3@nlohmann@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8UserPresenceProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@AEBV?$function@$$A6A?AV?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@Uadl_serializer@json_abi_v3_11_3@nlohmann@@V?$vector@EV?$allocator@E@std@@@2@X@json_abi_v3_11_3@nlohmann@@I@Z@2@0W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEAY0CB@$$CBDV<lambda_a1ffabe6aafd56f1344b97e55edc5c10>@@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8UserPresenceProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@AEBV?$function@$$A6A?AV?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@Uadl_serializer@json_abi_v3_11_3@nlohmann@@V?$vector@EV?$allocator@E@std@@@2@X@json_abi_v3_11_3@nlohmann@@I@Z@2@0W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEAY0BP@$$CBDV<lambda_95b03874a48f2bc78aebb80eb65c1346>@@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8UserPresenceProvider@Ipf@@EAAXXZPEAV34@@std@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_a1ffabe6aafd56f1344b97e55edc5c10>@@V?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@Uadl_serializer@json_abi_v3_11_3@nlohmann@@V?$vector@EV?$allocator@E@std@@@2@X@json_abi_v3_11_3@nlohmann@@I@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_95b03874a48f2bc78aebb80eb65c1346>@@V?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@Uadl_serializer@json_abi_v3_11_3@nlohmann@@V?$vector@EV?$allocator@E@std@@@2@X@json_abi_v3_11_3@nlohmann@@I@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8WifiEnumeratorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8WifiEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8WifiProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8WifiProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8WifiThermalProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8WifiThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8WifiThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8WwanEnumeratorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8WwanEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8WwanProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8WwanProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8WwanThermalProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8WwanThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8WwanThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8TemperatureSensorEnumeratorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8TemperatureSensorEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8TemperatureSensorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8TemperatureSensorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8TemperatureSensorThermalProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8TemperatureSensorThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8TemperatureSensorThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@W4esif_event_type@@PEBUesif_data@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8GraphicsDiagnosticsProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8GraphicsDiagnosticsProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SocDiagnosticsProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SocDiagnosticsProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SocThermalStatusProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SocThermalStatusProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SystemAgentVoltageProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SystemAgentVoltageProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8MemoryTimingsEnumeratorProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8MemoryTimingsEnumeratorProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8MemoryTimingsProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8MemoryTimingsProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SocInfoProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SocInfoProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8MemoryStatusProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8MemoryStatusProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8MemoryThermalProvider@Ipf@@EAAXW4CoreApiState@4@@ZPEAV34@AEBU?$_Ph@$00@2@@std@@XW4CoreApiState@Ipf@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8MemoryThermalProvider@Ipf@@EAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@4@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@PEBUCoreApiPartDetails@Ipf@@@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVfacet@locale@std@@
+.?AV_Facet_base@std@@
+.?AU_Crt_new_delete@std@@
+.?AV?$collate@D@std@@
+.?AV_Node_base@std@@
+.?AV_Root_node@std@@
+.?AV_Node_end_group@std@@
+.?AV_Node_assert@std@@
+.?AV_Node_capture@std@@
+.?AV_Node_back@std@@
+.?AV_Node_endif@std@@
+.?AV_Node_if@std@@
+.?AV_Node_rep@std@@
+.?AV_Node_end_rep@std@@
+.?AV?$_Node_class@DV?$regex_traits@D@std@@@std@@
+.?AV?$_Node_str@D@std@@
+.?AV?$_Func_base@_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@std@@
+.?AV?$_Func_base@V?$unique_ptr@VSensor@UserPresence@Ipf@@U?$default_delete@VSensor@UserPresence@Ipf@@@std@@@std@@V?$ComPtr@UISensor@@@WRL@Microsoft@@V?$function@$$A6AXV?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@Uadl_serializer@json_abi_v3_11_3@nlohmann@@V?$vector@EV?$allocator@E@std@@@2@X@json_abi_v3_11_3@nlohmann@@@Z@2@@std@@
+.?AV?$_Func_impl_no_alloc@P6A_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z_NAEBV12@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_7eee757d7a03ca71d74ad053eb76a6d3>@@V?$unique_ptr@VSensor@UserPresence@Ipf@@U?$default_delete@VSensor@UserPresence@Ipf@@@std@@@std@@V?$ComPtr@UISensor@@@WRL@Microsoft@@V?$function@$$A6AXV?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@Uadl_serializer@json_abi_v3_11_3@nlohmann@@V?$vector@EV?$allocator@E@std@@@2@X@json_abi_v3_11_3@nlohmann@@@Z@3@@std@@
+.?AUIUnknown@@
+.?AUISensorManagerEvents@@
+.?AU?$ImplementsHelper@U?$RuntimeClassFlags@$01@WRL@Microsoft@@$00$$V@Details@WRL@Microsoft@@
+.?AV?$RuntimeClassBaseT@$01@Details@WRL@Microsoft@@
+.?AVRuntimeClassBase@Details@WRL@Microsoft@@
+.?AU?$RuntimeClassFlags@$03@WRL@Microsoft@@
+.?AVDontUseNewUseMake@Details@WRL@Microsoft@@
+.?AVSensorSubscriptionToken@UserPresence@Ipf@@
+.?AVSensorManager@UserPresence@Ipf@@
+.?AVSensorManagerEvents@UserPresence@Ipf@@
+.?AV?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UISensorManagerEvents@@@WRL@Microsoft@@
+.?AV?$RuntimeClassImpl@U?$RuntimeClassFlags@$01@WRL@Microsoft@@$00$0A@$00UISensorManagerEvents@@@Details@WRL@Microsoft@@
+.?AU?$ImplementsHelper@U?$RuntimeClassFlags@$01@WRL@Microsoft@@$0A@UISensorManagerEvents@@@Details@WRL@Microsoft@@
+.?AV?$_Func_base@JPEAUISensor@@W4__MIDL___MIDL_itf_sensorsapi_0000_0000_0001@@@std@@
+.?AVWindowsSensorFrameworkManager@UserPresence@Ipf@@
+.?AVSensorReleaseToken@UserPresence@Ipf@@
+.?AV?$_Func_impl_no_alloc@V<lambda_7dde711104f760cb91143f816c2170a6>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8WindowsSensorFrameworkManager@UserPresence@Ipf@@EAAJPEAUISensor@@W4__MIDL___MIDL_itf_sensorsapi_0000_0000_0001@@@ZPEAV345@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@JPEAUISensor@@W4__MIDL___MIDL_itf_sensorsapi_0000_0000_0001@@@std@@
+.?AUISensorEvents@@
+.?AVIOnlookerSensorConfigurator@UserPresence@Ipf@@
+.?AVOnlookerSensorConfigurator@UserPresence@Ipf@@
+.?AVSensor@UserPresence@Ipf@@
+.?AVOnlookerSensorWrl@UserPresence@Ipf@@
+.?AVCUnknown@@
+.?AVOnlookerSensorWrlWrapper@UserPresence@Ipf@@
+.?AVICoreApiInstance@Ipf@@
+.?AVCoreApiInstance@Ipf@@
+.?AVCoreApiProxyLoader@Ipf@@
+.?AV?$DllProxy@VCoreApiInstance@Proxy@Ipf@@@@
+.?AVIProviderMarshaled@Ipf@@
+.?AVProviderBase@Ipf@@
+.?AV?$_Func_base@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_baa75d07c12de201e41808a8a330bb35>@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_fbdd55832844d862ed1c08767fa75c4a>@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_1be43c6f29c33b3f9c284cf9aebb20a2>@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_86df45ec417d6fe69f0c7c7b3cba33a6>@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_d618c4bc078bd86289336a4329552fa4>@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@$$V@std@@
+.?AVIProviderApi@@
+.?AVProviderApi@Ipf@@
+.?AVImpl@ProviderApi@Ipf@@
+.?AV?$_Func_base@XAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV12@AEBV?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@Uadl_serializer@json_abi_v3_11_3@nlohmann@@V?$vector@EV?$allocator@E@std@@@2@X@json_abi_v3_11_3@nlohmann@@@std@@
+.?AV?$_Func_impl_no_alloc@P6AXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0AEBV?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@Uadl_serializer@json_abi_v3_11_3@nlohmann@@V?$vector@EV?$allocator@E@std@@@2@X@json_abi_v3_11_3@nlohmann@@@ZXAEBV12@AEBV12@AEBV345@@std@@
+.?AVJsonValidator@Ipf@@
+.?AV?$basic_ostringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AVerror_handler@json_schema@nlohmann@@
+.?AVschema@?A0x294c8a4c@@
+.?AVschema_ref@?A0x294c8a4c@@
+.?AVfirst_error_handler@?A0x294c8a4c@@
+.?AVlogical_not@?A0x294c8a4c@@
+.?AV?$logical_combination@$0A@@?A0x294c8a4c@@
+.?AV?$logical_combination@$00@?A0x294c8a4c@@
+.?AV?$logical_combination@$01@?A0x294c8a4c@@
+.?AVtype_schema@?A0x294c8a4c@@
+.?AVstring@?A0x294c8a4c@@
+.?AVnull@?A0x294c8a4c@@
+.?AVboolean_type@?A0x294c8a4c@@
+.?AVboolean@?A0x294c8a4c@@
+.?AVrequired@?A0x294c8a4c@@
+.?AVobject@?A0x294c8a4c@@
+.?AVarray@?A0x294c8a4c@@
+.?AV?$numeric@_J@?A0x294c8a4c@@
+.?AV?$numeric@N@?A0x294c8a4c@@
+.?AVthrowing_error_handler@?A0x294c8a4c@@
+.?AV?$_Ref_count_obj2@Vschema_ref@?A0x294c8a4c@@@std@@
+.?AV?$_Ref_count_obj2@Vtype_schema@?A0x294c8a4c@@@std@@
+.?AV?$_Ref_count_obj2@Vlogical_not@?A0x294c8a4c@@@std@@
+.?AV?$_Ref_count_obj2@V?$logical_combination@$0A@@?A0x294c8a4c@@@std@@
+.?AV?$_Ref_count_obj2@V?$logical_combination@$00@?A0x294c8a4c@@@std@@
+.?AV?$_Ref_count_obj2@V?$logical_combination@$01@?A0x294c8a4c@@@std@@
+.?AV?$_Ref_count_obj2@Vrequired@?A0x294c8a4c@@@std@@
+.?AV?$_Ref_count_obj2@Vnull@?A0x294c8a4c@@@std@@
+.?AV?$_Ref_count_obj2@V?$numeric@_J@?A0x294c8a4c@@@std@@
+.?AV?$_Ref_count_obj2@V?$numeric@N@?A0x294c8a4c@@@std@@
+.?AV?$_Ref_count_obj2@Vstring@?A0x294c8a4c@@@std@@
+.?AV?$_Ref_count_obj2@Vboolean_type@?A0x294c8a4c@@@std@@
+.?AV?$_Ref_count_obj2@Vobject@?A0x294c8a4c@@@std@@
+.?AV?$_Ref_count_obj2@Varray@?A0x294c8a4c@@@std@@
+.?AV?$_Ref_count_obj2@Vboolean@?A0x294c8a4c@@@std@@
+.?AVtype_info@@
+CRIM@
+PRVAD
+LEVL8
+KEYW0
+EVNT@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+PADPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGX
+j0h03
+Greater Manchester1
+Salford1
+Comodo CA Limited1!0
+AAA Certificate Services0
+210525000000Z
+281231235959Z0V1
+Sectigo Limited1-0+
+$Sectigo Public Code Signing Root R460
+tFkG5
+E>nZ_
+H/(@Bp 6
+<0:08
+2http://crl.comodoca.com/AAACertificateServices.crl04
+(0&0$
+http://ocsp.comodoca.com0
+L=l9s
+Lf}/c
+Sectigo Limited1+0)
+"Sectigo Public Code Signing CA R360
+240319000000Z
+250319235959Z0Z1
+California1
+Intel Corporation1
+Intel Corporation0
+H04Tsq
+C0A05
+https://sectigo.com/CPS0
+B0@0>
+8http://crl.sectigo.com/SectigoPublicCodeSigningCAR36.crl0y
+m0k0D
+8http://crt.sectigo.com/SectigoPublicCodeSigningCAR36.crt0#
+http://ocsp.sectigo.com0#
+pkiengineering@intel.com0
+Sectigo Limited1-0+
+$Sectigo Public Code Signing Root R460
+210322000000Z
+360321235959Z0T1
+Sectigo Limited1+0)
+"Sectigo Public Code Signing CA R360
+FFlCx@
+^5hu9
+H/(@Bp 6
+D0B0@
+:http://crl.sectigo.com/SectigoPublicCodeSigningRootR46.crl0{
+o0m0F
+:http://crt.sectigo.com/SectigoPublicCodeSigningRootR46.p7c0#
+http://ocsp.sectigo.com0
+wc6n{
+ts7!:o
+n0PPd}
+0i0T1
+Sectigo Limited1+0)
+"Sectigo Public Code Signing CA R36
+E`aJ=
+|Yf+H
+20240517231838Z
+Manchester1
+Sectigo Limited1,0*
+#Sectigo RSA Time Stamping Signer #4
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA0
+230503000000Z
+340802235959Z0j1
+Manchester1
+Sectigo Limited1,0*
+#Sectigo RSA Time Stamping Signer #40
+ r dAl
+C0A05
+https://sectigo.com/CPS0
+=0;09
+3http://crl.sectigo.com/SectigoRSATimeStampingCA.crl0t
+h0f0?
+3http://crt.sectigo.com/SectigoRSATimeStampingCA.crt0#
+http://ocsp.sectigo.com0
+O_(ql
+&tv\7
+OYDeKCd
+gg$\P
+v}{hO
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+190502000000Z
+380118235959Z0}1
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA0
+]IMrV
+I0G0E
+?http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
+j0h0?
+3http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+http://ocsp.usertrust.com0
+rRj;B7|
+oZ%pb
+[C]e=P
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA
+240517231838Z0?
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority
+Q(6Xr
+y"NxG
+{F0KW
+[Dp2Nk
+NEvdV9
+\:l:A
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+230914191423Z
+240904191423Z0
+Washington1
+Redmond1
+Microsoft Corporation1;09
+2Microsoft Windows Hardware Compatibility Publisher0
+'V:VAP
+Microsoft Corporation1
+232825+5014930
+m0k0i
+chttp://www.microsoft.com/pkiops/crl/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crl0
+u0s0q
+ehttp://www.microsoft.com/pkiops/certs/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crt0
+ItEPxe
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+120418234838Z
+270418235838Z0
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+-g<'<V
+}PH.=C
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+ip(sf
+p%|Yi1$
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 2012
+(https://www.microsoft.com/en-us/windows 0
+20240521172743.928Z0
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:FC41-4BD4-D2201%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+231012190725Z
+250110190725Z0
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:FC41-4BD4-D2201%0#
+Microsoft Time-Stamp Service0
+4[6z0W
+X0V0T
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+`0^0\
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+q\Q17
+&S|9a
+!]_0t
+U0S0Q
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>NGdx
+fg:SM
+xSu$W
+as.,k{n?,
+J>f;O
+!TkjE
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:FC41-4BD4-D2201%0#
+Microsoft Time-Stamp Service
+tnzIt
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20240521230609Z
+20240522230609Z0t0:
+1,0*0
+1(0&0
+FCM7+
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Cc_`CM
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+l"sq}dJ
+
+### UTF16 strings (70)
+g:AM:am:PM:pm
+alnum
+alpha
+blank
+cntrl
+digit
+graph
+lower
+print
+punct
+space
+upper
+xdigit
+\\?\GLOBALROOT
+api-ms-win-core-synch-l1-2-0.dll
+kernel32.dll
+ERROR : Unable to initialize critical section in CAtlBaseModule
+atlTraceGeneral
+atlTraceCOM
+atlTraceQI
+atlTraceRegistrar
+atlTraceRefcount
+atlTraceWindowing
+atlTraceControls
+atlTraceHosting
+atlTraceDBClient
+atlTraceDBProvider
+atlTraceSnapin
+atlTraceNotImpl
+atlTraceAllocation
+atlTraceException
+atlTraceTime
+atlTraceCache
+atlTraceStencil
+atlTraceString
+atlTraceMap
+atlTraceUtil
+atlTraceSecurity
+atlTraceSync
+atlTraceISAPI
+ForceRemove
+NoRemove
+Delete
+WEVT_TEMPLATE
+EventData
+stringPtr
+stringPtr
+CoreProviderEtwProvider
+win:LogAlways
+Default
+Log Always
+VS_VERSION_INFO
+StringFileInfo
+040904b0
+FileVersion
+2.2.10000.20
+ProductVersion
+2.2.10000.20
+LegalCopyright
+Copyright (c) 2020-2024 Intel Corporation
+CompanyName
+Intel Corporation
+ProductName
+Intel(R) Innovation Platform Framework
+FileDescription
+Intel(R) IPF Extensible Framework Core Providers
+VarFileInfo
+Translation
+<<<Obsolete>>
+"Intel Corporatio
+
+### GUIDs found (37)
+083C76C9-6EF7-4570-8872-7F55188FF2A1
+088DAD3A-8504-412B-8A3D-2E3B2EEC7B1A
+090E5888-B064-44F9-A6DD-181A9C124A88
+0B159B7E-C0B1-462C-A70F-AECCE95B9674
+0EDE8F64-9D57-4CE5-8D7F-4C0C6585748F
+17D62DB5-14D7-4EE4-9CCE-DD4232FD782C
+233828FB-0537-4AD2-B951-91E32F47BC97
+270DDC98-FFDB-4B92-9592-3FEDECFACAE7
+37C9D4D5-5DCF-4634-B846-FE534954408D
+392CAC39-999C-466E-B556-2617AB325C9E
+3C7F02BD-8B0F-4717-AE83-2C8210A7B646
+46954897-799A-43CD-902E-EAAA99176E62
+4F6B7A21-B7AE-4196-B960-D1353CC4130B
+50CF3563-71B1-40D0-960E-E15F10CCAABF
+5C20A197-DF74-45C5-95F2-A79FCA08BEA1
+620CACB2-CFE7-4179-A9FF-DCDF3EC41691
+7073BCD1-F02E-4910-98D5-501D420B25E7
+79D8347C-7F4E-4F6C-8F9F-B50664DFC788
+7A5C2A1F-7908-4260-B6B3-0F938F662F67
+7A93D4B2-140D-4435-A7AF-ACFA889C31B3
+89AFED9C-349F-4F6F-A69E-F6AD9BF418B4
+968B4316-19D6-47F1-A682-EFDBD1FFB993
+99A53A62-23CB-4241-8339-D08FFE024E68
+9AA75211-13FD-4702-A85C-418C6D48FD07
+A6CFE502-59FD-4954-B8C8-09F9C73E5878
+AF2AF92D-29D3-4A86-8659-07FC54B24A8F
+CE247C40-C952-428E-95C6-565E9B9E0E01
+D6539D88-E5A8-4641-ABE9-36A5AED72B36
+D9739FEC-448B-4CCA-9411-E829A75998DC
+DC33991E-B964-4308-BB7D-716EBF7D3E87
+E146435D-09F2-41AF-97A5-8516472B2125
+E4F2CAD2-B463-4AFC-9F46-9BF4CF20B5B3
+ECD5D42D-B8D7-4671-8942-2CCF52FF0B7D
+ED8AA7BD-1DDB-4082-B77C-92DC86B71B80
+F7607AEC-7548-4E39-A4BE-ECA8B6943016
+F9D81021-82AE-4432-9CA6-64EA803FB7AF
+FFAA10E8-EDDF-47E3-9B86-7A51C3EB4D21

@@ -1,0 +1,11 @@
+﻿python.exe : Traceback (most recent call last):
+所在位置 行:7 字符: 1
++ & $py $h\tools\peinfo.py $h\OS2SOC.sys 2>&1 | Out-File -Encoding utf8 ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\hs-desktop\code\dsh_test\honor\tools\peinfo.py", line 28, in <module>
+    for f in sorted(os.listdir(d)):
+                    ^^^^^^^^^^^^^
+NotADirectoryError: [WinError 267] Ŀ¼������Ч��: 'C:\\Users\\hs-desktop\\code\\dsh_test\\honor\\OS2SOC.sys'

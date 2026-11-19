@@ -1,0 +1,1192 @@
+### ASCII strings (1120)
+!This program cannot be run in DOS mode.
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+L$@H3
+L$PH3
+L$pH3
+H;D$8~2H
+H+D$8H
+H;D$8~2H
+H+D$8H
+D$8H9D$Ht
+H+D$HH;D$Ps
+D$PH9D$(w
+H9D$pv
+H9D$pv
+H9D$@v
+vb'vb'v
+vb'vb'v
+H9D$@v
+HkD$@hH
+H9D$Xv
+H+D$8H;
+H+D$8H;
+L$(H+
+D$0H9D$ t
+D$@H9D$0s^H
+D$0E3
+D$HH9D$ u
+|$ 'w
+D$PH9D$ v
+L$PH+
+H9D$Hv
+L$ H;H
+H+D$ H
+H+D$(H
+H9D$Xs
+H9D$Xs
+L$(H9
+H9D$ u
+H9D$ u
+L$@H;
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+L$pH3
+H9D$pw
+H9D$Pw]H
+(HkD$@hH
+vb'vb'v
+H9D$(scH
+L$`H3
+L$pH3
+D$8H9D$0t
+H9D$8t
+D$0H-
+H9D$@u
+D$0H-
+D$0H-
+D$0H-
+L$ H+
+H;D$Hw
+HkD$H H
+(HkD$@ H
+D$PH9D$8s>
+L$PH+
+|$( s
+H+D$HH
+H9D$(v]
+L$8H9Hhs
+L$HH+
+L$8H+
+H;D$Xv!H
+L$(H9Hhs
+D$XH9D$8v
+H9D$ s
+D$ H9D$(w
+H9D$pv
+L$pH3
+L$HH3
+L$HH3
+L$HH3
+D$PH9D$ v
+L$PH+
+H9D$Hv
+L$HH3
+H9D$Xv
+H+D$(H;
+H+D$HH;
+H+D$HH;
+H+D$HH;
+H+D$8H;
+H+D$HH;
+D$XH9D$Hs
+D$XH9D$Hv
+D$XH9D$Hu"L
+D$HH9D$`w
+L$HH+
+H9D$Pv
+L$HH+
+L$(H+
+L$ H+
+D$HH9D$PsMH
+L$HH+
+L$ H+
+D$8H9D$0s3H
+L$0H+
+D$HH9D$PsrH
+D$(H9D$ s0L
+L$ H+
+D$8H9D$0s3H
+L$0H+
+D$HH9D$PsrH
+D$(H9D$ s0L
+L$ H+
+L$0H+
+H9D$0u
+L$ H+
+D$@H9D$ u
+L$0H+
+H9D$0u
+L$ H+
+D$@H9D$ u
+D$HH9D$PsrH
+D$(H9D$ s0
+L$ H+
+D$HH9D$`
+L$HH+
+L$ H+
+D$@H9D$ u
+L$ H+
+D$@H9D$ u
+L$ H+
+D$@H9D$ u
+L$hH+
+H9D$@w
+D$hH9D$p
+L$pH+
+H9D$0w
+L$xH+
+H;D$@s
+L$ fD
+L$XH+
+L$XH+
+L$XH+
+H+D$`H
+L$XH+
+H+D$`H
+L$8H9H
+L$8H9H
+D$8H9D$Hw
+L$8H+
+L$(H+
+D$0H9D$(t*H
+H9D$h
+H9D$Hw^H
+L$(H+
+L$hH+
+L$(H+
+L$(H+
+L$(H+
+L$(H+
+H9D$p
+L$8H+
+HH;D$8v
+H9D$8w
+L$8H+
+L$HH+
+L$PH+
+L$ H+
+L$PH+
+L$ H+
+L$`H+
+L$0H+
+L$0H+
+L$pH+
+L$`H+
+L$0H+
+L$HH+
+L$PH+
+L$PH+
+H9D$X
+HH;D$hv
+H9D$`w
+L$`H+
+L$HH9H
+L$HH9H
+L$HH9H
+L$HH+
+D$ H9D$Hw
+L$HH+
+H9D$(
+H9D$@t8H
+x AVH
+SVWAVH
+8A^_^[
+WAVAWH
+\$8H;
+A_A^_
+|$ AVH
+VWAVH
+@A^_^
+ntelA
+ineID
+@SVWH
+SmartOffice::IPCHandler::InitIpcClient
+void __cdecl SmartOffice::IPCHandler::InitIpcClient(void)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\IPCHandler.cpp
+SmartOffice::IPCHandler::UnInitIpcClient
+void __cdecl SmartOffice::IPCHandler::UnInitIpcClient(void)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\IPCHandler.cpp
+SmartOffice::IPCHandler::OpenSmartOfficeUserExe
+[SmartOfficeUI] Open SmartOffice as user
+bool __cdecl SmartOffice::IPCHandler::OpenSmartOfficeUserExe(void)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\IPCHandler.cpp
+SmartOffice::IPCHandler::OpenSmartOfficeUserExe
+Start smartoffice  success
+bool __cdecl SmartOffice::IPCHandler::OpenSmartOfficeUserExe(void)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\IPCHandler.cpp
+SmartOffice::IPCHandler::OpenSmartOfficeUserExe
+Start smartoffice failed, retry
+bool __cdecl SmartOffice::IPCHandler::OpenSmartOfficeUserExe(void)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\IPCHandler.cpp
+SmartOffice::IPCHandler::PostIPC
+bool __cdecl SmartOffice::IPCHandler::PostIPC(int,int,int,char *,int)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\IPCHandler.cpp
+SmartOffice::IPCHandler::SendIPCMsg
+invalid ipc message.
+bool __cdecl SmartOffice::IPCHandler::SendIPCMsg(int,int,unsigned int,int,char *)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\IPCHandler.cpp
+SmartOffice::IPCHandler::SendIPCMsg
+SendIpcMsg failed
+bool __cdecl SmartOffice::IPCHandler::SendIPCMsg(struct TagIPCMessageItem &,struct TagIPCMessageItem &,unsigned int)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\IPCHandler.cpp
+Unknown exception
+bad array new length
+string too long
+map/set too long
+bad cast
+SmartOffice::SmartOfficeBasePage::CreatSmartOfficeMenu
+[SmartOfficeUI] add menu start
+class DuiLib::CHorizontalLayoutUI *__cdecl SmartOffice::SmartOfficeBasePage::CreatSmartOfficeMenu(class std::vector<class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >,class std::allocator<class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > > >,class std::vector<class DuiLib::COptionUI *,class std::allocator<class DuiLib::COptionUI *> > &,class DuiLib::CPaintManagerUI *)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\SmartOfficeBasePage.cpp
+reverse='true' dest='8,6,24,22'
+reverse='true' dest='8,6,24,22'
+SmartOffice::SmartOfficeBasePage::CreatSmartOfficeMenu
+[SmartOfficeUI] add menu end
+class DuiLib::CHorizontalLayoutUI *__cdecl SmartOffice::SmartOfficeBasePage::CreatSmartOfficeMenu(class std::vector<class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >,class std::allocator<class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > > >,class std::vector<class DuiLib::COptionUI *,class std::allocator<class DuiLib::COptionUI *> > &,class DuiLib::CPaintManagerUI *)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\SmartOfficeBasePage.cpp
+invalid vector subscript
+.flac
+.docx
+.pptx
+.xlsx
+22000
+seting_wenjian
+SynergyService
+FileNoticePlugin
+SimpleSharePlugin
+FlowTrayPlugin
+TrustCirclePlugin
+hna_plugin_myshare
+hna_plugin_myphone
+SynergyHistory
+hna_plugin_myalbum
+hna_plugin_myvideo
+hwa_plugin_mymusic
+hna_plugin_phonebrief
+hn_plugin_superterminal
+SynergyPYP
+hn_plugin_honorfileshare
+nohishare
+nohotspot
+SmartOffice
+SmartOffice
+SmartOffice
+SmartOffice
+SmartOffice
+SmartOfficeUIPlugin::Create
+bool __cdecl SmartOfficeUIPlugin::Create(const class DuiLib::CPaintManagerUI &,const class DuiLib::CNotifyPump &,struct Hwa::Ux::TagUxInitContext *)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\SmartOfficeUIPlugin.cpp
+hn.plugin.smartOfficeUI
+RegisterPlugin
+UnRegisterPlugin
+seting_wenjian
+SynergyService
+FileNoticePlugin
+SimpleSharePlugin
+FlowTrayPlugin
+TrustCirclePlugin
+hna_plugin_myshare
+hna_plugin_myphone
+SynergyHistory
+hna_plugin_myalbum
+hna_plugin_myvideo
+hwa_plugin_mymusic
+hna_plugin_phonebrief
+hn_plugin_superterminal
+SynergyPYP
+hn_plugin_honorfileshare
+nohishare
+nohotspot
+com.hihonor.id.pc
+7000000
+.flac
+.docx
+.pptx
+.xlsx
+22000
+MonProcess.dll
+HwCreateInstance
+\config\commoncfg.xml
+MessageTips
+patch
+ProductPatch
+EmergencyPatch
+SOFTWARE\PCManager\
+SOFTWARE\HONOR\
+Version
+SmartOfficeUIWnd::OnMsgClick
+[SmartOfficeUI] Click start honor calendar
+void __cdecl SmartOfficeUIWnd::OnMsgClick(struct DuiLib::tagTNotifyUI &)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\SmartOfficeUIWnd.cpp
+SmartOfficeUIWnd::OnLButtonDown
+[SmartOfficeUI] button down on calendar button
+void __cdecl SmartOfficeUIWnd::OnLButtonDown(__int64)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\SmartOfficeUIWnd.cpp
+SmartOfficeUIWnd::OnClickStartHnCalendar
+[SmartOfficeUI] honor calendar is already running
+void __cdecl SmartOfficeUIWnd::OnClickStartHnCalendar(void)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\SmartOfficeUIWnd.cpp
+SmartOfficeUIWnd::CreateCalendarProcess
+[SmartOfficeUI] Failed to get HnCalendar's full path.
+void __cdecl SmartOfficeUIWnd::CreateCalendarProcess(void)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\SmartOfficeUIWnd.cpp
+SmartOfficeUIWnd::CreateCalendarProcess
+void __cdecl SmartOfficeUIWnd::CreateCalendarProcess(void)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\SmartOfficeUIWnd.cpp
+SmartOfficeUIWnd::CreateCalendarProcess
+[SmartOfficeUI] Post ipc msg fail
+void __cdecl SmartOfficeUIWnd::CreateCalendarProcess(void)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\SmartOfficeUIWnd.cpp
+SmartOfficeUIWnd::IsLoadingDlgAlreadyExist
+[SmartOfficeUI] loading dialog is already showing in own process
+bool __cdecl SmartOfficeUIWnd::IsLoadingDlgAlreadyExist(void)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\SmartOfficeUIWnd.cpp
+SmartOfficeUIWnd::QueryAccountLoginInfo
+[SmartOfficeUI] Set app id failed
+void __cdecl SmartOfficeUIWnd::QueryAccountLoginInfo(void)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\SmartOfficeUIWnd.cpp
+SmartOfficeUIWnd::QueryAccountLoginInfo
+[SmartOfficeUI] Set range flag failed
+void __cdecl SmartOfficeUIWnd::QueryAccountLoginInfo(void)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\SmartOfficeUIWnd.cpp
+SmartOfficeUIWnd::QueryAccountLoginInfo
+[SmartOfficeUI] Post ipc msg fail
+void __cdecl SmartOfficeUIWnd::QueryAccountLoginInfo(void)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\SmartOfficeUIWnd.cpp
+SmartOfficeUIWnd::OnCloseLoadingWndReq
+[SmartOfficeUI] Rcv close calendar loading wnd req
+void __cdecl SmartOfficeUIWnd::OnCloseLoadingWndReq(struct TagIPCMessageItem &)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\SmartOfficeUIWnd.cpp
+SmartOfficeUIWnd::StartAccountUI
+[SmartOfficeUI] Post ipc msg fail
+void __cdecl SmartOfficeUIWnd::StartAccountUI(void)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\SmartOfficeUIWnd.cpp
+SmartOfficeUIWnd::StartCalendarPrivacyDlg
+[SmartOfficeUI] Post ipc msg fail
+void __cdecl SmartOfficeUIWnd::StartCalendarPrivacyDlg(void)
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\feature\Synergy\projects\plugins\SmartOfficeUI\src\SmartOfficeUIWnd.cpp
+invalid string position
+bad allocation
+D:\CDE_ReSDK\workspace\common_compile\src\increment\sourcecode\PCManager\platform_x64\Synergy\output_temp\pdb\SmartOfficeUI.pdb
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$T
+.rdata$r
+.rdata$voltmd
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.tls$
+.tls$ZZZ
+.xdata
+.xdata$x
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.data$rs
+.pdata
+.rsrc$01
+.rsrc$02
+SmartOfficeUI.dll
+??0?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAA@XZ
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@$$QEAV01@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@$$QEAV01@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@_K1AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@_KAEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_W@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_WAEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_W_KAEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@U_String_constructor_concat_tag@1@AEAV01@1@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@V?$initializer_list@_W@1@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@XZ
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@_K_WAEBV?$allocator@_W@1@@Z
+??1?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAA@XZ
+??1?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAA@XZ
+??1?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@XZ
+??4?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAAAEAV01@$$QEAV01@@Z
+??4?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAAAEAV01@AEBV01@@Z
+??4?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAAEAV01@$$QEAV01@@Z
+??4?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAAEAV01@AEBV01@@Z
+??4?$_Wrap_alloc@V?$allocator@_W@std@@@std@@QEAAAEAU01@$$QEAU01@@Z
+??4?$_Wrap_alloc@V?$allocator@_W@std@@@std@@QEAAAEAU01@AEBU01@@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@AEBV01@@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@QEB_W@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@V?$initializer_list@_W@1@@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@_W@Z
+??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@QEB_W@Z
+??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@V?$initializer_list@_W@1@@Z
+??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@_W@Z
+?_Activate_SSO_buffer@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAXXZ
+?_Become_small@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXXZ
+?_Calculate_growth@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBA_K_K@Z
+?_Calculate_growth@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@CA_K_K00@Z
+?_Check_offset@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBAX_K@Z
+?_Check_offset_exclusive@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBAX_K@Z
+?_Clamp_suffix_size@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBA_K_K0@Z
+?_Copy_s@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEA_W_K_K1@Z
+?_Deallocate_for_capacity@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@CAXAEAV?$allocator@_W@2@QEA_W_K@Z
+?_Eos@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAX_K@Z
+?_Equal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_NAEBV12@@Z
+?_Equal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_NQEB_W@Z
+?_Erase_noexcept@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAAEAV12@_K_K@Z
+?_Get_first@?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAAAEAU?$_Wrap_alloc@V?$allocator@_W@std@@@2@XZ
+?_Get_first@?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEBAAEBU?$_Wrap_alloc@V?$allocator@_W@std@@@2@XZ
+?_Getal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAAEAV?$allocator@_W@2@XZ
+?_Getal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBAAEBV?$allocator@_W@2@XZ
+?_Large_mode_engaged@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBA_NXZ
+?_Memcpy_val_from@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXAEBV12@@Z
+?_Myptr@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAPEA_WXZ
+?_Myptr@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBAPEB_WXZ
+?_Orphan_all@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?_Swap_bx_large_with_small@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@SAXAEAV?$_String_val@U?$_Simple_types@_W@std@@@2@0@Z
+?_Swap_data@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXAEAV12@@Z
+?_Swap_proxy_and_iterators@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXAEAV12@@Z
+?_Take_contents@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXAEAV12@@Z
+?_Tidy_deallocate@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXXZ
+?_Tidy_init@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXXZ
+?_Unchecked_begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAPEA_WXZ
+?_Unchecked_begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?_Unchecked_end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAPEA_WXZ
+?_Unchecked_end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?_Xran@?$_String_val@U?$_Simple_types@_W@std@@@std@@SAXXZ
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@_K_K@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W_K@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$initializer_list@_W@2@@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_W@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@_K_K@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W_K@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$initializer_list@_W@2@@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_W@Z
+?at@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_W_K@Z
+?at@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_W_K@Z
+?back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_WXZ
+?back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_WXZ
+?begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?c_str@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?capacity@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?cbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?cend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?clear@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAHAEBV12@@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAHQEB_W@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0AEBV12@00@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0AEBV12@@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0QEB_W0@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0QEB_W@Z
+?copy@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEA_W_K_K@Z
+?crbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?crend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?data@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0@Z
+?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@@Z
+?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?front@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_WXZ
+?front@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_WXZ
+?get_allocator@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$allocator@_W@2@XZ
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$initializer_list@_W@2@@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@_K_W@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@_W@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0_W@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KAEBV12@0_K@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KAEBV12@@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KQEB_W0@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KQEB_W@Z
+?length@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?max_size@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?pop_back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?push_back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_W@Z
+?rbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$reverse_iterator@V?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?rbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?rend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$reverse_iterator@V?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?rend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0AEBV12@@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0QEB_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0QEB_W_K@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0V?$initializer_list@_W@2@@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0_K_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0AEBV12@@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0QEB_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_K0_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_KAEBV12@01@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_KQEB_W0@Z
+?reserve@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_K@Z
+?resize@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_K_W@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?shrink_to_fit@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?size@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?substr@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV12@_K0@Z
+?swap@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXAEAV12@@Z
+InitializePluginModule
+UninitializePluginModule
+?CreateUserProcess@HNPROCESS@@YA_NPEA_W0@Z
+Util.dll
+?IsSupportProperty@SynergyUtilClass@@SA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?CheckSuitsExit@SynergyUtilClass@@SA?AW4ExitSuitsOrNote@@XZ
+SynergyUtil.dll
+??0IPCMessageClient@@QEAA@H_N0@Z
+??1IPCMessageClient@@QEAA@XZ
+?UnRegisterMessageCallbackAll@IPCMessageClient@@QEAA_NXZ
+IPCMessage.dll
+??0CDuiString@DuiLib@@QEAA@PEB_WH@Z
+??1CDuiString@DuiLib@@QEAA@XZ
+??0CNotifyPump@DuiLib@@QEAA@XZ
+??1CNotifyPump@DuiLib@@QEAA@XZ
+?SetFont@CControlUI@DuiLib@@QEAAXH@Z
+??0CHorizontalLayoutUI@DuiLib@@QEAA@XZ
+??1CHorizontalLayoutUI@DuiLib@@UEAA@XZ
+??0CButtonUI@DuiLib@@QEAA@XZ
+??1CButtonUI@DuiLib@@UEAA@XZ
+?OnAnimationElapse@CUIAnimation@DuiLib@@UEAAXH@Z
+?OnAnimationStop@CAnimPanelUI@DuiLib@@UEAAXH@Z
+?OnAnimationStart@CAnimPanelUI@DuiLib@@UEAAXHH@Z
+?OnAnimationStep@CAnimPanelUI@DuiLib@@UEAAXHHH@Z
+?SetCurrentFrame@CUIAnimation@DuiLib@@UEAAHHH@Z
+?GetCurrentFrame@CUIAnimation@DuiLib@@UEAAHH@Z
+?IsAnimationRunning@CUIAnimation@DuiLib@@UEAAHH@Z
+?StopAnimation@CUIAnimation@DuiLib@@UEAAXH@Z
+?StartAnimation@CUIAnimation@DuiLib@@UEAAHHHHH@Z
+?SetHotForeImage@CButtonUI@DuiLib@@UEAAXPEB_W@Z
+?GetHotForeImage@CButtonUI@DuiLib@@UEAAPEB_WXZ
+?SetDisabledImage@CButtonUI@DuiLib@@UEAAXPEB_W@Z
+?GetDisabledImage@CButtonUI@DuiLib@@UEAAPEB_WXZ
+?SetFocusedImage@CButtonUI@DuiLib@@UEAAXPEB_W@Z
+?GetFocusedImage@CButtonUI@DuiLib@@UEAAPEB_WXZ
+?SetPushedImage@CButtonUI@DuiLib@@UEAAXPEB_W@Z
+?GetPushedImage@CButtonUI@DuiLib@@UEAAPEB_WXZ
+?SetHotImage@CButtonUI@DuiLib@@UEAAXPEB_W@Z
+?GetHotImage@CButtonUI@DuiLib@@UEAAPEB_WXZ
+?SetNormalImage@CButtonUI@DuiLib@@UEAAXPEB_W@Z
+?GetNormalImage@CButtonUI@DuiLib@@UEAAPEB_WXZ
+?SetAutoCalcWidth@CLabelUI@DuiLib@@UEAAX_N@Z
+?GetAutoCalcWidth@CLabelUI@DuiLib@@UEBA_NXZ
+?UpdateThemeColor@CButtonUI@DuiLib@@UEAAXXZ
+?DoPostPaint@CControlUI@DuiLib@@UEAAXPEAUHDC__@@AEBUtagRECT@@@Z
+?PaintText@CButtonUI@DuiLib@@UEAAXPEAUHDC__@@@Z
+?PaintForeImage@CButtonUI@DuiLib@@UEAAXPEAUHDC__@@@Z
+?PaintStatusImage@CButtonUI@DuiLib@@UEAAXPEAUHDC__@@@Z
+?PaintBkColor@CButtonUI@DuiLib@@UEAAXPEAUHDC__@@@Z
+?DoPaint@CLabelUI@DuiLib@@UEAAXPEAUHDC__@@AEBUtagRECT@@@Z
+?EstimateSize@CLabelUI@DuiLib@@UEAA?AUtagSIZE@@U3@@Z
+?GetNcHit@CButtonUI@DuiLib@@UEAA_NXZ
+?DoEvent@CButtonUI@DuiLib@@UEAAXAEAUtagTEventUI@2@@Z
+?DoInit@CAnimPanelUI@DuiLib@@UEAAXXZ
+?FindControl@CControlUI@DuiLib@@UEAAPEAV12@P6APEAV12@PEAV12@PEAX@Z1I@Z
+?SetFloat@CLabelUI@DuiLib@@UEAAX_N@Z
+?SetEnabled@CButtonUI@DuiLib@@UEAAX_N@Z
+?SetInternVisible@CControlUI@DuiLib@@UEAAX_N@Z
+?SetVisible@CButtonUI@DuiLib@@UEAAX_N@Z
+?GetToolTip@CLabelUI@DuiLib@@UEBA?AVCDuiString@2@XZ
+?SetMaxHeight@CLabelUI@DuiLib@@UEAAXH@Z
+?SetMaxWidth@CLabelUI@DuiLib@@UEAAXH@Z
+?SetMinWidth@CLabelUI@DuiLib@@UEAAXH@Z
+?SetFixedHeightEx@CLabelUI@DuiLib@@UEAAXH@Z
+?SetFixedWidthEx@CLabelUI@DuiLib@@UEAAXH@Z
+?SetFixedHeight@CLabelUI@DuiLib@@UEAAXH@Z
+?SetFixedXY@CLabelUI@DuiLib@@UEAAXUtagSIZE@@@Z
+?SetPadding@CLabelUI@DuiLib@@UEAAXUtagRECT@@@Z
+?Move@CControlUI@DuiLib@@UEAAXUtagSIZE@@_N@Z
+?SetDirectionPos@CLabelUI@DuiLib@@UEAA?AUtagRECT@@U3@@Z
+?SetPos@CLabelUI@DuiLib@@UEAAXUtagRECT@@_N@Z
+?GetClientPos@CControlUI@DuiLib@@UEBA?AUtagRECT@@XZ
+?SetOpacity@CControlUI@DuiLib@@UEAAXH@Z
+?SetBlur@CControlUI@DuiLib@@UEAAXH@Z
+?SetManager@CControlUI@DuiLib@@UEAAXPEAVCPaintManagerUI@2@PEAV12@_N@Z
+?Activate@CButtonUI@DuiLib@@UEAA_NXZ
+?GetControlFlags@CButtonUI@DuiLib@@UEBAIXZ
+?GetInterface@CButtonUI@DuiLib@@UEAAPEAXPEB_W@Z
+?GetClass@CButtonUI@DuiLib@@UEBAPEB_WXZ
+?ProcessScrollBar@CContainerUI@DuiLib@@MEAAXUtagRECT@@HH@Z
+?SetFloatPos@CContainerUI@DuiLib@@MEAAXH@Z
+?GetHorizontalScrollBar@CContainerUI@DuiLib@@UEBAPEAVCScrollBarUI@2@XZ
+?GetVerticalScrollBar@CContainerUI@DuiLib@@UEBAPEAVCScrollBarUI@2@XZ
+?EnableScrollBar@CContainerUI@DuiLib@@UEAAX_N0@Z
+?EndRight@CContainerUI@DuiLib@@UEAAXXZ
+?HomeLeft@CContainerUI@DuiLib@@UEAAXXZ
+?PageRight@CContainerUI@DuiLib@@UEAAXXZ
+?PageLeft@CContainerUI@DuiLib@@UEAAXXZ
+?LineRight@CContainerUI@DuiLib@@UEAAXXZ
+?LineLeft@CContainerUI@DuiLib@@UEAAXXZ
+?EndDown@CContainerUI@DuiLib@@UEAAXXZ
+?HomeUp@CContainerUI@DuiLib@@UEAAXXZ
+?PageDown@CContainerUI@DuiLib@@UEAAXXZ
+?PageUp@CContainerUI@DuiLib@@UEAAXXZ
+?LineDown@CContainerUI@DuiLib@@UEAAXXZ
+?LineUp@CContainerUI@DuiLib@@UEAAXXZ
+?PointerDown@CContainerUI@DuiLib@@UEAAXXZ
+?PointerUp@CContainerUI@DuiLib@@UEAAXXZ
+?GetScrollStepSize@CContainerUI@DuiLib@@UEBAHXZ
+?SetScrollStepSize@CContainerUI@DuiLib@@UEAAXH@Z
+?SetScrollPos@CContainerUI@DuiLib@@UEAAXUtagSIZE@@_N@Z
+?GetScrollRange@CContainerUI@DuiLib@@UEBA?AUtagSIZE@@XZ
+?GetScrollPos@CContainerUI@DuiLib@@UEBA?AUtagSIZE@@XZ
+?FindSelectable@CContainerUI@DuiLib@@UEAAHH_N@Z
+?SetMouseChildEnabled@CContainerUI@DuiLib@@UEAAX_N@Z
+?IsMouseChildEnabled@CContainerUI@DuiLib@@UEBA_NXZ
+?SetDelayedDestroy@CContainerUI@DuiLib@@UEAAX_N@Z
+?IsDelayedDestroy@CContainerUI@DuiLib@@UEBA_NXZ
+?SetAutoDestroy@CContainerUI@DuiLib@@UEAAX_N@Z
+?IsAutoDestroy@CContainerUI@DuiLib@@UEBA_NXZ
+?SetChildVAlign@CContainerUI@DuiLib@@UEAAXI@Z
+?GetChildVAlign@CContainerUI@DuiLib@@UEBAIXZ
+?SetChildAlign@CContainerUI@DuiLib@@UEAAXI@Z
+?GetChildAlign@CContainerUI@DuiLib@@UEBAIXZ
+?SetChildPadding@CContainerUI@DuiLib@@UEAAXH@Z
+?GetChildPadding@CContainerUI@DuiLib@@UEBAHXZ
+?SetInset@CContainerUI@DuiLib@@UEAAXUtagRECT@@@Z
+?GetInset@CContainerUI@DuiLib@@UEBA?AUtagRECT@@XZ
+?UpdateThemeColor@CControlUI@DuiLib@@MEAAXXZ
+?DoPostPaint@CHorizontalLayoutUI@DuiLib@@UEAAXPEAUHDC__@@AEBUtagRECT@@@Z
+?PaintBorder@CControlUI@DuiLib@@UEAAXPEAUHDC__@@@Z
+?PaintText@CControlUI@DuiLib@@UEAAXPEAUHDC__@@@Z
+?PaintForeImage@CControlUI@DuiLib@@UEAAXPEAUHDC__@@@Z
+?PaintForeColor@CControlUI@DuiLib@@UEAAXPEAUHDC__@@@Z
+?PaintStatusImage@CControlUI@DuiLib@@UEAAXPEAUHDC__@@@Z
+?PaintBkImage@CControlUI@DuiLib@@UEAAXPEAUHDC__@@@Z
+?PaintBkColor@CControlUI@DuiLib@@UEAAXPEAUHDC__@@@Z
+?DoPaint@CContainerUI@DuiLib@@UEAAXPEAUHDC__@@AEBUtagRECT@@@Z
+?EstimateSize@CHorizontalLayoutUI@DuiLib@@UEAA?AUtagSIZE@@U3@@Z
+?GetNcHit@CControlUI@DuiLib@@UEAA_NXZ
+?SetCurAttr@CControlUI@DuiLib@@UEAAXPEB_W@Z
+?SetDirectionPadding@CControlUI@DuiLib@@UEAAXPEB_W@Z
+?DoEvent@CHorizontalLayoutUI@DuiLib@@UEAAXAEAUtagTEventUI@2@@Z
+?Event@CControlUI@DuiLib@@UEAAXAEAUtagTEventUI@2@@Z
+?DoInit@CControlUI@DuiLib@@UEAAXXZ
+?Init@CControlUI@DuiLib@@UEAAXXZ
+?FindControl@CContainerUI@DuiLib@@UEAAPEAVCControlUI@2@P6APEAV32@PEAV32@PEAX@Z1I@Z
+?SetUseGdiPlusText@CControlUI@DuiLib@@UEAAX_N@Z
+?SetFloat@CControlUI@DuiLib@@UEAAX_N@Z
+?IsFloat@CControlUI@DuiLib@@UEBA_NXZ
+?SetFocus@CControlUI@DuiLib@@UEAAXXZ
+?IsFocused@CControlUI@DuiLib@@UEBA_NXZ
+?SetKeyboardEnabled@CControlUI@DuiLib@@UEAAX_N@Z
+?IsKeyboardEnabled@CControlUI@DuiLib@@UEBA_NXZ
+?IsMouseEnabled@CControlUI@DuiLib@@UEBA_NXZ
+?SetHighlight@CControlUI@DuiLib@@UEAAX_N@Z
+?IsHighlight@CControlUI@DuiLib@@UEBA_NXZ
+?SetEnabled@CContainerUI@DuiLib@@UEAAX_N@Z
+?IsEnabled@CControlUI@DuiLib@@UEBA_NXZ
+?SetInternVisible@CContainerUI@DuiLib@@UEAAX_N@Z
+?SetVisible@CContainerUI@DuiLib@@UEAAX_N@Z
+?IsVisible@CControlUI@DuiLib@@UEBA_NXZ
+?SetTag@CControlUI@DuiLib@@UEAAX_K@Z
+?GetTag@CControlUI@DuiLib@@UEBA_KXZ
+?GetUserData@CControlUI@DuiLib@@UEAAAEBVCDuiString@2@XZ
+?SetContextMenuUsed@CControlUI@DuiLib@@UEAAX_N@Z
+?IsContextMenuUsed@CControlUI@DuiLib@@UEBA_NXZ
+?SetShortcut@CControlUI@DuiLib@@UEAAX_W@Z
+?GetShortcut@CControlUI@DuiLib@@UEBA_WXZ
+?SetCursor@CControlUI@DuiLib@@UEAAXG@Z
+?GetCursor@CControlUI@DuiLib@@UEAAGXZ
+?GetToolTipWidth@CControlUI@DuiLib@@UEAAHXZ
+?SetToolTipWidth@CControlUI@DuiLib@@UEAAXH@Z
+?SetToolTip@CControlUI@DuiLib@@UEAAXPEB_W@Z
+?GetToolTip@CControlUI@DuiLib@@UEBA?AVCDuiString@2@XZ
+?SetWave@CControlUI@DuiLib@@UEAAX_N@Z
+?SetFloatPercent@CControlUI@DuiLib@@UEAAXUtagTPercentInfo@2@@Z
+?GetFloatPercent@CControlUI@DuiLib@@UEBA?AUtagTPercentInfo@2@XZ
+?SetMaxHeight@CControlUI@DuiLib@@UEAAXH@Z
+?GetMaxHeight@CControlUI@DuiLib@@UEBAHXZ
+?SetMinHeight@CControlUI@DuiLib@@UEAAXH@Z
+?GetMinHeight@CControlUI@DuiLib@@UEBAHXZ
+?SetMaxWidth@CControlUI@DuiLib@@UEAAXH@Z
+?GetMaxWidth@CControlUI@DuiLib@@UEBAHXZ
+?SetMinWidth@CControlUI@DuiLib@@UEAAXH@Z
+?GetMinWidth@CControlUI@DuiLib@@UEBAHXZ
+?SetFixedHeightEx@CControlUI@DuiLib@@UEAAXH@Z
+?SetFixedWidthEx@CControlUI@DuiLib@@UEAAXH@Z
+?GetFixedHeight@CControlUI@DuiLib@@UEBAHXZ
+?GetFixedWidth@CControlUI@DuiLib@@UEBAHXZ
+?SetFixedXY@CControlUI@DuiLib@@UEAAXUtagSIZE@@@Z
+?GetFixedXY@CControlUI@DuiLib@@UEBA?AUtagSIZE@@XZ
+?SetPadding@CControlUI@DuiLib@@UEAAXUtagRECT@@@Z
+?GetPadding@CControlUI@DuiLib@@UEBA?AUtagRECT@@XZ
+?GetY@CControlUI@DuiLib@@UEBAHXZ
+?GetX@CControlUI@DuiLib@@UEBAHXZ
+?GetHeight@CControlUI@DuiLib@@UEBAHXZ
+?GetWidth@CControlUI@DuiLib@@UEBAHXZ
+?Move@CContainerUI@DuiLib@@UEAAXUtagSIZE@@_N@Z
+?SetDirectionPos@CControlUI@DuiLib@@UEAA?AUtagRECT@@U3@@Z
+?SetPos@CHorizontalLayoutUI@DuiLib@@UEAAXUtagRECT@@_N@Z
+?GetPos@CControlUI@DuiLib@@UEBAAEBUtagRECT@@XZ
+?GetClientPos@CContainerUI@DuiLib@@UEBA?AUtagRECT@@XZ
+?GetRelativePos@CControlUI@DuiLib@@UEBA?AUtagRECT@@XZ
+?SetOpacity@CContainerUI@DuiLib@@UEAAXH@Z
+?SetBlur@CContainerUI@DuiLib@@UEAAXH@Z
+?SetDropEnable@CControlUI@DuiLib@@UEAAX_N@Z
+?IsDropEnabled@CControlUI@DuiLib@@UEBA_NXZ
+?SetDragEnable@CControlUI@DuiLib@@UEAAX_N@Z
+?IsDragEnabled@CControlUI@DuiLib@@UEBA_NXZ
+?SetResourceText@CControlUI@DuiLib@@UEAAX_N@Z
+?IsResourceText@CControlUI@DuiLib@@UEBA_NXZ
+?GetDisableText@CControlUI@DuiLib@@UEBA?AVCDuiString@2@XZ
+?SetDisableText@CControlUI@DuiLib@@UEAAXPEB_W@Z
+?SetText@CControlUI@DuiLib@@UEAAXPEB_W@Z
+?GetText@CControlUI@DuiLib@@UEBA?AVCDuiString@2@XZ
+?GetParent@CControlUI@DuiLib@@UEBAPEAV12@XZ
+?SetManager@CContainerUI@DuiLib@@UEAAXPEAVCPaintManagerUI@2@PEAVCControlUI@2@_N@Z
+?GetManager@CControlUI@DuiLib@@UEBAPEAVCPaintManagerUI@2@XZ
+?Activate@CControlUI@DuiLib@@UEAA_NXZ
+?GetControlFlags@CHorizontalLayoutUI@DuiLib@@UEBAIXZ
+?GetInterface@CHorizontalLayoutUI@DuiLib@@UEAAPEAXPEB_W@Z
+?GetClass@CHorizontalLayoutUI@DuiLib@@UEBAPEB_WXZ
+?GetName@CControlUI@DuiLib@@UEBA?AVCDuiString@2@XZ
+?SetMouseEnabled@CControlUI@DuiLib@@UEAAX_N@Z
+?SetAttribute@CButtonUI@DuiLib@@UEAAXPEB_W0@Z
+?SetText@CLabelUI@DuiLib@@UEAAXPEB_W@Z
+?SetUserData@CControlUI@DuiLib@@UEAAXPEB_W@Z
+?SetFixedWidth@CLabelUI@DuiLib@@UEAAXH@Z
+?SetMinHeight@CLabelUI@DuiLib@@UEAAXH@Z
+?SetMouseEnabled@CContainerUI@DuiLib@@UEAAX_N@Z
+?SetAttribute@CHorizontalLayoutUI@DuiLib@@UEAAXPEB_W0@Z
+?SetFixedWidth@CControlUI@DuiLib@@UEAAXH@Z
+?SetFixedHeight@CControlUI@DuiLib@@UEAAXH@Z
+?SetName@CControlUI@DuiLib@@UEAAXPEB_W@Z
+?messageMap@CNotifyPump@DuiLib@@1UDUI_MSGMAP@2@B
+??BCDuiString@DuiLib@@QEBAPEB_WXZ
+?GetInstance@UICulture@DuiLib@@SAPEAV12@XZ
+?ParseBind@UICulture@DuiLib@@QEAA?AVCDuiString@2@PEB_W@Z
+DuiLib.dll
+FreeLibrary
+GetModuleFileNameW
+GetModuleHandleW
+GetProcAddress
+LoadLibraryW
+KERNEL32.dll
+??0_Lockit@std@@QEAA@H@Z
+??1_Lockit@std@@QEAA@XZ
+?uncaught_exception@std@@YA_NXZ
+?_Xlength_error@std@@YAXPEBD@Z
+_Mtx_lock
+_Mtx_unlock
+?_Throw_Cpp_error@std@@YAXH@Z
+??Bid@locale@std@@QEAA_KXZ
+?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ
+?widen@?$ctype@_W@std@@QEBA_WD@Z
+?_Getcat@?$ctype@_W@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z
+?good@ios_base@std@@QEBA_NXZ
+?flags@ios_base@std@@QEBAHXZ
+?width@ios_base@std@@QEBA_JXZ
+?width@ios_base@std@@QEAA_J_J@Z
+?getloc@ios_base@std@@QEBA?AVlocale@2@XZ
+?sputc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEAAG_W@Z
+?sputn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEAA_JPEB_W_J@Z
+?eback@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?gptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?pbase@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?pptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?egptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?epptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?setstate@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEAAXH_N@Z
+?tie@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEBAPEAV?$basic_ostream@_WU?$char_traits@_W@std@@@2@XZ
+?rdbuf@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEBAPEAV?$basic_streambuf@_WU?$char_traits@_W@std@@@2@XZ
+?fill@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEBA_WXZ
+?_Osfx@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAXXZ
+?flush@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV12@XZ
+?id@?$ctype@_W@std@@2V0locale@2@A
+?_Xout_of_range@std@@YAXPEBD@Z
+??0?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAA@XZ
+??1?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+?gbump@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAXH@Z
+?setg@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAXPEA_W00@Z
+?setp@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAXPEA_W0@Z
+?setp@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAXPEA_W00@Z
+?_Pninc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAPEA_WXZ
+??1?$basic_ios@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+??0?$basic_ios@_WU?$char_traits@_W@std@@@std@@IEAA@XZ
+??0?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAA@PEAV?$basic_streambuf@_WU?$char_traits@_W@std@@@1@_N@Z
+??1?$basic_ostream@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+?_Xbad_function_call@std@@YAXXZ
+?imbue@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAXAEBVlocale@2@@Z
+?setbuf@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAPEAV12@PEA_W_J@Z
+?xsgetn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JPEA_W_J@Z
+?uflow@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAGXZ
+?showmanyc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JXZ
+?sync@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAHXZ
+?_Lock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ
+?_Unlock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ
+?xsputn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JPEB_W_J@Z
+MSVCP140.dll
+?isEnabledFor@Logger@log4cplus@@QEBA_NH@Z
+??0Logger@log4cplus@@QEAA@AEBV01@@Z
+??1Logger@log4cplus@@UEAA@XZ
+?get_macro_body_oss@detail@log4cplus@@YAAEAV?$basic_ostringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ
+?macro_forced_log@detail@log4cplus@@YAXAEBVLogger@2@HAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEBDH2@Z
+?GetLogger@@YAAEBVLogger@log4cplus@@XZ
+log4cplus.dll
+PathCchRemoveFileSpec
+api-ms-win-core-path-l1-1-0.dll
+__std_exception_copy
+__std_exception_destroy
+_CxxThrowException
+__CxxFrameHandler4
+memmove
+_purecall
+__C_specific_handler
+__current_exception
+__current_exception_context
+memset
+__std_type_info_destroy_list
+VCRUNTIME140.dll
+VCRUNTIME140_1.dll
+_invalid_parameter_noinfo_noreturn
+_callnewh
+malloc
+_seh_filter_dll
+_configure_narrow_argv
+_initialize_narrow_environment
+_initialize_onexit_table
+_register_onexit_function
+_execute_onexit_table
+_crt_atexit
+_cexit
+terminate
+_initterm
+_initterm_e
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+ReleaseSRWLockExclusive
+AcquireSRWLockExclusive
+WakeAllConditionVariable
+SleepConditionVariableSRW
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsProcessorFeaturePresent
+GetCurrentProcess
+TerminateProcess
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+memcpy
+.?AVbad_array_new_length@std@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVbad_cast@std@@
+.?AV?$_Binder@U_Unforced@std@@AEAP8IPCHandler@SmartOffice@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV34@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8SmartOfficeBasePage@SmartOffice@@EAAPEAVCHorizontalLayoutUI@DuiLib@@V?$vector@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@V?$allocator@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@2@@2@AEAV?$vector@PEAVCOptionUI@DuiLib@@V?$allocator@PEAVCOptionUI@DuiLib@@@std@@@2@PEAVCPaintManagerUI@6@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.P6A?AV?$shared_ptr@VMBAPlugin@@@std@@XZ
+.?AV?$_Func_base@XAEAUTagIPCMessageItem@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@AEAP8IPCHandler@SmartOffice@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV34@AEBU?$_Ph@$00@2@@std@@XAEAUTagIPCMessageItem@@@std@@
+.?AV?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_ostream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_ios@_WU?$char_traits@_W@std@@@std@@
+.?AVios_base@std@@
+.?AV?$_Iosb@H@std@@
+.?AV?$basic_stringbuf@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AV?$basic_ostringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AVCHorizontalLayoutUI@DuiLib@@
+.?AVCContainerUI@DuiLib@@
+.?AVCControlUI@DuiLib@@
+.?AVIContainerUI@DuiLib@@
+.?AVCButtonUI@DuiLib@@
+.?AVCLabelUI@DuiLib@@
+.?AVCAnimPanelUI@DuiLib@@
+.?AVCUIAnimation@DuiLib@@
+.?AVIUIAnimation@DuiLib@@
+.?AV?$_Func_base@PEAVCHorizontalLayoutUI@DuiLib@@V?$vector@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@V?$allocator@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@2@@std@@AEAV?$vector@PEAVCOptionUI@DuiLib@@V?$allocator@PEAVCOptionUI@DuiLib@@@std@@@4@PEAVCPaintManagerUI@2@@std@@
+.?AVSmartOfficeBasePage@SmartOffice@@
+.?AVCNotifyPump@DuiLib@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8SmartOfficeBasePage@SmartOffice@@EAAPEAVCHorizontalLayoutUI@DuiLib@@V?$vector@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@V?$allocator@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@2@@2@AEAV?$vector@PEAVCOptionUI@DuiLib@@V?$allocator@PEAVCOptionUI@DuiLib@@@std@@@2@PEAVCPaintManagerUI@6@@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@PEAVCHorizontalLayoutUI@DuiLib@@V?$vector@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@V?$allocator@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@2@@2@AEAV?$vector@PEAVCOptionUI@DuiLib@@V?$allocator@PEAVCOptionUI@DuiLib@@@std@@@2@PEAVCPaintManagerUI@4@@std@@
+.?AV_Ref_count_base@std@@
+.?AVMBAPlugin@@
+.?AVMBAUIPlugin@@
+.?AV?$_Func_base@V?$shared_ptr@VMBAPlugin@@@std@@$$V@std@@
+.?AVSmartOfficeUIPlugin@@
+.?AV?$_Ref_count_obj2@VSmartOfficeUIPlugin@@@std@@
+.?AV?$_Func_impl_no_alloc@P6A?AV?$shared_ptr@VMBAPlugin@@@std@@XZV12@$$V@std@@
+.?AVtype_info@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' processorArchitecture='amd64' publicKeyToken='6595b64144ccf1df' language='*' />
+    </dependentAssembly>
+  </dependency>
+</assembly>
+0L1 0
+GlobalSign Root CA - R31
+GlobalSign1
+GlobalSign0
+200728000000Z
+290318000000Z0S1
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+p\$x %
+Bng~B
+tsg1z
+n0l0-
+!http://ocsp.globalsign.com/rootr30;
+/http://secure.globalsign.com/cacert/root-r3.crt06
+/0-0+
+%http://crl.globalsign.com/root-r3.crl0G
+@0>0<
+&https://www.globalsign.com/repository/0
+b wul
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+200728000000Z
+300728000000Z0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+-http://ocsp.globalsign.com/codesigningrootr450F
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+:0806
+0http://crl.globalsign.com/codesigningrootr45.crl0U
+N0L0A
+&https://www.globalsign.com/repository/0
+jh4%B
+wF*=#}(s
+1R95)
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+231215060929Z
+261128091510Z0
+Private Organization1
+91440300MA5G49LC9K1
+Guangdong1
+Shenzhen1
+Guangdong1
+Shenzhen1^0\
+34011
+Honor Device Co., Ltd.1
+Honor Device Co., Ltd.0
+fKz|fz
+(nkd_
+aJM|tu
+@http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+3http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+N0L0A
+&https://www.globalsign.com/repository/0
+@0>0<
+6http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+JB]b$
+"cp`k
+0l0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 2020
+jV9w}`
+Z"b4`
+Tdo}rGq
+20250214052347Z0
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 2025
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+250109084043Z
+360107084043Z0P1
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 20250
+xc#|(
+[fC@*82
+i0g0;
+/http://subca.repository.certum.pl/ctsca2021.cer0(
+http://subca.ocsp-certum.com0
+2000.
+(http://subca.crl.certum.pl/ctsca2021.crl0
+\8=x;
+&n|<j
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+210519053207Z
+360518053207Z0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+g!5 e
+)0'0%
+http://crl.certum.pl/ctnca2.crl0l
+`0^0(
+http://subca.ocsp-certum.com02
+&http://repository.certum.pl/ctnca2.cer09
+2000.
+http://www.certum.pl/CPS0
+iMi=}B
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1"0 
+Certum Trusted Network CA0
+210531064306Z
+290917064306Z0
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+dg?":
+cyD~Kc$
+.4?)LR
+(0&0$
+http://crl.certum.pl/ctnca.crl0k
+_0]0(
+http://subca.ocsp-certum.com01
+%http://repository.certum.pl/ctnca.cer09
+2000.
+http://www.certum.pl/CPS0
+[.&iB<
+Se"u-
+0k0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+250214052347Z07
+/1(0&0$0"
+jj0o0Z
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+(su^bm
+|NO[f>v
+ye2T5
+YrFaR
+
+### UTF16 strings (67)
+Hihonornote.exe
+C:\Program Files\Hihonornote\
+layout\SmartOfficeUI\SmartOfficeUIWnd.xml
+[SmartOfficeUI] IPCHandler::InitIpcClient
+[SmartOfficeUI] IPCHandler::UnInitIpcClient
+[SmartOfficeUI] PostIPC
+Hihonornote.exe
+C:\Program Files\Hihonornote\
+layout\SmartOfficeUI\SmartOfficeUIWnd.xml
+drawable/SmartOffice/ic_smartoffice_@8x.png
+drawable/SmartOffice/ic_smartoffice_@8x.png
+smartofficelayout
+12,2,8,0
+padding
+borderround
+align
+vcenter
+valign
+32,6,8,6
+textpadding
+endellipsis
+HoverColor
+hotbkcolor
+clickEffectColor
+pushedbkcolor
+textColorPrimary
+textcolor
+textColorPrimary
+hottextcolor
+textColorPrimary
+selectedtextcolor
+smartofficebtn
+file='
+file='
+normalimage
+hotimage
+pushedimage
+MBAPluginsManager.dll
+SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\location
+value
+Create recv nullptr
+bind='IDS_PCSUIT_TITLE'
+hn.plugin.smartOfficeUI
+SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\location
+value
+com.hihonor.id.pc
+07000000
+MonProcess.dll
+\SOFTWARE\HONOR\PCManager\SmartOffice
+HnCalendarPrivacyAgreed
+HnCalendar.exe
+tabselectin
+click
+timer
+mouseenter
+mouseleave
+HonorCalendar
+HonorCalendar
+/r date=0 event=0
+ version=
+ triggerType=1
+ startTime=
+\HnCalendar\HnCalendar.exe
+[SmartOfficeUI] Start calendar process failed
+SmartOfficeUIWnd
+CF_MOVECONTROL
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+
+### GUIDs found (0)

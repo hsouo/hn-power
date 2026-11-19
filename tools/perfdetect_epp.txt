@@ -1,0 +1,12 @@
+﻿
+@@@@@ STRING 'setepp' referenced from 1 sites in 1 functions
+==============================================================================================================
+### setepp  func 0x180007150-0x180007178
+0x180007150: sub rsp, 0x28
+0x180007154: lea rdx, [rip + 0xb8139]   ; "setepp"
+0x18000715b: lea rcx, [rip + 0x1563ee]
+0x180007162: call 0x180010320
+0x180007167: lea rcx, [rip + 0xa7e82]
+0x18000716e: call 0x18009bf58
+0x180007173: add rsp, 0x28
+0x180007177: ret 

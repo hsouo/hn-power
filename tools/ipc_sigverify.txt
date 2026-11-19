@@ -1,0 +1,41 @@
+1800085e0: mov        qword ptr [rsp + 0x20], rbx
+1800085e5: mov        dword ptr [rsp + 0x10], edx
+1800085e9: mov        qword ptr [rsp + 8], rcx
+1800085ee: push       rdi
+1800085ef: sub        rsp, 0x20
+1800085f3: mov        rdi, rcx
+1800085f6: mov        dword ptr [rsp + 0x38], 0
+1800085fe: lea        rax, [rip + 0xa686b]
+180008605: mov        qword ptr [rcx], rax
+180008608: lea        rax, [rip + 0xa69a1]
+18000860f: mov        qword ptr [rcx + 0x10], rax
+180008613: add        rcx, 0x98
+18000861a: call       qword ptr [rip + 0x35ca8]   ; IAT:??0?$basic_ios@_WU?$char_traits@_W@std@@@std@@IEAA@XZ
+180008620: nop        
+180008621: mov        dword ptr [rsp + 0x38], 1
+180008629: lea        rbx, [rdi + 0x18]
+18000862d: xor        r8d, r8d
+180008630: mov        rdx, rbx
+180008633: mov        rcx, rdi
+180008636: call       qword ptr [rip + 0x35c94]   ; IAT:??0?$basic_iostream@_WU?$char_traits@_W@std@@@std@@QEAA@PEAV?$basic_streambuf@_WU?$char_traits@_W@std@@@1@@Z
+18000863c: nop        
+18000863d: mov        rax, qword ptr [rdi]
+180008640: movsxd     rcx, dword ptr [rax + 4]
+180008644: lea        rax, [rip + 0xa6af5]
+18000864b: mov        qword ptr [rcx + rdi], rax
+18000864f: mov        rax, qword ptr [rdi]
+180008652: movsxd     rcx, dword ptr [rax + 4]
+180008656: lea        edx, [rcx - 0x98]
+18000865c: mov        dword ptr [rcx + rdi - 4], edx
+180008660: mov        qword ptr [rsp + 0x40], rbx
+180008665: mov        rcx, rbx
+180008668: call       qword ptr [rip + 0x35e3a]   ; IAT:??0?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAA@XZ
+18000866e: lea        rax, [rip + 0xa694b]
+180008675: mov        qword ptr [rbx], rax
+180008678: mov        qword ptr [rbx + 0x68], 0
+180008680: mov        dword ptr [rbx + 0x70], 0
+180008687: mov        rax, rdi
+18000868a: mov        rbx, qword ptr [rsp + 0x48]
+18000868f: add        rsp, 0x20
+180008693: pop        rdi
+180008694: ret        

@@ -1,0 +1,288 @@
+﻿====================================================================================================
+FILE: MonProcess.dll  machine=0x8664  timestamp=0x67ab7c01
+SECTIONS: .text, .rdata, .data, .pdata, .rsrc, .reloc
+EXPORTS (250):
+  [1] ??0?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAA@XZ
+  [2] ??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@$$QEAV01@@Z
+  [3] ??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@$$QEAV01@AEBV?$allocator@_W@1@@Z
+  [4] ??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@@Z
+  [5] ??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@AEBV?$allocator@_W@1@@Z
+  [6] ??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@_K1AEBV?$allocator@_W@1@@Z
+  [7] ??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@_KAEBV?$allocator@_W@1@@Z
+  [8] ??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV?$allocator@_W@1@@Z
+  [9] ??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_W@Z
+  [10] ??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_WAEBV?$allocator@_W@1@@Z
+  [11] ??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_W_K@Z
+  [12] ??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_W_KAEBV?$allocator@_W@1@@Z
+  [13] ??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@U_String_constructor_concat_tag@1@AEAV01@1@Z
+  [14] ??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@U_String_constructor_concat_tag@1@AEBV01@QEB_W_K23@Z
+  [15] ??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@V?$initializer_list@_W@1@AEBV?$allocator@_W@1@@Z
+  [16] ??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@XZ
+  [17] ??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@_K_W@Z
+  [18] ??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@_K_WAEBV?$allocator@_W@1@@Z
+  [19] ??0MachineType@ProductAdapt@@AEAA@XZ
+  [20] ??0ProductFeature@ProductAdapt@@AEAA@XZ
+  [21] ??0VersionInfo@MigrationPrtAdaption@@AEAA@XZ
+  [22] ??0VersionInfo@ProductAdapt@@AEAA@XZ
+  [23] ??1?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAA@XZ
+  [24] ??1?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAA@XZ
+  [25] ??1?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@XZ
+  [26] ??1MachineType@ProductAdapt@@QEAA@XZ
+  [27] ??1ProductFeature@ProductAdapt@@QEAA@XZ
+  [28] ??1VersionInfo@MigrationPrtAdaption@@AEAA@XZ
+  [29] ??1VersionInfo@ProductAdapt@@QEAA@XZ
+  [30] ??4?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAAAEAV01@$$QEAV01@@Z
+  [31] ??4?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAAAEAV01@AEBV01@@Z
+  [32] ??4?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAAEAV01@$$QEAV01@@Z
+  [33] ??4?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAAEAV01@AEBV01@@Z
+  [34] ??4?$_Wrap_alloc@V?$allocator@_W@std@@@std@@QEAAAEAU01@$$QEAU01@@Z
+  [35] ??4?$_Wrap_alloc@V?$allocator@_W@std@@@std@@QEAAAEAU01@AEBU01@@Z
+  [36] ??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@$$QEAV01@@Z
+  [37] ??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@AEBV01@@Z
+  [38] ??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@QEB_W@Z
+  [39] ??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@V?$initializer_list@_W@1@@Z
+  [40] ??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@_W@Z
+  [41] ??4Cpu@@QEAAAEAV0@AEBV0@@Z
+  [42] ??A?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_W_K@Z
+  [43] ??A?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_W_K@Z
+  [44] ??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@AEBV01@@Z
+  [45] ??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@QEB_W@Z
+  [46] ??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@V?$initializer_list@_W@1@@Z
+  [47] ??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@_W@Z
+  [48] ?CombinedVersion@VersionInfo@ProductAdapt@@AEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV34@00@Z
+  [49] ?GetBtGpioStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [50] ?GetCpuPowerStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [51] ?GetDeviceName@ProductFeature@ProductAdapt@@AEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+  [52] ?GetDeviceRepairVersion@VersionInfo@ProductAdapt@@QEBAAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+  [53] ?GetEnergyStarStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [54] ?GetEppSettingStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [55] ?GetFingerprintProductStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [56] ?GetFingerprintStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [57] ?GetInstance@MachineType@ProductAdapt@@SAAEBV12@XZ
+  [58] ?GetInstance@ProductFeature@ProductAdapt@@SAAEBV12@XZ
+  [59] ?GetInstance@VersionInfo@MigrationPrtAdaption@@SAAEBV12@XZ
+  [60] ?GetInstance@VersionInfo@ProductAdapt@@SAAEBV12@XZ
+  [61] ?GetInternetSelfHealingStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [62] ?GetKeyboardLightProductStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [63] ?GetKeyboardLightStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [64] ?GetModelName@MachineType@ProductAdapt@@QEBAHAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+  [65] ?GetPcManagerCommVersion@VersionInfo@ProductAdapt@@QEBAAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+  [66] ?GetPcManagerName@VersionInfo@ProductAdapt@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+  [67] ?GetPcManagerVersion@VersionInfo@ProductAdapt@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+  [68] ?GetPcManagerVersionEx@VersionInfo@ProductAdapt@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+  [69] ?GetPowerSafeMgrStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [70] ?GetProductAdaptVersion@VersionInfo@MigrationPrtAdaption@@QEBAAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+  [71] ?GetProductAdaptVersion@VersionInfo@ProductAdapt@@QEBAAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+  [72] ?GetProductIndex@MachineType@ProductAdapt@@QEBA?AW4ProductIndex@2@XZ
+  [73] ?GetProductName@MachineType@ProductAdapt@@QEBAHAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+  [74] ?GetProductType@MachineType@ProductAdapt@@QEBAHAEA_N@Z
+  [75] ?GetProductUpdateLevel@VersionInfo@MigrationPrtAdaption@@QEBAAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+  [76] ?GetPromoteParamInfo@MachineType@ProductAdapt@@QEBAHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAUPromoteParamInfo@2@@Z
+  [77] ?GetPromoteParamItem@MachineType@ProductAdapt@@AEAAXAEBVHnXmlElement@@AEAUPromoteParamInfo@2@@Z
+  [78] ?GetSQGDataStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [79] ?GetSupportCameraCorrection@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [80] ?GetSupportCameraDenoise@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [81] ?GetSupportIntegratedGraphics@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [82] ?GetSupportLiveBroadcast@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [83] ?GetSupportNpsPopStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [84] ?GetSupportOfficeCheck@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [85] ?GetSupportShowNpsRemindIcon@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [86] ?GetSupportShowPowerRemindWnd@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [87] ?GetSupportTimeBackStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [88] ?GetSupportVrAssisantStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [89] ?GetTimeOutTryMaxTime@VersionInfo@MigrationPrtAdaption@@QEBAHXZ
+  [90] ?GetTriFingerSnipperStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [91] ?GetVersion@VersionInfo@ProductAdapt@@AEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAV34@@Z
+  [92] ?GetWifiBiosRepairStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [93] ?GetWifiGpioStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [94] ?GetWisdomAudiovisualStatus@ProductFeature@ProductAdapt@@QEBAHAEA_N@Z
+  [96] ?InitMachineTypeInfo@MachineType@ProductAdapt@@AEAAHAEBVHnXmlElement@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+  [97] ?InitMachineTypelist@MachineType@ProductAdapt@@AEAAHXZ
+  [98] ?InitProductFeatureInfo@ProductFeature@ProductAdapt@@AEAAXAEBVHnXmlElement@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@1@Z
+  [99] ?InitProductFeatureNode@ProductFeature@ProductAdapt@@AEAAHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z
+  [100] ?InitPromoteParamInfo@MachineType@ProductAdapt@@AEAAXAEBVHnXmlElement@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+  [101] ?IsNotSupportOsdProduct@MachineType@ProductAdapt@@QEBA_NXZ
+  [102] ?IsNotSupportProduct@MachineType@ProductAdapt@@QEBA_NXZ
+  [103] ?IsProductAdaptCfgValid@VersionInfo@ProductAdapt@@QEBA_NXZ
+  [104] ?LoadConfig@MachineType@ProductAdapt@@AEAAHXZ
+  [105] ?LoadConfig@ProductFeature@ProductAdapt@@AEAAHXZ
+  [106] ?LoadConfig@VersionInfo@MigrationPrtAdaption@@AEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAV34@AEA_N1AEAH@Z
+  [107] ?LoadConfig@VersionInfo@ProductAdapt@@AEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAV34@@Z
+  [108] ?LoadPCManagerConfig@VersionInfo@ProductAdapt@@AEBAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAV34@@Z
+  [109] ?Reset@MachineType@ProductAdapt@@QEAAXXZ
+  [110] ?Reset@ProductFeature@ProductAdapt@@QEAAXXZ
+  [111] ?Reset@VersionInfo@MigrationPrtAdaption@@AEAAXXZ
+  [112] ?Reset@VersionInfo@ProductAdapt@@QEAAXXZ
+  [113] ?ResetFeatureStatus@ProductFeature@ProductAdapt@@AEAAXXZ
+  [114] ?SetValueByFeature@ProductFeature@ProductAdapt@@AEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z
+  [115] ?SplitVersion@VersionInfo@ProductAdapt@@AEBA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAV34@11@Z
+  [116] ?_Activate_SSO_buffer@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAXXZ
+  [117] ?_Become_small@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXXZ
+  [118] ?_Calculate_growth@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBA_K_K@Z
+  [119] ?_Calculate_growth@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@CA_K_K00@Z
+  [120] ?_Check_offset@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBAX_K@Z
+  [121] ?_Check_offset_exclusive@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBAX_K@Z
+  [122] ?_Clamp_suffix_size@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBA_K_K0@Z
+  [123] ?_Copy_s@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEA_W_K_K1@Z
+  [124] ?_Deallocate_for_capacity@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@CAXAEAV?$allocator@_W@2@QEA_W_K@Z
+  [125] ?_Eos@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAX_K@Z
+  [126] ?_Equal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_NAEBV12@@Z
+  [127] ?_Equal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_NQEB_W@Z
+  [128] ?_Erase_noexcept@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAAEAV12@_K_K@Z
+  [129] ?_Get_first@?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAAAEAU?$_Wrap_alloc@V?$allocator@_W@std@@@2@XZ
+  [130] ?_Get_first@?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEBAAEBU?$_Wrap_alloc@V?$allocator@_W@std@@@2@XZ
+  [131] ?_Getal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAAEAV?$allocator@_W@2@XZ
+  [132] ?_Getal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBAAEBV?$allocator@_W@2@XZ
+  [133] ?_Large_mode_engaged@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBA_NXZ
+  [134] ?_Memcpy_val_from@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXAEBV12@@Z
+  [135] ?_Myptr@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAPEA_WXZ
+  [136] ?_Myptr@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBAPEB_WXZ
+  [137] ?_Orphan_all@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+  [138] ?_Swap_bx_large_with_small@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@SAXAEAV?$_String_val@U?$_Simple_types@_W@std@@@2@0@Z
+  [139] ?_Swap_data@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXAEAV12@@Z
+  [140] ?_Swap_proxy_and_iterators@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXAEAV12@@Z
+  [141] ?_Take_contents@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXAEAV12@@Z
+  [142] ?_Tidy_deallocate@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXXZ
+  [143] ?_Tidy_init@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXXZ
+  [144] ?_Unchecked_begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAPEA_WXZ
+  [145] ?_Unchecked_begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+  [146] ?_Unchecked_end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAPEA_WXZ
+  [147] ?_Unchecked_end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+  [148] ?_Xran@?$_String_val@U?$_Simple_types@_W@std@@@std@@SAXXZ
+  [149] ?__autoclassinit2@MachineType@ProductAdapt@@QEAAX_K@Z
+  [150] ?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@@Z
+  [151] ?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@_K_K@Z
+  [152] ?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W@Z
+  [153] ?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W_K@Z
+  [154] ?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$initializer_list@_W@2@@Z
+  [155] ?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_W@Z
+  [156] ?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@$$QEAV12@@Z
+  [157] ?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@@Z
+  [158] ?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@_K_K@Z
+  [159] ?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W@Z
+  [160] ?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W_K@Z
+  [161] ?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$initializer_list@_W@2@@Z
+  [162] ?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_W@Z
+  [163] ?at@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_W_K@Z
+  [164] ?at@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_W_K@Z
+  [165] ?back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_WXZ
+  [166] ?back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_WXZ
+  [167] ?begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+  [168] ?begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+  [169] ?c_str@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+  [170] ?capacity@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+  [171] ?cbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+  [172] ?cend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+  [173] ?clear@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+  [174] ?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAHAEBV12@@Z
+  [175] ?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAHQEB_W@Z
+  [176] ?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0AEBV12@00@Z
+  [177] ?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0AEBV12@@Z
+  [178] ?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0QEB_W0@Z
+  [179] ?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0QEB_W@Z
+  [180] ?copy@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEA_W_K_K@Z
+  [181] ?crbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+  [182] ?crend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+  [183] ?data@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+  [184] ?empty@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_NXZ
+  [185] ?end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+  [186] ?end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+  [187] ?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0@Z
+  [188] ?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@@Z
+  [189] ?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0@Z
+  [190] ?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K@Z
+  [191] ?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+  [192] ?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+  [193] ?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+  [194] ?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+  [195] ?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+  [196] ?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+  [197] ?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+  [198] ?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+  [199] ?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+  [200] ?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+  [201] ?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+  [202] ?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+  [203] ?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+  [204] ?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+  [205] ?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+  [206] ?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+  [207] ?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+  [208] ?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+  [209] ?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+  [210] ?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+  [211] ?front@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_WXZ
+  [212] ?front@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_WXZ
+  [213] ?get_allocator@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$allocator@_W@2@XZ
+  [214] ?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$initializer_list@_W@2@@Z
+  [215] ?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@_K_W@Z
+  [216] ?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@_W@Z
+  [217] ?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0_W@Z
+  [218] ?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KAEBV12@0_K@Z
+  [219] ?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KAEBV12@@Z
+  [220] ?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KQEB_W0@Z
+  [221] ?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KQEB_W@Z
+  [222] ?isStandaloneInstall@VersionInfo@MigrationPrtAdaption@@QEBA_NXZ
+  [223] ?length@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+  [224] ?max_size@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+  [225] ?pop_back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+  [226] ?push_back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_W@Z
+  [227] ?rbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$reverse_iterator@V?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+  [228] ?rbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+  [229] ?rend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$reverse_iterator@V?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+  [230] ?rend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+  [231] ?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0AEBV12@@Z
+  [232] ?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0QEB_W@Z
+  [233] ?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0QEB_W_K@Z
+  [234] ?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0V?$initializer_list@_W@2@@Z
+  [235] ?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0_K_W@Z
+  [236] ?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0AEBV12@@Z
+  [237] ?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0QEB_W@Z
+  [238] ?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_K0_W@Z
+  [239] ?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_KAEBV12@01@Z
+  [240] ?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_KQEB_W0@Z
+  [241] ?reserve@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_K@Z
+  [242] ?resize@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_K_W@Z
+  [243] ?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+  [244] ?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+  [245] ?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+  [246] ?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+  [247] ?shrink_to_fit@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+  [248] ?size@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+  [249] ?substr@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV12@_K0@Z
+  [250] ?swap@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXAEAV12@@Z
+  [95] HwCreateInstance
+IMPORTS:
+  Util.dll: 39 funcs
+     ?GetCurrentDir4Config@LogUtil@@SA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ, ?ANSIToUnicode@DE@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z, ?GetSelfFullFilePath@HELPER@HNPROCESS@@YA_NAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV34@@Z, ?WStringToString@StringProc@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z, ?Parse@HnXMLDocument@@QEAA?AW4HnXmlError@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ??0HnXMLDocument@@QEAA@XZ, ?Name@HnXmlElement@@QEBA?BV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ, ?GetSysProductName@SmBiosHelper@@QEAA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?IsHonorDevice@SmBiosHelper@@QEAA_NXZ, ?Split@DE@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0AEAV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@3@@Z, ?StringToInt32Def@DE@@YAHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBH@Z, ?UpperCase@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z, ?GetSelfFullFilePath@HELPER@HNPROCESS@@YA_NAEAV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV34@@Z, ?GetInstance@SmBiosHelper@@SAPEAV1@XZ, ?SetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@11K@Z, ?GetValue@Registry@DE@@SA_NPEAUHKEY__@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@1AEAV45@K@Z, ?FileExists@DE@@YA_NAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ?FileExists@DE@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?WcharToChar@DE@@YAPEADPEB_W@Z, ?UnicodeToANSI@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z, ?TrimSP@DE@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@@Z, ?LoadFile@HnXMLDocument@@QEAA?AW4HnXmlError@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?GetProcCertSubject@CRYPT@HNPROCESS@@YAHV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAV34@@Z, ?RootElement@HnXMLDocument@@QEAA?AVHnXmlElement@@XZ, ??1HnXMLDocument@@QEAA@XZ, ?IsElementNull@HnXmlElement@@QEBA_NXZ, ?NextSiblingElement@HnXmlElement@@QEBA?AV1@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?FirstNode@HnXmlElement@@QEBA?AV1@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?Value@HnXmlElement@@QEBA?BV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ, ??4HnXmlElement@@QEAAAEAV0@AEBV0@@Z, ??1HnXmlElement@@QEAA@XZ, ?QueryPidByProcessName@HELPER@HNPROCESS@@YAJAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAV?$vector@KV?$allocator@K@std@@@4@W4QueryProcessType@12@@Z, ?QueryProcessNameByPid@HELPER@HNPROCESS@@YAHKAEAV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ?GetAMDPowerLimit@WMI@@QEAA_NAEAUAMDPowerWmiPara@@@Z, ?GetOutPutUInt@WMI@@QEAA_N_KPEAEI@Z, ??1WMI@@QEAA@XZ, ??0WMI@@QEAA@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z, ?IsSupportfeature@MBASoftShelf@@QEBA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?GetInstance@MBASoftShelf@@SAPEAV1@XZ
+  SHLWAPI.dll: 3 funcs
+     PathFileExistsW, PathAppendW, PathRemoveFileSpecW
+  HardwareSdk.dll: 3 funcs
+     ??1Cpu@@QEAA@XZ, ??0Cpu@@QEAA@XZ, ?GetCputype@Cpu@@QEAA?AW4EnmHalCpuType@@XZ
+  KERNEL32.dll: 43 funcs
+     GetSystemTimeAsFileTime, GetCurrentThreadId, ReleaseSRWLockExclusive, AcquireSRWLockExclusive, WakeAllConditionVariable, SleepConditionVariableSRW, RtlCaptureContext, RtlLookupFunctionEntry, RtlVirtualUnwind, UnhandledExceptionFilter, SetUnhandledExceptionFilter, TerminateProcess, GetFileSize, WideCharToMultiByte, GetModuleFileNameA, QueryPerformanceCounter, OutputDebugStringW, GetCurrentProcessId, CloseHandle, SetEvent, CreateEventW, OpenProcess, CreateFileW, WaitForSingleObject, InitializeCriticalSection, DeviceIoControl, CancelIo, QueryDosDeviceW, GetTickCount, FreeLibrary, DeleteCriticalSection, LoadLibraryA, Sleep, InitializeCriticalSectionAndSpinCount, GetModuleHandleA, GetModuleHandleW, GetProcAddress, IsProcessorFeaturePresent, GetLastError, GetModuleFileNameW, GetCurrentProcess, InitializeSListHead, IsDebuggerPresent
+  ADVAPI32.dll: 10 funcs
+     RegCloseKey, RegSetValueExA, RegOpenKeyExW, RegQueryValueExW, CreateServiceW, CloseServiceHandle, OpenSCManagerW, StartServiceW, ChangeServiceConfigW, OpenServiceW
+  MSVCP140.dll: 140 funcs
+     ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z, ?put@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV12@_W@Z, ??0?$basic_istream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z, ??1?$basic_istream@DU?$char_traits@D@std@@@std@@UEAA@XZ, ??0?$basic_istream@_WU?$char_traits@_W@std@@@std@@QEAA@PEAV?$basic_streambuf@_WU?$char_traits@_W@std@@@1@_N@Z, ??1?$basic_istream@_WU?$char_traits@_W@std@@@std@@UEAA@XZ, ?get@?$basic_istream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV12@AEA_W@Z, ??0?$basic_iostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z, ??1?$basic_iostream@DU?$char_traits@D@std@@@std@@UEAA@XZ, ??0?$basic_iostream@_WU?$char_traits@_W@std@@@std@@QEAA@PEAV?$basic_streambuf@_WU?$char_traits@_W@std@@@1@@Z, ??1?$basic_iostream@_WU?$char_traits@_W@std@@@std@@UEAA@XZ, ?_Fiopen@std@@YAPEAU_iobuf@@PEBDHH@Z, ?imbue@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAXAEBVlocale@2@@Z, ?sync@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAHXZ, ?setbuf@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAPEAV12@PEA_W_J@Z, ?uflow@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAGXZ, ?showmanyc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JXZ, ?_Unlock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ, ?_Lock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ, ?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAXAEBVlocale@2@@Z, ?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ, ?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAPEAV12@PEAD_J@Z, ?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ, ?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JXZ, ?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ, ?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ, ?id@?$codecvt@_WDU_Mbstatet@@@std@@2V0locale@2@A, ?id@?$codecvt@DDU_Mbstatet@@@std@@2V0locale@2@A, ?gcount@?$basic_istream@DU?$char_traits@D@std@@@std@@QEBA_JXZ, _Strcoll, _Strxfrm, ??0_Locinfo@std@@QEAA@PEBD@Z, ??1_Locinfo@std@@QEAA@XZ, ?_Getcoll@_Locinfo@std@@QEBA?AU_Collvec@@XZ, ?c_str@?$_Yarn@D@std@@QEBAPEBDXZ, ??0facet@locale@std@@IEAA@_K@Z, ??1facet@locale@std@@MEAA@XZ, ?_Init@locale@std@@CAPEAV_Locimp@12@_N@Z, ??1?$basic_ostream@_WU?$char_traits@_W@std@@@std@@UEAA@XZ, ??0?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAA@PEAV?$basic_streambuf@_WU?$char_traits@_W@std@@@1@_N@Z, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z, ?is@?$ctype@D@std@@QEBA_NFD@Z, ?tolower@?$ctype@D@std@@QEBADD@Z, ?tolower@?$ctype@D@std@@QEBAPEBDPEADPEBD@Z, ?_Getcat@?$ctype@D@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z, ?_Xregex_error@std@@YAXW4error_type@regex_constants@1@@Z, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@_K@Z, ?_Incref@facet@locale@std@@UEAAXXZ, ?_Decref@facet@locale@std@@UEAAPEAV_Facet_base@3@XZ, ?id@?$ctype@D@std@@2V0locale@2@A, ?id@?$collate@D@std@@2V0locale@2@A, ??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@_N@Z, ?read@?$basic_istream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@PEAD_J@Z, ?_Gninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ, ??1_Lockit@std@@QEAA@XZ, ??0_Lockit@std@@QEAA@H@Z, ?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ, ?uncaught_exception@std@@YA_NXZ, ?_Xbad_alloc@std@@YAXXZ, ?id@?$ctype@_W@std@@2V0locale@2@A
+     ... (+80 more)
+  log4cplus.dll: 6 funcs
+     ?isEnabledFor@Logger@log4cplus@@QEBA_NH@Z, ??0Logger@log4cplus@@QEAA@AEBV01@@Z, ??1Logger@log4cplus@@UEAA@XZ, ?GetLogger@@YAAEBVLogger@log4cplus@@XZ, ?get_macro_body_oss@detail@log4cplus@@YAAEAV?$basic_ostringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ, ?macro_forced_log@detail@log4cplus@@YAXAEBVLogger@2@HAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEBDH2@Z
+  VCRUNTIME140_1.dll: 1 funcs
+     __CxxFrameHandler4
+  VCRUNTIME140.dll: 15 funcs
+     _CxxThrowException, memchr, memcmp, memcpy, memmove, memset, __C_specific_handler, __current_exception, __current_exception_context, __std_type_info_destroy_list, strchr, __std_exception_destroy, __std_exception_copy, wcschr, __std_terminate
+  api-ms-win-crt-heap-l1-1-0.dll: 4 funcs
+     free, _callnewh, realloc, malloc
+  api-ms-win-crt-runtime-l1-1-0.dll: 15 funcs
+     _invalid_parameter_noinfo_noreturn, _invalid_parameter_noinfo, terminate, _initterm_e, _errno, _beginthreadex, _initterm, _cexit, _crt_atexit, _execute_onexit_table, _register_onexit_function, _initialize_onexit_table, _initialize_narrow_environment, _configure_narrow_argv, _seh_filter_dll
+  api-ms-win-crt-string-l1-1-0.dll: 6 funcs
+     iscntrl, strcpy_s, tolower, toupper, _wcsnicmp, wcscpy_s
+  api-ms-win-crt-stdio-l1-1-0.dll: 17 funcs
+     _getcwd, fsetpos, _get_stream_buffer_pointers, ungetwc, fputwc, fgetwc, _fseeki64, __stdio_common_vsprintf_s, fwrite, setvbuf, fputc, fgetpos, fread, fclose, ungetc, fgetc, fflush
+  api-ms-win-crt-filesystem-l1-1-0.dll: 2 funcs
+     _unlock_file, _lock_file
+  api-ms-win-crt-convert-l1-1-0.dll: 1 funcs
+     atoi
+  api-ms-win-crt-math-l1-1-0.dll: 1 funcs
+     pow

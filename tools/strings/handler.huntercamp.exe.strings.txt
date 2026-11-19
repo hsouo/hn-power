@@ -1,0 +1,3482 @@
+### ASCII strings (3447)
+!This program cannot be run in DOS mode.
+RichI
+.text
+`.rdata
+@.data
+.pdata
+@.idata
+@.tls
+CPADinfoC
+.00cfg
+@.rsrc
+@.reloc
+WATAUAVAWH
+B8<:u
+0A_A^A]A\_
+t$ WH
+WATAUAVAWH
+0A_A^A]A\_
+SVWATAUAVAWH
+ A_A^A]A\_^[
+t$ WH
+t$8E3
+t$ WH
+t$8E3
+t$ WH
+t$8E3
+WATAUAVAWH
+0A_A^A]A\_
+@SWATAVH
+|$ H;
+(A^A\_[
+SUVWATAVAWH
+ A_A^A\_^][
+|$0I+
+@8wlu.H
+|$ UATAUAVAWH
+|$(I;
+|$8I;
+L$0H+
+A_A^A]A\]
+t$ WH
+L$8H;
+\$ UVWATAUAVAWH
+D$0H;
+t$0H;
+|$ E3
+A_A^A]A\_^]
+VWATAVAWH
+0A_A^A\_^
+|$ UAVAWH
+D$ HcH
+D$ HcH
+D$ HcH
+D$ HcH
+A_A^]
+|$ UAVAWH
+D$ HcH
+D$ HcH
+D$ HcH
+D$ HcH
+A_A^]
+|$ UAVAWH
+D$ HcH
+D$ HcH
+D$ HcH
+D$ HcH
+A_A^]
+@SUVWATAVAWH
+)D$0L
+A_A^A\_^][
+SVWATAUAVAWH
+0A_A^A]A\_^[
+@SVWATAUAVAWH
+t$PI;
+`A_A^A]A\_^[
+L$0H;
+|$0H+
+@USWH
+)D$ H
+\$ UVWATAUAVAWH
+(D$@f
+|$XE3
+(D$@f
+A_A^A]A\_^]
+|$ UAVAWH
+|$`H+
+T$XH;T$`t#
+T$XH;T$`t+
+H;T$`t#
+T$XH;T$`t#
+T$XH;T$`t3
+L$PH+
+A_A^]
+VWAWH
+ A__^
+t$ WAVAWH
+ A_A^_
+UVWATAWH
+H9Ehs
+ A_A\_^]
+@SVWAVH
+H9Fhs
+(A^_^[
+VWAVH
+Cp$"<
+D$(H;
+PA^_^
+L$ SVWH
+WATAUAVAWH
+0A_A^A]A\_
+@SWAUAVH
+(A^A]_[
+|$0H+
+UVWATAUAVAWH
+)D$@L
+|$@I;
+t$ E3
+T$PH+
+|$hM;
+)D$@L
+T$pI+
+|$8H;M
+A_A^A]A\_^]
+|$ AVH
+u1H;P
+M90u4
+UVWAVAWH
+A_A^_^]
+UWAWH
+ A__]
+@USVWATAUAVAWH
+T$XE3
+(D$`f
+A_A^A]A\_^[]
+VWAVH
+ A^_^
+(D$0f
+UVWATAUAVAWH
+T$@Hc
+D$@H+
+(D$Pf
+|$8E3
+A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+C f9G u4H
+\$0H;
+T$@H+
+t$ WAVAWH
+A_A^_
+|$ ATAVAWE3
+|$8A_A^A\
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+@SVWATAUAVAWH
+t$PI;
+`A_A^A]A\_^[
+SVWAVAWH
+ A_A^_^[
+L$0H;
+VWAVH
+^0I+^(t[H
+ A^_^
+\$ UVWATAUAVAWH
+)D$@L
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+SVWATAUAVAWH
+ A_A^A]A\_^[
+UVWAVAWH
+_0fff
+T$ L+
+D$0H+
+T$ L+
+T$0H+
+@A_A^_^]
+VWAWH
+ A__^
+SVWATAUAVAWH
+D$(I+
+0A_A^A]A\_^[
+0A_A^A]A\_^[
+\$ WH
+T$,HcH
+L$0H3
+t$ WH
+H;D$(t(H
+SVWATAUAVAWH
+@A_A^A]A\_^[
+L$0H;
+@USVWATAVAWH
+A_A^A\_^[]
+D$XE3
+D$@H;D$Ht
+D$0H;
+D$8L;
+|$@H;
+T$HH+
+t$ WAVAWH
+D$ H;
+@A_A^_
+VAVAWH
+|$@H+
+ A_A^^
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+D$xE3
+H9D$@
+)D$PL
+H;t$0
+D$8L;
+SVWATAUAVAWH
+0A_A^A]A\_^[
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+D$XE3
+\$@I;
+D$8L;
+\$ WH
+T$ E3
+GT$(H
+D$(H;
+L$HH3
+\$ WH
+T$ E3
+GT$(H
+D$(H;
+L$HH3
+\$ WH
+GT$(H
+D$(H;
+L$HH3
+\$ WH
+GT$(H
+D$(H;
+L$HH3
+|$ AVH
+|$ ATAVAWH
+ A_A^A\
+GL$ L
+L$@H3
+GL$ L
+L$@H3
+UWAWH
+D$ HcH
+D$ HcH
+L$ HcQ
+L$ HcQ
+SVWATAUAVAWH
+ A_A^A]A\_^[
+VWAVH
+t$8H;
+tDfff
+@A^_^
+VWAVH
+H+yxH
+t$8H;
+@A^_^
+D$(fD
+p WAVAWH
+t$0H+
+=RSDS
+=LEpBuDH
+A_A^_
+\$ WH
+D$(fD
+|$0H+
+\$ UVAWH
+ A_^]
+ A_^]
+WAVAWH
+Ap$"<
+@A_A^_
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+SVWATAUAVAWH
+tofff
+@A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+t$ WH
+t$8E3
+VWAVH
+ A^_^
+VWATAVAWH
+UUUUUUU
+D$XI;
+ A_A^A\_^
+t$0H+
+t$0H+
+|$0H+
+l$0H+
+t$0H+
+u2fff
+UVWATAUAVAWH
+MDMPth
+A_A^A]A\_^]
+U(H;U0t
+UUUUUUU
+D$09x s
+;z s\M9n
+)D$0L
+@USVWATAUAVAWH
+|$PE3
+L$0H+
+T$@H+
+A_A^A]A\_^[]
+@SUVWAVH
+A^_^][
+A^_^][
+VWAVH
+t$ WH
+\$ UVWATAUAVAWH
+UXH;U`t
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+fffffff
+D$09p
+)D$0L
+fffffff
+|$ UATAUAVAWH
+D$@9x s
+)D$@L
+A_A^A]A\]
+\$ UVWATAUAVAWH
+SpH;Sxt
+A_A^A]A\_^]
+VWAVH
+t$8H;
+@A^_^
+|$0I+
+t$ WAVAWH
+T$ L+
+D$0H+
+T$ L+
+T$0H+
+@A_A^_
+l$ VWATAVAWH
+T$PL+
+T$PL+
+ A_A^A\_^H
+@SVWATAUAVAWH
+t$PI;
+`A_A^A]A\_^[
+VWAVH
+\$0H;
+t7H;\$8t
+D$(H;
+T$8H+
+@A^_^
+|$ AVH
+@USVWATAVAWH
+pA_A^A\_^[]
+@USVWATAVAWH
+pA_A^A\_^[]
+SVWATAUAVAWH
+0A_A^A]A\_^[
+\$ UVWATAUAVAWH
+L$HH9]xvkH
+D$8H;
+L;uxr
+D$@L;
+A_A^A]A\_^]
+|$ ATAVAWH
+t$hE3
+ A_A^A\
+L$8H3
+L$0H3
+L$0H3
+t$ WAVAWH
+ A_A^_
+VWAVH
+VWAVH
+SVWATAUAVAWH
+@A_A^A]A\_^[
+VWAVH
+ A^_^
+ A^_^
+@USVWATAVAWH
+ETH9BHt
+A_A^A\_^[]
+@USVWATAVAWH
+EpH9BHt
+A_A^A\_^[]
+SVWATAUAVAWH
+ A_A^A]A\_^[
+VWAVH
+ A^_^
+t$8H+
+|$ AVH
+L$0H3
+l$ VWAVH
+(D$@f
+l$ VWAVH
+(D$@f
+UVWAVAWH
+(D$@f
+A_A^_^]
+UVWAVAWH
+(D$@f
+A_A^_^]
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+D$0E3
+D$0H9P r
+H9H(r
+I;A r
+A(H9G
+UUUUUUU
+)D$ L
+L$`H3
+L$`H3
+t$ UWAVH
+(D$0f
+|$ ATAVAWH
+ A_A^A\
+UVWATAUAVAWH
+(D$Pf
+(D$Pf
+(D$@f
+(D$@f
+A_A^A]A\_^]
+UVWATAUAVAWH
+(D$Pf
+(D$Pf
+(D$@f
+(D$@f
+A_A^A]A\_^]
+UVWATAUAVAWH
+(D$@f
+A_A^A]A\_^]
+(D$@f
+UVWATAUAVAWH
+(D$@f
+A_A^A]A\_^]
+(D$@f
+|$ ATAVAWH
+\$0E3
+)D$ L
+A_A^A\
+WAVAWH
+ A_A^_
+CPADinfoH
+;daPC
+CPADinfoH
+;daPC
+[ VWAVH
+CPADinfoI
+[ VWAVH
+CPADinfoI
+@SUVWAVH
+A^_^][
+@SUVWAVH
+A^_^][
+\$ UVWH
+\$ UVWH
+@USVWATAUAVAWH
+?RSDStv
+A_A^A]A\_^[]
+t$ UWAVH
+|$H\s
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWAVAWH
+L$XI;
+ A_A^_^[
+T$8H;C
+@SUVWAVAWH
+A_A^_^][
+WAVAWH
+D$ E3
+T$@H;
+T$HH+
+A_A^_
+UATAUAVAWH
+D$ E3
+\$PH;
+|$@I;
+T$XH+
+A_A^A]A\]
+@SVWH
+L$PH3
+h VWAVH
+p WAVAWH
+@HH9BHu
+A_A^_
+UVWAVAWH
+A_A^_^]
+UWAWH
+D$ HcH
+D$ HcH
+L$ HcQ
+L$ HcQ
+UWAWH
+D$ HcH
+D$ HcH
+L$ HcQ
+L$ HcQ
+|$ UATAUAVAWH
+8\$0tCH
+(D$`f
+D$XE;h
+A_A^A]A\]
+@SVWATAUAVAWH
+t$PI;
+`A_A^A]A\_^[
+L$0H;
+WAVAWH
+ A_A^_
+|$0I+
+t$0H+
+H9xHt
+@SUVWAVAWH
+\< A;
+L$ H+
+L$pH3
+A_A^_^][
+@SUVWAVAWH
+\< I;
+L$ H+
+A_A^_^][
+|$ UH
+|$ UH
+@SVWH
+@SVWH
+SVWATAUAVAWH
+t$@Mk
+t$XI;
+6HkL$(8I
+`A_A^A]A\_^[
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+SVWATAUAVAWH
+tofff
+@A_A^A]A\_^[
+SVWATAUAVAWH
+tofff
+@A_A^A]A\_^[
+SVWATAUAVAWH
+7HkL$(8H
+@A_A^A]A\_^[
+@SWAUAVH
+l$PE3
+(A^A]_[
+@UWAVAWH
+l$ E3
+(A_A^_]
+L$0H;
+L$0H;
+L$0H;
+|$0I+
+t$0H+
+l$0H+
+l$0H+
+VWAVH
+0A^_^
+t$ UWAVH
+t$ WH
+UVWAVAWH
+A_A^_^]
+UVWAVAWH
+A_A^_^]
+@SUVWATAVAWH
+A_A^A\_^][
+UVWAVAWH
+ A_A^_^]
+l$ VWATAVAWH
+ A_A^A\_^
+|$ UATAUAVAWH
+D$@;0
+A_A^A]A\]
+L$ SUVWH
+8_^][
+@SUVWAVAWH
+A_A^_^][
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWAVAWH
+A_A^_^[]
+|$ UAVAWH
+D$ HcH
+D$ HcH
+D$ HcH
+D$ HcH
+A_A^]
+@SAVH
+t$ UWAVH
+Patched,H
+Private,H
+Special,H
+UWATAVAWH
+A_A^A\_]
+\$ WH
+L$4E3
+L$pH3
+@SUVWAVH
+(D$ H
+(D$ H
+A^_^][
+D$@t H
+L$ UVWATAUAVAWH
+pA_A^A]A\_^]
+|$ UAVAWH
+D$ HcH
+D$ HcH
+D$ HcH
+D$ HcH
+A_A^]
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWATAUAVAWH
+tofff
+@A_A^A]A\_^[
+VWAVH
+ A^_^
+l$0H+
+@SUVWAVH
+ A^_^][
+|$ UH
+SVWATAUAVAWH
+ A_A^A]A\_^[
+L$ H+
+T$@H+
+UWAWH
+D$ HcH
+D$ HcH
+L$ HcQ
+L$ HcQ
+UWAWH
+D$ HcH
+D$ HcH
+L$ HcQ
+L$ HcQ
+UWAWH
+D$ HcH
+D$ HcH
+L$ HcQ
+L$ HcQ
+UWAWH
+D$ HcH
+D$ HcH
+L$ HcQ
+L$ HcQ
+UWAWH
+D$ HcH
+D$ HcH
+L$ HcQ
+L$ HcQ
+UWAWH
+D$ HcH
+D$ HcH
+L$ HcQ
+L$ HcQ
+SVWATAUAVAWH
+@A_A^A]A\_^[
+t$0H+
+VWAVH
+ A^_^
+WATAUAVAWH
+D$8E3
+A_A^A]A\_
+SVWATAUAVAWH
+ A_A^A]A\_^[
+l$ VWAVH
+D$HH+
+L$pH3
+L$@H3
+L$@H3
+t$ WH
+M9H s
+L;H s
+h VWAVH
+|$ UAVAWH
+D$ HcH
+D$ HcH
+D$ HcH
+D$ HcH
+A_A^]
+|$ UAVAWH
+D$ HcH
+D$ HcH
+D$ HcH
+D$ HcH
+A_A^]
+SVWATAUAVAWH
+@A_A^A]A\_^[
+t$0H+
+UVWAVAWH
+D$@9x
+)D$0L
+A_A^_^]
+UVWATAUAVAWH
+L$`E3
+t$8M;
+A_A^A]A\_^]
+WAVAWH
+MDMPH
+MDMPI
+ A_A^_
+T$8H;T$@t
+T$@H+
+t$ WH
+t$8E3
+VWAVH
+H;0u 
+|$ @8w
+@A^_^
+SVWAVAWH
+L$XI;
+ A_A^_^[
+UVWATAUAVAWH
+)D$`L
+l$PE3
+A_A^A]A\_^]
+H;T$@t
+T$@H+
+SVWATAUAVAWH
+UUUUUUU
+ A_A^A]A\_^[
+t$ WH
+H;T$@t
+T$@H+
+UWAWH
+D$ HcH
+D$ HcH
+L$ HcQ
+L$ HcQ
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+SVWATAUAVAWH
+0A_A^A]A\_^[
+UVWATAUAVAWH
+D$xL;
+0A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+WAVAWH
+ A_A^_
+UVWATAUAVAWH
+|$ I;
+t$(I;
+t$(I;
+l$ I;
+0A_A^A]A\_^]
+t$`H;
+d$xH;
+t$ WAVAWH
+t$8I+
+@A_A^_
+t$0H+
+t$0H+
+t$ WATAUAVAWH
+\$(I;
+D$ L;
+A_A^A]A\_
+s WATAUAVAWH
+D$ E3
+|$(I;
+D$ L;
+A_A^A]A\_
+l$ VWAVH
+T$8H;T$@t
+T$@H+
+VWATAVAWH
+A_A^A\_^
+WAVAWH
+t$@H+
+ A_A^_
+UVWAVAWH
+|$ E3
+wwwwA
+A_A^_^]
+L$ H+
+T$0H+
+SVWATAUAVAWH
+UUUUUUU
+ A_A^A]A\_^[
+SVWATAUAVAWH
+tofff
+@A_A^A]A\_^[
+l$0H+
+H+AxH
+H+nxH
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+PA_A^A]A\_^]
+D$ H+
+T$@H+
+SVWATAUAVAWH
+tofff
+@A_A^A]A\_^[
+CxNB10H
+CxRSDSH
+l$0H+
+L$XH3
+@SUVWATAVAWH
+ A_A^A\_^][
+t$ UWAVH
+\$ WH
+L$@H3
+t$ WH
+H+AxH
+T$@H+
+T$@H+
+D$HLEpBH
+D$ I+
+T$@H+
+L$PH3
+T$8H;T$@t
+T$@H+
+D$(H;T$@t
+T$@H+
+SVWATAUAVAWH
+@A_A^A]A\_^[
+SVWAVAWH
+L$XI;
+ A_A^_^[
+t$0H+
+VWAVH
+L$ H+
+T$@H+
+t$ WH
+t$8E3
+WATAUAVAWH
+)D$ L
+A_A^A]A\_
+VWAVH
+L$PH;S
+0A^_^
+UVWAVAWH
+ A_A^_^]
+T$8H;T$@t
+T$@H+
+t$ WH
+L$@H3
+T$@H+
+T$@H+
+|$ ATAVAWH
+ A_A^A\
+l$ VWAVH
+t$ WH
+|$ UATAUAVAWH
+H9Y s
+H;X r
+H9X s
+H;Y sZH
+UUUUUUU
+A_A^A]A\]
+H9Y s
+H;Z r
+H9X s
+H;Y sVH
+UUUUUUU
+SVWATAUAVAWH
+UUUUUUU
+ A_A^A]A\_^[
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWATAUAVAWH
+tofff
+@A_A^A]A\_^[
+VWAVH
+ A^_^
+VWAVH
+UUUUUUU
+ A^_^
+l$0H+
+UVWATAUAVAWH
+0A_A^A]A\_^]
+t$ WH
+H9Q s
+H;P s
+L$HH3
+t$ WH
+UWATAVAWH
+UUUUUUU
+A_A^A\_]
+SVWATAUAVAWH
+tofff
+@A_A^A]A\_^[
+l$0H+
+UVWATAUAVAWH
+T$8H+
+@A_A^A]A\_^]
+@SVWH
+M9H s
+L;H s
+T$8H;T$@t
+T$@H+
+SVWATAUAVAWH
+tofff
+@A_A^A]A\_^[
+l$0H+
+UVWAVAWH
+ A_A^_^]
+L$HH3
+t$ WH
+T$8H;T$@t
+T$@H+
+UWAWH
+D$ HcH
+D$ HcH
+L$ HcQ
+L$ HcQ
+UWAWH
+D$ HcH
+D$ HcH
+L$ HcQ
+L$ HcQ
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWATAUAVAWH
+ A_A^A]A\_^[
+|$(H;
+T$0H+
+QXH;Q`t
+Q@H;QHt
+Q(H;Q0t
+USVWATAUAVAWH
+C@H9C8
+C@H9C8
+CXH9CP
+|$8I;
+T$@H+
+A_A^A]A\_^[]
+|$(H;
+T$0H+
+@UWAVAWH
+l$ E3
+(A_A^_]
+@SUVWAVH
+A^_^][
+UVWATAUAVAWH
+\$0Ic
+PA_A^A]A\_^]
+\$ UVWATAUAVAWH
+T$8E3
+fD9*t
+fD9(u
+A_A^A]A\_^]
+l$ VWATAVAWH
+T$8H;T$Xu)H
+L$hH3
+A_A^A\_^
+L$pH3
+t$ WH
+L$pH3
+L+D$`
+L$@I;
+\$ VAVAWH
+d$`E3
+d$ E3
+0A_A^^
+l$ VWAVH
+L$PH3
+WAVAWH
+A_A^_
+(D$ f
+L$XH3
+L$ SVWH
+@VATAUAVAWH
+0A_A^A]A\^
+@SVWATAUAVAWH
+A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+t$ WH
+L$8H;
+L$PH3
+t$0H+
+t$0H+
+L$ E3
+L$@H3
+UVWAVAWH
+(D$@f
+V8H;V@t
+~PH;~XtcH
+A_A^_^]
+@SVWH
+t$ WH
+L$pH3
+L$HH3
+@USVWATAVAWH
+A_A^A\_^[]
+|$ UATAUAVAWH
+(D$`f
+)D$0L
+A_A^A]A\]
+t$ WH
+(t$ H
+L$PH3
+L$PH3
+GD$PH
+(D$0f
+L$@H3
+L$PH3
+UWAVH
+t$ WH
+D$ E3
+f94Au
+(D$@f
+\$ UVWATAUAVAWH
+L$PE3
+A_A^A]A\_^]
+L$ SH
+D$(sdPCH
+L$PH3
+L$PH3
+D$(sdPCH
+L$PH3
+L$PH3
+D$(sdPCH
+L$PH3
+L$PH3
+D$0sdPCH
+L$XH3
+D$ sdPCH
+L$HH3
+T$(E3
+UVWAVAWH
+@A_A^_^]
+;sdPCtn
+sdPCH
+t$ WH
+D$(sdPCH
+L$PH3
+D$(sdPCH
+L$PH3
+SVWATAUAVAWH
+ A_A^A]A\_^[
+WAVAWH
+\$0E3
+)D$ L
+PA_A^_
+v\,+<4w
+UVWATAUAVAWH
+D$(H;
+L;d$(
+L$XH3
+`A_A^A]A\_^]
+WAVAWH
+u+H;X
+ A_A^_
+UVWATAUAVAWH
+T$0E3
+t$ E3
+t$ E3
+T$HH;U
+t$ E3
+t$ E3
+T$HH;U
+T$HH;U
+T$HH;U
+|$ E3
+T$HH;U
+A_A^A]A\_^]
+\$ WH
+L$`H3
+t$ WH
+L$@H;
+GT$@L
+L$`H3
+UVWATAUAVAWH
+)D$ L
+A_A^A]A\_^]
+|$ ATAVAWH
+\$0E3
+)D$ L
+A_A^A\
+u1H;P
+M90u4
+WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+(D$pf
+l$ E3
+(D$pf
+|$ E3
+l$ E3
+(D$Pf
+l$ E3
+L$LE3
+A_A^A]A\_^]
+t$ WH
+L$ SUVWH
+8_^][
+VWATAVAWH
+ A_A^A\_^
+A(POST@
+WAVAWH
+ A_A^_
+VWATAVAWH
+\$@D8c
+A_A^A\_^
+@USVWATAUAVAWH
+r@w>H
+D$PH;
+L$8H;
+A_A^A]A\_^[]
+UVWATAUAVAWH
+D$(H;
+L;d$(
+L;d$(
+L;d$(
+L;d$(
+L$`H3
+pA_A^A]A\_^]
+@SVAVH
+ A^^[
+L$PH3
+|$ UAVAWH
+D$ HcH
+D$ HcH
+D$ HcH
+D$ HcH
+A_A^]
+@SVWATAUAVAWH
+"""""""
+t$8Lk
+6HkL$ xI
+`A_A^A]A\_^[
+@SVWATAUAVAWH
+`A_A^A]A\_^[
+SVWATAUAVAWH
+t$xHkt$ 8H
+0A_A^A]A\_^[
+VWAVH
+ A^_^
+L$0H;
+L$0H;
+t$ WH
+L$xH3
+@SVWH
+L$@H3
+@SUVWAVH
+(D$ f
+L$xH3
+A^_^][
+t$0H+
+l$ VWAVH
+T$(E3
+fF94Bu
+D$@fD
+D$`fD
+PH;{`t
+(D$ f
+L$PH3
+|$ UAVAWH
+fB9<Bu
+H9D$0
+A_A^]
+t$ WATAUAVAWH
+^PI;^X
+ A_A^A]A\_
+|$ UATAUAVAWH
+A_A^A]A\]
+VWAVH
+(D$@f
+(D$@f
+VWATAVAWH
+)D$ H;
+H;}Xu
+0A_A^A\_^
+(D$@f
+(D$@f
+t$ WH
+tF9sxu8
+t$ WAVAWH
+)D$ H;
+H;}Xu
+0A_A^_
+VWATAVAWH
+)D$ H;
+H;}Xu
+0A_A^A\_^
+@USVWATAVAWH
+A_A^A\_^[]
+WATAUAVAWH
+L$(E3
+0A_A^A]A\_
+L$`H3
+VWAVH
+0A^_^
+\$ UVWATAUAVAWH
+|$ E3
+A_A^A]A\_^]
+|$ UATAUAVAWH
+}pDAPC
+D$XE3
+\$@H;\$Ht H
+L$0@H
+D$8H;
+A_A^A]A\]
+l$ VWAVH
+L$(E3
+GT$0L
+t$ WATAUAVAWH
+0A_A^A]A\_
+L$@E3
+D$@@8xXt
+L$ E3
+L$pH3
+|$ UATAUAVAWH
+\$XI+\$PH
+E`DAPC
+|$HH;
+H;|$Pt+
+H;t$0
+\$@H+
+(D$0f
+L$PH+
+A_A^A]A\]
+l$ ATAVAWH
+ A_A^A\
+UWAWH
+D$ HcH
+D$ HcH
+L$ HcQ
+L$ HcQ
+UWAWH
+D$ HcH
+D$ HcH
+L$ HcQ
+L$ HcQ
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWATAUAVAWH
+ A_A^A]A\_^[
+VWAVH
+ A^_^
+@SWAVAWH
+(A_A^_[
+WATAUAVAWH
+ A_A^A]A\_
+VWATAVAWH
+t$0H;
+t$0H;
+@A_A^A\_^
+u&H;S
+|$8H;Q
+D$8H;S
+D$8H;S
+|$8H;S
+UVWATAUAVAWH
+t$ E3
+(D$@f
+A_A^A]A\_^]
+t$ UWATAVAWH
+H+|$h
+D$`IH
+D$xH;
+D$`AH
+D$xH;
+T$pH;T$xt
+T$pH;T$xt
+D$`HH
+D$xH;
+\$pH;\$xt
+H;\$x
+H+|$h
+D$`hH;T$xt
+D$`jH
+D$xH;
+D$`jH;
+D$`hH;
+H+D$hH+
+H;T$xt
+\$pH;\$xt
+H;\$xt
+|$hH+
+T$xH+
+A_A^A\_]
+|$ UH
+t$ WH
+t$ UWAVH
+L$`H3
+L$`H3
+|$ UAVAWH
+A_A^]
+|$ UATAUAVAWH
+databaseH
+L$pH;
+T$hH;
+T$hH;
+T$hH;
+|$`I+
+D$pM+
+A_A^A]A\]
+|$0H+
+daPCH
+|$ AVH
+@SUWH
+d$HLi
+|$XLk
+FPI9FP~ H
+GPH9FP~
+GPH9CP~
+CPI9FP~ H
+GPH9CP~
+FPH9GP~
+GPH9EP~ H
+FPH9GP~
+t$PH9CP~
+CPH9GP~ H
+FPH9CP~
+APH9CP~
+CPH9EP~
+GPH9CP~
+SVWATAUAVAWH
+"""""""
+L$(L+
+t$XH;
+>HkD$(xI
+`A_A^A]A\_^[
+`A_A^A]A\_^[
+|$ UATAUAVAWH
+GPH9E
+A_A^A]A\]
+UVWATAUAVAWH
+)D$ I
+)D$PA
+)L$`I
+D$pH9D+P~hIk
+A_A^A]A\_^]
+\$ UVWATAUAVAWH
+GPH;C 
+T$ L;
+)D$@I
+)D$pA
+d$(L;
+)D$@H
+)D$@H
+(D$@A
+)D$@H
+)D$@I
+)L$pA
+(D$@A
+A_A^A]A\_^]
+UVWATAWH
+t$Xu A
+l$PM;
+xH9D+P~h
+ A_A\_^]
+\$ UVWATAUAVAWH
+t$8I+
+A_A^A]A\_^]
+)D$@H
+|$ UH
+\$0M+
+UVWATAUAVAWH
+D$XI+
+L$8L+
+D$PH;
+xH;t$P
+A_A^A]A\_^]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+|$ AVH
+l$@H;
+t$PH;
+L$0H+
+|$8H;
+T$@H+
+WATAUAVAWH
+A_A^A]A\_
+L$ SWAVH
+@A^_[
+D$0L9P s
+fffffff
+)D$ H
+UVWATAUAVAWH
+A_A^A]A\_^]
+Et$`H
+\$ UVWATAUAVAWH
+t$ E3
+A_A^A]A\_^]
+UVWATAUAVAWH
+H;y s
+D$PH;
+A_A^A]A\_^]
+|$ UAVAWH
+G(H9E
+D$pE3
+A_A^]
+u1H;P
+M90u4
+@USVWH
+t$ E3
+|$ AVH
+WAVAWH
+ A_A^_
+SVWATAUAVAWH
+t$xMi
+>HiL$ 
+0A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+L$`H3
+L$`H3
+L$ SUVWH
+H_^][
+L$ SUVWH
+H_^][
+|$0H+
+@SUVH
+|$ UATAUAVAWH
+t$ E3
+A_A^A]A\]
+H9i udL
+|$ UH
+t$0H9q
+fB94@u
+\$ UVWATAUAVAWH
+D$@E3
+G\$@H
+H;\$0
+H;\$0
+G\$@H
+G\$@H
+H;\$0
+G\$@H
+A_A^A]A\_^]
+|$ UAVAWH
+A_A^]
+t$ UWAVH
+VWAVH
+t$ UWATAVAWH
+A_A^A\_]
+t$@E3
+uIL9v0u
+t$0E3
+t$hE3
+G@H;GHt
+VWAVH
+u&H9P s
+H9Q(w
+VWAVH
+H9P s
+D$xH;
+D$0L9@ s
+L;A scH
+UUUUUUU
+)D$ L
+PA^_^
+u1H;P
+M90u4
+@SUVWATAVAW
+A_A^A\_^][
+@SUVWAVH
+|$40tP
+A^_^][
+UWAWH
+D$ HcH
+D$ HcH
+L$ HcQ
+L$ HcQ
+@USVWATAVAWH
+A_A^A\_^[]
+_HH;_Pt+H
+@USVWATAVAWH
+A_A^A\_^[]
+_HH;_Pt+H
+|$0Htt
+|$0$tt
+|$0@tt
+WATAUAVAWH
+t$0t;H
+@A_A^A]A\_
+SVWATAUAVAWH
+t$@Mk
+t$XI;
+6HkL$(8I
+`A_A^A]A\_^[
+@SVWATAUAVAWH
+t$8Lk
+6HkL$ 8I
+`A_A^A]A\_^[
+SVWATAUAVAWH
+UUUUUUU
+ A_A^A]A\_^[
+SVWATAUAVAWH
+ A_A^A]A\_^[
+SVWATAUAVAWH
+UUUUUUU
+ A_A^A]A\_^[
+SVWATAUAVAWH
+ A_A^A]A\_^[
+L$0H;
+L$0H;
+UVWATAUAVAWH
+T$pE3
+T$hH;
+|$XH;|$`tDH
+A_A^A]A\_^]
+UVWATAUAVAWH
+\$@thH
+l$8L;
+D$@L;
+D$PE3
+L$xI;
+\$(I;
+-H;\$0t
+A_A^A]A\_^]
+x AVH
+t$ WH
+D$@H;
+T$HH+
+VWAVH
+l$ VWAVH
+W`H;Wht
+|$0I+
+UWAWH
+D$ HcH
+D$ HcH
+L$ HcQ
+L$ HcQ
+@USVWAVAWH
+D$8L;D$@
+T$HH+
+A_A^_^[]
+VWAVH
+D$0H;
+L$`H3
+t$ WH
+|$ AVH
+H9T$0u
+|$ AVH
+H9T$0u
+8"t,H
+H9L$0u
+8"t,H
+H9L$0u
+8"t-H
+H9L$0u
+8"t,H
+H9L$0u
+t$ UWAVH
+(D$`f
+(D$@f
+UWAWH
+D$ HcH
+D$ HcH
+L$ HcQ
+L$ HcQ
+VWAVH
+t$ WH
+GL$0H
+L$PH3
+VWAVH
+t$ WH
+:.u#f
+(D$Pf
+L$`E3
+(D$Pf
+(D$@f
+(D$@f
+D$ E3
+(D$@f
+(D$@f
+(D$@f
+(D$@f
+(D$@f
+(D$@f
+(D$@f
+(D$@f
+WATAVH
+t$(E3
+0A^A\_
+UVWAVAWH
+A_A^_^]
+VWATAVAWH
+A_A^A\_^
+L$(E3
+(D$@f
+(D$@f
+(D$@f
+L$0E3
+VWAVH
+t$ L;
+WAVAWH
+ A_A^_
+O H;O
+UWAWH
+D$ HcH
+D$ HcH
+L$ HcQ
+L$ HcQ
+t$ WH
+l$ VWATAVAWH
+A_A^A\_^
+D$@H;V
+t$ WH
+D$0L;
+D$0L;
+t$ WH
+<-uZE3
+D$0L;
+D$0L;
+t$ WH
+4333333
+D$0L;
+D$0L;
+t$ WH
+<-ukE3
+D$0L;
+D$0L;
+t$ WH
+<-uZE3
+D$0L;
+D$0L;
+D$ E3
+@SWAVAWH
+(A_A^_[
+@SWAVH
+ A^_[
+l$Hs-A
+<?w!A
+l$0E3
+t$8H+
+@SWAVAWH
+(A_A^_[
+@VWATAVAWH
+T$ E3
+fD9;u
+;"u6H
+|$ E3
+A_A^A\_^
+\$ E3
+HHH9J
+t$ WH
+VWAVH
+ Hc*H
+@SUAWH
+t$XD+`
+0A_][
+0A_][
+0A_][
+WATAUAVAWH
+ A_A^A]A\_
+WATAUAVAWH
+ A_A^A]A\_
+@WATH
+c@9s(t7H
+C(H9p
+C09p<t
+C0H9p
+D+{8D
+C(9p<t
+C(9p<t
+C0H9p 
+C09p<t
+C09p<t
+C0H9p0
+C09p<t
+C09p<t
+C09p<tR
+C,9s(@
+F H+F
+UVWATAWH
+O H9O0u
+G0H9O8u
+ A_A\_^]
+ A_A\_^]
+|$ AVH
+@SUVWAVH
+ A^_^][
+ A^_^][
+t$ WATAWH
+ A_A\_
+t$ WATAUAVAWD
+l$@A;
+A_A^A]A\_
+WAVAWH
+ A_A^_
+SUVWH
+l$8ff
+D$pD;
+H_^][
+H_^][
+@UVWAUAWH
+\$8L+
+thHc\$0
+\$8A_A]_^]
+L$@H3
+WAVAWH
+ A_A^_
+\$0E3
+)t$ H
+(t$ H
+USVWH
+t"fff
+t$fff
+t#fff
+t-fff
+t-fff
+t,fff
+t,fff
+t'fff
+t'fff
+t(fff
+t(fff
+t-fff
+t-fff
+t,fff
+t,fff
+t'fff
+t'fff
+t(fff
+t(fff
+)|$0D
+(t$@H
+t$pt2I;
+)|$ D
+(t$0H
+|$@t9I;
+tlfff
+)t$@H
+)D$ fD
+(t$@H
+(D$ H
+|$Pt?I;
+\$0t5I;
+thfff
+)|$0D
+(t$@H
+t$pt2I;
+)|$ D
+(t$0H
+|$@t9I;
+tlfff
+)t$@H
+)D$ fD
+(t$@H
+(D$ H
+|$Pt?I;
+\$0t6I;
+tXfff
+X UVWH
+)|$pA
+)D$`M;
+)L$PA
+)T$@M
+)\$0H
+)d$ E
+(d$ D
+(\$0D
+(T$@D
+(L$PD
+)t$pA
+)|$`I;
+)D$PA
+)L$@I
+)T$0H
+)\$ E
+(\$ D
+(T$0D
+(L$@D
+(t$pL
+SUVWH
+)|$pI
+)D$`M;
+)L$PA
+)T$@H
+)\$0fD
+(T$@D
+(L$PD
+(\$0L
+L$ H3
+VWAWH
+)t$`L
+)|$PH
+)L$0fA
+)T$ E
+(D$@fH
+(|$Pf
+(t$`fE
+(L$0fL
+(T$ f
+D$(H;
+D$(H;
+tWfff
+thfff
+D$0H;
+D$0H;
+T$0H;
+T$0H;
+L$0fD
+T$0I;
+L$0I;
+T$0I;
+L$0I;
+t fff
+mtH I
+muH I
+mvH I
+u fff
+m)H H
+u fff
+mtH I
+muH I
+mvH I
+u fff
+x AVH
+LcA<A
+HcA<H
+D$H9D$ s"
+\$ WH
+@SVWH
+WAVAWH
+0A_A^_
+SVWAVH
+8A^_^[
+WAVAWH
+\$8H;
+A_A^_
+ntelA
+ineID
+ED$`H
+u/HcH<H
+M H1E
+ H3E H3E
+SUVWH
+SUVWH
+Unknown exception
+bad array new length
+string too long
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\handler\crash_report_upload_thread.cc
+upload_file_minidump
+product
+version
+, discarding value 
+reserved key 
+enum crashpad::CrashReportUploadThread::UploadResult __cdecl crashpad::CrashReportUploadThread::UploadReport(const class crashpad::CrashReportDatabase::UploadReport *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *)
+application/octet-stream
+%c%s=%s
+vector too long
+map/set too long
+Usage: %ls [OPTION]...
+Crashpad's exception handler server.
+      --annotation=KEY=VALUE  set a process annotation in each crash report
+      --attachment=FILE_PATH  attach specified file to each crash report
+                              at the time of the crash
+      --database=PATH         store the crash report database at PATH
+      --initial-client-data=HANDLE_request_crash_dump,
+                            HANDLE_request_non_crash_dump,
+                            HANDLE_non_crash_dump_completed,
+                            HANDLE_pipe,
+                            HANDLE_client_process,
+                            Address_crash_exception_information,
+                            Address_non_crash_exception_information,
+                            Address_debug_critical_section
+                              use precreated data to register initial client
+      --metrics-dir=DIR       store metrics files in DIR (only in Chromium)
+      --monitor-self          run a second handler to catch crashes in the first
+      --monitor-self-annotation=KEY=VALUE
+                              set a module annotation in the handler
+      --monitor-self-argument=ARGUMENT
+                              provide additional arguments to the second handler
+      --no-identify-client-via-url
+                              when uploading crash report, don't add
+                              client-identifying arguments to URL
+      --no-periodic-tasks     don't scan for new reports or prune the database
+      --no-rate-limit         don't rate limit crash uploads
+      --no-upload-gzip        don't use gzip compression when uploading
+      --pipe-name=PIPE        communicate with the client over PIPE
+      --url=URL               send crash reports to this Breakpad server URL,
+                              only if uploads are enabled for the database
+      --help                  display this help and exit
+      --version               output version information and exit
+ requires KEY=VALUE
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\handler\handler_main.cc
+bool __cdecl crashpad::`anonymous-namespace'::AddKeyValueToMap(class std::map<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >,class std::allocator<struct std::pair<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const ,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > > *,const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,const char *)
+ has duplicate key 
+--monitor-self
+--monitor-self-argument=--monitor-self is not supported
+void __cdecl crashpad::`anonymous-namespace'::MonitorSelf(const struct crashpad::`anonymous-namespace'::Options &)
+--no-identify-client-via-url
+--no-periodic-tasks
+--no-rate-limit
+--no-upload-gzip
+--monitor-self-annotation=%s=%s
+annotation
+attachment
+database
+initial-client-data
+metrics-dir
+monitor-self
+monitor-self-annotation
+monitor-self-argument
+no-identify-client-via-url
+no-periodic-tasks
+no-rate-limit
+no-upload-gzip
+pipe-name
+--annotation
+failed to parse --initial-client-data
+--monitor-self-annotation
+--initial-client-data or --pipe-name is required
+--initial-client-data and --pipe-name are incompatible
+--database is required
+SetProcessShutdownParameters
+int __cdecl crashpad::HandlerMain(int,char *[],const class std::vector<class std::unique_ptr<class crashpad::UserStreamDataSource,struct std::default_delete<class crashpad::UserStreamDataSource> >,class std::allocator<class std::unique_ptr<class crashpad::UserStreamDataSource,struct std::default_delete<class crashpad::UserStreamDataSource> > > > *)
+ vs. 
+duplicate key 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\handler\minidump_to_upload_parameters.cc
+void __cdecl crashpad::`anonymous-namespace'::InsertOrReplaceMapEntry(class std::map<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >,class std::allocator<struct std::pair<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const ,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > > *,const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+class std::map<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >,class std::allocator<struct std::pair<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const ,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > > __cdecl crashpad::BreakpadHTTPFormParametersFromMinidump(const class crashpad::ProcessSnapshot *)
+duplicate annotation name 
+list_annotations
+_backtrace_internal_guid_override
+invalid map<K, T> key
+AddUserExtensionStream failed
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\handler\user_stream_data_source.cc
+void __cdecl crashpad::AddUserExtensionStreams(const class std::vector<class std::unique_ptr<class crashpad::UserStreamDataSource,struct std::default_delete<class crashpad::UserStreamDataSource> >,class std::allocator<class std::unique_ptr<class crashpad::UserStreamDataSource,struct std::default_delete<class crashpad::UserStreamDataSource> > > > *,class crashpad::ProcessSnapshot *,class crashpad::MinidumpFileWriter *)
+PrepareNewCrashReport failed
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\handler\win\crash_report_exception_handler.cc
+unsigned int __cdecl crashpad::CrashReportExceptionHandler::ExceptionHandlerServerException(void *,unsigned __int64,unsigned __int64)
+WriteEverything failed
+ couldn't be opened, skipping
+attachment 
+ couldn't be created, skipping
+FinishedWritingCrashReport failed
+Copyright 2018 The Crashpad Authors
+0.8.0
+Crashpad
+%ls (%s) %s
+https://crashpad.chromium.org/
+https://crashpad.chromium.org/bug/new
+Report %ls bugs to
+%s home page: <%s>
+%ls: %s
+Try '%ls --help' for more information.
+unaligned range
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\capture_memory.cc
+void __cdecl crashpad::internal::CaptureMemory::PointedToByMemoryRange(const class crashpad::MemorySnapshot &,class crashpad::internal::CaptureMemory::Delegate *)
+ReadMemory
+unknown TriState 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\crashpad_info_client_options.cc
+enum crashpad::TriState __cdecl crashpad::CrashpadInfoClientOptions::TriStateFromCrashpadInfo(unsigned char)
+duplicate simple annotation 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\crashpad_types\image_annotation_reader.cc
+bool __cdecl crashpad::ImageAnnotationReader::SimpleMap(unsigned __int64,class std::map<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >,class std::allocator<struct std::pair<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const ,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > > *) const
+could not read annotation list
+bool __cdecl crashpad::ImageAnnotationReader::ReadAnnotationList<struct crashpad::Traits64>(unsigned __int64,class std::vector<struct crashpad::AnnotationSnapshot,class std::allocator<struct crashpad::AnnotationSnapshot> > *) const
+could not read annotation at index 
+could not read annotation name at index 
+could not read annotation value at index 
+bool __cdecl crashpad::ImageAnnotationReader::ReadAnnotationList<struct crashpad::Traits32>(unsigned __int64,class std::vector<struct crashpad::AnnotationSnapshot,class std::allocator<struct crashpad::AnnotationSnapshot> > *) const
+invalid empty range at 0x%I64x
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\memory_snapshot.cc
+bool __cdecl crashpad::`anonymous-namespace'::DetermineMergedRangeImpl(bool,const class crashpad::MemorySnapshot *,const class crashpad::MemorySnapshot *,class crashpad::CheckedRange<unsigned __int64,unsigned __int64> *)
+invalid range at 0x%I64x, size %Iu
+ranges not overlapping or abutting: (0x%I64x, size %Iu) and (0x%I64x, size %Iu)
+annotation list size mismatch
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\minidump\minidump_annotation_reader.cc
+bool __cdecl crashpad::internal::ReadMinidumpAnnotationList(class crashpad::FileReaderInterface *,const struct _MINIDUMP_LOCATION_DESCRIPTOR &,class std::vector<struct crashpad::AnnotationSnapshot,class std::allocator<struct crashpad::AnnotationSnapshot> > *)
+annotation object size mismatch
+simple_string_dictionary size mismatch
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\minidump\minidump_simple_string_dictionary_reader.cc
+bool __cdecl crashpad::internal::ReadMinidumpSimpleStringDictionary(class crashpad::FileReaderInterface *,const struct _MINIDUMP_LOCATION_DESCRIPTOR &,class std::map<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >,class std::allocator<struct std::pair<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const ,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > > *)
+string_list size mismatch
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\minidump\minidump_string_list_reader.cc
+bool __cdecl crashpad::internal::ReadMinidumpStringList(class crashpad::FileReaderInterface *,const struct _MINIDUMP_LOCATION_DESCRIPTOR &,class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > *)
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\minidump\module_snapshot_minidump.cc
+bool __cdecl crashpad::internal::ModuleSnapshotMinidump::InitializeModuleCodeView(class crashpad::FileReaderInterface *)
+CodeView record in module too small to contain signature
+CodeView record in module marked as PDB70 but too small
+CodeView record marked as PDB70 missing NUL-terminator in pdb_name
+Bad CodeView signature in module
+minidump_module_crashpad_info size mismatch
+bool __cdecl crashpad::internal::ModuleSnapshotMinidump::InitializeModuleCrashpadInfo(class crashpad::FileReaderInterface *,const struct _MINIDUMP_LOCATION_DESCRIPTOR *)
+minidump_module_crashpad_info version mismatch
+minidump signature mismatch
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\minidump\process_snapshot_minidump.cc
+bool __cdecl crashpad::ProcessSnapshotMinidump::Initialize(class crashpad::FileReaderInterface *)
+minidump version mismatch
+duplicate streams for type 
+crashpad_info size mismatch
+bool __cdecl crashpad::ProcessSnapshotMinidump::InitializeCrashpadInfo(void)
+crashpad_info version mismatch
+misc_info size mismatch
+bool __cdecl crashpad::ProcessSnapshotMinidump::InitializeMiscInfo(void)
+module_list size mismatch
+bool __cdecl crashpad::ProcessSnapshotMinidump::InitializeModules(void)
+module_crashpad_info_list size mismatch
+bool __cdecl crashpad::ProcessSnapshotMinidump::InitializeModulesCrashpadInfo(class std::map<unsigned int,struct _MINIDUMP_LOCATION_DESCRIPTOR,struct std::less<unsigned int>,class std::allocator<struct std::pair<unsigned int const ,struct _MINIDUMP_LOCATION_DESCRIPTOR> > > *)
+duplicate module_crashpad_info_list minidump_module_list_index 
+memory_info_list size mismatch
+bool __cdecl crashpad::ProcessSnapshotMinidump::InitializeMemoryInfo(void)
+memory_list size mismatch
+bool __cdecl crashpad::ProcessSnapshotMinidump::InitializeExtraMemory(void)
+thread_list size mismatch
+bool __cdecl crashpad::ProcessSnapshotMinidump::InitializeThreads(void)
+thread_name_list size mismatch
+bool __cdecl crashpad::ProcessSnapshotMinidump::InitializeThreadNames(void)
+system info size mismatch
+bool __cdecl crashpad::ProcessSnapshotMinidump::InitializeSystemSnapshot(void)
+ at index 
+Failed to read stream with ID 0x
+bool __cdecl crashpad::ProcessSnapshotMinidump::InitializeCustomMinidumpStreams(void)
+bool __cdecl crashpad::ProcessSnapshotMinidump::InitializeExceptionSnapshot(void)
+invalid string position
+Failed to read allowed memory ranges
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\sanitized\sanitization_information.cc
+bool __cdecl crashpad::ReadAllowedMemoryRanges(const class crashpad::ProcessMemoryRange &,unsigned __int64,class std::vector<struct std::pair<unsigned __int64,unsigned __int64>,class std::allocator<struct std::pair<unsigned __int64,unsigned __int64> > > *)
+list exceeded maximum, size=
+ length=
+Invalid range: base=
+Unsetting invalid TriState 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\crashpad_types\crashpad_info_reader.cc
+void __cdecl crashpad::`anonymous-namespace'::UnsetIfNotValidTriState(enum crashpad::TriState *)
+invalid signature 0x
+bool __cdecl crashpad::CrashpadInfoReader::InfoContainerSpecific<struct crashpad::Traits32>::Read(const class crashpad::ProcessMemoryRange *,unsigned __int64)
+large crashpad info size 
+unexpected version 
+bool __cdecl crashpad::CrashpadInfoReader::InfoContainerSpecific<struct crashpad::Traits64>::Read(const class crashpad::ProcessMemoryRange *,unsigned __int64)
+different process_memory_ for snapshots
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot/memory_snapshot_generic.h
+const class crashpad::MemorySnapshot *__cdecl crashpad::internal::MemorySnapshotGeneric::MergeWithOtherSnapshot(const class crashpad::MemorySnapshot *) const
+GetEnabledXStateFeatures
+non-x64 context
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\win\cpu_context_win.cc
+void __cdecl crashpad::InitializeX64Context(const struct _CONTEXT *,struct crashpad::CPUContextX86_64 *)
+non-x86 context
+void __cdecl crashpad::`anonymous-namespace'::CommonInitializeX86Context<struct _WOW64_CONTEXT>(const struct _WOW64_CONTEXT *,struct crashpad::CPUContextX86 *)
+ not found in process
+thread ID 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\win\exception_snapshot_win.cc
+bool __cdecl crashpad::internal::ExceptionSnapshotWin::Initialize(class crashpad::ProcessReaderWin *,unsigned long,unsigned __int64,unsigned int *)
+EXCEPTION_POINTERS read failed
+bool __cdecl crashpad::internal::ExceptionSnapshotWin::InitializeFromExceptionPointers<struct _EXCEPTION_RECORD64,struct crashpad::process_types::EXCEPTION_POINTERS<struct crashpad::process_types::internal::Traits64>,struct _CONTEXT>(class crashpad::ProcessReaderWin *,unsigned __int64,unsigned long,void (__cdecl *)(const struct _CONTEXT *,struct crashpad::CPUContext *,union crashpad::internal::CPUContextUnion *))
+null ExceptionRecord
+ExceptionRecord
+ not found
+thread 
+dropping chained ExceptionRecord
+ContextRecord
+bool __cdecl crashpad::internal::ExceptionSnapshotWin::InitializeFromExceptionPointers<struct _EXCEPTION_RECORD32,struct crashpad::process_types::EXCEPTION_POINTERS<struct crashpad::process_types::internal::Traits32>,struct _WOW64_CONTEXT>(class crashpad::ProcessReaderWin *,unsigned __int64,unsigned long,void (__cdecl *)(const struct _WOW64_CONTEXT *,struct crashpad::CPUContext *,union crashpad::internal::CPUContextUnion *))
+could not read simple address_ranges from 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\win\module_snapshot_win.cc
+void __cdecl crashpad::internal::ModuleSnapshotWin::GetCrashpadExtraMemoryRanges<struct crashpad::process_types::internal::Traits64>(class std::set<class crashpad::CheckedRange<unsigned __int64,unsigned __int64>,struct std::less<class crashpad::CheckedRange<unsigned __int64,unsigned __int64> >,class std::allocator<class crashpad::CheckedRange<unsigned __int64,unsigned __int64> > > *) const
+void __cdecl crashpad::internal::ModuleSnapshotWin::GetCrashpadExtraMemoryRanges<struct crashpad::process_types::internal::Traits32>(class std::set<class crashpad::CheckedRange<unsigned __int64,unsigned __int64>,struct std::less<class crashpad::CheckedRange<unsigned __int64,unsigned __int64> >,class std::allocator<class crashpad::CheckedRange<unsigned __int64,unsigned __int64> > > *) const
+could not read user data stream entry from 
+void __cdecl crashpad::internal::ModuleSnapshotWin::GetCrashpadUserMinidumpStreams<struct crashpad::process_types::internal::Traits64>(class std::vector<class std::unique_ptr<class crashpad::UserMinidumpStream const ,struct std::default_delete<class crashpad::UserMinidumpStream const > >,class std::allocator<class std::unique_ptr<class crashpad::UserMinidumpStream const ,struct std::default_delete<class crashpad::UserMinidumpStream const > > > > *) const
+void __cdecl crashpad::internal::ModuleSnapshotWin::GetCrashpadUserMinidumpStreams<struct crashpad::process_types::internal::Traits32>(class std::vector<class std::unique_ptr<class crashpad::UserMinidumpStream const ,struct std::default_delete<class crashpad::UserMinidumpStream const > >,class std::allocator<class std::unique_ptr<class crashpad::UserMinidumpStream const ,struct std::default_delete<class crashpad::UserMinidumpStream const > > > > *) const
+could not read simple annotations from 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\win\pe_image_annotations_reader.cc
+void __cdecl crashpad::PEImageAnnotationsReader::ReadCrashpadSimpleAnnotations<struct crashpad::process_types::internal::Traits64>(class std::map<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >,class std::allocator<struct std::pair<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const ,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > > *) const
+void __cdecl crashpad::PEImageAnnotationsReader::ReadCrashpadSimpleAnnotations<struct crashpad::process_types::internal::Traits32>(class std::map<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >,class std::allocator<struct std::pair<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const ,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > > *) const
+could not read annotations list object in 
+void __cdecl crashpad::PEImageAnnotationsReader::ReadCrashpadAnnotationsList<struct crashpad::process_types::internal::Traits64>(class std::vector<struct crashpad::AnnotationSnapshot,class std::allocator<struct crashpad::AnnotationSnapshot> > *) const
+void __cdecl crashpad::PEImageAnnotationsReader::ReadCrashpadAnnotationsList<struct crashpad::process_types::internal::Traits32>(class std::vector<struct crashpad::AnnotationSnapshot,class std::allocator<struct crashpad::AnnotationSnapshot> > *) const
+could not read data directory from 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\win\pe_image_reader.cc
+bool __cdecl crashpad::PEImageReader::DebugDirectoryInformation(struct crashpad::UUID *,unsigned long *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *) const
+CodeView debug entry of unexpected size in 
+could not read debug directory from 
+encountered non-7.0 CodeView debug record in 
+ too small for structure of size 
+version info size 
+bool __cdecl crashpad::PEImageReader::VSFixedFileInfo(struct tagVS_FIXEDFILEINFO *) const
+could not read version info from 
+unexpected VS_VERSIONINFO in 
+unexpected VS_FIXEDFILEINFO in 
+small crashpad info section size 
+bool __cdecl crashpad::PEImageReader::GetCrashpadInfoSectionInternal<struct crashpad::process_types::internal::Traits64>(unsigned __int64 *,unsigned __int64 *) const
+bool __cdecl crashpad::PEImageReader::GetCrashpadInfoSectionInternal<struct crashpad::process_types::internal::Traits32>(unsigned __int64 *,unsigned __int64 *) const
+bool __cdecl crashpad::PEImageReader::GetCrashpadInfo<struct crashpad::process_types::internal::Traits32>(struct crashpad::process_types::CrashpadInfo<struct crashpad::process_types::internal::Traits32> *) const
+could not read crashpad info from 
+unexpected crashpad info signature 0x%x, version %u in %s
+ large for section size 
+crashpad info struct size 
+bool __cdecl crashpad::PEImageReader::GetCrashpadInfo<struct crashpad::process_types::internal::Traits64>(struct crashpad::process_types::CrashpadInfo<struct crashpad::process_types::internal::Traits64> *) const
+supplied section name too long 
+bool __cdecl crashpad::PEImageReader::GetSectionByName<struct _IMAGE_NT_HEADERS64>(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,struct _IMAGE_SECTION_HEADER *) const
+ from 
+could not read section 
+bool __cdecl crashpad::PEImageReader::GetSectionByName<struct _IMAGE_NT_HEADERS>(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,struct _IMAGE_SECTION_HEADER *) const
+could not read dos header from 
+bool __cdecl crashpad::PEImageReader::ReadNtHeaders<struct _IMAGE_NT_HEADERS64>(struct _IMAGE_NT_HEADERS64 *,unsigned __int64 *) const
+invalid e_magic in dos header of 
+could not read nt headers from 
+invalid signature in nt headers of 
+bool __cdecl crashpad::PEImageReader::ReadNtHeaders<struct _IMAGE_NT_HEADERS>(struct _IMAGE_NT_HEADERS *,unsigned __int64 *) const
+resources
+could not read resource data entry from 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\win\pe_image_resource_reader.cc
+bool __cdecl crashpad::PEImageResourceReader::FindResourceByID(unsigned short,unsigned short,unsigned short,unsigned __int64 *,unsigned __int64 *,unsigned int *) const
+directory for entry id 
+expected 
+unsigned int __cdecl crashpad::PEImageResourceReader::GetEntryFromResourceDirectoryByID(unsigned int,unsigned short,bool) const
+expected non-directory for entry language 
+unsigned int __cdecl crashpad::PEImageResourceReader::GetEntryFromResourceDirectoryByLanguage(unsigned int,unsigned short) const
+expected non-directory for entry in 
+could not read resource directory from 
+bool __cdecl crashpad::PEImageResourceReader::ReadResourceDirectory(unsigned int,struct _IMAGE_RESOURCE_DIRECTORY *,class std::vector<struct _IMAGE_RESOURCE_DIRECTORY_ENTRY,class std::allocator<struct _IMAGE_RESOURCE_DIRECTORY_ENTRY> > *,class std::vector<struct _IMAGE_RESOURCE_DIRECTORY_ENTRY,class std::allocator<struct _IMAGE_RESOURCE_DIRECTORY_ENTRY> > *) const
+could not read resource directory named entries from 
+could not read resource directory ID entries from 
+GetThreadContext
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\win\process_reader_win.cc
+bool __cdecl crashpad::ProcessReaderWin::ThreadContext::InitializeNative(void *)
+Wow64GetThreadContext
+bool __cdecl crashpad::ProcessReaderWin::ThreadContext::InitializeWow64(void *)
+::InitializeContext2
+InitializeContext2 - getting required size
+bool __cdecl crashpad::ProcessReaderWin::ThreadContext::InitializeXState(void *,unsigned __int64)
+InitializeContext2 - initializing
+GetProcessTimes
+bool __cdecl crashpad::ProcessReaderWin::StartTime(struct timeval *) const
+bool __cdecl crashpad::ProcessReaderWin::CPUTimes(struct timeval *,struct timeval *) const
+couldn't retrieve modules
+const class std::vector<struct crashpad::ProcessInfo::Module,class std::allocator<struct crashpad::ProcessInfo::Module> > &__cdecl crashpad::ProcessReaderWin::Modules(void)
+void __cdecl crashpad::ProcessReaderWin::ReadThreadData<struct crashpad::process_types::internal::Traits64>(bool)
+NtQueryInformationThread
+invalid stack range: 
+::GetThreadDescription
+GetThreadDescription: 
+struct crashpad::process_types::SYSTEM_PROCESS_INFORMATION<struct crashpad::process_types::internal::Traits64> *__cdecl crashpad::`anonymous-namespace'::GetProcessInformation<struct crashpad::process_types::internal::Traits64>(void *,class std::unique_ptr<unsigned char [0],struct std::default_delete<unsigned char [0]> > *)
+NtQuerySystemInformation
+process 
+NtOpenThread
+void *__cdecl crashpad::`anonymous-namespace'::OpenThread<struct crashpad::process_types::internal::Traits64>(const struct crashpad::process_types::SYSTEM_THREAD_INFORMATION<struct crashpad::process_types::internal::Traits64> &)
+bool __cdecl crashpad::`anonymous-namespace'::FillThreadContextAndSuspendCount<struct crashpad::process_types::internal::Traits64>(void *,struct crashpad::ProcessReaderWin::Thread *,enum crashpad::ProcessSuspensionState,bool)
+SuspendThread
+ should be suspended, but previous_suspend_count is 
+Thread 
+ResumeThread
+ReadMemory ExceptionInformation failed
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\win\process_snapshot_win.cc
+bool __cdecl crashpad::ProcessSnapshotWin::Initialize(void *,enum crashpad::ProcessSuspensionState,unsigned __int64,unsigned __int64)
+current time construction failed
+const void __cdecl crashpad::ProcessSnapshotWin::GetProcessName(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > *)
+reading unloaded modules across bitness not currently supported
+void __cdecl crashpad::ProcessSnapshotWin::InitializeUnloadedModules(void)
+unexpected unloaded module list element size
+failed to read target address
+failed to read unloaded module data
+ReadMemory PEB
+void __cdecl crashpad::ProcessSnapshotWin::InitializePebData<struct crashpad::process_types::internal::Traits64>(unsigned __int64)
+ReadMemory PEB_LDR_DATA
+ReadMemory RTL_USER_PROCESS_PARAMETERS
+void __cdecl crashpad::ProcessSnapshotWin::InitializePebData<struct crashpad::process_types::internal::Traits32>(unsigned __int64)
+failed to read RTL_CRITICAL_SECTION
+void __cdecl crashpad::ProcessSnapshotWin::ReadLock<struct crashpad::process_types::internal::Traits64>(unsigned __int64,class std::vector<class std::unique_ptr<class crashpad::internal::MemorySnapshotGeneric,struct std::default_delete<class crashpad::internal::MemorySnapshotGeneric> >,class std::allocator<class std::unique_ptr<class crashpad::internal::MemorySnapshotGeneric,struct std::default_delete<class crashpad::internal::MemorySnapshotGeneric> > > > *)
+void __cdecl crashpad::ProcessSnapshotWin::ReadLock<struct crashpad::process_types::internal::Traits32>(unsigned __int64,class std::vector<class std::unique_ptr<class crashpad::internal::MemorySnapshotGeneric,struct std::default_delete<class crashpad::internal::MemorySnapshotGeneric> >,class std::allocator<class std::unique_ptr<class crashpad::internal::MemorySnapshotGeneric,struct std::default_delete<class crashpad::internal::MemorySnapshotGeneric> > > > *)
+ for 
+ outside of  range 
+range 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\win\process_subrange_reader.cc
+bool __cdecl crashpad::ProcessSubrangeReader::InitializeSubrange(const class crashpad::ProcessSubrangeReader &,unsigned __int64,unsigned __int64,const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+invalid read range 
+bool __cdecl crashpad::ProcessSubrangeReader::ReadMemory(unsigned __int64,unsigned __int64,void *) const
+ at range 
+ range 
+attempt to read outside of 
+invalid range 
+bool __cdecl crashpad::ProcessSubrangeReader::InitializeInternal(class crashpad::ProcessReaderWin *,unsigned __int64,unsigned __int64,const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\snapshot\win\system_snapshot_win.cc
+Debug,
+Patched,
+Prerelease,
+Private,
+Special,
+Windows NT
+Unknown
+CurrentBuildNumber
+%s %u.%u.%u.%s%s
+dwNumberOfProcessors exceeds uint8_t storage
+unsigned char __cdecl crashpad::internal::SystemSnapshotWin::CPUCount(void) const
+LocateXStateFeature
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_annotation_writer.cc
+bool __cdecl crashpad::MinidumpAnnotationListWriter::Freeze(void)
+ is out of range
+annotation list size 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_byte_array_writer.cc
+bool __cdecl crashpad::MinidumpByteArrayWriter::Freeze(void)
+data size 
+unknown context architecture 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_context_writer.cc
+class std::unique_ptr<class crashpad::MinidumpContextWriter,struct std::default_delete<class crashpad::MinidumpContextWriter> > __cdecl crashpad::MinidumpContextWriter::CreateFromSnapshot(const struct crashpad::CPUContext *)
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_exception_writer.cc
+void __cdecl crashpad::MinidumpExceptionWriter::SetExceptionInformation(const class std::vector<unsigned __int64,class std::allocator<unsigned __int64> > &)
+parameters <= kMaxParameters
+bool __cdecl crashpad::MinidumpExceptionWriter::Freeze(void)
+Check failed: context_
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_file_writer.cc
+void __cdecl crashpad::MinidumpFileWriter::InitializeFromSnapshot(const class crashpad::ProcessSnapshot *)
+discarding duplicate stream of type 
+bool __cdecl crashpad::MinidumpFileWriter::AddStream(class std::unique_ptr<class crashpad::internal::MinidumpStreamWriter,struct std::default_delete<class crashpad::internal::MinidumpStreamWriter> >)
+bool __cdecl crashpad::MinidumpFileWriter::Freeze(void)
+stream_count == stream_types_.size()
+ out of range
+stream_count 
+bool __cdecl crashpad::MinidumpFileWriter::WillWriteAtOffsetImpl(__int64)
+offset 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_handle_writer.cc
+bool __cdecl crashpad::MinidumpHandleDataWriter::Freeze(void)
+handle_count 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_memory_writer.cc
+bool __cdecl crashpad::SnapshotMinidumpMemoryWriter::WillWriteAtOffsetImpl(__int64)
+base_address 
+bool __cdecl crashpad::MinidumpMemoryListWriter::Freeze(void)
+children_.size() <= memory_region_count
+memory_region_count 
+%s; %s
+amd64
+crashpad
+%s.%s,%s,%s
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_misc_info_writer.cc
+bool __cdecl crashpad::MinidumpMiscInfoWriter::Freeze(void)
+size 
+invalid vector subscript
+value 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util/numeric/in_range_cast.h
+unsigned int __cdecl crashpad::InRangeCast<unsigned int,long>(long,unsigned int)
+unsigned int __cdecl crashpad::InRangeCast<unsigned int,unsigned __int64>(unsigned __int64,unsigned int)
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_module_crashpad_info_writer.cc
+void __cdecl crashpad::MinidumpModuleCrashpadInfoListWriter::AddModule(class std::unique_ptr<class crashpad::MinidumpModuleCrashpadInfoWriter,struct std::default_delete<class crashpad::MinidumpModuleCrashpadInfoWriter> >,unsigned __int64)
+module_crashpad_infos_.size() == module_crashpad_info_links_.size()
+minidump_module_list_index 
+bool __cdecl crashpad::MinidumpModuleCrashpadInfoListWriter::Freeze(void)
+module_count 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_module_writer.cc
+bool __cdecl crashpad::MinidumpModuleWriter::Freeze(void)
+Check failed: name_
+bool __cdecl crashpad::MinidumpModuleListWriter::Freeze(void)
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_rva_list_writer.cc
+bool __cdecl crashpad::internal::MinidumpRVAListWriter::Freeze(void)
+child_count 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_simple_string_dictionary_writer.cc
+bool __cdecl crashpad::MinidumpSimpleStringDictionaryWriter::Freeze(void)
+entry_count 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_string_writer.cc
+bool __cdecl crashpad::internal::MinidumpStringWriter<struct crashpad::internal::MinidumpStringWriterUTF16Traits>::Freeze(void)
+string_bytes 
+bool __cdecl crashpad::internal::MinidumpStringWriter<struct crashpad::internal::MinidumpStringWriterUTF8Traits>::Freeze(void)
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_system_info_writer.cc
+AuthenticAMD
+HygonGenuine
+void __cdecl crashpad::MinidumpSystemInfoWriter::SetCPUX86VendorString(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+vendor.size() == sizeof(system_info_.Cpu.X86CpuInfo.VendorId)
+bool __cdecl crashpad::MinidumpSystemInfoWriter::Freeze(void)
+Check failed: csd_version_
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_thread_name_list_writer.cc
+bool __cdecl crashpad::MinidumpThreadNameListWriter::Freeze(void)
+thread_name_count 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_thread_writer.cc
+bool __cdecl crashpad::MinidumpThreadWriter::Freeze(void)
+bool __cdecl crashpad::MinidumpThreadListWriter::Freeze(void)
+thread_count 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_unloaded_module_writer.cc
+bool __cdecl crashpad::MinidumpUnloadedModuleWriter::Freeze(void)
+bool __cdecl crashpad::MinidumpUnloadedModuleListWriter::Freeze(void)
+unloaded_module_count 
+Check failed: !writer_
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_user_stream_writer.cc
+bool __cdecl crashpad::MinidumpUserStreamWriter::SnapshotContentsWriter::WriteContents(class crashpad::FileWriterInterface *)
+bool __cdecl crashpad::MinidumpUserStreamWriter::ExtensionStreamContentsWriter::WriteContents(class crashpad::FileWriterInterface *)
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_writable.cc
+local_offset >= 0
+unsigned __int64 __cdecl crashpad::internal::MinidumpWritable::WillWriteAtOffset(enum crashpad::internal::MinidumpWritable::Phase,__int64 *,class std::vector<class crashpad::internal::MinidumpWritable *,class std::allocator<class crashpad::internal::MinidumpWritable *> > *)
+alignment <= kMaximumAlignment
+timestamp 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\minidump\minidump_writer_util.cc
+void __cdecl crashpad::internal::MinidumpWriterUtil::AssignTimeT(unsigned int *,__int64)
+ cannot be converted to UTF-16 losslessly
+string 
+class std::basic_string<char16_t,struct std::char_traits<char16_t>,class std::allocator<char16_t> > __cdecl crashpad::internal::MinidumpWriterUtil::ConvertUTF8ToUTF16(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+ will be truncated to UTF-16 length 
+ UTF-16 length 
+void __cdecl crashpad::internal::MinidumpWriterUtil::AssignUTF8ToUTF16(char16_t *,unsigned __int64,const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+POSIXLY_CORRECT
+%s: option `%s' is ambiguous (could be `--%s' or `--%s')
+%s: invalid option -- `-%c'
+%s: argument required for option `
+--%s'
+, observed 
+SeekSet(): expected 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\file\file_seeker.cc
+bool __cdecl crashpad::FileSeekerInterface::SeekSet(__int64)
+%08x-%04hx-%04hx-%02hhx%02hhx-%02hhx%02hhx%02hhx%02hhx%02hhx%02hhx
+%08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x
+invalid name for attachment 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\client\crash_report_database.cc
+class crashpad::FileWriter *__cdecl crashpad::CrashReportDatabase::NewReport::AddAttachment(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+WARNING
+ERROR
+ERROR_REPORT
+FATAL
+%s (%u)
+Error %u while retrieving error %u
+Check failed: 
+VERBOSE
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\client\settings.cc
+Settings magic is not 
+bool __cdecl crashpad::Settings::ReadSettings(void *,struct crashpad::Settings::Data *,bool)
+Settings version is not 
+Invalid file handle
+bool __cdecl crashpad::Settings::RecoverSettings(void *,struct crashpad::Settings::Data *)
+Content-Type
+Content-Encoding
+0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+---MultipartBoundary-
+%%%02x
+--%s%sContent-Disposition: form-data; name="%s"
+Check failed: (c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z') || (c >= '0' && c <= '9') || c == '/' || c == '.' || c == '_' || c == '+' || c == '-'
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\net\http_multipart_builder.cc
+void __cdecl crashpad::`anonymous-namespace'::AssertSafeMIMEType(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+; filename="%s"%s
+Content-Type: %s%s
+multipart/form-data; boundary=%s
+Content-Length
+%s/%s WinHTTP
+/%lu.%lu.%lu.%lu
+ Windows_NT/%lu.%lu.%lu.%lu (
+IsWow64Process
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\net\http_transport_win.cc
+class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl crashpad::`anonymous-namespace'::UserAgent(void)
+; WoW64
+%s: error 0x%lx while retrieving error 0x%lx
+%s: %s (0x%lx)
+WinHttpCloseHandle
+void __cdecl crashpad::`anonymous-namespace'::ScopedHINTERNETTraits::Free(void *)
+WinHttpOpen
+bool __cdecl crashpad::`anonymous-namespace'::HTTPTransportWin::ExecuteSynchronously(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *)
+WinHttpSetTimeouts
+WinHttpCrackUrl
+Check failed: url_components.nScheme == INTERNET_SCHEME_HTTP || url_components.nScheme == INTERNET_SCHEME_HTTPS
+WinHttpConnect
+WinHttpOpenRequest
+Check failed: !chunked
+WinHttpAddRequestHeaders
+WinHttpSendRequest
+data_bytes >= 0
+static_cast<size_t>(data_bytes) <= sizeof(buf.data)
+rv >= 0
+static_cast<size_t>(rv) == sizeof(buf.size)
+buf.size[sizeof(buf.size) - 1] != '\0'
+WinHttpWriteData
+written == write_size
+total_written == content_length
+WinHttpReceiveResponse
+WinHttpQueryHeaders
+HTTP status %lu
+WinHttpReadData
+WinHttpSetOption
+void __cdecl crashpad::`anonymous-namespace'::HTTPTransportWin::AddNewTLSOnWindows7(const class base::ScopedGeneric<void *,struct crashpad::`anonymous namespace'::ScopedHINTERNETTraits> &)
+%%%02X
+http://
+https://
+https
+expecting http or https
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\net\url.cc
+bool __cdecl crashpad::CrackURL(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *)
+no resource component
+Crashpad.ExceptionCode.Win
+Crashpad.HandlerCrash.ExceptionCode.Win
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\client\crash_report_database_win.cc
+UnlockFileEx
+__cdecl crashpad::`anonymous-namespace'::Metadata::~Metadata(void)
+LockFileEx
+class std::unique_ptr<class crashpad::`anonymous namespace'::Metadata,struct std::default_delete<class crashpad::`anonymous namespace'::Metadata> > __cdecl crashpad::`anonymous-namespace'::Metadata::Create(const class base::FilePath &,const class base::FilePath &,const class base::FilePath &)
+failed to rewind to read
+void __cdecl crashpad::`anonymous-namespace'::Metadata::Read(void)
+failed to read header
+unexpected header
+record size out of range
+failed to read records
+bad string table
+invalid string table index
+failed to rewind to write
+void __cdecl crashpad::`anonymous-namespace'::Metadata::Write(void)
+failed to truncate
+failed to write header
+ expected to start with 
+failed to write records
+failed to write string table
+GetFileAttributes 
+bool __cdecl crashpad::`anonymous-namespace'::EnsureDirectory(const class base::FilePath &)
+: not a directory
+CreateDirectory 
+bool __cdecl crashpad::`anonymous-namespace'::CreateDirectoryIfNecessary(const class base::FilePath &)
+DeleteFile 
+enum crashpad::CrashReportDatabase::OperationStatus __cdecl crashpad::CrashReportDatabaseWin::DeleteReport(const struct crashpad::UUID &)
+unexpected attachment dir name 
+void __cdecl crashpad::CrashReportDatabaseWin::CleanOrphanedAttachments(void)
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\client\crashpad_client_win.cc
+crash server failed to launch, self-terminating
+long __cdecl crashpad::`anonymous-namespace'::UnhandledExceptionHandler(struct _EXCEPTION_POINTERS *)
+crash server did not respond, self-terminating
+::DeleteProcThreadAttributeList
+\\.\pipe\crashpad_%lu_
+CreateNamedPipe
+Check failed: pipe_instance->is_valid()
+void __cdecl crashpad::`anonymous-namespace'::CreatePipe(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > *,class base::ScopedGeneric<void *,struct crashpad::internal::ScopedFileHANDLECloseTraits> *)
+Check failed: !IsThreadInLoaderLock()
+bool __cdecl crashpad::`anonymous-namespace'::StartHandlerProcess(class std::unique_ptr<struct crashpad::`anonymous namespace'::BackgroundHandlerStartThreadData,struct std::default_delete<struct crashpad::`anonymous namespace'::BackgroundHandlerStartThreadData> >)
+OpenProcess
+--initial-client-data=
+::InitializeProcThreadAttributeList
+::UpdateProcThreadAttribute
+InitializeProcThreadAttributeList (size) succeeded, expected failure
+InitializeProcThreadAttributeList (size)
+InitializeProcThreadAttributeList
+UpdateProcThreadAttribute
+CreateProcess
+CloseHandle thread
+CloseHandle process
+bool __cdecl crashpad::CrashpadClient::StartHandler(const class base::FilePath &,const class base::FilePath &,const class base::FilePath &,const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,const class std::map<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >,class std::allocator<struct std::pair<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const ,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > > &,const class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &,bool,bool,const class std::vector<class base::FilePath,class std::allocator<class base::FilePath> > &)
+CreateThread
+bool __cdecl crashpad::CrashpadClient::WaitForHandlerStart(unsigned int)
+WaitForSingleObject timed out
+WaitForSingleObject abandoned
+WaitForSingleObject
+GetExitCodeThread
+not connected
+bool __cdecl crashpad::CrashpadClient::RegisterWerModule(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &)
+void __cdecl crashpad::CrashpadClient::DumpWithoutCrashWithException(struct _EXCEPTION_POINTERS *)
+crash server failed to launch, no dump captured
+SetEvent
+void __cdecl crashpad::CrashpadClient::DumpWithoutCrash(const struct _CONTEXT &)
+void __cdecl crashpad::CrashpadClient::DumpAndCrash(struct _EXCEPTION_POINTERS *)
+unavailable before Vista
+bool __cdecl crashpad::CrashpadClient::DumpAndCrashTargetProcess(void *,void *,unsigned long)
+ProcessInfo::Initialize
+DumpAndCrashTargetProcess currently not supported x64->x86
+::GetThreadId
+VirtualAllocEx
+WriteProcessMemory
+WriteProcessMemory unexpected number of bytes
+FlushInstructionCache
+VirtualProtectEx
+NtCreateThreadEx
+NtClose
+PruneCrashReportDatabase: Failed to get pending reports
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\client\prune_crash_reports.cc
+unsigned __int64 __cdecl crashpad::PruneCrashReportDatabase(class crashpad::CrashReportDatabase *,class crashpad::PruneCondition *)
+PruneCrashReportDatabase: Failed to get completed reports
+Database Pruning: Failed to remove report 
+GetModuleFileName
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\misc\paths_win.cc
+bool __cdecl crashpad::Paths::Executable(class base::FilePath *)
+' to HANDLE
+could not convert '
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\win\initial_client_data.cc
+bool __cdecl crashpad::`anonymous-namespace'::HandleFromString(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,void **)
+' to WinVMAddress
+bool __cdecl crashpad::`anonymous-namespace'::AddressFromString(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,unsigned __int64 *)
+expected 8 comma separated arguments
+bool __cdecl crashpad::InitialClientData::InitializeFromString(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+0x%x,0x%x,0x%x,0x%x,0x%x,0x%I64x,0x%I64x,0x%I64x
+::GetNamedPipeClientProcessId
+RegisterWaitForSingleObject crash dump requested
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\win\exception_handler_server.cc
+void __cdecl crashpad::internal::ClientData::RegisterThreadPoolWaits(void (__cdecl *)(void *,unsigned char),void (__cdecl *)(void *,unsigned char),void (__cdecl *)(void *,unsigned char))
+RegisterWaitForSingleObject non-crash dump requested
+RegisterWaitForSingleObject process end
+void __cdecl crashpad::ExceptionHandlerServer::InitializeWithInheritedDataForInitialClient(const class crashpad::InitialClientData &,class crashpad::ExceptionHandlerServer::Delegate *)
+GetFileInformationByHandleEx
+Check failed: pipe != INVALID_HANDLE_VALUE
+void __cdecl crashpad::ExceptionHandlerServer::Run(class crashpad::ExceptionHandlerServer::Delegate *)
+Check failed: thread_handles[i].is_valid()
+forged shutdown request, got: 
+bool __cdecl crashpad::ExceptionHandlerServer::ServiceClientConnection(const class crashpad::internal::PipeServiceContext &)
+unhandled message type: 
+ expecting: 
+unexpected version. got: 
+, got: 
+forged client pid, real pid: 
+ImpersonateNamedPipeClient
+Check failed: RevertToSelf()
+failed to open 
+unsigned long __cdecl crashpad::ExceptionHandlerServer::PipeServiceProc(void *)
+ConnectNamedPipe
+void __cdecl crashpad::ExceptionHandlerServer::OnNonCrashDumpEvent(void *,unsigned char)
+UnregisterClass
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\win\session_end_watcher.cc
+void __cdecl crashpad::`anonymous-namespace'::ScopedWindowClassTraits::Free(unsigned short *)
+DestroyWindow
+void __cdecl crashpad::`anonymous-namespace'::ScopedWindowTraits::Free(struct HWND__ **)
+CreateEvent
+__cdecl crashpad::SessionEndWatcher::SessionEndWatcher(void)
+PostMessage
+__cdecl crashpad::SessionEndWatcher::~SessionEndWatcher(void)
+void __cdecl crashpad::SessionEndWatcher::WaitForStart(void)
+void __cdecl crashpad::SessionEndWatcher::WaitForStop(void)
+RegisterClass
+void __cdecl crashpad::SessionEndWatcher::ThreadMain(void)
+CreateWindow
+GetMessage
+GetWindowLongPtr
+__int64 __cdecl crashpad::SessionEndWatcher::WindowProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)
+SetWindowLongPtr
+ReadFile
+Check failed: can_log
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\file\file_reader.cc
+__int64 __cdecl crashpad::`anonymous-namespace'::FileReaderReadExactly::Read(void *,unsigned __int64,bool)
+__int64 __cdecl crashpad::WeakFileHandleFileReader::Read(void *,unsigned __int64)
+Check failed: !file_.is_valid()
+bool __cdecl crashpad::FileReader::Open(const class base::FilePath &)
+Check failed: file_.is_valid()
+void __cdecl crashpad::FileReader::Close(void)
+NtSuspendProcess
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\win\scoped_process_suspend.cc
+__cdecl crashpad::ScopedProcessSuspend::ScopedProcessSuspend(void *)
+NtResumeProcess
+__cdecl crashpad::ScopedProcessSuspend::~ScopedProcessSuspend(void)
+invalid stoul argument
+stoul argument out of range
+invalid stoull argument
+stoull argument out of range
+ipc_pipe name is empty
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\client\gen_dump_txt.cc
+void __cdecl HnGenDumpTxt::GenDumpTxt::SetIPCPipe(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &)
+mPipeName is empty
+bool __cdecl HnGenDumpTxt::GenDumpTxt::GetLogName(void)
+SendToCrashHandlerServer error
+logFullPath empty
+void __cdecl HnGenDumpTxt::GenDumpTxt::GenLogNameE(void)
+version construction failed
+void __cdecl HnGenDumpTxt::GenDumpTxt::LogSystem(void)
+exception_pointers is nullptr
+void __cdecl HnGenDumpTxt::GenDumpTxt::WalkExceptionCallstack(const struct _EXCEPTION_POINTERS *)
+exceptAddress is nullptr
+ntdllMod is nullptr
+RtlWalkFrameChain
+walkFrameChain is nullptr
+void __cdecl HnGenDumpTxt::GenDumpTxt::GetCallStack(const struct _EXCEPTION_POINTERS *)
+EnumAllModule error
+CreateEvent dumpEvent error
+void __cdecl HnGenDumpTxt::DumpNameDelegate::SetDumpName(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &)
+void __cdecl HnGenDumpTxt::DumpNameDelegate::GetDumpName(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &)
+WaitForDelegateEvent DumpEvent error
+bool __cdecl HnGenDumpTxt::DumpNameDelegate::GetEvent(void *&,unsigned int)
+CreateEvent endEvent error
+unhandled event_type: 
+WaitForSingleObject event error: 
+bool __cdecl HnGenDumpTxt::DumpNameDelegate::WaitForDelegateEvent(unsigned int,unsigned long)
+_snwprintf_s dump_file_path error
+void __cdecl HnGenDumpTxt::DumpNameDelegate::RespondToClient(void *const &)
+CreateFile
+bool __cdecl crashpad::SendToCrashHandlerServer(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,const struct crashpad::ClientToServerMessage &,struct HnGenDumpTxt::HnDumpNameInfo *)
+WaitNamedPipe
+SetNamedPipeHandleState
+TransactNamedPipe
+TransactNamedPipe: expected 
+invalid range
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\process\process_memory_range.cc
+bool __cdecl crashpad::ProcessMemoryRange::Initialize(const class crashpad::ProcessMemory *,bool,unsigned __int64,unsigned __int64)
+bool __cdecl crashpad::ProcessMemoryRange::RestrictRange(unsigned __int64,unsigned __int64)
+read out of range
+bool __cdecl crashpad::ProcessMemoryRange::Read(unsigned __int64,unsigned __int64,void *) const
+bool __cdecl crashpad::ProcessMemoryRange::ReadCStringSizeLimited(unsigned __int64,unsigned __int64,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *) const
+ out of bounds for size_t
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\process\process_memory.cc
+bool __cdecl crashpad::ProcessMemory::Read(unsigned __int64,unsigned __int64,void *) const
+short read
+bool __cdecl crashpad::ProcessMemory::ReadCStringInternal(unsigned __int64,bool,unsigned __int64,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *) const
+unterminated string
+::NtQueryInformationProcess
+::IsWow64Process
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\win\process_info.cc
+bool __cdecl crashpad::`anonymous-namespace'::IsProcessWow64(void *)
+class std::unique_ptr<unsigned char [0],struct std::default_delete<unsigned char [0]> > __cdecl crashpad::`anonymous-namespace'::QueryObject(void *,enum _OBJECT_INFORMATION_CLASS,unsigned long)
+NtQueryObject
+bool __cdecl crashpad::ReadMemoryInfo(void *,bool,class crashpad::ProcessInfo *)
+VirtualQueryEx
+RegionSize == 0
+UncheckedAllocate
+class std::vector<struct crashpad::ProcessInfo::Handle,class std::allocator<struct crashpad::ProcessInfo::Handle> > __cdecl crashpad::ProcessInfo::BuildHandleVector(void *) const
+NtQuerySystemInformation SystemExtendedHandleInformation
+GetProcessBasicInformation failed
+bool __cdecl crashpad::ProcessInfo::Initialize(void *)
+ReadProcessData failed
+ReadMemoryInfo failed
+range at 0x%llx, size 0x%llx fully unreadable
+bool __cdecl crashpad::ProcessInfo::LoggingRangeIsFullyReadable(const class crashpad::CheckedRange<unsigned __int64,unsigned __int64> &) const
+range at 0x%llx, size 0x%llx partially unreadable
+NtQueryInformationProcess
+bool __cdecl crashpad::GetProcessBasicInformation<struct crashpad::process_types::internal::Traits64>(void *,bool,class crashpad::ProcessInfo *,unsigned __int64 *,unsigned __int64 *)
+NtQueryInformationProcess incorrect size
+peb address 0x%llx out of range
+bool __cdecl crashpad::ReadProcessData<struct crashpad::process_types::internal::Traits64>(void *,unsigned __int64,class crashpad::ProcessInfo *)
+bool __cdecl crashpad::ReadProcessData<struct crashpad::process_types::internal::Traits32>(void *,unsigned __int64,class crashpad::ProcessInfo *)
+bool __cdecl crashpad::`anonymous-namespace'::ReadStruct<struct crashpad::process_types::PEB<struct crashpad::process_types::internal::Traits64>>(void *,unsigned __int64,struct crashpad::process_types::PEB<struct crashpad::process_types::internal::Traits64> *)
+ReadProcessMemory 
+ incorrect size
+bool __cdecl crashpad::`anonymous-namespace'::ReadStruct<struct crashpad::process_types::RTL_USER_PROCESS_PARAMETERS<struct crashpad::process_types::internal::Traits64>>(void *,unsigned __int64,struct crashpad::process_types::RTL_USER_PROCESS_PARAMETERS<struct crashpad::process_types::internal::Traits64> *)
+bool __cdecl crashpad::`anonymous-namespace'::ReadUnicodeString<struct crashpad::process_types::internal::Traits64>(void *,const struct crashpad::process_types::UNICODE_STRING<struct crashpad::process_types::internal::Traits64> &,class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > *)
+ReadProcessMemory UNICODE_STRING
+ReadProcessMemory UNICODE_STRING incorrect size
+bool __cdecl crashpad::`anonymous-namespace'::ReadStruct<struct crashpad::process_types::PEB_LDR_DATA<struct crashpad::process_types::internal::Traits64>>(void *,unsigned __int64,struct crashpad::process_types::PEB_LDR_DATA<struct crashpad::process_types::internal::Traits64> *)
+bool __cdecl crashpad::`anonymous-namespace'::ReadStruct<struct crashpad::process_types::LDR_DATA_TABLE_ENTRY<struct crashpad::process_types::internal::Traits64>>(void *,unsigned __int64,struct crashpad::process_types::LDR_DATA_TABLE_ENTRY<struct crashpad::process_types::internal::Traits64> *)
+bool __cdecl crashpad::`anonymous-namespace'::ReadStruct<struct crashpad::process_types::PEB<struct crashpad::process_types::internal::Traits32>>(void *,unsigned __int64,struct crashpad::process_types::PEB<struct crashpad::process_types::internal::Traits32> *)
+bool __cdecl crashpad::`anonymous-namespace'::ReadStruct<struct crashpad::process_types::RTL_USER_PROCESS_PARAMETERS<struct crashpad::process_types::internal::Traits32>>(void *,unsigned __int64,struct crashpad::process_types::RTL_USER_PROCESS_PARAMETERS<struct crashpad::process_types::internal::Traits32> *)
+bool __cdecl crashpad::`anonymous-namespace'::ReadUnicodeString<struct crashpad::process_types::internal::Traits32>(void *,const struct crashpad::process_types::UNICODE_STRING<struct crashpad::process_types::internal::Traits32> &,class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > *)
+bool __cdecl crashpad::`anonymous-namespace'::ReadStruct<struct crashpad::process_types::PEB_LDR_DATA<struct crashpad::process_types::internal::Traits32>>(void *,unsigned __int64,struct crashpad::process_types::PEB_LDR_DATA<struct crashpad::process_types::internal::Traits32> *)
+bool __cdecl crashpad::`anonymous-namespace'::ReadStruct<struct crashpad::process_types::LDR_DATA_TABLE_ENTRY<struct crashpad::process_types::internal::Traits32>>(void *,unsigned __int64,struct crashpad::process_types::LDR_DATA_TABLE_ENTRY<struct crashpad::process_types::internal::Traits32> *)
+0x%I64x + 0x%I64x (%s)
+Failed to initialize ProcessInfo.
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\process\process_memory_win.cc
+bool __cdecl crashpad::ProcessMemoryWin::Initialize(void *)
+__int64 __cdecl crashpad::ProcessMemoryWin::ReadUpTo(unsigned __int64,unsigned __int64,void *) const
+ bytes failed
+ReadMemory at 0x
+unsigned __int64 __cdecl crashpad::ProcessMemoryWin::ReadAvailableMemory(unsigned __int64,unsigned __int64,void *) const
+range at 0x%llx, size 0x%zx completely inaccessible
+start of range at 0x%llx, size 0x%zx inaccessible
+::NtClose
+::NtCreateThreadEx
+::NtQuerySystemInformation
+::NtQueryInformationThread
+::NtQueryObject
+::NtSuspendProcess
+::NtResumeProcess
+::RtlGetUnloadEventTraceEx
+::NtOpenThread
+<failed to retrieve error message (0x%lx)>
+ (0x%08lx)
+CloseHandle
+Check failed: CloseHandle(handle)
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\win\scoped_handle.cc
+void __cdecl crashpad::internal::ScopedKernelHANDLECloseTraits::Free(void *)
+FindClose
+Check failed: FindClose(handle)
+void __cdecl crashpad::internal::ScopedSearchHANDLECloseTraits::Free(void *)
+LocalFree
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\win\scoped_local_alloc.cc
+void __cdecl crashpad::internal::LocalAllocTraits::Free(void *)
+GetFileVersionInfoSize: 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\win\module_version.cc
+bool __cdecl crashpad::GetModuleVersionAndType(const class base::FilePath &,struct tagVS_FIXEDFILEINFO *)
+GetFileVersionInfo: 
+VerQueryValue
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\third_party\mini_chromium\mini_chromium\base\rand_util.cc
+Check failed: success
+void __cdecl base::RandBytes(void *,unsigned __int64)
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\file\file_writer.cc
+bool __cdecl crashpad::WeakFileHandleFileWriter::WriteIoVec(class std::vector<struct crashpad::WritableIoVec,class std::allocator<struct crashpad::WritableIoVec> > *)
+WriteIoVec(): no iovecs
+bool __cdecl crashpad::FileWriter::Open(const class base::FilePath &,enum crashpad::FileWriteMode,enum crashpad::FilePermissions)
+void __cdecl crashpad::FileWriter::Close(void)
+Empty directory path
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\file\directory_reader_win.cc
+bool __cdecl crashpad::DirectoryReader::Open(const class base::FilePath &)
+FindFirstFile
+enum crashpad::DirectoryReader::Result __cdecl crashpad::DirectoryReader::NextFile(class base::FilePath *)
+FindNextFile
+FindFirstFileEx 
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\file\filesystem_win.cc
+bool __cdecl crashpad::`anonymous-namespace'::IsSymbolicLink(const class base::FilePath &)
+RemoveDirectory 
+bool __cdecl crashpad::`anonymous-namespace'::LoggingRemoveDirectoryImpl(const class base::FilePath &)
+CreateFile 
+bool __cdecl crashpad::FileModificationTime(const class base::FilePath &,struct timespec *)
+GetFileTime 
+ not a directory
+bool __cdecl crashpad::LoggingCreateDirectory(const class base::FilePath &,enum crashpad::FilePermissions,bool)
+MoveFileEx
+bool __cdecl crashpad::MoveFileOrDirectory(const class base::FilePath &,const class base::FilePath &)
+bool __cdecl crashpad::IsRegularFile(const class base::FilePath &)
+bool __cdecl crashpad::IsDirectory(const class base::FilePath &,bool)
+bool __cdecl crashpad::LoggingRemoveFile(const class base::FilePath &)
+Not a directory 
+bool __cdecl crashpad::LoggingRemoveDirectory(const class base::FilePath &)
+stat 
+unsigned __int64 __cdecl crashpad::GetFileSize(const class base::FilePath &)
+CreateSemaphore
+Check failed: semaphore_
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\synchronization\semaphore_win.cc
+__cdecl crashpad::Semaphore::Semaphore(int)
+Check failed: CloseHandle(semaphore_)
+__cdecl crashpad::Semaphore::~Semaphore(void)
+Check failed: WaitForSingleObject(semaphore_, INFINITE) == WAIT_OBJECT_0
+void __cdecl crashpad::Semaphore::Wait(void)
+bool __cdecl crashpad::Semaphore::TimedWait(double)
+Check failed: rv == WAIT_OBJECT_0 || rv == WAIT_TIMEOUT
+Check failed: ReleaseSemaphore(semaphore_, 1, nullptr)
+void __cdecl crashpad::Semaphore::Signal(void)
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\thread\thread_win.cc
+void __cdecl crashpad::Thread::Start(void)
+Check failed: platform_thread_
+void __cdecl crashpad::Thread::Join(void)
+Check failed: result == WAIT_OBJECT_0
+ReadFile
+WriteFile
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\file\file_io.cc
+__int64 __cdecl crashpad::`anonymous-namespace'::FileIOReadExactly::Read(void *,unsigned __int64,bool)
+bool __cdecl crashpad::internal::ReadExactlyInternal::ReadExactly(void *,unsigned __int64,bool)
+ReadExactly: expected 
+bool __cdecl crashpad::LoggingWriteFile(void *,const void *,unsigned __int64)
+Check failed: LoggingReadFileExactly(file, buffer, size)
+void __cdecl crashpad::CheckedReadFileExactly(void *,void *,unsigned __int64)
+Check failed: LoggingWriteFile(file, buffer, size)
+void __cdecl crashpad::CheckedWriteFile(void *,const void *,unsigned __int64)
+Check failed: rv == 0
+void __cdecl crashpad::CheckedReadFileAtEOF(void *)
+rv == 0
+bool __cdecl crashpad::LoggingReadToEOF(void *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *)
+Check failed: LoggingCloseFile(file)
+void __cdecl crashpad::CheckedCloseFile(void *)
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\file\file_io_win.cc
+bytes_written != static_cast<DWORD>(-1)
+__int64 __cdecl crashpad::internal::NativeWriteFile(void *,const void *,unsigned __int64)
+__int64 __cdecl crashpad::ReadFile(void *,void *,unsigned __int64)
+bytes_read != static_cast<DWORD>(-1)
+void *__cdecl crashpad::LoggingOpenFileForRead(const class base::FilePath &)
+void *__cdecl crashpad::LoggingOpenFileForWrite(const class base::FilePath &,enum crashpad::FileWriteMode,enum crashpad::FilePermissions)
+void *__cdecl crashpad::LoggingOpenFileForReadAndWrite(const class base::FilePath &,enum crashpad::FileWriteMode,enum crashpad::FilePermissions)
+enum crashpad::FileLockingResult __cdecl crashpad::LoggingLockFile(void *,enum crashpad::FileLocking,enum crashpad::FileLockingBlocking)
+bool __cdecl crashpad::LoggingUnlockFile(void *)
+__int64 __cdecl crashpad::LoggingSeekFile(void *,__int64,int)
+SetFilePointerEx
+SetEndOfFile
+bool __cdecl crashpad::LoggingTruncateFile(void *)
+bool __cdecl crashpad::LoggingCloseFile(void *)
+GetFileSizeEx
+__int64 __cdecl crashpad::LoggingFileSizeByHandle(void *)
+void *__cdecl crashpad::StdioFileHandle(enum crashpad::StdioStream)
+GetStdHandle
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\net\http_body_gzip.cc
+1.2.11
+deflateInit2: 
+__int64 __cdecl crashpad::GzipHTTPBodyStream::GetBytesBuffer(unsigned char *,unsigned __int64)
+deflate: 
+void __cdecl crashpad::GzipHTTPBodyStream::Done(enum crashpad::GzipHTTPBodyStream::State)
+deflateEnd: 
+ 000000000000
+::InitializeCriticalSectionEx
+InitializeCriticalSectionEx
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\win\critical_section_with_debug_info.cc
+bool __cdecl crashpad::`anonymous-namespace'::CrashpadInitializeCriticalSectionEx(struct _RTL_CRITICAL_SECTION *,unsigned long,unsigned long)
+ConvertStringSecurityDescriptorToSecurityDescriptor
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\win\registration_protocol_win.cc
+void *__cdecl crashpad::`anonymous-namespace'::GetSecurityDescriptorWithUser(const wchar_t *,unsigned __int64 *)
+BuildSecurityDescriptor
+bool __cdecl crashpad::SendToCrashHandlerServer(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,const struct crashpad::ClientToServerMessage &,union crashpad::ServerToClientMessage *)
+const void *__cdecl crashpad::GetSecurityDescriptorForNamedPipeInstance(unsigned __int64 *)
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad\util\win\scoped_set_event.cc
+bool __cdecl crashpad::ScopedSetEvent::Set(void)
+%s (%d)
+ deflate 1.2.11 Copyright 1995-2017 Jean-loup Gailly and Mark Adler 
+need dictionary
+stream end
+file error
+stream error
+data error
+insufficient memory
+buffer error
+incompatible version
+Qkkbal
+wn>Jj
+[-&LMb#{'
+w+OQvr
+R1h58
+)\ZEo^m/
+H*0"ZOW
+mj>zjZ
+l6qnk
+IiGM>nw
+1A26b
+ewh/?y
+1wsHp
+#bML"
+vQO+t
+^oEZ_
+OZw3(?
+V_:X1:
+NJ2"v
+O*9y]
+bad allocation
+RSDS]
+D:\CDE_ReBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\open_source\crashpad\crashpad_build\handler\RelWithDebInfo\handler.pdb
+  "j U
+   "e
+DlBLF4HfFDJ.L4J
+N.JNP
+J0TxV1
+0J628*6 :^6
+>*6$@
+D2F*D H`D
+L2N*L P`L(T"L
+ZJXF\*X
+`08B(8
+,"P$B&
+$<&((
+*<,(.
+B@D,FQ
+*@H,J
+*@L,Nb*
+P<R,P!
+*@T,Vu
+*@X,ZU
+*~`<b,`^*J\,^
+"d$2"
+6f<26,&
+(H6d@26,&
+B26H&
+F26V>x&
+H46T>
+(H6dJ46
+>:6`>
+.?AVbad_array_new_length@std@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVStoppable@crashpad@@
+.?AVDelegate@WorkerThread@crashpad@@
+.?AVCrashReportUploadThread@crashpad@@
+.?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ostringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AVios_base@std@@
+.?AV?$_Iosb@H@std@@
+.?AVTerminateHandler@?A0xacf89f57@crashpad@@
+.?AVSessionEndWatcher@crashpad@@
+.?AVThread@crashpad@@
+.?AVPruneCrashReportThread@crashpad@@
+.?AVDelegate@ExceptionHandlerServer@crashpad@@
+.?AVCrashReportExceptionHandler@crashpad@@
+.?AVFileSeekerInterface@crashpad@@
+.?AVExceptionSnapshot@crashpad@@
+.?AVExceptionSnapshotMinidump@internal@crashpad@@
+.?AVMemorySnapshot@crashpad@@
+.?AVMemorySnapshotMinidump@internal@crashpad@@
+.?AVModuleSnapshot@crashpad@@
+.?AVModuleSnapshotMinidump@internal@crashpad@@
+.?AVMemoryMapRegionSnapshot@crashpad@@
+.?AVProcessSnapshot@crashpad@@
+.?AVMemoryMapRegionSnapshotMinidump@internal@crashpad@@
+.?AVProcessSnapshotMinidump@crashpad@@
+.?AVSystemSnapshot@crashpad@@
+.?AVSystemSnapshotMinidump@internal@crashpad@@
+.?AVThreadSnapshot@crashpad@@
+.?AVThreadSnapshotMinidump@internal@crashpad@@
+.?AVDelegate@MemorySnapshot@crashpad@@
+.?AVMemorySnapshotSanitized@internal@crashpad@@
+.?AVMemorySanitizer@?A0x60e7bc77@internal@crashpad@@
+.?AVModuleSnapshotSanitized@internal@crashpad@@
+.?AVThreadSnapshotSanitized@internal@crashpad@@
+.?AVInfoContainer@CrashpadInfoReader@crashpad@@
+.?AV?$InfoContainerSpecific@UTraits64@crashpad@@@CrashpadInfoReader@crashpad@@
+.?AV?$InfoContainerSpecific@UTraits32@crashpad@@@CrashpadInfoReader@crashpad@@
+.?AVDelegate@CaptureMemory@internal@crashpad@@
+.?AVMemorySnapshotGeneric@internal@crashpad@@
+.?AVCaptureMemoryDelegateWin@internal@crashpad@@
+.?AVExceptionSnapshotWin@internal@crashpad@@
+.?AVMemoryMapRegionSnapshotWin@internal@crashpad@@
+.?AVModuleSnapshotWin@internal@crashpad@@
+.?AVProcessSnapshotWin@crashpad@@
+.?AVSystemSnapshotWin@internal@crashpad@@
+.?AVThreadSnapshotWin@internal@crashpad@@
+.?AVMinidumpWritable@internal@crashpad@@
+.?AVMinidumpUTF8StringWriter@internal@crashpad@@
+.?AV?$MinidumpStringWriter@UMinidumpStringWriterUTF8Traits@internal@crashpad@@@internal@crashpad@@
+.?AVMinidumpAnnotationWriter@crashpad@@
+.?AVMinidumpAnnotationListWriter@crashpad@@
+.?AVMinidumpByteArrayWriter@crashpad@@
+.?AVMinidumpContextWriter@crashpad@@
+.?AVMinidumpContextX86Writer@crashpad@@
+.?AVMinidumpXSaveFeatureAMD64@crashpad@@
+.?AVMinidumpXSaveAMD64CetU@crashpad@@
+.?AVMinidumpContextAMD64Writer@crashpad@@
+.?AVMinidumpContextARMWriter@crashpad@@
+.?AVMinidumpContextARM64Writer@crashpad@@
+.?AVMinidumpContextMIPSWriter@crashpad@@
+.?AVMinidumpContextMIPS64Writer@crashpad@@
+.?AVMinidumpCrashpadInfoWriter@crashpad@@
+.?AVMinidumpStreamWriter@internal@crashpad@@
+.?AVMinidumpExceptionWriter@crashpad@@
+.?AVMinidumpFileWriter@crashpad@@
+.?AVMinidumpUTF16StringWriter@internal@crashpad@@
+.?AV?$MinidumpStringWriter@UMinidumpStringWriterUTF16Traits@internal@crashpad@@@internal@crashpad@@
+.?AVMinidumpHandleDataWriter@crashpad@@
+.?AVMinidumpMemoryInfoListWriter@crashpad@@
+.?AVSnapshotMinidumpMemoryWriter@crashpad@@
+.?AVMinidumpMemoryListWriter@crashpad@@
+.?AVMinidumpMiscInfoWriter@crashpad@@
+.?AVMinidumpModuleCrashpadInfoWriter@crashpad@@
+.?AVMinidumpModuleCrashpadInfoListWriter@crashpad@@
+.?AVMinidumpModuleCodeViewRecordWriter@crashpad@@
+.?AVMinidumpModuleCodeViewRecordPDB20Writer@crashpad@@
+.?AV?$MinidumpModuleCodeViewRecordPDBLinkWriter@UCodeViewRecordPDB20@crashpad@@@internal@crashpad@@
+.?AVMinidumpModuleCodeViewRecordPDB70Writer@crashpad@@
+.?AV?$MinidumpModuleCodeViewRecordPDBLinkWriter@UCodeViewRecordPDB70@crashpad@@@internal@crashpad@@
+.?AVMinidumpModuleCodeViewRecordBuildIDWriter@crashpad@@
+.?AVMinidumpModuleMiscDebugRecordWriter@crashpad@@
+.?AVMinidumpModuleWriter@crashpad@@
+.?AVMinidumpModuleListWriter@crashpad@@
+.?AVMinidumpRVAListWriter@internal@crashpad@@
+.?AVMinidumpSimpleStringDictionaryEntryWriter@crashpad@@
+.?AVMinidumpSimpleStringDictionaryWriter@crashpad@@
+.?AV?$MinidumpStringListWriter@VMinidumpUTF16StringWriter@internal@crashpad@@@internal@crashpad@@
+.?AV?$MinidumpStringListWriter@VMinidumpUTF8StringWriter@internal@crashpad@@@internal@crashpad@@
+.?AVMinidumpSystemInfoWriter@crashpad@@
+.?AVMinidumpThreadNameWriter@crashpad@@
+.?AVMinidumpThreadNameListWriter@crashpad@@
+.?AVMinidumpThreadWriter@crashpad@@
+.?AVMinidumpThreadListWriter@crashpad@@
+.?AVMinidumpUnloadedModuleWriter@crashpad@@
+.?AVMinidumpUnloadedModuleListWriter@crashpad@@
+.?AVMinidumpUserExtensionStreamDataSource@crashpad@@
+.?AVDelegate@MinidumpUserExtensionStreamDataSource@crashpad@@
+.?AVMinidumpUserStreamWriter@crashpad@@
+.?AVContentsWriter@MinidumpUserStreamWriter@crashpad@@
+.?AVSnapshotContentsWriter@MinidumpUserStreamWriter@crashpad@@
+.?AVExtensionStreamContentsWriter@MinidumpUserStreamWriter@crashpad@@
+.?AVUploadReport@CrashReportDatabase@crashpad@@
+.?AUReport@CrashReportDatabase@crashpad@@
+.?AVWorkerThreadImpl@internal@crashpad@@
+.?AVHTTPTransportWin@?A0x0fa269ca@crashpad@@
+.?AVHTTPTransport@crashpad@@
+.?AVCrashReportDatabase@crashpad@@
+.?AVCrashReportDatabaseWin@crashpad@@
+.?AVPruneCondition@crashpad@@
+.?AVAgePruneCondition@crashpad@@
+.?AVDatabaseSizePruneCondition@crashpad@@
+.?AVBinaryPruneCondition@crashpad@@
+.?AVReadExactlyInternal@internal@crashpad@@
+.?AVFileReaderInterface@crashpad@@
+.?AVWeakFileHandleFileReader@crashpad@@
+.?AVFileReader@crashpad@@
+.?AVFileReaderReadExactly@?A0x315fad6e@crashpad@@
+.?AVProcessMemory@crashpad@@
+.?AVProcessMemoryWin@crashpad@@
+.?AVFileWriterInterface@crashpad@@
+.?AVWeakFileHandleFileWriter@crashpad@@
+.?AVFileWriter@crashpad@@
+.?AVWriteAllInternal@internal@crashpad@@
+.?AVFileIOReadExactly@?A0x90af1c5f@crashpad@@
+.?AVFileIOWriteAll@?A0x90af1c5f@crashpad@@
+.?AVHTTPBodyStream@crashpad@@
+.?AVStringHTTPBodyStream@crashpad@@
+.?AVFileReaderHTTPBodyStream@crashpad@@
+.?AVCompositeHTTPBodyStream@crashpad@@
+.?AVGzipHTTPBodyStream@crashpad@@
+.?AVtype_info@@
+CallNtPowerInformation
+POWRPROF.dll
+WinHttpCrackUrl
+WinHttpOpen
+WinHttpCloseHandle
+WinHttpConnect
+WinHttpReadData
+WinHttpWriteData
+WinHttpSetOption
+WinHttpSetTimeouts
+WinHttpOpenRequest
+WinHttpAddRequestHeaders
+WinHttpSendRequest
+WinHttpReceiveResponse
+WinHttpQueryHeaders
+WINHTTP.dll
+GetFileVersionInfoSizeW
+GetFileVersionInfoW
+VerQueryValueW
+VERSION.dll
+SetUnhandledExceptionFilter
+SetProcessShutdownParameters
+SetConsoleCtrlHandler
+GetModuleHandleW
+GetProcAddress
+GetThreadLocale
+GetSystemDefaultLCID
+GetUserDefaultLCID
+GetLastError
+GetProcessTimes
+SuspendThread
+ResumeThread
+GetProcessId
+GetThreadContext
+Wow64GetThreadContext
+GetLocalTime
+VerSetConditionMask
+IsProcessorFeaturePresent
+GetSystemInfo
+VerifyVersionInfoW
+GetTimeZoneInformation
+EnterCriticalSection
+LeaveCriticalSection
+InitializeCriticalSectionAndSpinCount
+TryEnterCriticalSection
+DeleteCriticalSection
+OutputDebugStringW
+GetCurrentProcessId
+GetCurrentThreadId
+FormatMessageW
+GetCurrentProcess
+IsWow64Process
+FormatMessageA
+CreateDirectoryW
+CreateFileW
+DeleteFileW
+GetFileAttributesW
+LockFileEx
+SetEndOfFile
+UnlockFileEx
+GetStdHandle
+GetFileType
+CloseHandle
+RaiseException
+SetEvent
+WaitForSingleObject
+SleepEx
+CreateEventW
+Sleep
+TerminateProcess
+CreateThread
+GetExitCodeThread
+CreateProcessW
+FlushInstructionCache
+OpenProcess
+GetVersion
+VirtualAllocEx
+VirtualProtectEx
+WriteProcessMemory
+WerRegisterRuntimeExceptionModule
+GetModuleFileNameW
+DuplicateHandle
+ConnectNamedPipe
+DisconnectNamedPipe
+CreateIoCompletionPort
+GetQueuedCompletionStatus
+PostQueuedCompletionStatus
+UnregisterWaitEx
+RegisterWaitForSingleObject
+GetFileInformationByHandleEx
+SetLastError
+SetFilePointer
+WriteFile
+SetNamedPipeHandleState
+TransactNamedPipe
+WaitNamedPipeW
+GetVersionExW
+WideCharToMultiByte
+K32EnumProcessModulesEx
+K32GetModuleFileNameExW
+K32GetModuleInformation
+VirtualQueryEx
+ReadProcessMemory
+GetSystemTimeAsFileTime
+LoadLibraryW
+FindClose
+LocalFree
+FindFirstFileExW
+FindNextFileW
+GetFileTime
+RemoveDirectoryW
+MoveFileExW
+ReleaseSemaphore
+CreateSemaphoreW
+GetFileSizeEx
+ReadFile
+SetFilePointerEx
+GetNamedPipeInfo
+InitializeCriticalSection
+CreateNamedPipeW
+InitOnceExecuteOnce
+KERNEL32.dll
+GetMessageW
+TranslateMessage
+DispatchMessageW
+PostMessageW
+DefWindowProcW
+RegisterClassW
+UnregisterClassW
+CreateWindowExW
+DestroyWindow
+GetWindowLongPtrW
+SetWindowLongPtrW
+USER32.dll
+RegCloseKey
+RegOpenKeyExW
+RegQueryValueExA
+RegQueryValueExW
+ImpersonateNamedPipeClient
+RevertToSelf
+SystemFunction036
+BuildSecurityDescriptorW
+BuildExplicitAccessWithNameW
+ConvertStringSecurityDescriptorToSecurityDescriptorW
+ADVAPI32.dll
+?uncaught_exception@std@@YA_NXZ
+?_Xlength_error@std@@YAXPEBD@Z
+?_Xbad_function_call@std@@YAXXZ
+?good@ios_base@std@@QEBA_NXZ
+?flags@ios_base@std@@QEBAHXZ
+?width@ios_base@std@@QEBA_JXZ
+?width@ios_base@std@@QEAA_J_J@Z
+?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z
+?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z
+?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z
+?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ
+?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ
+?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ
+?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ
+?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ
+??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAA@XZ
+??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ
+?eback@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ
+?gptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ
+?pbase@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ
+?pptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ
+?egptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ
+?gbump@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXH@Z
+?setg@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAD00@Z
+?epptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ
+?setp@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAD0@Z
+?setp@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAD00@Z
+?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ
+??1?$basic_ios@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??0?$basic_ios@DU?$char_traits@D@std@@@std@@IEAA@XZ
+??0?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
+??1?$basic_ostream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@_K@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@PEBX@Z
+?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAXAEBVlocale@2@@Z
+?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAPEAV12@PEAD_J@Z
+?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z
+?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z
+?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JXZ
+?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+?_Xout_of_range@std@@YAXPEBD@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@I@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@K@Z
+?setf@ios_base@std@@QEAAHHH@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAVios_base@1@AEAV21@@Z@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@G@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@_J@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@J@Z
+?_Xbad_alloc@std@@YAXXZ
+_Mbrtowc
+?_Getcvt@_Locinfo@std@@QEBA?AU_Cvtvec@@XZ
+?_W_Getdays@_Locinfo@std@@QEBAPEBGXZ
+?_W_Getmonths@_Locinfo@std@@QEBAPEBGXZ
+?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAADD@Z
+?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z
+?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@D@Z
+?setw@std@@YA?AU?$_Smanip@_J@1@_J@Z
+_Mtx_init_in_situ
+_Mtx_destroy_in_situ
+_Mtx_lock
+_Mtx_unlock
+?_Throw_Cpp_error@std@@YAXH@Z
+?_Xinvalid_argument@std@@YAXPEBD@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@_N@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@N@Z
+MSVCP140.dll
+_purecall
+__std_terminate
+__std_exception_copy
+__std_exception_destroy
+_CxxThrowException
+__CxxFrameHandler4
+memchr
+memcmp
+memcpy
+memmove
+memset
+strchr
+__C_specific_handler
+__current_exception
+__current_exception_context
+__std_type_info_destroy_list
+VCRUNTIME140.dll
+VCRUNTIME140_1.dll
+__p___argc
+__p___wargv
+_invalid_parameter_noinfo_noreturn
+_time64
+__acrt_iob_func
+__stdio_common_vfprintf
+strncmp
+_stricmp
+_gmtime64_s
+_localtime64_s
+_mkgmtime64
+strnlen
+wcsncmp
+wcsnlen
+__stdio_common_vswprintf_s
+getenv
+tolower
+__stdio_common_vsscanf
+abort
+isalnum
+fflush
+calloc
+__stdio_common_vsprintf
+_wcsicmp
+signal
+_errno
+__stdio_common_vsnwprintf_s
+wcstoul
+wcstoull
+malloc
+strtol
+strtoll
+strtoul
+strtoull
+isspace
+_aligned_free
+_aligned_malloc
+ldexp
+_wstat64
+_dclass
+__stdio_common_vsprintf_p
+_callnewh
+_seh_filter_dll
+_configure_narrow_argv
+_initialize_narrow_environment
+_initialize_onexit_table
+_register_onexit_function
+_execute_onexit_table
+_crt_atexit
+_crt_at_quick_exit
+_cexit
+_seh_filter_exe
+_set_app_type
+__setusermatherr
+_configure_wide_argv
+_initialize_wide_environment
+_get_wide_winmain_command_line
+_initterm
+_initterm_e
+_exit
+_set_fmode
+_c_exit
+_register_thread_local_exe_atexit_callback
+_configthreadlocale
+_set_new_mode
+__p__commode
+terminate
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-environment-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+InitOnceBeginInitialize
+InitOnceComplete
+ReleaseSRWLockExclusive
+AcquireSRWLockExclusive
+WakeAllConditionVariable
+SleepConditionVariableSRW
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+IsDebuggerPresent
+GetStartupInfoW
+QueryPerformanceCounter
+InitializeSListHead
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0L1 0
+GlobalSign Root CA - R31
+GlobalSign1
+GlobalSign0
+200728000000Z
+290318000000Z0S1
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+p\$x %
+Bng~B
+tsg1z
+n0l0-
+!http://ocsp.globalsign.com/rootr30;
+/http://secure.globalsign.com/cacert/root-r3.crt06
+/0-0+
+%http://crl.globalsign.com/root-r3.crl0G
+@0>0<
+&https://www.globalsign.com/repository/0
+b wul
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+200728000000Z
+300728000000Z0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+-http://ocsp.globalsign.com/codesigningrootr450F
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+:0806
+0http://crl.globalsign.com/codesigningrootr45.crl0U
+N0L0A
+&https://www.globalsign.com/repository/0
+jh4%B
+wF*=#}(s
+1R95)
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+231215060929Z
+261128091510Z0
+Private Organization1
+91440300MA5G49LC9K1
+Guangdong1
+Shenzhen1
+Guangdong1
+Shenzhen1^0\
+34011
+Honor Device Co., Ltd.1
+Honor Device Co., Ltd.0
+fKz|fz
+(nkd_
+aJM|tu
+@http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+3http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+N0L0A
+&https://www.globalsign.com/repository/0
+@0>0<
+6http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+JB]b$
+"cp`k
+0l0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 2020
+&o:68
+w%Gw!
+20250312085916Z0
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 2025
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+250109084043Z
+360107084043Z0P1
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 20250
+xc#|(
+[fC@*82
+i0g0;
+/http://subca.repository.certum.pl/ctsca2021.cer0(
+http://subca.ocsp-certum.com0
+2000.
+(http://subca.crl.certum.pl/ctsca2021.crl0
+\8=x;
+&n|<j
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+210519053207Z
+360518053207Z0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+g!5 e
+)0'0%
+http://crl.certum.pl/ctnca2.crl0l
+`0^0(
+http://subca.ocsp-certum.com02
+&http://repository.certum.pl/ctnca2.cer09
+2000.
+http://www.certum.pl/CPS0
+iMi=}B
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1"0 
+Certum Trusted Network CA0
+210531064306Z
+290917064306Z0
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+dg?":
+cyD~Kc$
+.4?)LR
+(0&0$
+http://crl.certum.pl/ctnca.crl0k
+_0]0(
+http://subca.ocsp-certum.com01
+%http://repository.certum.pl/ctnca.cer09
+2000.
+http://www.certum.pl/CPS0
+[.&iB<
+Se"u-
+0k0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+250312085916Z07
+/1(0&0$0"
+jj0o0Z
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+;zQGL
+
+### UTF16 strings (30)
+C:\ProgramData\Comms\PCManager
+Kernel32.dll
+VS_VERSION_INFO
+kernel32.dll
+_%4d%02d%02d%02d%02d%02d%03d
+_18.0.0.34
+kernel32.dll
+SOFTWARE\Microsoft\Windows NT\CurrentVersion
+CurrentMajorVersionNumber
+CurrentMinorVersionNumber
+attachments
+:AM:am:PM:pm
+winhttp.dll
+Transfer-Encoding: chunked
+metadata
+settings.dat
+rundll32.exe
+\\.\pipe
+crashpad_SessionEndWatcher
+Windows Version:%d.%d.%d.%d %ws
+[Call Stack]
+ExceptionCode:0x%08X, ExceptionAddress:0x%I64x
+CrashModule:
+[%d]:0x%0I64x %ls
+[%d]:0x%0I64x
+ntdll.dll
+dumpEvent
+endEvent
+CURRENT_USER
+D:(A;;GA;;;SY)(A;;GWGR;;;S-1-15-2-1)S:(ML;;;;;S-1-16-0)
+
+### GUIDs found (0)

@@ -1,0 +1,1790 @@
+﻿### targets: [('Util.dll!?GetOutPutUIntEx@WMI@@QEAA_NPEAEI0I@Z', '0x18000a1d0'), ('Util.dll!?Instance@BiosWmi@@SAAEAV1@XZ', '0x18000a1d8'), ('Util.dll!?Init@BiosWmi@@QEAA_NXZ', '0x18000a1e0'), ('Util.dll!?UnInit@BiosWmi@@QEAAXXZ', '0x18000a1e8'), ('Util.dll!?StopCatchOemEvent@BiosWmi@@QEAAXXZ', '0x18000a1f0'), ('Util.dll!?StartCatchOemEvent@BiosWmi@@QEAA_NP6AXI@Z@Z', '0x18000a1f8'), ('Util.dll!?GetCpuTemp@BiosWmi@@QEAAMXZ', '0x18000a200')]
+==============================================================================================================
+### calls Util.dll!?Init@BiosWmi@@QEAA_NXZ  sites=['0x180003562']   func 0x180003530-0x180003731 (513B)
+  0x180003530: mov qword ptr [rsp + 0x10], rbx
+  0x180003535: mov qword ptr [rsp + 0x18], rsi
+  0x18000353a: push rdi
+  0x18000353b: sub rsp, 0x70
+  0x18000353f: mov rax, qword ptr [rip + 0xbafa]
+  0x180003546: xor rax, rsp
+  0x180003549: mov qword ptr [rsp + 0x68], rax
+  0x18000354e: mov rbx, rcx
+  0x180003551: xor dil, dil
+  0x180003554: mov byte ptr [rsp + 0x30], dil
+  0x180003559: call qword ptr [rip + 0x6c79]
+  0x18000355f: mov rcx, rax
+  0x180003562: call qword ptr [rip + 0x6c78]
+  0x180003568: mov byte ptr [rbx + 0x118], al
+  0x18000356e: test al, al
+  0x180003570: jne 0x180003693
+  0x180003576: call qword ptr [rip + 0x6dcc]
+  0x18000357c: mov rdx, rax
+  0x18000357f: lea rcx, [rsp + 0x58]
+  0x180003584: call qword ptr [rip + 0x6db6]
+  0x18000358a: nop 
+  0x18000358b: mov edx, 0x7530
+  0x180003590: lea rcx, [rsp + 0x58]
+  0x180003595: call qword ptr [rip + 0x6d85]
+  0x18000359b: test al, al
+  0x18000359d: je 0x18000367b
+  0x1800035a3: call qword ptr [rip + 0x6d7f]
+  0x1800035a9: mov rsi, rax
+  0x1800035ac: lea rdx, [rip + 0x74f5]   ; "initWmi="
+  0x1800035b3: mov rcx, rax
+  0x1800035b6: call 0x180002e20
+  0x1800035bb: movzx edx, byte ptr [rbx + 0x118]
+  0x1800035c2: mov rcx, rax
+  0x1800035c5: call qword ptr [rip + 0x6ba5]
+  0x1800035cb: lea rdx, [rip + 0x7236]
+  0x1800035d2: mov rcx, rax
+  0x1800035d5: call 0x180002e20
+  0x1800035da: lea rdx, [rip + 0x74a7]   ; "MonPowerEvent::StartMonitor"
+  0x1800035e1: mov rcx, rax
+  0x1800035e4: call 0x180002e20
+  0x1800035e9: lea rdx, [rip + 0x71ec]
+  0x1800035f0: mov rcx, rax
+  0x1800035f3: call 0x180002e20
+  0x1800035f8: lea rdx, [rsp + 0x38]
+  0x1800035fd: mov rcx, rsi
+  0x180003600: call 0x1800029f0
+  0x180003605: nop 
+  0x180003606: lea rcx, [rip + 0x74ab]   ; "bool __cdecl MonPowerEvent::StartMonitor(void)"
+  0x18000360d: mov qword ptr [rsp + 0x28], rcx
+  0x180003612: mov dword ptr [rsp + 0x20], 0x41
+  0x18000361a: lea r9, [rip + 0x74cf]   ; "D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\MonPowe"
+  0x180003621: mov r8, rax
+  0x180003624: mov edx, 0x7530
+  0x180003629: lea rcx, [rsp + 0x58]
+  0x18000362e: call qword ptr [rip + 0x6cfc]
+  0x180003634: nop 
+  0x180003635: mov rdx, qword ptr [rsp + 0x50]
+  0x18000363a: cmp rdx, 7
+  0x18000363e: jbe 0x18000367b
+  0x180003640: lea rdx, [rdx*2 + 2]
+  0x180003648: mov rcx, qword ptr [rsp + 0x38]
+  0x18000364d: mov rax, rcx
+  0x180003650: cmp rdx, 0x1000
+  0x180003657: jb 0x180003675
+  0x180003659: add rdx, 0x27
+  0x18000365d: mov rcx, qword ptr [rcx - 8]
+  0x180003661: sub rax, rcx
+  0x180003664: add rax, -8
+  0x180003668: cmp rax, 0x1f
+  0x18000366c: jbe 0x180003675
+  0x18000366e: call qword ptr [rip + 0x6c4c]
+  0x180003674: int3 
+  0x180003675: call 0x18000678c
+  0x18000367a: nop 
+  0x18000367b: lea rcx, [rsp + 0x58]
+  0x180003680: call qword ptr [rip + 0x6cb2]
+  0x180003686: nop 
+  0x180003687: jmp 0x18000370e
+  0x18000368c: movzx edi, byte ptr [rsp + 0x30]
+  0x180003691: jmp 0x18000370e
+  0x180003693: call qword ptr [rip + 0x6b3f]
+  0x180003699: mov rcx, rax
+  0x18000369c: lea rdx, [rip - 0x2c3]
+  0x1800036a3: call qword ptr [rip + 0x6b4f]
+  0x1800036a9: mov byte ptr [rbx + 0x119], al
+  0x1800036af: lea r9, [rip + 0xda]
+  0x1800036b6: mov r8, rbx
+  0x1800036b9: mov edx, 0x90001
+  0x1800036be: mov rcx, rbx
+  0x1800036c1: call 0x180005400
+  0x1800036c6: lea r9, [rip + 0x193]
+  0x1800036cd: mov r8, rbx
+  0x1800036d0: mov edx, 0x90005
+  0x1800036d5: mov rcx, rbx
+  0x1800036d8: call 0x180005400
+  0x1800036dd: lea r9, [rip + 0x3ac]
+  0x1800036e4: mov r8, rbx
+  0x1800036e7: mov edx, 0x90008
+  0x1800036ec: mov rcx, rbx
+  0x1800036ef: call 0x180005400
+  0x1800036f4: lea r9, [rip + 0x3e5]
+  0x1800036fb: mov r8, rbx
+  0x1800036fe: mov edx, 0x90009
+  0x180003703: mov rcx, rbx
+  0x180003706: call 0x180005400
+  0x18000370b: mov dil, 1
+  0x18000370e: movzx eax, dil
+  0x180003712: mov rcx, qword ptr [rsp + 0x68]
+  0x180003717: xor rcx, rsp
+  0x18000371a: call 0x1800062a0
+  0x18000371f: lea r11, [rsp + 0x70]
+  0x180003724: mov rbx, qword ptr [r11 + 0x18]
+  0x180003728: mov rsi, qword ptr [r11 + 0x20]
+  0x18000372c: mov rsp, r11
+  0x18000372f: pop rdi
+  0x180003730: ret 
+==============================================================================================================
+### calls Util.dll!?Instance@BiosWmi@@SAAEAV1@XZ  sites=['0x180003559', '0x180003693']   func 0x180003530-0x180003731 (513B)
+  0x180003530: mov qword ptr [rsp + 0x10], rbx
+  0x180003535: mov qword ptr [rsp + 0x18], rsi
+  0x18000353a: push rdi
+  0x18000353b: sub rsp, 0x70
+  0x18000353f: mov rax, qword ptr [rip + 0xbafa]
+  0x180003546: xor rax, rsp
+  0x180003549: mov qword ptr [rsp + 0x68], rax
+  0x18000354e: mov rbx, rcx
+  0x180003551: xor dil, dil
+  0x180003554: mov byte ptr [rsp + 0x30], dil
+  0x180003559: call qword ptr [rip + 0x6c79]
+  0x18000355f: mov rcx, rax
+  0x180003562: call qword ptr [rip + 0x6c78]
+  0x180003568: mov byte ptr [rbx + 0x118], al
+  0x18000356e: test al, al
+  0x180003570: jne 0x180003693
+  0x180003576: call qword ptr [rip + 0x6dcc]
+  0x18000357c: mov rdx, rax
+  0x18000357f: lea rcx, [rsp + 0x58]
+  0x180003584: call qword ptr [rip + 0x6db6]
+  0x18000358a: nop 
+  0x18000358b: mov edx, 0x7530
+  0x180003590: lea rcx, [rsp + 0x58]
+  0x180003595: call qword ptr [rip + 0x6d85]
+  0x18000359b: test al, al
+  0x18000359d: je 0x18000367b
+  0x1800035a3: call qword ptr [rip + 0x6d7f]
+  0x1800035a9: mov rsi, rax
+  0x1800035ac: lea rdx, [rip + 0x74f5]   ; "initWmi="
+  0x1800035b3: mov rcx, rax
+  0x1800035b6: call 0x180002e20
+  0x1800035bb: movzx edx, byte ptr [rbx + 0x118]
+  0x1800035c2: mov rcx, rax
+  0x1800035c5: call qword ptr [rip + 0x6ba5]
+  0x1800035cb: lea rdx, [rip + 0x7236]
+  0x1800035d2: mov rcx, rax
+  0x1800035d5: call 0x180002e20
+  0x1800035da: lea rdx, [rip + 0x74a7]   ; "MonPowerEvent::StartMonitor"
+  0x1800035e1: mov rcx, rax
+  0x1800035e4: call 0x180002e20
+  0x1800035e9: lea rdx, [rip + 0x71ec]
+  0x1800035f0: mov rcx, rax
+  0x1800035f3: call 0x180002e20
+  0x1800035f8: lea rdx, [rsp + 0x38]
+  0x1800035fd: mov rcx, rsi
+  0x180003600: call 0x1800029f0
+  0x180003605: nop 
+  0x180003606: lea rcx, [rip + 0x74ab]   ; "bool __cdecl MonPowerEvent::StartMonitor(void)"
+  0x18000360d: mov qword ptr [rsp + 0x28], rcx
+  0x180003612: mov dword ptr [rsp + 0x20], 0x41
+  0x18000361a: lea r9, [rip + 0x74cf]   ; "D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\MonPowe"
+  0x180003621: mov r8, rax
+  0x180003624: mov edx, 0x7530
+  0x180003629: lea rcx, [rsp + 0x58]
+  0x18000362e: call qword ptr [rip + 0x6cfc]
+  0x180003634: nop 
+  0x180003635: mov rdx, qword ptr [rsp + 0x50]
+  0x18000363a: cmp rdx, 7
+  0x18000363e: jbe 0x18000367b
+  0x180003640: lea rdx, [rdx*2 + 2]
+  0x180003648: mov rcx, qword ptr [rsp + 0x38]
+  0x18000364d: mov rax, rcx
+  0x180003650: cmp rdx, 0x1000
+  0x180003657: jb 0x180003675
+  0x180003659: add rdx, 0x27
+  0x18000365d: mov rcx, qword ptr [rcx - 8]
+  0x180003661: sub rax, rcx
+  0x180003664: add rax, -8
+  0x180003668: cmp rax, 0x1f
+  0x18000366c: jbe 0x180003675
+  0x18000366e: call qword ptr [rip + 0x6c4c]
+  0x180003674: int3 
+  0x180003675: call 0x18000678c
+  0x18000367a: nop 
+  0x18000367b: lea rcx, [rsp + 0x58]
+  0x180003680: call qword ptr [rip + 0x6cb2]
+  0x180003686: nop 
+  0x180003687: jmp 0x18000370e
+  0x18000368c: movzx edi, byte ptr [rsp + 0x30]
+  0x180003691: jmp 0x18000370e
+  0x180003693: call qword ptr [rip + 0x6b3f]
+  0x180003699: mov rcx, rax
+  0x18000369c: lea rdx, [rip - 0x2c3]
+  0x1800036a3: call qword ptr [rip + 0x6b4f]
+  0x1800036a9: mov byte ptr [rbx + 0x119], al
+  0x1800036af: lea r9, [rip + 0xda]
+  0x1800036b6: mov r8, rbx
+  0x1800036b9: mov edx, 0x90001
+  0x1800036be: mov rcx, rbx
+  0x1800036c1: call 0x180005400
+  0x1800036c6: lea r9, [rip + 0x193]
+  0x1800036cd: mov r8, rbx
+  0x1800036d0: mov edx, 0x90005
+  0x1800036d5: mov rcx, rbx
+  0x1800036d8: call 0x180005400
+  0x1800036dd: lea r9, [rip + 0x3ac]
+  0x1800036e4: mov r8, rbx
+  0x1800036e7: mov edx, 0x90008
+  0x1800036ec: mov rcx, rbx
+  0x1800036ef: call 0x180005400
+  0x1800036f4: lea r9, [rip + 0x3e5]
+  0x1800036fb: mov r8, rbx
+  0x1800036fe: mov edx, 0x90009
+  0x180003703: mov rcx, rbx
+  0x180003706: call 0x180005400
+  0x18000370b: mov dil, 1
+  0x18000370e: movzx eax, dil
+  0x180003712: mov rcx, qword ptr [rsp + 0x68]
+  0x180003717: xor rcx, rsp
+  0x18000371a: call 0x1800062a0
+  0x18000371f: lea r11, [rsp + 0x70]
+  0x180003724: mov rbx, qword ptr [r11 + 0x18]
+  0x180003728: mov rsi, qword ptr [r11 + 0x20]
+  0x18000372c: mov rsp, r11
+  0x18000372f: pop rdi
+  0x180003730: ret 
+==============================================================================================================
+### calls Util.dll!?StartCatchOemEvent@BiosWmi@@QEAA_NP6AXI@Z@Z  sites=['0x1800036a3']   func 0x180003530-0x180003731 (513B)
+  0x180003530: mov qword ptr [rsp + 0x10], rbx
+  0x180003535: mov qword ptr [rsp + 0x18], rsi
+  0x18000353a: push rdi
+  0x18000353b: sub rsp, 0x70
+  0x18000353f: mov rax, qword ptr [rip + 0xbafa]
+  0x180003546: xor rax, rsp
+  0x180003549: mov qword ptr [rsp + 0x68], rax
+  0x18000354e: mov rbx, rcx
+  0x180003551: xor dil, dil
+  0x180003554: mov byte ptr [rsp + 0x30], dil
+  0x180003559: call qword ptr [rip + 0x6c79]
+  0x18000355f: mov rcx, rax
+  0x180003562: call qword ptr [rip + 0x6c78]
+  0x180003568: mov byte ptr [rbx + 0x118], al
+  0x18000356e: test al, al
+  0x180003570: jne 0x180003693
+  0x180003576: call qword ptr [rip + 0x6dcc]
+  0x18000357c: mov rdx, rax
+  0x18000357f: lea rcx, [rsp + 0x58]
+  0x180003584: call qword ptr [rip + 0x6db6]
+  0x18000358a: nop 
+  0x18000358b: mov edx, 0x7530
+  0x180003590: lea rcx, [rsp + 0x58]
+  0x180003595: call qword ptr [rip + 0x6d85]
+  0x18000359b: test al, al
+  0x18000359d: je 0x18000367b
+  0x1800035a3: call qword ptr [rip + 0x6d7f]
+  0x1800035a9: mov rsi, rax
+  0x1800035ac: lea rdx, [rip + 0x74f5]   ; "initWmi="
+  0x1800035b3: mov rcx, rax
+  0x1800035b6: call 0x180002e20
+  0x1800035bb: movzx edx, byte ptr [rbx + 0x118]
+  0x1800035c2: mov rcx, rax
+  0x1800035c5: call qword ptr [rip + 0x6ba5]
+  0x1800035cb: lea rdx, [rip + 0x7236]
+  0x1800035d2: mov rcx, rax
+  0x1800035d5: call 0x180002e20
+  0x1800035da: lea rdx, [rip + 0x74a7]   ; "MonPowerEvent::StartMonitor"
+  0x1800035e1: mov rcx, rax
+  0x1800035e4: call 0x180002e20
+  0x1800035e9: lea rdx, [rip + 0x71ec]
+  0x1800035f0: mov rcx, rax
+  0x1800035f3: call 0x180002e20
+  0x1800035f8: lea rdx, [rsp + 0x38]
+  0x1800035fd: mov rcx, rsi
+  0x180003600: call 0x1800029f0
+  0x180003605: nop 
+  0x180003606: lea rcx, [rip + 0x74ab]   ; "bool __cdecl MonPowerEvent::StartMonitor(void)"
+  0x18000360d: mov qword ptr [rsp + 0x28], rcx
+  0x180003612: mov dword ptr [rsp + 0x20], 0x41
+  0x18000361a: lea r9, [rip + 0x74cf]   ; "D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\MonPowe"
+  0x180003621: mov r8, rax
+  0x180003624: mov edx, 0x7530
+  0x180003629: lea rcx, [rsp + 0x58]
+  0x18000362e: call qword ptr [rip + 0x6cfc]
+  0x180003634: nop 
+  0x180003635: mov rdx, qword ptr [rsp + 0x50]
+  0x18000363a: cmp rdx, 7
+  0x18000363e: jbe 0x18000367b
+  0x180003640: lea rdx, [rdx*2 + 2]
+  0x180003648: mov rcx, qword ptr [rsp + 0x38]
+  0x18000364d: mov rax, rcx
+  0x180003650: cmp rdx, 0x1000
+  0x180003657: jb 0x180003675
+  0x180003659: add rdx, 0x27
+  0x18000365d: mov rcx, qword ptr [rcx - 8]
+  0x180003661: sub rax, rcx
+  0x180003664: add rax, -8
+  0x180003668: cmp rax, 0x1f
+  0x18000366c: jbe 0x180003675
+  0x18000366e: call qword ptr [rip + 0x6c4c]
+  0x180003674: int3 
+  0x180003675: call 0x18000678c
+  0x18000367a: nop 
+  0x18000367b: lea rcx, [rsp + 0x58]
+  0x180003680: call qword ptr [rip + 0x6cb2]
+  0x180003686: nop 
+  0x180003687: jmp 0x18000370e
+  0x18000368c: movzx edi, byte ptr [rsp + 0x30]
+  0x180003691: jmp 0x18000370e
+  0x180003693: call qword ptr [rip + 0x6b3f]
+  0x180003699: mov rcx, rax
+  0x18000369c: lea rdx, [rip - 0x2c3]
+  0x1800036a3: call qword ptr [rip + 0x6b4f]
+  0x1800036a9: mov byte ptr [rbx + 0x119], al
+  0x1800036af: lea r9, [rip + 0xda]
+  0x1800036b6: mov r8, rbx
+  0x1800036b9: mov edx, 0x90001
+  0x1800036be: mov rcx, rbx
+  0x1800036c1: call 0x180005400
+  0x1800036c6: lea r9, [rip + 0x193]
+  0x1800036cd: mov r8, rbx
+  0x1800036d0: mov edx, 0x90005
+  0x1800036d5: mov rcx, rbx
+  0x1800036d8: call 0x180005400
+  0x1800036dd: lea r9, [rip + 0x3ac]
+  0x1800036e4: mov r8, rbx
+  0x1800036e7: mov edx, 0x90008
+  0x1800036ec: mov rcx, rbx
+  0x1800036ef: call 0x180005400
+  0x1800036f4: lea r9, [rip + 0x3e5]
+  0x1800036fb: mov r8, rbx
+  0x1800036fe: mov edx, 0x90009
+  0x180003703: mov rcx, rbx
+  0x180003706: call 0x180005400
+  0x18000370b: mov dil, 1
+  0x18000370e: movzx eax, dil
+  0x180003712: mov rcx, qword ptr [rsp + 0x68]
+  0x180003717: xor rcx, rsp
+  0x18000371a: call 0x1800062a0
+  0x18000371f: lea r11, [rsp + 0x70]
+  0x180003724: mov rbx, qword ptr [r11 + 0x18]
+  0x180003728: mov rsi, qword ptr [r11 + 0x20]
+  0x18000372c: mov rsp, r11
+  0x18000372f: pop rdi
+  0x180003730: ret 
+==============================================================================================================
+### calls Util.dll!?Instance@BiosWmi@@SAAEAV1@XZ  sites=['0x180003749', '0x18000375e', '0x18000376d']   func 0x180003740-0x180003784 (68B)
+  0x180003740: push rbx
+  0x180003742: sub rsp, 0x20
+  0x180003746: mov rbx, rcx
+  0x180003749: call qword ptr [rip + 0x6a89]
+  0x18000374f: cmp byte ptr [rax + 0x28], 0
+  0x180003753: je 0x18000377c
+  0x180003755: cmp byte ptr [rbx + 0x119], 0
+  0x18000375c: je 0x18000376d
+  0x18000375e: call qword ptr [rip + 0x6a74]
+  0x180003764: mov rcx, rax
+  0x180003767: call qword ptr [rip + 0x6a83]
+  0x18000376d: call qword ptr [rip + 0x6a65]
+  0x180003773: mov rcx, rax
+  0x180003776: call qword ptr [rip + 0x6a6c]
+  0x18000377c: mov al, 1
+  0x18000377e: add rsp, 0x20
+  0x180003782: pop rbx
+  0x180003783: ret 
+==============================================================================================================
+### calls Util.dll!?StopCatchOemEvent@BiosWmi@@QEAAXXZ  sites=['0x180003767']   func 0x180003740-0x180003784 (68B)
+  0x180003740: push rbx
+  0x180003742: sub rsp, 0x20
+  0x180003746: mov rbx, rcx
+  0x180003749: call qword ptr [rip + 0x6a89]
+  0x18000374f: cmp byte ptr [rax + 0x28], 0
+  0x180003753: je 0x18000377c
+  0x180003755: cmp byte ptr [rbx + 0x119], 0
+  0x18000375c: je 0x18000376d
+  0x18000375e: call qword ptr [rip + 0x6a74]
+  0x180003764: mov rcx, rax
+  0x180003767: call qword ptr [rip + 0x6a83]
+  0x18000376d: call qword ptr [rip + 0x6a65]
+  0x180003773: mov rcx, rax
+  0x180003776: call qword ptr [rip + 0x6a6c]
+  0x18000377c: mov al, 1
+  0x18000377e: add rsp, 0x20
+  0x180003782: pop rbx
+  0x180003783: ret 
+==============================================================================================================
+### calls Util.dll!?UnInit@BiosWmi@@QEAAXXZ  sites=['0x180003776']   func 0x180003740-0x180003784 (68B)
+  0x180003740: push rbx
+  0x180003742: sub rsp, 0x20
+  0x180003746: mov rbx, rcx
+  0x180003749: call qword ptr [rip + 0x6a89]
+  0x18000374f: cmp byte ptr [rax + 0x28], 0
+  0x180003753: je 0x18000377c
+  0x180003755: cmp byte ptr [rbx + 0x119], 0
+  0x18000375c: je 0x18000376d
+  0x18000375e: call qword ptr [rip + 0x6a74]
+  0x180003764: mov rcx, rax
+  0x180003767: call qword ptr [rip + 0x6a83]
+  0x18000376d: call qword ptr [rip + 0x6a65]
+  0x180003773: mov rcx, rax
+  0x180003776: call qword ptr [rip + 0x6a6c]
+  0x18000377c: mov al, 1
+  0x18000377e: add rsp, 0x20
+  0x180003782: pop rbx
+  0x180003783: ret 
+==============================================================================================================
+### calls Util.dll!?GetCpuTemp@BiosWmi@@QEAAMXZ  sites=['0x180003812']   func 0x180003790-0x180003854 (196B)
+  0x180003790: push rbx
+  0x180003792: sub rsp, 0x80
+  0x180003799: mov rax, qword ptr [rip + 0xb8a0]
+  0x1800037a0: xor rax, rsp
+  0x1800037a3: mov qword ptr [rsp + 0x70], rax
+  0x1800037a8: mov eax, dword ptr [rdx + 4]
+  0x1800037ab: mov rbx, rcx
+  0x1800037ae: xor ecx, ecx
+  0x1800037b0: mov dword ptr [rsp + 0x20], eax
+  0x1800037b4: mov eax, dword ptr [rdx + 0xc]
+  0x1800037b7: mov dword ptr [rsp + 0x28], eax
+  0x1800037bb: mov dword ptr [rbx + 0x134], eax
+  0x1800037c1: mov eax, dword ptr [rdx + 4]
+  0x1800037c4: mov dword ptr [rbx + 0x130], eax
+  0x1800037ca: mov dword ptr [rsp + 0x24], 0xffffffff
+  0x1800037d2: mov dword ptr [rsp + 0x30], 0xffffffff
+  0x1800037da: mov dword ptr [rsp + 0x34], ecx
+  0x1800037de: mov byte ptr [rsp + 0x48], cl
+  0x1800037e2: mov dword ptr [rsp + 0x2c], 0xffffffff
+  0x1800037ea: mov qword ptr [rsp + 0x50], rcx
+  0x1800037ef: mov qword ptr [rsp + 0x68], rcx
+  0x1800037f4: mov qword ptr [rsp + 0x60], rcx
+  0x1800037f9: mov dword ptr [rsp + 0x58], 2
+  0x180003801: cmp byte ptr [rbx + 0x118], cl
+  0x180003807: je 0x18000381e
+  0x180003809: call qword ptr [rip + 0x69c9]
+  0x18000380f: mov rcx, rax
+  0x180003812: call qword ptr [rip + 0x69e8]
+  0x180003818: movss dword ptr [rsp + 0x54], xmm0
+  0x18000381e: lea rax, [rsp + 0x50]
+  0x180003823: mov dword ptr [rsp + 0x38], 0x20
+  0x18000382b: lea rdx, [rsp + 0x20]
+  0x180003830: mov qword ptr [rsp + 0x40], rax
+  0x180003835: mov rcx, rbx
+  0x180003838: call qword ptr [rip + 0x67da]
+  0x18000383e: mov rcx, qword ptr [rsp + 0x70]
+  0x180003843: xor rcx, rsp
+  0x180003846: call 0x1800062a0
+  0x18000384b: add rsp, 0x80
+  0x180003852: pop rbx
+  0x180003853: ret 
+==============================================================================================================
+### calls Util.dll!?Instance@BiosWmi@@SAAEAV1@XZ  sites=['0x180003809']   func 0x180003790-0x180003854 (196B)
+  0x180003790: push rbx
+  0x180003792: sub rsp, 0x80
+  0x180003799: mov rax, qword ptr [rip + 0xb8a0]
+  0x1800037a0: xor rax, rsp
+  0x1800037a3: mov qword ptr [rsp + 0x70], rax
+  0x1800037a8: mov eax, dword ptr [rdx + 4]
+  0x1800037ab: mov rbx, rcx
+  0x1800037ae: xor ecx, ecx
+  0x1800037b0: mov dword ptr [rsp + 0x20], eax
+  0x1800037b4: mov eax, dword ptr [rdx + 0xc]
+  0x1800037b7: mov dword ptr [rsp + 0x28], eax
+  0x1800037bb: mov dword ptr [rbx + 0x134], eax
+  0x1800037c1: mov eax, dword ptr [rdx + 4]
+  0x1800037c4: mov dword ptr [rbx + 0x130], eax
+  0x1800037ca: mov dword ptr [rsp + 0x24], 0xffffffff
+  0x1800037d2: mov dword ptr [rsp + 0x30], 0xffffffff
+  0x1800037da: mov dword ptr [rsp + 0x34], ecx
+  0x1800037de: mov byte ptr [rsp + 0x48], cl
+  0x1800037e2: mov dword ptr [rsp + 0x2c], 0xffffffff
+  0x1800037ea: mov qword ptr [rsp + 0x50], rcx
+  0x1800037ef: mov qword ptr [rsp + 0x68], rcx
+  0x1800037f4: mov qword ptr [rsp + 0x60], rcx
+  0x1800037f9: mov dword ptr [rsp + 0x58], 2
+  0x180003801: cmp byte ptr [rbx + 0x118], cl
+  0x180003807: je 0x18000381e
+  0x180003809: call qword ptr [rip + 0x69c9]
+  0x18000380f: mov rcx, rax
+  0x180003812: call qword ptr [rip + 0x69e8]
+  0x180003818: movss dword ptr [rsp + 0x54], xmm0
+  0x18000381e: lea rax, [rsp + 0x50]
+  0x180003823: mov dword ptr [rsp + 0x38], 0x20
+  0x18000382b: lea rdx, [rsp + 0x20]
+  0x180003830: mov qword ptr [rsp + 0x40], rax
+  0x180003835: mov rcx, rbx
+  0x180003838: call qword ptr [rip + 0x67da]
+  0x18000383e: mov rcx, qword ptr [rsp + 0x70]
+  0x180003843: xor rcx, rsp
+  0x180003846: call 0x1800062a0
+  0x18000384b: add rsp, 0x80
+  0x180003852: pop rbx
+  0x180003853: ret 
+==============================================================================================================
+### calls Util.dll!?GetCpuTemp@BiosWmi@@QEAAMXZ  sites=['0x180003b31']   func 0x180003b00-0x180003b42 (66B)
+  0x180003b00: push rbx
+  0x180003b02: sub rsp, 0x20
+  0x180003b06: xor eax, eax
+  0x180003b08: mov dword ptr [rdx], r8d
+  0x180003b0b: mov qword ptr [rdx + 0x18], rax
+  0x180003b0f: mov rbx, rdx
+  0x180003b12: mov qword ptr [rdx + 0x10], rax
+  0x180003b16: mov dword ptr [rdx + 4], eax
+  0x180003b19: mov dword ptr [rdx + 8], 2
+  0x180003b20: cmp byte ptr [rcx + 0x118], al
+  0x180003b26: je 0x180003b3c
+  0x180003b28: call qword ptr [rip + 0x66aa]
+  0x180003b2e: mov rcx, rax
+  0x180003b31: call qword ptr [rip + 0x66c9]
+  0x180003b37: movss dword ptr [rbx + 4], xmm0
+  0x180003b3c: add rsp, 0x20
+  0x180003b40: pop rbx
+  0x180003b41: ret 
+==============================================================================================================
+### calls Util.dll!?Instance@BiosWmi@@SAAEAV1@XZ  sites=['0x180003b28']   func 0x180003b00-0x180003b42 (66B)
+  0x180003b00: push rbx
+  0x180003b02: sub rsp, 0x20
+  0x180003b06: xor eax, eax
+  0x180003b08: mov dword ptr [rdx], r8d
+  0x180003b0b: mov qword ptr [rdx + 0x18], rax
+  0x180003b0f: mov rbx, rdx
+  0x180003b12: mov qword ptr [rdx + 0x10], rax
+  0x180003b16: mov dword ptr [rdx + 4], eax
+  0x180003b19: mov dword ptr [rdx + 8], 2
+  0x180003b20: cmp byte ptr [rcx + 0x118], al
+  0x180003b26: je 0x180003b3c
+  0x180003b28: call qword ptr [rip + 0x66aa]
+  0x180003b2e: mov rcx, rax
+  0x180003b31: call qword ptr [rip + 0x66c9]
+  0x180003b37: movss dword ptr [rbx + 4], xmm0
+  0x180003b3c: add rsp, 0x20
+  0x180003b40: pop rbx
+  0x180003b41: ret 
+==============================================================================================================
+### calls Util.dll!?GetOutPutUIntEx@WMI@@QEAA_NPEAEI0I@Z  sites=['0x180003d65']   func 0x180003b50-0x180004098 (1352B)
+  0x180003b50: mov qword ptr [rsp + 8], rbx
+  0x180003b55: mov qword ptr [rsp + 0x10], rsi
+  0x180003b5a: mov qword ptr [rsp + 0x18], rdi
+  0x180003b5f: push r12
+  0x180003b61: push r14
+  0x180003b63: push r15
+  0x180003b65: sub rsp, 0x1f0
+  0x180003b6c: mov rax, qword ptr [rip + 0xb4cd]
+  0x180003b73: xor rax, rsp
+  0x180003b76: mov qword ptr [rsp + 0x1e0], rax
+  0x180003b7e: mov ebx, edx
+  0x180003b80: xor r15b, r15b
+  0x180003b83: mov byte ptr [rsp + 0x30], r15b
+  0x180003b88: mov dword ptr [rsp + 0x58], 0x1d06
+  0x180003b90: lea rdx, [rip + 0x70a9]   ; "ROOT\WMI"
+  0x180003b97: lea rcx, [rsp + 0x70]
+  0x180003b9c: call 0x180002b50
+  0x180003ba1: nop 
+  0x180003ba2: cmp ebx, 1
+  0x180003ba5: je 0x180003bf9
+  0x180003ba7: cmp ebx, 2
+  0x180003baa: je 0x180003c01
+  0x180003bac: mov rdx, qword ptr [rsp + 0x88]
+  0x180003bb4: cmp rdx, 7
+  0x180003bb8: jbe 0x180003ecd
+  0x180003bbe: lea rdx, [rdx*2 + 2]
+  0x180003bc6: mov rcx, qword ptr [rsp + 0x70]
+  0x180003bcb: mov rax, rcx
+  0x180003bce: cmp rdx, 0x1000
+  0x180003bd5: jb 0x180003ec8
+  0x180003bdb: add rdx, 0x27
+  0x180003bdf: mov rcx, qword ptr [rcx - 8]
+  0x180003be3: sub rax, rcx
+  0x180003be6: add rax, -8
+  0x180003bea: cmp rax, 0x1f
+  0x180003bee: ja 0x180004074
+  0x180003bf4: jmp 0x180003ec8
+  0x180003bf9: or dword ptr [rsp + 0x58], 0x10000
+  0x180003c01: xorps xmm0, xmm0
+  0x180003c04: movups xmmword ptr [rsp + 0x38], xmm0
+  0x180003c09: xor eax, eax
+  0x180003c0b: mov qword ptr [rsp + 0x48], rax
+  0x180003c10: mov qword ptr [rsp + 0x50], rax
+  0x180003c15: lea r12, [rsp + 0x70]
+  0x180003c1a: mov rbx, qword ptr [rsp + 0x70]
+  0x180003c1f: mov rsi, qword ptr [rsp + 0x88]
+  0x180003c27: cmp rsi, 7
+  0x180003c2b: cmova r12, rbx
+  0x180003c2f: movabs r14, 0x7ffffffffffffffe
+  0x180003c39: mov rdi, qword ptr [rsp + 0x80]
+  0x180003c41: cmp rdi, r14
+  0x180003c44: ja 0x180004092
+  0x180003c4a: mov qword ptr [rsp + 0x50], 7
+  0x180003c53: cmp rdi, 7
+  0x180003c57: ja 0x180003c6d
+  0x180003c59: mov qword ptr [rsp + 0x48], rdi
+  0x180003c5e: movups xmm0, xmmword ptr [r12]
+  0x180003c63: movups xmmword ptr [rsp + 0x38], xmm0
+  0x180003c68: jmp 0x180003d19
+  0x180003c6d: mov rcx, rdi
+  0x180003c70: or rcx, 7
+  0x180003c74: cmp rcx, r14
+  0x180003c77: jbe 0x180003c88
+  0x180003c79: movabs rcx, 0x7fffffffffffffff
+  0x180003c83: add rcx, rcx
+  0x180003c86: jmp 0x180003cbb
+  0x180003c88: mov r14, rcx
+  0x180003c8b: mov edx, 0xa
+  0x180003c90: cmp rcx, rdx
+  0x180003c93: cmovb r14, rdx
+  0x180003c97: lea rdx, [r14 + 1]
+  0x180003c9b: movabs rcx, 0x7fffffffffffffff
+  0x180003ca5: cmp rdx, rcx
+  0x180003ca8: ja 0x18000408c
+  0x180003cae: lea rcx, [rdx + rdx]
+  0x180003cb2: cmp rcx, 0x1000
+  0x180003cb9: jb 0x180003ced
+  0x180003cbb: lea rax, [rcx + 0x27]
+  0x180003cbf: cmp rax, rcx
+  0x180003cc2: jbe 0x18000408c
+  0x180003cc8: mov rcx, rax
+  0x180003ccb: call 0x1800063e0
+  0x180003cd0: mov rcx, rax
+  0x180003cd3: test rax, rax
+  0x180003cd6: je 0x180003ce6
+  0x180003cd8: add rax, 0x27
+  0x180003cdc: and rax, 0xffffffffffffffe0
+  0x180003ce0: mov qword ptr [rax - 8], rcx
+  0x180003ce4: jmp 0x180003cf7
+  0x180003ce6: call qword ptr [rip + 0x65d4]
+  0x180003cec: int3 
+  0x180003ced: test rcx, rcx
+  0x180003cf0: je 0x180003cf7
+  0x180003cf2: call 0x1800063e0
+  0x180003cf7: mov qword ptr [rsp + 0x38], rax
+  0x180003cfc: mov qword ptr [rsp + 0x48], rdi
+  0x180003d01: mov qword ptr [rsp + 0x50], r14
+  0x180003d06: lea r8, [rdi*2 + 2]
+  0x180003d0e: mov rdx, r12
+  0x180003d11: mov rcx, rax
+  0x180003d14: call 0x1800074a7
+  0x180003d19: lea rdx, [rsp + 0x38]
+  0x180003d1e: lea rcx, [rsp + 0x90]
+  0x180003d26: call qword ptr [rip + 0x6494]
+  0x180003d2c: nop 
+  0x180003d2d: xor edx, edx
+  0x180003d2f: mov r8d, 0x100
+  0x180003d35: lea rcx, [rsp + 0xe0]
+  0x180003d3d: call 0x180007346
+  0x180003d42: mov dword ptr [rsp + 0x20], 0x100
+  0x180003d4a: lea r9, [rsp + 0xe0]
+  0x180003d52: mov r8d, 4
+  0x180003d58: lea rdx, [rsp + 0x58]
+  0x180003d5d: lea rcx, [rsp + 0x90]
+  0x180003d65: call qword ptr [rip + 0x6465]
+  0x180003d6b: test al, al
+  0x180003d6d: jne 0x180003efd
+  0x180003d73: call qword ptr [rip + 0x65cf]
+  0x180003d79: mov rdx, rax
+  0x180003d7c: lea rcx, [rsp + 0x60]
+  0x180003d81: call qword ptr [rip + 0x65b9]
+  0x180003d87: nop 
+  0x180003d88: mov edx, 0x9c40
+  0x180003d8d: lea rcx, [rsp + 0x60]
+  0x180003d92: call qword ptr [rip + 0x6588]
+  0x180003d98: test al, al
+  0x180003d9a: je 0x180003e68
+  0x180003da0: call qword ptr [rip + 0x6582]
+  0x180003da6: mov rdi, rax
+  0x180003da9: lea rdx, [rip + 0x6ed0]   ; "wmi method faield ..."
+  0x180003db0: mov rcx, rax
+  0x180003db3: call 0x180002e20
+  0x180003db8: lea rdx, [rip + 0x6a49]
+  0x180003dbf: mov rcx, rax
+  0x180003dc2: call 0x180002e20
+  0x180003dc7: lea rdx, [rip + 0x6e8a]   ; "MonPowerEvent::SetLidOpenPowerOnStatus"
+  0x180003dce: mov rcx, rax
+  0x180003dd1: call 0x180002e20
+  0x180003dd6: lea rdx, [rip + 0x69ff]
+  0x180003ddd: mov rcx, rax
+  0x180003de0: call 0x180002e20
+  0x180003de5: lea rdx, [rsp + 0x38]
+  0x180003dea: mov rcx, rdi
+  0x180003ded: call 0x1800029f0
+  0x180003df2: nop 
+  0x180003df3: lea rcx, [rip + 0x6ea6]   ; "bool __cdecl MonPowerEvent::SetLidOpenPowerOnStatus(enum LID_OPEN_POWER_ON_STATUS)"
+  0x180003dfa: mov qword ptr [rsp + 0x28], rcx
+  0x180003dff: mov dword ptr [rsp + 0x20], 0xef
+  0x180003e07: lea r9, [rip + 0x6ce2]   ; "D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\MonPowe"
+  0x180003e0e: mov r8, rax
+  0x180003e11: mov edx, 0x9c40
+  0x180003e16: lea rcx, [rsp + 0x60]
+  0x180003e1b: call qword ptr [rip + 0x650f]
+  0x180003e21: nop 
+  0x180003e22: mov rdx, qword ptr [rsp + 0x50]
+  0x180003e27: cmp rdx, 7
+  0x180003e2b: jbe 0x180003e68
+  0x180003e2d: lea rdx, [rdx*2 + 2]
+  0x180003e35: mov rcx, qword ptr [rsp + 0x38]
+  0x180003e3a: mov rax, rcx
+  0x180003e3d: cmp rdx, 0x1000
+  0x180003e44: jb 0x180003e62
+  0x180003e46: add rdx, 0x27
+  0x180003e4a: mov rcx, qword ptr [rcx - 8]
+  0x180003e4e: sub rax, rcx
+  0x180003e51: add rax, -8
+  0x180003e55: cmp rax, 0x1f
+  0x180003e59: jbe 0x180003e62
+  0x180003e5b: call qword ptr [rip + 0x645f]
+  0x180003e61: int3 
+  0x180003e62: call 0x18000678c
+  0x180003e67: nop 
+  0x180003e68: lea rcx, [rsp + 0x60]
+  0x180003e6d: call qword ptr [rip + 0x64c5]
+  0x180003e73: nop 
+  0x180003e74: jmp 0x180003e83
+  0x180003e76: mov rsi, qword ptr [rsp + 0x88]
+  0x180003e7e: mov rbx, qword ptr [rsp + 0x70]
+  0x180003e83: lea rcx, [rsp + 0x90]
+  0x180003e8b: call qword ptr [rip + 0x6337]
+  0x180003e91: nop 
+  0x180003e92: cmp rsi, 7
+  0x180003e96: jbe 0x180003ecd
+  0x180003e98: lea rdx, [rsi*2 + 2]
+  0x180003ea0: mov rax, rbx
+  0x180003ea3: cmp rdx, 0x1000
+  0x180003eaa: jb 0x180003ec5
+  0x180003eac: add rdx, 0x27
+  0x180003eb0: mov rbx, qword ptr [rbx - 8]
+  0x180003eb4: sub rax, rbx
+  0x180003eb7: add rax, -8
+  0x180003ebb: cmp rax, 0x1f
+  0x180003ebf: ja 0x180004074
+  0x180003ec5: mov rcx, rbx
+  0x180003ec8: call 0x18000678c
+  0x180003ecd: xor al, al
+  0x180003ecf: mov rcx, qword ptr [rsp + 0x1e0]
+  0x180003ed7: xor rcx, rsp
+  0x180003eda: call 0x1800062a0
+  0x180003edf: lea r11, [rsp + 0x1f0]
+  0x180003ee7: mov rbx, qword ptr [r11 + 0x20]
+  0x180003eeb: mov rsi, qword ptr [r11 + 0x28]
+  0x180003eef: mov rdi, qword ptr [r11 + 0x30]
+  0x180003ef3: mov rsp, r11
+  0x180003ef6: pop r15
+  0x180003ef8: pop r14
+  0x180003efa: pop r12
+  0x180003efc: ret 
+  0x180003efd: cmp byte ptr [rsp + 0xe0], 0
+  0x180003f05: jne 0x180003f0f
+  0x180003f07: mov r15b, 1
+  0x180003f0a: jmp 0x180004036
+  0x180003f0f: call qword ptr [rip + 0x6433]
+  0x180003f15: mov rdx, rax
+  0x180003f18: lea rcx, [rsp + 0x60]
+  0x180003f1d: call qword ptr [rip + 0x641d]
+  0x180003f23: nop 
+  0x180003f24: mov edx, 0x9c40
+  0x180003f29: lea rcx, [rsp + 0x60]
+  0x180003f2e: call qword ptr [rip + 0x63ec]
+  0x180003f34: test al, al
+  0x180003f36: je 0x180004015
+  0x180003f3c: call qword ptr [rip + 0x63e6]
+  0x180003f42: mov rdi, rax
+  0x180003f45: lea rdx, [rip + 0x6dac]   ; "Set flag failed! status="
+  0x180003f4c: mov rcx, rax
+  0x180003f4f: call 0x180002e20
+  0x180003f54: movzx edx, byte ptr [rsp + 0xe0]
+  0x180003f5c: mov rcx, rax
+  0x180003f5f: call qword ptr [rip + 0x6213]
+  0x180003f65: lea rdx, [rip + 0x689c]
+  0x180003f6c: mov rcx, rax
+  0x180003f6f: call 0x180002e20
+  0x180003f74: lea rdx, [rip + 0x6cdd]   ; "MonPowerEvent::SetLidOpenPowerOnStatus"
+  0x180003f7b: mov rcx, rax
+  0x180003f7e: call 0x180002e20
+  0x180003f83: lea rdx, [rip + 0x6852]
+  0x180003f8a: mov rcx, rax
+  0x180003f8d: call 0x180002e20
+  0x180003f92: lea rdx, [rsp + 0x38]
+  0x180003f97: mov rcx, rdi
+  0x180003f9a: call 0x1800029f0
+  0x180003f9f: nop 
+  0x180003fa0: lea rcx, [rip + 0x6cf9]   ; "bool __cdecl MonPowerEvent::SetLidOpenPowerOnStatus(enum LID_OPEN_POWER_ON_STATUS)"
+  0x180003fa7: mov qword ptr [rsp + 0x28], rcx
+  0x180003fac: mov dword ptr [rsp + 0x20], 0xf5
+  0x180003fb4: lea r9, [rip + 0x6b35]   ; "D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\MonPowe"
+  0x180003fbb: mov r8, rax
+  0x180003fbe: mov edx, 0x9c40
+  0x180003fc3: lea rcx, [rsp + 0x60]
+  0x180003fc8: call qword ptr [rip + 0x6362]
+  0x180003fce: nop 
+  0x180003fcf: mov rdx, qword ptr [rsp + 0x50]
+  0x180003fd4: cmp rdx, 7
+  0x180003fd8: jbe 0x180004015
+  0x180003fda: lea rdx, [rdx*2 + 2]
+  0x180003fe2: mov rcx, qword ptr [rsp + 0x38]
+  0x180003fe7: mov rax, rcx
+  0x180003fea: cmp rdx, 0x1000
+  0x180003ff1: jb 0x18000400f
+  0x180003ff3: add rdx, 0x27
+  0x180003ff7: mov rcx, qword ptr [rcx - 8]
+  0x180003ffb: sub rax, rcx
+  0x180003ffe: add rax, -8
+  0x180004002: cmp rax, 0x1f
+  0x180004006: jbe 0x18000400f
+  0x180004008: call qword ptr [rip + 0x62b2]
+  0x18000400e: int3 
+  0x18000400f: call 0x18000678c
+  0x180004014: nop 
+  0x180004015: lea rcx, [rsp + 0x60]
+  0x18000401a: call qword ptr [rip + 0x6318]
+  0x180004020: nop 
+  0x180004021: jmp 0x180004036
+  0x180004023: movzx r15d, byte ptr [rsp + 0x30]
+  0x180004029: mov rsi, qword ptr [rsp + 0x88]
+  0x180004031: mov rbx, qword ptr [rsp + 0x70]
+  0x180004036: lea rcx, [rsp + 0x90]
+  0x18000403e: call qword ptr [rip + 0x6184]
+  0x180004044: nop 
+  0x180004045: cmp rsi, 7
+  0x180004049: jbe 0x180004083
+  0x18000404b: lea rdx, [rsi*2 + 2]
+  0x180004053: mov rax, rbx
+  0x180004056: cmp rdx, 0x1000
+  0x18000405d: jb 0x18000407b
+  0x18000405f: add rdx, 0x27
+  0x180004063: mov rbx, qword ptr [rbx - 8]
+  0x180004067: sub rax, rbx
+  0x18000406a: add rax, -8
+  0x18000406e: cmp rax, 0x1f
+  0x180004072: jbe 0x18000407b
+  0x180004074: call qword ptr [rip + 0x6246]
+  0x18000407a: int3 
+  0x18000407b: mov rcx, rbx
+  0x18000407e: call 0x18000678c
+  0x180004083: movzx eax, r15b
+  0x180004087: jmp 0x180003ecf
+  0x18000408c: call 0x180002140
+  0x180004091: int3 
+  0x180004092: call 0x1800021e0
+  0x180004097: int3 
+==============================================================================================================
+### calls Util.dll!?GetOutPutUIntEx@WMI@@QEAA_NPEAEI0I@Z  sites=['0x180004250']   func 0x1800040a0-0x180004593 (1267B)
+  0x1800040a0: mov qword ptr [rsp + 8], rbx
+  0x1800040a5: mov qword ptr [rsp + 0x18], rsi
+  0x1800040aa: push rdi
+  0x1800040ab: push r12
+  0x1800040ad: push r13
+  0x1800040af: push r14
+  0x1800040b1: push r15
+  0x1800040b3: sub rsp, 0x1f0
+  0x1800040ba: mov rax, qword ptr [rip + 0xaf7f]
+  0x1800040c1: xor rax, rsp
+  0x1800040c4: mov qword ptr [rsp + 0x1e0], rax
+  0x1800040cc: mov r13, rdx
+  0x1800040cf: mov dword ptr [rsp + 0x60], 0x1e06
+  0x1800040d7: lea rdx, [rip + 0x6b62]   ; "ROOT\WMI"
+  0x1800040de: lea rcx, [rsp + 0x68]
+  0x1800040e3: call 0x180002b50
+  0x1800040e8: nop 
+  0x1800040e9: xorps xmm0, xmm0
+  0x1800040ec: movups xmmword ptr [rsp + 0x30], xmm0
+  0x1800040f1: xor r14d, r14d
+  0x1800040f4: mov qword ptr [rsp + 0x40], r14
+  0x1800040f9: mov qword ptr [rsp + 0x48], r14
+  0x1800040fe: lea r12, [rsp + 0x68]
+  0x180004103: mov rbx, qword ptr [rsp + 0x68]
+  0x180004108: mov rdi, qword ptr [rsp + 0x80]
+  0x180004110: cmp rdi, 7
+  0x180004114: cmova r12, rbx
+  0x180004118: movabs r15, 0x7ffffffffffffffe
+  0x180004122: mov rsi, qword ptr [rsp + 0x78]
+  0x180004127: cmp rsi, r15
+  0x18000412a: ja 0x18000458d
+  0x180004130: mov qword ptr [rsp + 0x48], 7
+  0x180004139: cmp rsi, 7
+  0x18000413d: ja 0x180004153
+  0x18000413f: mov qword ptr [rsp + 0x40], rsi
+  0x180004144: movups xmm0, xmmword ptr [r12]
+  0x180004149: movups xmmword ptr [rsp + 0x30], xmm0
+  0x18000414e: jmp 0x180004204
+  0x180004153: mov rax, rsi
+  0x180004156: or rax, 7
+  0x18000415a: cmp rax, r15
+  0x18000415d: jbe 0x18000416f
+  0x18000415f: movabs rax, 0x7fffffffffffffff
+  0x180004169: lea rcx, [rax + rax]
+  0x18000416d: jmp 0x1800041a1
+  0x18000416f: mov r15, rax
+  0x180004172: mov ecx, 0xa
+  0x180004177: cmp rax, rcx
+  0x18000417a: cmovb r15, rcx
+  0x18000417e: lea rcx, [r15 + 1]
+  0x180004182: movabs rax, 0x7fffffffffffffff
+  0x18000418c: cmp rcx, rax
+  0x18000418f: ja 0x180004587
+  0x180004195: add rcx, rcx
+  0x180004198: cmp rcx, 0x1000
+  0x18000419f: jb 0x1800041d3
+  0x1800041a1: lea rax, [rcx + 0x27]
+  0x1800041a5: cmp rax, rcx
+  0x1800041a8: jbe 0x180004587
+  0x1800041ae: mov rcx, rax
+  0x1800041b1: call 0x1800063e0
+  0x1800041b6: mov rcx, rax
+  0x1800041b9: test rax, rax
+  0x1800041bc: je 0x1800041cc
+  0x1800041be: add rax, 0x27
+  0x1800041c2: and rax, 0xffffffffffffffe0
+  0x1800041c6: mov qword ptr [rax - 8], rcx
+  0x1800041ca: jmp 0x1800041e2
+  0x1800041cc: call qword ptr [rip + 0x60ee]
+  0x1800041d2: int3 
+  0x1800041d3: test rcx, rcx
+  0x1800041d6: je 0x1800041df
+  0x1800041d8: call 0x1800063e0
+  0x1800041dd: jmp 0x1800041e2
+  0x1800041df: mov rax, r14
+  0x1800041e2: mov qword ptr [rsp + 0x30], rax
+  0x1800041e7: mov qword ptr [rsp + 0x40], rsi
+  0x1800041ec: mov qword ptr [rsp + 0x48], r15
+  0x1800041f1: lea r8, [rsi*2 + 2]
+  0x1800041f9: mov rdx, r12
+  0x1800041fc: mov rcx, rax
+  0x1800041ff: call 0x1800074a7
+  0x180004204: lea rdx, [rsp + 0x30]
+  0x180004209: lea rcx, [rsp + 0x90]
+  0x180004211: call qword ptr [rip + 0x5fa9]
+  0x180004217: nop 
+  0x180004218: xor edx, edx
+  0x18000421a: mov r8d, 0x100
+  0x180004220: lea rcx, [rsp + 0xe0]
+  0x180004228: call 0x180007346
+  0x18000422d: mov dword ptr [rsp + 0x20], 0x100
+  0x180004235: lea r9, [rsp + 0xe0]
+  0x18000423d: mov r8d, 4
+  0x180004243: lea rdx, [rsp + 0x60]
+  0x180004248: lea rcx, [rsp + 0x90]
+  0x180004250: call qword ptr [rip + 0x5f7a]
+  0x180004256: test al, al
+  0x180004258: jne 0x1800043e9
+  0x18000425e: call qword ptr [rip + 0x60e4]
+  0x180004264: mov rdx, rax
+  0x180004267: lea rcx, [rsp + 0x50]
+  0x18000426c: call qword ptr [rip + 0x60ce]
+  0x180004272: nop 
+  0x180004273: mov edx, 0x9c40
+  0x180004278: lea rcx, [rsp + 0x50]
+  0x18000427d: call qword ptr [rip + 0x609d]
+  0x180004283: test al, al
+  0x180004285: je 0x180004353
+  0x18000428b: call qword ptr [rip + 0x6097]
+  0x180004291: mov rsi, rax
+  0x180004294: lea rdx, [rip + 0x69e5]   ; "wmi method faield ..."
+  0x18000429b: mov rcx, rax
+  0x18000429e: call 0x180002e20
+  0x1800042a3: lea rdx, [rip + 0x655e]
+  0x1800042aa: mov rcx, rax
+  0x1800042ad: call 0x180002e20
+  0x1800042b2: lea rdx, [rip + 0x6a5f]   ; "MonPowerEvent::GetLidOpenPowerOnStatus"
+  0x1800042b9: mov rcx, rax
+  0x1800042bc: call 0x180002e20
+  0x1800042c1: lea rdx, [rip + 0x6514]
+  0x1800042c8: mov rcx, rax
+  0x1800042cb: call 0x180002e20
+  0x1800042d0: lea rdx, [rsp + 0x30]
+  0x1800042d5: mov rcx, rsi
+  0x1800042d8: call 0x1800029f0
+  0x1800042dd: nop 
+  0x1800042de: lea rcx, [rip + 0x6a5b]   ; "bool __cdecl MonPowerEvent::GetLidOpenPowerOnStatus(enum LID_OPEN_POWER_ON_STATUS &)"
+  0x1800042e5: mov qword ptr [rsp + 0x28], rcx
+  0x1800042ea: mov dword ptr [rsp + 0x20], 0x10a
+  0x1800042f2: lea r9, [rip + 0x67f7]   ; "D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\MonPowe"
+  0x1800042f9: mov r8, rax
+  0x1800042fc: mov edx, 0x9c40
+  0x180004301: lea rcx, [rsp + 0x50]
+  0x180004306: call qword ptr [rip + 0x6024]
+  0x18000430c: nop 
+  0x18000430d: mov rdx, qword ptr [rsp + 0x48]
+  0x180004312: cmp rdx, 7
+  0x180004316: jbe 0x180004353
+  0x180004318: lea rdx, [rdx*2 + 2]
+  0x180004320: mov rcx, qword ptr [rsp + 0x30]
+  0x180004325: mov rax, rcx
+  0x180004328: cmp rdx, 0x1000
+  0x18000432f: jb 0x18000434d
+  0x180004331: add rdx, 0x27
+  0x180004335: mov rcx, qword ptr [rcx - 8]
+  0x180004339: sub rax, rcx
+  0x18000433c: add rax, -8
+  0x180004340: cmp rax, 0x1f
+  0x180004344: jbe 0x18000434d
+  0x180004346: call qword ptr [rip + 0x5f74]
+  0x18000434c: int3 
+  0x18000434d: call 0x18000678c
+  0x180004352: nop 
+  0x180004353: lea rcx, [rsp + 0x50]
+  0x180004358: call qword ptr [rip + 0x5fda]
+  0x18000435e: jmp 0x180004509
+  0x180004363: mov rdi, qword ptr [rsp + 0x80]
+  0x18000436b: mov rbx, qword ptr [rsp + 0x68]
+  0x180004370: lea rcx, [rsp + 0x90]
+  0x180004378: call qword ptr [rip + 0x5e4a]
+  0x18000437e: nop 
+  0x18000437f: cmp rdi, 7
+  0x180004383: jbe 0x1800043ba
+  0x180004385: lea rdx, [rdi*2 + 2]
+  0x18000438d: cmp rdx, 0x1000
+  0x180004394: mov rax, rbx
+  0x180004397: jb 0x1800043b2
+  0x180004399: mov rbx, qword ptr [rbx - 8]
+  0x18000439d: sub rax, rbx
+  0x1800043a0: add rdx, 0x27
+  0x1800043a4: add rax, -8
+  0x1800043a8: cmp rax, 0x1f
+  0x1800043ac: ja 0x180004571
+  0x1800043b2: mov rcx, rbx
+  0x1800043b5: call 0x18000678c
+  0x1800043ba: xor al, al
+  0x1800043bc: mov rcx, qword ptr [rsp + 0x1e0]
+  0x1800043c4: xor rcx, rsp
+  0x1800043c7: call 0x1800062a0
+  0x1800043cc: lea r11, [rsp + 0x1f0]
+  0x1800043d4: mov rbx, qword ptr [r11 + 0x30]
+  0x1800043d8: mov rsi, qword ptr [r11 + 0x40]
+  0x1800043dc: mov rsp, r11
+  0x1800043df: pop r15
+  0x1800043e1: pop r14
+  0x1800043e3: pop r13
+  0x1800043e5: pop r12
+  0x1800043e7: pop rdi
+  0x1800043e8: ret 
+  0x1800043e9: cmp byte ptr [rsp + 0xe0], 0
+  0x1800043f1: je 0x18000450e
+  0x1800043f7: call qword ptr [rip + 0x5f4b]
+  0x1800043fd: mov rdx, rax
+  0x180004400: lea rcx, [rsp + 0x50]
+  0x180004405: call qword ptr [rip + 0x5f35]
+  0x18000440b: nop 
+  0x18000440c: mov edx, 0x9c40
+  0x180004411: lea rcx, [rsp + 0x50]
+  0x180004416: call qword ptr [rip + 0x5f04]
+  0x18000441c: test al, al
+  0x18000441e: je 0x1800044fd
+  0x180004424: call qword ptr [rip + 0x5efe]
+  0x18000442a: mov rsi, rax
+  0x18000442d: lea rdx, [rip + 0x6964]   ; "Get flag failed!  status="
+  0x180004434: mov rcx, rax
+  0x180004437: call 0x180002e20
+  0x18000443c: movzx edx, byte ptr [rsp + 0xe0]
+  0x180004444: mov rcx, rax
+  0x180004447: call qword ptr [rip + 0x5d2b]
+  0x18000444d: lea rdx, [rip + 0x63b4]
+  0x180004454: mov rcx, rax
+  0x180004457: call 0x180002e20
+  0x18000445c: lea rdx, [rip + 0x68b5]   ; "MonPowerEvent::GetLidOpenPowerOnStatus"
+  0x180004463: mov rcx, rax
+  0x180004466: call 0x180002e20
+  0x18000446b: lea rdx, [rip + 0x636a]
+  0x180004472: mov rcx, rax
+  0x180004475: call 0x180002e20
+  0x18000447a: lea rdx, [rsp + 0x30]
+  0x18000447f: mov rcx, rsi
+  0x180004482: call 0x1800029f0
+  0x180004487: nop 
+  0x180004488: lea rcx, [rip + 0x68b1]   ; "bool __cdecl MonPowerEvent::GetLidOpenPowerOnStatus(enum LID_OPEN_POWER_ON_STATUS &)"
+  0x18000448f: mov qword ptr [rsp + 0x28], rcx
+  0x180004494: mov dword ptr [rsp + 0x20], 0x10e
+  0x18000449c: lea r9, [rip + 0x664d]   ; "D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\MonPowe"
+  0x1800044a3: mov r8, rax
+  0x1800044a6: mov edx, 0x9c40
+  0x1800044ab: lea rcx, [rsp + 0x50]
+  0x1800044b0: call qword ptr [rip + 0x5e7a]
+  0x1800044b6: nop 
+  0x1800044b7: mov rdx, qword ptr [rsp + 0x48]
+  0x1800044bc: cmp rdx, 7
+  0x1800044c0: jbe 0x1800044fd
+  0x1800044c2: lea rdx, [rdx*2 + 2]
+  0x1800044ca: mov rcx, qword ptr [rsp + 0x30]
+  0x1800044cf: mov rax, rcx
+  0x1800044d2: cmp rdx, 0x1000
+  0x1800044d9: jb 0x1800044f7
+  0x1800044db: add rdx, 0x27
+  0x1800044df: mov rcx, qword ptr [rcx - 8]
+  0x1800044e3: sub rax, rcx
+  0x1800044e6: add rax, -8
+  0x1800044ea: cmp rax, 0x1f
+  0x1800044ee: jbe 0x1800044f7
+  0x1800044f0: call qword ptr [rip + 0x5dca]
+  0x1800044f6: int3 
+  0x1800044f7: call 0x18000678c
+  0x1800044fc: nop 
+  0x1800044fd: lea rcx, [rsp + 0x50]
+  0x180004502: call qword ptr [rip + 0x5e30]
+  0x180004508: nop 
+  0x180004509: jmp 0x180004370
+  0x18000450e: movzx eax, byte ptr [rsp + 0xe1]
+  0x180004516: cmp al, 1
+  0x180004518: jne 0x180004524
+  0x18000451a: mov dword ptr [r13], 1
+  0x180004522: jmp 0x180004533
+  0x180004524: mov ecx, 2
+  0x180004529: test al, al
+  0x18000452b: cmove r14d, ecx
+  0x18000452f: mov dword ptr [r13], r14d
+  0x180004533: lea rcx, [rsp + 0x90]
+  0x18000453b: call qword ptr [rip + 0x5c87]
+  0x180004541: nop 
+  0x180004542: cmp rdi, 7
+  0x180004546: jbe 0x180004580
+  0x180004548: lea rdx, [rdi*2 + 2]
+  0x180004550: mov rax, rbx
+  0x180004553: cmp rdx, 0x1000
+  0x18000455a: jb 0x180004578
+  0x18000455c: add rdx, 0x27
+  0x180004560: mov rbx, qword ptr [rbx - 8]
+  0x180004564: sub rax, rbx
+  0x180004567: add rax, -8
+  0x18000456b: cmp rax, 0x1f
+  0x18000456f: jbe 0x180004578
+  0x180004571: call qword ptr [rip + 0x5d49]
+  0x180004577: int3 
+  0x180004578: mov rcx, rbx
+  0x18000457b: call 0x18000678c
+  0x180004580: mov al, 1
+  0x180004582: jmp 0x1800043bc
+  0x180004587: call 0x180002140
+  0x18000458c: int3 
+  0x18000458d: call 0x1800021e0
+  0x180004592: int3 
+==============================================================================================================
+### calls Util.dll!?GetOutPutUIntEx@WMI@@QEAA_NPEAEI0I@Z  sites=['0x1800047b5']   func 0x1800045a0-0x180004ae8 (1352B)
+  0x1800045a0: mov qword ptr [rsp + 8], rbx
+  0x1800045a5: mov qword ptr [rsp + 0x10], rsi
+  0x1800045aa: mov qword ptr [rsp + 0x18], rdi
+  0x1800045af: push r12
+  0x1800045b1: push r14
+  0x1800045b3: push r15
+  0x1800045b5: sub rsp, 0x1f0
+  0x1800045bc: mov rax, qword ptr [rip + 0xaa7d]
+  0x1800045c3: xor rax, rsp
+  0x1800045c6: mov qword ptr [rsp + 0x1e0], rax
+  0x1800045ce: mov ebx, edx
+  0x1800045d0: xor r15b, r15b
+  0x1800045d3: mov byte ptr [rsp + 0x30], r15b
+  0x1800045d8: mov dword ptr [rsp + 0x58], 0x2d06
+  0x1800045e0: lea rdx, [rip + 0x6659]   ; "ROOT\WMI"
+  0x1800045e7: lea rcx, [rsp + 0x70]
+  0x1800045ec: call 0x180002b50
+  0x1800045f1: nop 
+  0x1800045f2: cmp ebx, 1
+  0x1800045f5: je 0x180004649
+  0x1800045f7: cmp ebx, 2
+  0x1800045fa: je 0x180004651
+  0x1800045fc: mov rdx, qword ptr [rsp + 0x88]
+  0x180004604: cmp rdx, 7
+  0x180004608: jbe 0x18000491d
+  0x18000460e: lea rdx, [rdx*2 + 2]
+  0x180004616: mov rcx, qword ptr [rsp + 0x70]
+  0x18000461b: mov rax, rcx
+  0x18000461e: cmp rdx, 0x1000
+  0x180004625: jb 0x180004918
+  0x18000462b: add rdx, 0x27
+  0x18000462f: mov rcx, qword ptr [rcx - 8]
+  0x180004633: sub rax, rcx
+  0x180004636: add rax, -8
+  0x18000463a: cmp rax, 0x1f
+  0x18000463e: ja 0x180004ac4
+  0x180004644: jmp 0x180004918
+  0x180004649: or dword ptr [rsp + 0x58], 0x10000
+  0x180004651: xorps xmm0, xmm0
+  0x180004654: movups xmmword ptr [rsp + 0x38], xmm0
+  0x180004659: xor eax, eax
+  0x18000465b: mov qword ptr [rsp + 0x48], rax
+  0x180004660: mov qword ptr [rsp + 0x50], rax
+  0x180004665: lea r12, [rsp + 0x70]
+  0x18000466a: mov rbx, qword ptr [rsp + 0x70]
+  0x18000466f: mov rsi, qword ptr [rsp + 0x88]
+  0x180004677: cmp rsi, 7
+  0x18000467b: cmova r12, rbx
+  0x18000467f: movabs r14, 0x7ffffffffffffffe
+  0x180004689: mov rdi, qword ptr [rsp + 0x80]
+  0x180004691: cmp rdi, r14
+  0x180004694: ja 0x180004ae2
+  0x18000469a: mov qword ptr [rsp + 0x50], 7
+  0x1800046a3: cmp rdi, 7
+  0x1800046a7: ja 0x1800046bd
+  0x1800046a9: mov qword ptr [rsp + 0x48], rdi
+  0x1800046ae: movups xmm0, xmmword ptr [r12]
+  0x1800046b3: movups xmmword ptr [rsp + 0x38], xmm0
+  0x1800046b8: jmp 0x180004769
+  0x1800046bd: mov rcx, rdi
+  0x1800046c0: or rcx, 7
+  0x1800046c4: cmp rcx, r14
+  0x1800046c7: jbe 0x1800046d8
+  0x1800046c9: movabs rcx, 0x7fffffffffffffff
+  0x1800046d3: add rcx, rcx
+  0x1800046d6: jmp 0x18000470b
+  0x1800046d8: mov r14, rcx
+  0x1800046db: mov edx, 0xa
+  0x1800046e0: cmp rcx, rdx
+  0x1800046e3: cmovb r14, rdx
+  0x1800046e7: lea rdx, [r14 + 1]
+  0x1800046eb: movabs rcx, 0x7fffffffffffffff
+  0x1800046f5: cmp rdx, rcx
+  0x1800046f8: ja 0x180004adc
+  0x1800046fe: lea rcx, [rdx + rdx]
+  0x180004702: cmp rcx, 0x1000
+  0x180004709: jb 0x18000473d
+  0x18000470b: lea rax, [rcx + 0x27]
+  0x18000470f: cmp rax, rcx
+  0x180004712: jbe 0x180004adc
+  0x180004718: mov rcx, rax
+  0x18000471b: call 0x1800063e0
+  0x180004720: mov rcx, rax
+  0x180004723: test rax, rax
+  0x180004726: je 0x180004736
+  0x180004728: add rax, 0x27
+  0x18000472c: and rax, 0xffffffffffffffe0
+  0x180004730: mov qword ptr [rax - 8], rcx
+  0x180004734: jmp 0x180004747
+  0x180004736: call qword ptr [rip + 0x5b84]
+  0x18000473c: int3 
+  0x18000473d: test rcx, rcx
+  0x180004740: je 0x180004747
+  0x180004742: call 0x1800063e0
+  0x180004747: mov qword ptr [rsp + 0x38], rax
+  0x18000474c: mov qword ptr [rsp + 0x48], rdi
+  0x180004751: mov qword ptr [rsp + 0x50], r14
+  0x180004756: lea r8, [rdi*2 + 2]
+  0x18000475e: mov rdx, r12
+  0x180004761: mov rcx, rax
+  0x180004764: call 0x1800074a7
+  0x180004769: lea rdx, [rsp + 0x38]
+  0x18000476e: lea rcx, [rsp + 0x90]
+  0x180004776: call qword ptr [rip + 0x5a44]
+  0x18000477c: nop 
+  0x18000477d: xor edx, edx
+  0x18000477f: mov r8d, 0x100
+  0x180004785: lea rcx, [rsp + 0xe0]
+  0x18000478d: call 0x180007346
+  0x180004792: mov dword ptr [rsp + 0x20], 0x100
+  0x18000479a: lea r9, [rsp + 0xe0]
+  0x1800047a2: mov r8d, 4
+  0x1800047a8: lea rdx, [rsp + 0x58]
+  0x1800047ad: lea rcx, [rsp + 0x90]
+  0x1800047b5: call qword ptr [rip + 0x5a15]
+  0x1800047bb: test al, al
+  0x1800047bd: jne 0x18000494d
+  0x1800047c3: call qword ptr [rip + 0x5b7f]
+  0x1800047c9: mov rdx, rax
+  0x1800047cc: lea rcx, [rsp + 0x60]
+  0x1800047d1: call qword ptr [rip + 0x5b69]
+  0x1800047d7: nop 
+  0x1800047d8: mov edx, 0x9c40
+  0x1800047dd: lea rcx, [rsp + 0x60]
+  0x1800047e2: call qword ptr [rip + 0x5b38]
+  0x1800047e8: test al, al
+  0x1800047ea: je 0x1800048b8
+  0x1800047f0: call qword ptr [rip + 0x5b32]
+  0x1800047f6: mov rdi, rax
+  0x1800047f9: lea rdx, [rip + 0x6480]   ; "wmi method faield ..."
+  0x180004800: mov rcx, rax
+  0x180004803: call 0x180002e20
+  0x180004808: lea rdx, [rip + 0x5ff9]
+  0x18000480f: mov rcx, rax
+  0x180004812: call 0x180002e20
+  0x180004817: lea rdx, [rip + 0x659a]   ; "MonPowerEvent::SetOSAutoRecoverySwitch"
+  0x18000481e: mov rcx, rax
+  0x180004821: call 0x180002e20
+  0x180004826: lea rdx, [rip + 0x5faf]
+  0x18000482d: mov rcx, rax
+  0x180004830: call 0x180002e20
+  0x180004835: lea rdx, [rsp + 0x38]
+  0x18000483a: mov rcx, rdi
+  0x18000483d: call 0x1800029f0
+  0x180004842: nop 
+  0x180004843: lea rcx, [rip + 0x6596]   ; "bool __cdecl MonPowerEvent::SetOSAutoRecoverySwitch(int)"
+  0x18000484a: mov qword ptr [rsp + 0x28], rcx
+  0x18000484f: mov dword ptr [rsp + 0x20], 0x139
+  0x180004857: lea r9, [rip + 0x6292]   ; "D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\MonPowe"
+  0x18000485e: mov r8, rax
+  0x180004861: mov edx, 0x9c40
+  0x180004866: lea rcx, [rsp + 0x60]
+  0x18000486b: call qword ptr [rip + 0x5abf]
+  0x180004871: nop 
+  0x180004872: mov rdx, qword ptr [rsp + 0x50]
+  0x180004877: cmp rdx, 7
+  0x18000487b: jbe 0x1800048b8
+  0x18000487d: lea rdx, [rdx*2 + 2]
+  0x180004885: mov rcx, qword ptr [rsp + 0x38]
+  0x18000488a: mov rax, rcx
+  0x18000488d: cmp rdx, 0x1000
+  0x180004894: jb 0x1800048b2
+  0x180004896: add rdx, 0x27
+  0x18000489a: mov rcx, qword ptr [rcx - 8]
+  0x18000489e: sub rax, rcx
+  0x1800048a1: add rax, -8
+  0x1800048a5: cmp rax, 0x1f
+  0x1800048a9: jbe 0x1800048b2
+  0x1800048ab: call qword ptr [rip + 0x5a0f]
+  0x1800048b1: int3 
+  0x1800048b2: call 0x18000678c
+  0x1800048b7: nop 
+  0x1800048b8: lea rcx, [rsp + 0x60]
+  0x1800048bd: call qword ptr [rip + 0x5a75]
+  0x1800048c3: nop 
+  0x1800048c4: jmp 0x1800048d3
+  0x1800048c6: mov rsi, qword ptr [rsp + 0x88]
+  0x1800048ce: mov rbx, qword ptr [rsp + 0x70]
+  0x1800048d3: lea rcx, [rsp + 0x90]
+  0x1800048db: call qword ptr [rip + 0x58e7]
+  0x1800048e1: nop 
+  0x1800048e2: cmp rsi, 7
+  0x1800048e6: jbe 0x18000491d
+  0x1800048e8: lea rdx, [rsi*2 + 2]
+  0x1800048f0: mov rax, rbx
+  0x1800048f3: cmp rdx, 0x1000
+  0x1800048fa: jb 0x180004915
+  0x1800048fc: add rdx, 0x27
+  0x180004900: mov rbx, qword ptr [rbx - 8]
+  0x180004904: sub rax, rbx
+  0x180004907: add rax, -8
+  0x18000490b: cmp rax, 0x1f
+  0x18000490f: ja 0x180004ac4
+  0x180004915: mov rcx, rbx
+  0x180004918: call 0x18000678c
+  0x18000491d: xor al, al
+  0x18000491f: mov rcx, qword ptr [rsp + 0x1e0]
+  0x180004927: xor rcx, rsp
+  0x18000492a: call 0x1800062a0
+  0x18000492f: lea r11, [rsp + 0x1f0]
+  0x180004937: mov rbx, qword ptr [r11 + 0x20]
+  0x18000493b: mov rsi, qword ptr [r11 + 0x28]
+  0x18000493f: mov rdi, qword ptr [r11 + 0x30]
+  0x180004943: mov rsp, r11
+  0x180004946: pop r15
+  0x180004948: pop r14
+  0x18000494a: pop r12
+  0x18000494c: ret 
+  0x18000494d: cmp byte ptr [rsp + 0xe0], 0
+  0x180004955: jne 0x18000495f
+  0x180004957: mov r15b, 1
+  0x18000495a: jmp 0x180004a86
+  0x18000495f: call qword ptr [rip + 0x59e3]
+  0x180004965: mov rdx, rax
+  0x180004968: lea rcx, [rsp + 0x60]
+  0x18000496d: call qword ptr [rip + 0x59cd]
+  0x180004973: nop 
+  0x180004974: mov edx, 0x9c40
+  0x180004979: lea rcx, [rsp + 0x60]
+  0x18000497e: call qword ptr [rip + 0x599c]
+  0x180004984: test al, al
+  0x180004986: je 0x180004a65
+  0x18000498c: call qword ptr [rip + 0x5996]
+  0x180004992: mov rdi, rax
+  0x180004995: lea rdx, [rip + 0x635c]   ; "Set flag failed! status="
+  0x18000499c: mov rcx, rax
+  0x18000499f: call 0x180002e20
+  0x1800049a4: movzx edx, byte ptr [rsp + 0xe0]
+  0x1800049ac: mov rcx, rax
+  0x1800049af: call qword ptr [rip + 0x57c3]
+  0x1800049b5: lea rdx, [rip + 0x5e4c]
+  0x1800049bc: mov rcx, rax
+  0x1800049bf: call 0x180002e20
+  0x1800049c4: lea rdx, [rip + 0x63ed]   ; "MonPowerEvent::SetOSAutoRecoverySwitch"
+  0x1800049cb: mov rcx, rax
+  0x1800049ce: call 0x180002e20
+  0x1800049d3: lea rdx, [rip + 0x5e02]
+  0x1800049da: mov rcx, rax
+  0x1800049dd: call 0x180002e20
+  0x1800049e2: lea rdx, [rsp + 0x38]
+  0x1800049e7: mov rcx, rdi
+  0x1800049ea: call 0x1800029f0
+  0x1800049ef: nop 
+  0x1800049f0: lea rcx, [rip + 0x63e9]   ; "bool __cdecl MonPowerEvent::SetOSAutoRecoverySwitch(int)"
+  0x1800049f7: mov qword ptr [rsp + 0x28], rcx
+  0x1800049fc: mov dword ptr [rsp + 0x20], 0x13f
+  0x180004a04: lea r9, [rip + 0x60e5]   ; "D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\MonPowe"
+  0x180004a0b: mov r8, rax
+  0x180004a0e: mov edx, 0x9c40
+  0x180004a13: lea rcx, [rsp + 0x60]
+  0x180004a18: call qword ptr [rip + 0x5912]
+  0x180004a1e: nop 
+  0x180004a1f: mov rdx, qword ptr [rsp + 0x50]
+  0x180004a24: cmp rdx, 7
+  0x180004a28: jbe 0x180004a65
+  0x180004a2a: lea rdx, [rdx*2 + 2]
+  0x180004a32: mov rcx, qword ptr [rsp + 0x38]
+  0x180004a37: mov rax, rcx
+  0x180004a3a: cmp rdx, 0x1000
+  0x180004a41: jb 0x180004a5f
+  0x180004a43: add rdx, 0x27
+  0x180004a47: mov rcx, qword ptr [rcx - 8]
+  0x180004a4b: sub rax, rcx
+  0x180004a4e: add rax, -8
+  0x180004a52: cmp rax, 0x1f
+  0x180004a56: jbe 0x180004a5f
+  0x180004a58: call qword ptr [rip + 0x5862]
+  0x180004a5e: int3 
+  0x180004a5f: call 0x18000678c
+  0x180004a64: nop 
+  0x180004a65: lea rcx, [rsp + 0x60]
+  0x180004a6a: call qword ptr [rip + 0x58c8]
+  0x180004a70: nop 
+  0x180004a71: jmp 0x180004a86
+  0x180004a73: movzx r15d, byte ptr [rsp + 0x30]
+  0x180004a79: mov rsi, qword ptr [rsp + 0x88]
+  0x180004a81: mov rbx, qword ptr [rsp + 0x70]
+  0x180004a86: lea rcx, [rsp + 0x90]
+  0x180004a8e: call qword ptr [rip + 0x5734]
+  0x180004a94: nop 
+  0x180004a95: cmp rsi, 7
+  0x180004a99: jbe 0x180004ad3
+  0x180004a9b: lea rdx, [rsi*2 + 2]
+  0x180004aa3: mov rax, rbx
+  0x180004aa6: cmp rdx, 0x1000
+  0x180004aad: jb 0x180004acb
+  0x180004aaf: add rdx, 0x27
+  0x180004ab3: mov rbx, qword ptr [rbx - 8]
+  0x180004ab7: sub rax, rbx
+  0x180004aba: add rax, -8
+  0x180004abe: cmp rax, 0x1f
+  0x180004ac2: jbe 0x180004acb
+  0x180004ac4: call qword ptr [rip + 0x57f6]
+  0x180004aca: int3 
+  0x180004acb: mov rcx, rbx
+  0x180004ace: call 0x18000678c
+  0x180004ad3: movzx eax, r15b
+  0x180004ad7: jmp 0x18000491f
+  0x180004adc: call 0x180002140
+  0x180004ae1: int3 
+  0x180004ae2: call 0x1800021e0
+  0x180004ae7: int3 
+==============================================================================================================
+### calls Util.dll!?GetOutPutUIntEx@WMI@@QEAA_NPEAEI0I@Z  sites=['0x180004ca0']   func 0x180004af0-0x180004fe9 (1273B)
+  0x180004af0: mov qword ptr [rsp + 0x10], rbx
+  0x180004af5: mov qword ptr [rsp + 0x18], rsi
+  0x180004afa: push rdi
+  0x180004afb: push r12
+  0x180004afd: push r13
+  0x180004aff: push r14
+  0x180004b01: push r15
+  0x180004b03: sub rsp, 0x1f0
+  0x180004b0a: mov rax, qword ptr [rip + 0xa52f]
+  0x180004b11: xor rax, rsp
+  0x180004b14: mov qword ptr [rsp + 0x1e0], rax
+  0x180004b1c: mov r13, rcx
+  0x180004b1f: mov dword ptr [rsp + 0x60], 0x2e06
+  0x180004b27: lea rdx, [rip + 0x6112]   ; "ROOT\WMI"
+  0x180004b2e: lea rcx, [rsp + 0x68]
+  0x180004b33: call 0x180002b50
+  0x180004b38: nop 
+  0x180004b39: xorps xmm0, xmm0
+  0x180004b3c: movups xmmword ptr [rsp + 0x30], xmm0
+  0x180004b41: xor r14d, r14d
+  0x180004b44: mov qword ptr [rsp + 0x40], r14
+  0x180004b49: mov qword ptr [rsp + 0x48], r14
+  0x180004b4e: lea r12, [rsp + 0x68]
+  0x180004b53: mov rbx, qword ptr [rsp + 0x68]
+  0x180004b58: mov rdi, qword ptr [rsp + 0x80]
+  0x180004b60: cmp rdi, 7
+  0x180004b64: cmova r12, rbx
+  0x180004b68: movabs r15, 0x7ffffffffffffffe
+  0x180004b72: mov rsi, qword ptr [rsp + 0x78]
+  0x180004b77: cmp rsi, r15
+  0x180004b7a: ja 0x180004fe3
+  0x180004b80: mov qword ptr [rsp + 0x48], 7
+  0x180004b89: cmp rsi, 7
+  0x180004b8d: ja 0x180004ba3
+  0x180004b8f: mov qword ptr [rsp + 0x40], rsi
+  0x180004b94: movups xmm0, xmmword ptr [r12]
+  0x180004b99: movups xmmword ptr [rsp + 0x30], xmm0
+  0x180004b9e: jmp 0x180004c54
+  0x180004ba3: mov rax, rsi
+  0x180004ba6: or rax, 7
+  0x180004baa: cmp rax, r15
+  0x180004bad: jbe 0x180004bbf
+  0x180004baf: movabs rax, 0x7fffffffffffffff
+  0x180004bb9: lea rcx, [rax + rax]
+  0x180004bbd: jmp 0x180004bf1
+  0x180004bbf: mov r15, rax
+  0x180004bc2: mov ecx, 0xa
+  0x180004bc7: cmp rax, rcx
+  0x180004bca: cmovb r15, rcx
+  0x180004bce: lea rcx, [r15 + 1]
+  0x180004bd2: movabs rax, 0x7fffffffffffffff
+  0x180004bdc: cmp rcx, rax
+  0x180004bdf: ja 0x180004fdd
+  0x180004be5: add rcx, rcx
+  0x180004be8: cmp rcx, 0x1000
+  0x180004bef: jb 0x180004c23
+  0x180004bf1: lea rax, [rcx + 0x27]
+  0x180004bf5: cmp rax, rcx
+  0x180004bf8: jbe 0x180004fdd
+  0x180004bfe: mov rcx, rax
+  0x180004c01: call 0x1800063e0
+  0x180004c06: mov rcx, rax
+  0x180004c09: test rax, rax
+  0x180004c0c: je 0x180004c1c
+  0x180004c0e: add rax, 0x27
+  0x180004c12: and rax, 0xffffffffffffffe0
+  0x180004c16: mov qword ptr [rax - 8], rcx
+  0x180004c1a: jmp 0x180004c32
+  0x180004c1c: call qword ptr [rip + 0x569e]
+  0x180004c22: int3 
+  0x180004c23: test rcx, rcx
+  0x180004c26: je 0x180004c2f
+  0x180004c28: call 0x1800063e0
+  0x180004c2d: jmp 0x180004c32
+  0x180004c2f: mov rax, r14
+  0x180004c32: mov qword ptr [rsp + 0x30], rax
+  0x180004c37: mov qword ptr [rsp + 0x40], rsi
+  0x180004c3c: mov qword ptr [rsp + 0x48], r15
+  0x180004c41: lea r8, [rsi*2 + 2]
+  0x180004c49: mov rdx, r12
+  0x180004c4c: mov rcx, rax
+  0x180004c4f: call 0x1800074a7
+  0x180004c54: lea rdx, [rsp + 0x30]
+  0x180004c59: lea rcx, [rsp + 0x90]
+  0x180004c61: call qword ptr [rip + 0x5559]
+  0x180004c67: nop 
+  0x180004c68: xor edx, edx
+  0x180004c6a: mov r8d, 0x100
+  0x180004c70: lea rcx, [rsp + 0xe0]
+  0x180004c78: call 0x180007346
+  0x180004c7d: mov dword ptr [rsp + 0x20], 0x100
+  0x180004c85: lea r9, [rsp + 0xe0]
+  0x180004c8d: mov r8d, 4
+  0x180004c93: lea rdx, [rsp + 0x60]
+  0x180004c98: lea rcx, [rsp + 0x90]
+  0x180004ca0: call qword ptr [rip + 0x552a]
+  0x180004ca6: test al, al
+  0x180004ca8: jne 0x180004e39
+  0x180004cae: call qword ptr [rip + 0x5694]
+  0x180004cb4: mov rdx, rax
+  0x180004cb7: lea rcx, [rsp + 0x50]
+  0x180004cbc: call qword ptr [rip + 0x567e]
+  0x180004cc2: nop 
+  0x180004cc3: mov edx, 0x9c40
+  0x180004cc8: lea rcx, [rsp + 0x50]
+  0x180004ccd: call qword ptr [rip + 0x564d]
+  0x180004cd3: test al, al
+  0x180004cd5: je 0x180004da3
+  0x180004cdb: call qword ptr [rip + 0x5647]
+  0x180004ce1: mov rsi, rax
+  0x180004ce4: lea rdx, [rip + 0x5f95]   ; "wmi method faield ..."
+  0x180004ceb: mov rcx, rax
+  0x180004cee: call 0x180002e20
+  0x180004cf3: lea rdx, [rip + 0x5b0e]
+  0x180004cfa: mov rcx, rax
+  0x180004cfd: call 0x180002e20
+  0x180004d02: lea rdx, [rip + 0x6117]   ; "MonPowerEvent::GetOSAutoRecoverySwitch"
+  0x180004d09: mov rcx, rax
+  0x180004d0c: call 0x180002e20
+  0x180004d11: lea rdx, [rip + 0x5ac4]
+  0x180004d18: mov rcx, rax
+  0x180004d1b: call 0x180002e20
+  0x180004d20: lea rdx, [rsp + 0x30]
+  0x180004d25: mov rcx, rsi
+  0x180004d28: call 0x1800029f0
+  0x180004d2d: nop 
+  0x180004d2e: lea rcx, [rip + 0x6113]   ; "bool __cdecl MonPowerEvent::GetOSAutoRecoverySwitch(void)"
+  0x180004d35: mov qword ptr [rsp + 0x28], rcx
+  0x180004d3a: mov dword ptr [rsp + 0x20], 0x155
+  0x180004d42: lea r9, [rip + 0x5da7]   ; "D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\MonPowe"
+  0x180004d49: mov r8, rax
+  0x180004d4c: mov edx, 0x9c40
+  0x180004d51: lea rcx, [rsp + 0x50]
+  0x180004d56: call qword ptr [rip + 0x55d4]
+  0x180004d5c: nop 
+  0x180004d5d: mov rdx, qword ptr [rsp + 0x48]
+  0x180004d62: cmp rdx, 7
+  0x180004d66: jbe 0x180004da3
+  0x180004d68: lea rdx, [rdx*2 + 2]
+  0x180004d70: mov rcx, qword ptr [rsp + 0x30]
+  0x180004d75: mov rax, rcx
+  0x180004d78: cmp rdx, 0x1000
+  0x180004d7f: jb 0x180004d9d
+  0x180004d81: add rdx, 0x27
+  0x180004d85: mov rcx, qword ptr [rcx - 8]
+  0x180004d89: sub rax, rcx
+  0x180004d8c: add rax, -8
+  0x180004d90: cmp rax, 0x1f
+  0x180004d94: jbe 0x180004d9d
+  0x180004d96: call qword ptr [rip + 0x5524]
+  0x180004d9c: int3 
+  0x180004d9d: call 0x18000678c
+  0x180004da2: nop 
+  0x180004da3: lea rcx, [rsp + 0x50]
+  0x180004da8: call qword ptr [rip + 0x558a]
+  0x180004dae: jmp 0x180004f59
+  0x180004db3: mov rdi, qword ptr [rsp + 0x80]
+  0x180004dbb: mov rbx, qword ptr [rsp + 0x68]
+  0x180004dc0: lea rcx, [rsp + 0x90]
+  0x180004dc8: call qword ptr [rip + 0x53fa]
+  0x180004dce: nop 
+  0x180004dcf: cmp rdi, 7
+  0x180004dd3: jbe 0x180004e0a
+  0x180004dd5: lea rdx, [rdi*2 + 2]
+  0x180004ddd: cmp rdx, 0x1000
+  0x180004de4: mov rax, rbx
+  0x180004de7: jb 0x180004e02
+  0x180004de9: mov rbx, qword ptr [rbx - 8]
+  0x180004ded: sub rax, rbx
+  0x180004df0: add rdx, 0x27
+  0x180004df4: add rax, -8
+  0x180004df8: cmp rax, 0x1f
+  0x180004dfc: ja 0x180004fc7
+  0x180004e02: mov rcx, rbx
+  0x180004e05: call 0x18000678c
+  0x180004e0a: xor al, al
+  0x180004e0c: mov rcx, qword ptr [rsp + 0x1e0]
+  0x180004e14: xor rcx, rsp
+  0x180004e17: call 0x1800062a0
+  0x180004e1c: lea r11, [rsp + 0x1f0]
+  0x180004e24: mov rbx, qword ptr [r11 + 0x38]
+  0x180004e28: mov rsi, qword ptr [r11 + 0x40]
+  0x180004e2c: mov rsp, r11
+  0x180004e2f: pop r15
+  0x180004e31: pop r14
+  0x180004e33: pop r13
+  0x180004e35: pop r12
+  0x180004e37: pop rdi
+  0x180004e38: ret 
+  0x180004e39: cmp byte ptr [rsp + 0xe0], 0
+  0x180004e41: je 0x180004f5e
+  0x180004e47: call qword ptr [rip + 0x54fb]
+  0x180004e4d: mov rdx, rax
+  0x180004e50: lea rcx, [rsp + 0x50]
+  0x180004e55: call qword ptr [rip + 0x54e5]
+  0x180004e5b: nop 
+  0x180004e5c: mov edx, 0x9c40
+  0x180004e61: lea rcx, [rsp + 0x50]
+  0x180004e66: call qword ptr [rip + 0x54b4]
+  0x180004e6c: test al, al
+  0x180004e6e: je 0x180004f4d
+  0x180004e74: call qword ptr [rip + 0x54ae]
+  0x180004e7a: mov rsi, rax
+  0x180004e7d: lea rdx, [rip + 0x5f14]   ; "Get flag failed!  status="
+  0x180004e84: mov rcx, rax
+  0x180004e87: call 0x180002e20
+  0x180004e8c: movzx edx, byte ptr [rsp + 0xe0]
+  0x180004e94: mov rcx, rax
+  0x180004e97: call qword ptr [rip + 0x52db]
+  0x180004e9d: lea rdx, [rip + 0x5964]
+  0x180004ea4: mov rcx, rax
+  0x180004ea7: call 0x180002e20
+  0x180004eac: lea rdx, [rip + 0x5f6d]   ; "MonPowerEvent::GetOSAutoRecoverySwitch"
+  0x180004eb3: mov rcx, rax
+  0x180004eb6: call 0x180002e20
+  0x180004ebb: lea rdx, [rip + 0x591a]
+  0x180004ec2: mov rcx, rax
+  0x180004ec5: call 0x180002e20
+  0x180004eca: lea rdx, [rsp + 0x30]
+  0x180004ecf: mov rcx, rsi
+  0x180004ed2: call 0x1800029f0
+  0x180004ed7: nop 
+  0x180004ed8: lea rcx, [rip + 0x5f69]   ; "bool __cdecl MonPowerEvent::GetOSAutoRecoverySwitch(void)"
+  0x180004edf: mov qword ptr [rsp + 0x28], rcx
+  0x180004ee4: mov dword ptr [rsp + 0x20], 0x159
+  0x180004eec: lea r9, [rip + 0x5bfd]   ; "D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\MonPowe"
+  0x180004ef3: mov r8, rax
+  0x180004ef6: mov edx, 0x9c40
+  0x180004efb: lea rcx, [rsp + 0x50]
+  0x180004f00: call qword ptr [rip + 0x542a]
+  0x180004f06: nop 
+  0x180004f07: mov rdx, qword ptr [rsp + 0x48]
+  0x180004f0c: cmp rdx, 7
+  0x180004f10: jbe 0x180004f4d
+  0x180004f12: lea rdx, [rdx*2 + 2]
+  0x180004f1a: mov rcx, qword ptr [rsp + 0x30]
+  0x180004f1f: mov rax, rcx
+  0x180004f22: cmp rdx, 0x1000
+  0x180004f29: jb 0x180004f47
+  0x180004f2b: add rdx, 0x27
+  0x180004f2f: mov rcx, qword ptr [rcx - 8]
+  0x180004f33: sub rax, rcx
+  0x180004f36: add rax, -8
+  0x180004f3a: cmp rax, 0x1f
+  0x180004f3e: jbe 0x180004f47
+  0x180004f40: call qword ptr [rip + 0x537a]
+  0x180004f46: int3 
+  0x180004f47: call 0x18000678c
+  0x180004f4c: nop 
+  0x180004f4d: lea rcx, [rsp + 0x50]
+  0x180004f52: call qword ptr [rip + 0x53e0]
+  0x180004f58: nop 
+  0x180004f59: jmp 0x180004dc0
+  0x180004f5e: movzx eax, byte ptr [rsp + 0xe1]
+  0x180004f66: cmp al, 1
+  0x180004f68: jne 0x180004f77
+  0x180004f6a: mov dword ptr [r13 + 0x138], 1
+  0x180004f75: jmp 0x180004f89
+  0x180004f77: mov ecx, 2
+  0x180004f7c: test al, al
+  0x180004f7e: cmove r14d, ecx
+  0x180004f82: mov dword ptr [r13 + 0x138], r14d
+  0x180004f89: lea rcx, [rsp + 0x90]
+  0x180004f91: call qword ptr [rip + 0x5231]
+  0x180004f97: nop 
+  0x180004f98: cmp rdi, 7
+  0x180004f9c: jbe 0x180004fd6
+  0x180004f9e: lea rdx, [rdi*2 + 2]
+  0x180004fa6: mov rax, rbx
+  0x180004fa9: cmp rdx, 0x1000
+  0x180004fb0: jb 0x180004fce
+  0x180004fb2: add rdx, 0x27
+  0x180004fb6: mov rbx, qword ptr [rbx - 8]
+  0x180004fba: sub rax, rbx
+  0x180004fbd: add rax, -8
+  0x180004fc1: cmp rax, 0x1f
+  0x180004fc5: jbe 0x180004fce
+  0x180004fc7: call qword ptr [rip + 0x52f3]
+  0x180004fcd: int3 
+  0x180004fce: mov rcx, rbx
+  0x180004fd1: call 0x18000678c
+  0x180004fd6: mov al, 1
+  0x180004fd8: jmp 0x180004e0c
+  0x180004fdd: call 0x180002140
+  0x180004fe2: int3 
+  0x180004fe3: call 0x1800021e0
+  0x180004fe8: int3 
+==============================================================================================================
+### calls Util.dll!?Instance@BiosWmi@@SAAEAV1@XZ  sites=['0x1800059ae', '0x1800059c3', '0x1800059d2']   func 0x1800059a0-0x1800059e9 (73B)
+  0x1800059a0: push rbx
+  0x1800059a2: sub rsp, 0x20
+  0x1800059a6: call 0x1800033f0
+  0x1800059ab: mov rbx, rax
+  0x1800059ae: call qword ptr [rip + 0x4824]
+  0x1800059b4: cmp byte ptr [rax + 0x28], 0
+  0x1800059b8: je 0x1800059e1
+  0x1800059ba: cmp byte ptr [rbx + 0x119], 0
+  0x1800059c1: je 0x1800059d2
+  0x1800059c3: call qword ptr [rip + 0x480f]
+  0x1800059c9: mov rcx, rax
+  0x1800059cc: call qword ptr [rip + 0x481e]
+  0x1800059d2: call qword ptr [rip + 0x4800]
+  0x1800059d8: mov rcx, rax
+  0x1800059db: call qword ptr [rip + 0x4807]
+  0x1800059e1: mov al, 1
+  0x1800059e3: add rsp, 0x20
+  0x1800059e7: pop rbx
+  0x1800059e8: ret 
+==============================================================================================================
+### calls Util.dll!?StopCatchOemEvent@BiosWmi@@QEAAXXZ  sites=['0x1800059cc']   func 0x1800059a0-0x1800059e9 (73B)
+  0x1800059a0: push rbx
+  0x1800059a2: sub rsp, 0x20
+  0x1800059a6: call 0x1800033f0
+  0x1800059ab: mov rbx, rax
+  0x1800059ae: call qword ptr [rip + 0x4824]
+  0x1800059b4: cmp byte ptr [rax + 0x28], 0
+  0x1800059b8: je 0x1800059e1
+  0x1800059ba: cmp byte ptr [rbx + 0x119], 0
+  0x1800059c1: je 0x1800059d2
+  0x1800059c3: call qword ptr [rip + 0x480f]
+  0x1800059c9: mov rcx, rax
+  0x1800059cc: call qword ptr [rip + 0x481e]
+  0x1800059d2: call qword ptr [rip + 0x4800]
+  0x1800059d8: mov rcx, rax
+  0x1800059db: call qword ptr [rip + 0x4807]
+  0x1800059e1: mov al, 1
+  0x1800059e3: add rsp, 0x20
+  0x1800059e7: pop rbx
+  0x1800059e8: ret 
+==============================================================================================================
+### calls Util.dll!?UnInit@BiosWmi@@QEAAXXZ  sites=['0x1800059db']   func 0x1800059a0-0x1800059e9 (73B)
+  0x1800059a0: push rbx
+  0x1800059a2: sub rsp, 0x20
+  0x1800059a6: call 0x1800033f0
+  0x1800059ab: mov rbx, rax
+  0x1800059ae: call qword ptr [rip + 0x4824]
+  0x1800059b4: cmp byte ptr [rax + 0x28], 0
+  0x1800059b8: je 0x1800059e1
+  0x1800059ba: cmp byte ptr [rbx + 0x119], 0
+  0x1800059c1: je 0x1800059d2
+  0x1800059c3: call qword ptr [rip + 0x480f]
+  0x1800059c9: mov rcx, rax
+  0x1800059cc: call qword ptr [rip + 0x481e]
+  0x1800059d2: call qword ptr [rip + 0x4800]
+  0x1800059d8: mov rcx, rax
+  0x1800059db: call qword ptr [rip + 0x4807]
+  0x1800059e1: mov al, 1
+  0x1800059e3: add rsp, 0x20
+  0x1800059e7: pop rbx
+  0x1800059e8: ret 

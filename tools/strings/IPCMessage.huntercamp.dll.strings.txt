@@ -1,0 +1,4987 @@
+### ASCII strings (4915)
+!This program cannot be run in DOS mode.
+b~.<f
+e~%<f
+g~.<f
+b~"<f
+c~9<f
+g~ <f
+mDg~+<f
+c~6<f
+f~'<f
+d~'<f
+Rich&<f
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+D$PH9D$(w
+L$XH3
+L$XH3
+L$XH3
+H9D$@v
+7HcD$0H
+L$@H+
+D$@HcD$0H
+KHcD$0H
+L$@H+
+D$@HcD$0H
+H9D$hv
+L$@H3
+H9D$hv
+L$@H3
+H9D$hv
+L$@H3
+H+D$(H;
+L$hH3
+H+D$8H;
+L$xH3
+H+D$8H;
+L$xH3
+H+D$HH;
+H+D$8H;
+L$xH3
+H+D$HH;
+H+D$HH;
+H+D$8H;
+L$xH3
+H+D$HH;
+D$XH9D$Hs
+D$XH9D$Hv
+D$XH9D$Hu"L
+D$HH9D$`w
+L$HH+
+H9D$Pv
+L$HH+
+L$(H+
+L$ H+
+D$HH9D$PsMH
+L$HH+
+L$ H+
+D$8H9D$0s3H
+L$0H+
+D$HH9D$PsrH
+D$(H9D$ s0L
+L$ H+
+D$8H9D$0s3H
+L$0H+
+D$HH9D$PsrH
+D$(H9D$ s0L
+L$ H+
+L$0H+
+H9D$0u
+L$ H+
+D$@H9D$ u
+L$0H+
+H9D$0u
+L$ H+
+D$@H9D$ u
+D$HH9D$PsrH
+D$(H9D$ s0
+L$ H+
+D$HH9D$`
+L$HH+
+L$ H+
+D$@H9D$ u
+L$ H+
+D$@H9D$ u
+L$ H+
+D$@H9D$ u
+L$(H3
+L$(H3
+L$hH+
+H9D$@w
+D$hH9D$p
+L$pH+
+H9D$0w
+L$xH+
+H;D$@s
+D$8H9D$XsdH
+L$`H3
+L$@H3
+L$ fD
+H9D$Pu
+H9D$@u
+H9D$Pu
+H9D$@u
+L$(H3
+L$XH+
+L$XH+
+L$XH+
+H+D$`H
+L$XH+
+H+D$`H
+L$PH3
+L$PH3
+L$8H3
+|$ 'w
+D$`H9D$(v
+L$`H+
+H9D$Xv
+L$0H3
+D$`H9D$(v
+L$`H+
+H9D$Xv
+L$0H3
+L$8H9H
+L$8H9H
+D$8H9D$Hw
+L$8H+
+L$(H+
+D$0H9D$(t*H
+L$(H3
+H9D$p
+H9D$pw
+H9D$h
+H9D$Pw]H
+H9D$Pw]H
+H9D$Hw^H
+L$(H+
+L$hH+
+L$(H+
+L$(H+
+L$(H+
+L$(H+
+H9D$p
+L$8H+
+HH;D$8v
+H9D$8w
+L$8H+
+L$HH+
+L$HH3
+L$HH3
+H9D$(scH
+L$PH+
+L$ H+
+L$PH+
+L$ H+
+L$`H+
+L$0H+
+L$0H+
+L$pH+
+L$`H+
+L$0H+
+L$HH+
+L$PH+
+L$PH+
+H9D$X
+HH;D$hv
+H9D$`w
+L$`H+
+L$HH9H
+L$HH9H
+L$HH9H
+L$HH+
+D$ H9D$Hw
+L$HH+
+H9D$X
+L$`H3
+H9D$@t8H
+D$0H9D$(u H
+L$0H+
+H;D$8~2H
+H+D$8H
+L$0H3
+L$0H3
+L$0H3
+L$0H3
+L$8H3
+L$8H3
+L$0H3
+L$0H3
+L$0H3
+L$0H3
+L$8H3
+L$8H3
+L$XH3
+L$XH3
+L$XH3
+L$PH+
+D$8H9D$0t
+H9D$Xu
+D$ HkD$0 H
+D$pHkL$0 H
+HkD$0 H
+D$HHkD$0 H
+HkD$0 H
+H9D$@v
+HkD$@ H
+H+D$8H;
+L$xH3
+D$@H9D$xsRH
+D$@H9D$x
+D$XH9D$xv
+L$xH+
+L$pH3
+L$(H+
+D$(H9D$ t
+L$PH3
+D$(H9D$ t
+L$PH3
+L$HH3
+L$(H+
+L$(H+
+D$8H9D$@t*H
+D$8H9D$@t
+L$HH3
+L$(H3
+L$XH3
+D$HH9D$ u
+D$@H9D$Hu
+D$@H9D$Hu
+L$(H3
+L$(H3
+L$(H3
+L$(H3
+L$(H3
+L$(H3
+L$(H3
+L$hH3
+9D$4}}H
+D$8H9D$(tCH
+L$(H+
+H9D$ v
+D$XH9D$0s
+L$(H+
+H9D$ v
+D$XH9D$0s
+HkD$p H
+HkD$x H
+H+D$ H
+H+D$(H
+L$PH3
+H9D$Xs
+H9D$Xs
+(HkD$@ H
+H9D$(scH
+L$`H3
+D$0Hk@
+L$(H3
+D$hH9D$X
+D$hH9D$Xr
+D$0H9D$(u H
+L$0H+
+L$hH3
+L$hH3
+H;D$0~2H
+H+D$0H
+D$0H9D$Ht
+L$hH3
+H+D$PH;D$Hs
+L$(H3
+L$(H3
+L$@H3
+L$@H3
+L$HH3
+D$8H9D$0t
+D$8H9D$0t
+D$8H9D$0t
+H9D$Xu
+D$ HiD$0
+D$pHiL$0
+HiD$0
+D$HHiD$0
+HiD$0
+H9D$Xu
+D$ HkD$0 H
+D$pHkL$0 H
+HkD$0 H
+D$HHkD$0 H
+HkD$0 H
+L$PH3
+L$PH3
+L$PH3
+H9D$@v
+HkD$@
+fffffff
+fffffff
+H9D$@v
+HkD$@(H
+vb'vb'v
+vb'vb'v
+H9D$@v
+HkD$@hH
+H9D$@v
+HiD$@
+H9D$@v
+HiD$@
+L$`H+
+D$0HiD$0
+HiL$ 
+HiD$ 
+HiL$ 
+T$XH+
+HiD$ 
+L$`H+
+HiL$0
+T$`H+
+HiD$ 
+L$`H+
+HiL$ 
+H9D$8t
+L$XH3
+H9D$(
+D$0H-
+L$XH3
+H+D$0H
+L$XH3
+L$@H3
+D$0HiD$0
+D$8H9D$0t9H
+D$8H-
+D$@H-
+H9D$ 
+D$ H9
+D$(H-
+D$(H9
+D$0H9
+H9D$(u9H
+H9D$ u*L
+H9D$(uwH
+D$ H9
+H9D$ utH
+D$(H-
+H9D$(t
+D$(H-
+D$8H9D$0
+D$XHiD$0
+D$0HiD$0
+D$8H9D$0uvH
+T$HH+
+D$@HiD$ 
+tSHiD$ 
+H+D$HH;
+D$8H-
+L$8H+
+L$XH+
+L$ H+
+T$XH+
+L$0H3
+L$`H3
+L$PH3
+D$0H9D$(t
+L$XH3
+D$(H9D$ t
+L$PH3
+L$@H3
+D$ H9D$(t
+L$0H3
+D$0H9D$ tUH
+D$0H9D$ t<H
+L$@H3
+T$ H+
+L$(H3
+L$XH3
+L$hH+
+H9D$@w
+D$hH9D$p
+L$pH+
+H9D$0w
+L$xH+
+H;D$@s
+D$0H9D$XsdH
+L$`H3
+D$HH9D$ u
+D$0H-
+D$0H-
+H9D$Pu
+$HiD$(
+$HkD$( H
+$HkD$(
+L$(H3
+L$XH+
+D$0H-
+D$0H-
+D$0H-
+L$8H3
+D$4HcD$4H
+L$`H;
+H9D$@
+H9D$8sjH
+H9D$8t
+L$(H3
+L$(H3
+IX9HX~
+D$$9D$ 
+HcD$ H
+D$@HcD$ H
+HcD$ H
+D$pHcD$ H
+HcD$ H
+HcD$ H
+HcD$ H
+HcL$ H
+HcD$ H
+HcD$ H
+HcD$ H
+HcD$ H
+HcD$ H
+HcD$ H
+D$`HcD$ H
+L$PH+
+|$ d}'H
+|$ d| H
+D$ H-,
+D$ H-
+D$ H-
+L$XH3
+L$XH3
+L$8H3
+L$8H3
+H9D$8v
+HkD$h
+L$(H+
+H9D$ v
+D$XH9D$0s
+HiD$p
+HiD$x
+L$ H;H
+L$ H;H
+L$ H;H
+L$8H9H
+L$XH+
+H9D$@t
+L$8H+
+L$(H+
+L$hH3
+L$(H9
+H9D$ u
+H9D$ u
+L$(H9
+H9D$ u
+H9D$ u
+L$(H9
+H9D$ u
+H9D$ u
+L$@H;
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+L$pH3
+(HkD$@(H
+(HiD$@
+(HkD$@(H
+(HiD$@
+(HkD$@hH
+(HiD$@
+(HkD$@
+(HkD$@
+D$(9D$ u
+L$(H+
+L$hH+
+H;D$8v
+H9D$8w
+L$8H+
+L$HH+
+L$`9A
+fffffff
+vb'vb'v
+9D$@t
+L$XH;
+L$hH+
+H9D$Pt
+D$xH9D$pt
+L$(H;
+L$(H3
+L$0H3
+L$hH;
+L$(H;
+L$@H+
+L$@H+
+L$0H+
+L$@H+
+L$0H+
+L$PH3
+D$ H9D$P}
+L$PH+
+L$PH+
+L$(H+
+L$@H3
+L$(H3
+L$PH+
+H9D$Xu
+L$`H3
+L$8H3
+H9D$@v
+D$8H9D$0t
+L$(H+
+D$(H9D$ t
+L$PH3
+L$8H3
+D$ H9D$(t
+L$0H3
+D$ H9D$(t
+L$0H3
+L$XH3
+D$(H9D$ tUH
+D$(H9D$ t;H
+L$@H3
+D$(H9D$ tUH
+D$(H9D$ t;H
+L$@H3
+L$(H3
+L$(H3
+L$(H3
+D$8Hc@
+D$hHc@
+D$hHc@
+L$hHcI
+9D$(u3
+9D$,u
+9D$(u<H
+9D$,u
+L$hH3
+L$XH3
+L$0H3
+L$0H3
+L$8H3
+L$(H+
+H9D$ v
+D$XH9D$0s
+L$8H3
+L$0H3
+L$8H3
+D$8H9D$ 
+L$8H9H
+L$8H9
+L$8H9
+L$8H9H
+H9D$ u
+L$8H9H
+L$8H9
+H9D$0
+H9D$0
+L$@H;
+(HkD$@hH
+D$0H9D$(t_H
+L$0H3
+D$hH9D$X
+D$hH9D$Xr
+L$0H+
+L$(H+
+L$8H;
+L$8H;
+L$PH+
+H9D$Xu
+H9D$@v
+HkD$@
+L$@H3
+L$`H3
+L$PH3
+L$hH3
+L$(H+
+D$(H9D$ t
+L$PH3
+L$HH3
+L$(H3
+L$0H3
+HkL$ 
+L$(H+
+H9D$ v
+D$XH9D$0s
+L$@H3
+(HkD$@
+(HkD$@
+L$@H3
+HcD$(Hi
+L$0H3
+D$(-l
+L$`H3
+L$8H3
+HkD$ dH
+|$(Hi
+L$HH3
+H9D$(
+L$pH3
+D$0H9D$ 
+L$`H3
+L$XH3
+L$hH3
+H;D$8~2H
+H+D$8H
+D$8H9D$Ht
+L$hH3
+w\HcD$ H
+H+D$HH;D$Ps
+L$(H3
+L$(H3
+L$(H3
+L$@H3
+D$zH9D$hu
+L$PH3
+L$PH3
+L$PH+
+L$PH+
+L$PH+
+L$PH+
+L$PH+
+D$8H9D$0t
+L$ H9
+L$PH3
+L$@H9
+H9D$Xu
+D$ HkD$0
+D$pHkL$0
+HkD$0
+D$HHkD$0
+HkD$0
+H9D$Xu
+D$ HkD$0
+D$pHkL$0
+HkD$0
+D$HHkD$0
+HkD$0
+H9D$Xu
+D$ HkD$0
+D$pHkL$0
+HkD$0
+D$HHkD$0
+HkD$0
+H9D$Xu
+D$ HkD$0
+D$pHkL$0
+HkD$0
+D$HHkD$0
+HkD$0
+H9D$Xu
+D$ HkD$0
+D$pHkL$0
+HkD$0
+D$HHkD$0
+HkD$0
+H9D$Xu
+D$ HkD$0
+D$pHkL$0
+HkD$0
+D$HHkD$0
+HkD$0
+H9D$Xu
+H9D$Xu
+H9D$Xu
+H9D$Xu
+H9D$Xu
+D$ HkD$0
+D$pHkL$0
+HkD$0
+D$HHkD$0
+HkD$0
+H9D$Xu
+D$ HkD$0
+D$pHkL$0
+HkD$0
+D$HHkD$0
+HkD$0
+D$hH9D$(u{H
+L$xH+
+L$8H3
+L$8H3
+L$PH3
+L$PH3
+L$PH3
+?H9D$@v
+H9D$@v
+HkD$@HH
+3333333
+3333333
+H9D$@v
+HkD$@PH
+L$(H3
+D$8H9D$0t
+D$8H9D$0t
+D$XH9D$Pt7H
+D$PH9D$Ht+H
+H+D$(H;
+L$hH3
+D$@H9D$xsVH
+D$@H9D$x
+D$XH9D$xv
+L$xH+
+D$@H9D$xsSHkD$x
+D$@H9D$x
+D$XH9D$xv
+L$xH+
+L$pH3
+D$(HkD$@
+L$pH3
+D$XH9D$Hs
+D$XH9D$Hv
+L$PH3
+L$HH+
+D$HH9D$@t
+L$hH3
+D$0H9D$(t
+L$XH3
+D$XH9D$Pt
+L$8H3
+L$@H3
+L$(H+
+D$(H9D$ t
+L$PH3
+L$(H+
+D$(H9D$ t
+L$PH3
+L$(H+
+D$(H9D$ t
+L$PH3
+D$(H9D$ t
+L$PH3
+L$@H3
+L$(H+
+L$0H3
+(HcD$8H
+L$PH3
+L$PH3
+L$HH3
+L$PH3
+L$HH3
+L$PH3
+L$HH3
+L$PH3
+L$8H3
+HcD$ H
+L$`H3
+HcD$ H
+L$(H3
+L$HH3
+L$`H3
+L$@H3
+D$0H9D$ tEH
+L$`H3
+HcD$LH
+HcD$LH
+L$(H3
+L$(H3
+L$(H3
+L$@H3
+L$@E3
+HcD$ H
+wjHcD$ H
+L$0H3
+HcD$ H
+D$0H-
+D$0H-
+L$0H3
+L$0H3
+D$(H9D$ u
+$HkD$(
+wKHcD$ H
+HkL$  H
+L$(H3
+wHHcD$ H
+L$8H+A
+L$0H3
+L$0H3
+L$(H3
+HkD$8
+D$0H-
+D$0H-
+D$0H-
+L$`H3
+D$,9D$0
+L$(H;
+L$xH3
+L$8H3
+D$0HcD$0H
+L$8H;
+HcD$0H
+HcD$0H
+D$4HcD$4H
+L$XH;
+shHcD$4H
+L$XH3
+L$8H3
+L$pH3
+L$8H3
+L$@H;
+L$(H3
+L$HH3
+L$HH3
+L$8H3
+L$@H3
+L$hH3
+L$pH3
+L$49H
+L$@9H
+L$8H3
+L$8H3
+L$8H3
+L$@H3
+H9D$8v
+H9D$8v
+HkD$h
+L$(H+
+H9D$ v
+D$XH9D$0s
+L$(H+
+H9D$ v
+D$XH9D$0s
+L$(H+
+H9D$ v
+D$XH9D$0s
+L$(H+
+H9D$ v
+D$XH9D$0s
+HkD$p
+HkD$x
+L$ H;H
+L$ H;H
+L$ H;H
+L$8H3
+D$8H9D$ 
+L$8H9H
+L$8H9
+L$8H9
+L$8H9H
+H9D$ u
+L$8H9H
+L$8H9
+H9D$0
+H9D$0
+H9D$(wyH
+L$(H9
+H9D$ u
+H9D$ u
+L$(H9
+H9D$ u
+H9D$ u
+L$(H9
+H9D$ u
+H9D$ u
+L$0H+
+L$@H;
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+L$@H3
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+L$pH3
+L$@H3
+L$0H3
+H9D$(sbH
+L$@H3
+(HkD$@
+(HkD$@HH
+(HkD$@PH
+(HkD$@PH
+(HkD$@ H
+(HkD$@(H
+(HkD$@
+(HkD$@
+(HkD$@
+(HkD$@HH
+(HkD$@PH
+(HkD$@PH
+(HkD$@
+L$HH9
+L$`H9
+L$HH+
+H9D$@u
+L$HH9
+L$`H9
+L$`H+
+H9D$@u
+L$@H3
+D$0H9D$(t_H
+L$(H3
+D$`H9D$Hs-H
+L$`H+
+L$@9A
+9D$ u_H
+D$8H9D$(
+L$hH3
+D$ _^
+D$@H9D$(
+L$hH3
+3333333
+3333333
+w8HcD$ H
+H9D$ v
+HkD$  H
+H9D$ tgH
+L$HH9H
+L$HH9H
+L$HH9H
+L$HH+
+H9D$8v%H
+H9D$8v
+HcD$ H
+D$CeH
+D$LeH
+D$GlH
+L$PH3
+|$(*tE
+|$(/t
+|$$*t
+|$,/t
+D$PH9D$ sDH
+wxHcD$$H
+wVHcD$(H
+|$D.t
+|$DEt.
+|$Det'
+|$,7w{HcD$,H
+w4HcD$0H
+|$45wVHcD$4H
+wVHcD$8H
+w4HcD$<H
+w2HcD$@H
+L$HH9
+L$PH9Hxu
+L$`H3
+HcD$(H
+HcD$,H
+wsHcD$ H
+w`HcD$ H
+w<HcD$ H
+L$09A
+D$hH9D$X
+D$hH9D$Xr
+L$0H3
+L$hH3
+L$(H3
+L$(H3
+L$(H3
+L$@H3
+L$HH3
+L$8H3
+L$8H3
+L$PH3
+L$PH3
+L$PH3
+UUUUUUU
+UUUUUUU
+H9D$@v
+HkD$@0H
+D$@H9D$xsVH
+D$@H9D$x
+D$XH9D$xv
+L$xH+
+L$pH3
+L$PH3
+L$HH3
+L$(H+
+L$8H3
+L$`H3
+H9D$@u
+L$(H3
+L$`H3
+Hc@0H
+D$D9D$H
+L$pH;
+L$xH3
+H9D$8
+L$8H+
+L$8H3
+L$8H3
+L$8H3
+H9D$8v
+L$ H;H
+L$ H;H
+L$ H;H
+L$8H9H
+L$8H3
+D$8H9D$ 
+L$8H9H
+L$8H9
+L$8H9
+L$8H9H
+H9D$ u
+L$8H9H
+L$8H9
+H9D$0
+H9D$0
+L$(H9
+H9D$ u
+H9D$ u
+L$(H9
+H9D$ u
+H9D$ u
+L$(H9
+H9D$ u
+H9D$ u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+(HkD$@ H
+(HkD$@0H
+(HkD$@0H
+(HkD$@ H
+(HkD$@0H
+(HkD$@0H
+UUUUUUU
+UUUUUUU
+L$(H3
+L$(H3
+L$PH+
+L$HH9
+L$@H9
+L$8H3
+L$8H3
+L$PH3
+L$PH3
+D$XH9D$Pt
+L$8H3
+L$(H+
+L$@H3
+HcD$ H
+L$0H3
+L$0H3
+L$(H3
+L$@H3
+L$HH3
+D$@H9D$(u
+H9D$8
+D$8H9D$@
+L$0H3
+L$0H3
+L$PH3
+L$PH3
+L$PH3
+L$0E3
+L$@H3
+L$HH3
+L$PH3
+L$8H3
+L$0H3
+L$PH3
+D$ E3
+L$@H3
+L$PH3
+D$4HcD$8L
+HcD$8H
+HcL$4H
+H9D$8}9
+}:HcD$43
+HcD$4H
+D$@E3
+L$8H3
+L$8H3
+L$ H;H
+L$ H;H
+L$8H3
+D$8H9D$ 
+L$8H9H
+L$8H9
+L$8H9
+L$8H9H
+H9D$ u
+L$8H9H
+L$8H9
+H9D$0
+H9D$0
+H9D$(wyH
+L$(H9
+H9D$ u
+H9D$ u
+L$(H9
+H9D$ u
+H9D$ u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+L$@H3
+L$@H3
+(HkD$@(H
+(HkD$@0H
+(HkD$@(H
+(HkD$@0H
+fffffff
+UUUUUUU
+D$hH9D$X
+D$hH9D$Xr
+H+D$PH;D$Hs
+L$(H3
+L$(H3
+L$XH3
+L$PH+
+L$PH+
+D$8H9D$0t
+H9D$Xu
+H9D$Xu
+H9D$Xu
+H9D$Xu
+D$ HkD$0 H
+D$pHkL$0 H
+HkD$0 H
+D$HHkD$0 H
+HkD$0 H
+L$PH3
+L$PH3
+H9D$@v
+HkD$@`H
+H+D$8H;
+L$xH3
+L$(H+
+D$(H9D$ t
+L$PH3
+L$(H+
+D$(H9D$ t
+L$PH3
+D$(H9D$ t
+L$PH3
+L$(H3
+L$(H3
+L$(H3
+L$(H3
+L$(H3
+L$(H3
+L$(H3
+L$(H3
+L$(H3
+L$(H3
+HcD$PH
+H9D$ s
+L$PH3
+|jHcD$PH
+D$P9D$ }
+HcD$ H
+L$(9H
+L$(9H
+L$(9H
+L$09H
+L$(9H
+L$(9H
+L$09H
+L$(9H
+L$09H
+L$89H4}
+L$PH3
+L$@H9A
+L$@H9A
+L$@H9A
+HcD$ H
+HcD$ H
+D$0HcD$(L
+L$xH3
+L$0H3
+L$`H3
+9D$0v
+L$(H3
+L$(H3
+D$$9D$ s
+L$0H3
+D$$9D$ s
+L$0H3
+D$$9D$ s}H
+L$XH3
+~5HcD$ E3
+L$PH3
+D$$9D$ 
+D$$9D$ 
+D$$9D$ sDH
+L$pH3
+D$$9D$ sDH
+L$pH3
+L$(H3
+L$(H3
+L$8H3
+HcD$ H;D$H~
+8HcD$HH
+L$HH3
+L$HH3
+H;A ~
+L$HH3
+L$(H3
+L$(H3
+L$@H3
+L$@H3
+L$(H3
+L$@H3
+L$@H3
+L$@H3
+L$@H3
+L$(H3
+L$(H3
+L$hH3
+L$8H3
+L$8H3
+L$(H+
+H9D$ v
+D$XH9D$0s
+L$(H+
+H9D$ v
+D$XH9D$0s
+L$(H+
+H9D$ v
+D$XH9D$0s
+HkD$p H
+HkD$x H
+L$ H;H
+L$ H;H
+L$(H9
+H9D$ u
+H9D$ u
+L$(H9
+H9D$ u
+H9D$ u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$(u
+H9D$h
+I(H9H
+H;A(}
+(HkD$@`H
+(HkD$@`H
+(HkD$@`H
+(HkD$@`H
+(HkD$@ H
+D$ H9D$Hw
+L$HH+
+L$xfH
+D$(E3
+\$xfI
+L$XH3
+L$0H3
+L$PE3
+D$hH9D$X
+D$hH9D$Xr
+D$hH9D$Xr
+D$ E3
+L$@H3
+D$8H9D$0t
+D$PH9D$Ht!L
+L$(H+
+D$HH9D$`w
+L$HH+
+H9D$Pv
+L$HH+
+L$(H+
+L$ H+
+D$8H9D$0s0H
+L$0H+
+D$HH9D$PsrH
+D$(H9D$ s-L
+L$ H+
+L$@H3
+L$8H+
+L$0H+
+H;D$(|zH
+L$0H+
+D$HH9D$Pu
+L$XH3
+D$0H-
+D$0H-
+D$0H-
+D$0H-
+HcD$DH
+D$D9D$HtUH
+HcD$LE3
+D$L9D$Ht_H
+PHcD$(H
+L$`H3
+HcD$DH
+D$D9D$LtUH
+HcD$HE3
+D$H9D$Lt_H
+H+D$ H
+H+D$(H
+L$PH3
+L$ H+
+H9D$ s
+D$8H9D$(t
+L$hH3
+D$HH9D$8sE
+L$HH+
+|$0 s
+H+D$@H
+L$`H3
+H9D$(vZ
+L$8H9Hhs
+L$HH+
+L$8H+
+H;D$Xv!H
+L$(H9Hhs
+D$XH9D$8v
+D$ HcD$ H
+~IHcD$ L
+L$HH3
+L$`H3
+L$HH3
+D$`H9D$Hs*H
+L$`H+
+H9D$ s
+D$ H9D$(w
+L$@H3
+D$ E3
+t"fff
+t$fff
+t#fff
+t-fff
+t-fff
+t,fff
+t,fff
+t'fff
+t'fff
+t(fff
+t(fff
+t-fff
+t-fff
+t,fff
+t,fff
+t'fff
+t'fff
+t(fff
+t(fff
+)|$0D
+(t$@H
+t$pt2I;
+)|$ D
+(t$0H
+|$@t9I;
+tlfff
+)t$@H
+)D$ fD
+(t$@H
+(D$ H
+|$Pt?I;
+\$0t5I;
+thfff
+)|$0D
+(t$@H
+t$pt2I;
+)|$ D
+(t$0H
+|$@t9I;
+tlfff
+)t$@H
+)D$ fD
+(t$@H
+(D$ H
+|$Pt?I;
+\$0t6I;
+tXfff
+X UVWH
+)|$pA
+)D$`M;
+)L$PA
+)T$@M
+)\$0H
+)d$ E
+(d$ D
+(\$0D
+(T$@D
+(L$PD
+)t$pA
+)|$`I;
+)D$PA
+)L$@I
+)T$0H
+)\$ E
+(\$ D
+(T$0D
+(L$@D
+(t$pL
+SUVWH
+)|$pI
+)D$`M;
+)L$PA
+)T$@H
+)\$0fD
+(T$@D
+(L$PD
+(\$0L
+L$ H3
+VWAWH
+)t$`L
+)|$PH
+)L$0fA
+)T$ E
+(D$@fH
+(|$Pf
+(t$`fE
+(L$0fL
+(T$ f
+D$(H;
+D$(H;
+tWfff
+thfff
+D$0H;
+D$0H;
+T$0H;
+T$0H;
+L$0fD
+T$0I;
+L$0I;
+T$0I;
+L$0I;
+t fff
+mtH I
+muH I
+mvH I
+u fff
+m)H H
+u fff
+mtH I
+muH I
+mvH I
+u fff
+L$hH3
+L$HH3
+L$PH3
+D$hH9D$X
+D$hH9D$Xr
+L$@H3
+D$hH9D$X
+D$hH9D$Xr
+D$,9D$(
+9D$(um3
+D$ 9D$$s(
+L$PH3
+D$09D$ sgA
+L$PH3
+D$hH9D$X
+D$hH9D$Xr
+9D$$sjH
+D$ 9D$(s"
+L$hH3
+D$89D$ sgH
+L$PH3
+D$8H9D$Hv
+D$HH9D$Xw+H
+}EHcD$
+$HcD$
+9D$$s4
+D$H9D$ s
+x AVH
+SVWAVH
+8A^_^[
+WAVAWH
+\$8H;
+A_A^_
+LcA<A
+HcA<H
+|$ AVH
+VWAVH
+@A^_^
+ntelA
+ineID
+D$H9D$ s"
+\$ WH
+@SVWH
+ED$`H
+u/HcH<H
+M H1E
+ H3E H3E
+Unknown exception
+bad array new length
+string too long
+:AM:am:PM:pm
+invalid string position
+DataStream::ReadUtf8StringArray
+IPCMessage readPrimitiveTypes int32_t :
+int __cdecl DataStream::ReadUtf8StringArray(class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\DataStream.cpp
+bad cast
+vector too long
+%Y-%m-%d %H:%M:%S
+IPCMesEventReport::~IPCMesEventReport
+mWorkerThreadByHour join begin
+__cdecl IPCMesEventReport::~IPCMesEventReport(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMesEventReport.cpp
+IPCMesEventReport::~IPCMesEventReport
+mWorkerThreadByHour join end
+__cdecl IPCMesEventReport::~IPCMesEventReport(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMesEventReport.cpp
+IPCMesEventReport::~IPCMesEventReport
+mWorkerThreadByMin join begin
+__cdecl IPCMesEventReport::~IPCMesEventReport(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMesEventReport.cpp
+IPCMesEventReport::~IPCMesEventReport
+mWorkerThreadByMin join end
+__cdecl IPCMesEventReport::~IPCMesEventReport(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMesEventReport.cpp
+IPCReport
+C:\ProgramData\Comms\PCManager\log\IPCEventTimeReport\
+map/set too long
+IPCMessageClient::SendIPCData
+, wakeupMessageId=
+IPCMessage WaitForMessage error. fail to recv reply message. sendMessageId=
+bool __cdecl IPCMessageClient::SendIPCData(struct TagIPCMessageItem &,struct TagIPCMessageItem &,unsigned int) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::SendIPCData
+, wakeupMessageId=
+sync. fail to recv reply message. sendMessageId=
+bool __cdecl IPCMessageClient::SendIPCData(struct TagIPCMessageItem &,struct TagIPCMessageItem &,unsigned int) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::SendIPCMessage
+IPCMessage CurProcessSignature1 
+bool __cdecl IPCMessageClient::SendIPCMessage(struct TagIPCMessageItem &,int,unsigned int,class std::function<void __cdecl(struct TagIPCMessageItem &)>) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::SendIPCMessage
+IPCMessage CurProcessSignature false
+bool __cdecl IPCMessageClient::SendIPCMessage(struct TagIPCMessageItem &,int,unsigned int,class std::function<void __cdecl(struct TagIPCMessageItem &)>) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::SendIPCMessage
+MODULE_OFFLINE recvMessageId=
+bool __cdecl IPCMessageClient::SendIPCMessage(struct TagIPCMessageItem &,int,unsigned int,class std::function<void __cdecl(struct TagIPCMessageItem &)>) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::SendIPCMessage
+sync. error to recv reply message. recvMessageId=
+bool __cdecl IPCMessageClient::SendIPCMessage(struct TagIPCMessageItem &,int,unsigned int,class std::function<void __cdecl(struct TagIPCMessageItem &)>) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::SendIPCMessage
+, wakeupMessageId=
+IPCMessage WaitForMessage error. fail to recv reply message. sendMessageId=
+bool __cdecl IPCMessageClient::SendIPCMessage(struct TagIPCMessageItem &,int,unsigned int,class std::function<void __cdecl(struct TagIPCMessageItem &)>) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::SendIPCMessage
+, wakeupMessageId=
+sync. fail to recv reply message. sendMessageId=
+bool __cdecl IPCMessageClient::SendIPCMessage(struct TagIPCMessageItem &,int,unsigned int,class std::function<void __cdecl(struct TagIPCMessageItem &)>) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::SubscribeIPCMessage
+, messageId=
+UnSubscribeIPCMessage error. moduleId=
+bool __cdecl IPCMessageClient::SubscribeIPCMessage(unsigned int,unsigned int)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::PublishIPCMessage
+IPCMessage CurProcessSignature false
+bool __cdecl IPCMessageClient::PublishIPCMessage(struct TagIPCMessageItem &) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::ConvertMessageToPacketSharedMemory
+sharedMemory Create false:
+bool __cdecl IPCMessageClient::ConvertMessageToPacketSharedMemory(class std::shared_ptr<class BasePacket> &,const struct TagIPCMessageItem &,class HSharedMemory *) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::ConvertMessageToPacketSharedMemory
+sharedMemory SetData false:
+bool __cdecl IPCMessageClient::ConvertMessageToPacketSharedMemory(class std::shared_ptr<class BasePacket> &,const struct TagIPCMessageItem &,class HSharedMemory *) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::ConvertPacketToMessage
+IPCMessage SharedMemory attach fail
+bool __cdecl IPCMessageClient::ConvertPacketToMessage(struct TagIPCMessageItem &,const class std::shared_ptr<class BasePacket> &) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::ConvertPacketToMessage
+bool __cdecl IPCMessageClient::ConvertPacketToMessage(struct TagIPCMessageItem &,const class std::shared_ptr<class BasePacket> &) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageServer::Init
+IPCMessage create messageServer fail
+void __cdecl IPCMessageServer::Init(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::IPCMessageClient
+init module:
+__cdecl IPCMessageClient::IPCMessageClient(int,bool,bool)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::~IPCMessageClient
+unInit module:
+__cdecl IPCMessageClient::~IPCMessageClient(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::OnRecvPublishIPCMessage
+fail to convert publish ipc obj to struct. messageid=
+void __cdecl IPCMessageClient::OnRecvPublishIPCMessage(class std::shared_ptr<class BasePacket>)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::OnRecvIPCMessage
+, m_moduleId=
+messageid=
+void __cdecl IPCMessageClient::OnRecvIPCMessage(class std::shared_ptr<class BasePacket>)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::OnRecvIPCMessage
+, m_moduleId=
+fail to find async ipc message callback. messageid=
+void __cdecl IPCMessageClient::OnRecvIPCMessage(class std::shared_ptr<class BasePacket>)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::OnRecvIPCMessage
+fail to convert async ipc obj to struct. messageid=
+void __cdecl IPCMessageClient::OnRecvIPCMessage(class std::shared_ptr<class BasePacket>)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::PostIPCMessage
+IPCMessage CurProcessSignature false
+bool __cdecl IPCMessageClient::PostIPCMessage(const struct TagIPCMessageItem &) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::SendIPCData4Global
+IPCMessage CurProcessSignature false
+bool __cdecl IPCMessageClient::SendIPCData4Global(struct TagIPCMessageItem &,struct TagIPCMessageItem &,unsigned int) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::SendIPCData4Global
+ConvertMessageToPacketSharedMemory false
+bool __cdecl IPCMessageClient::SendIPCData4Global(struct TagIPCMessageItem &,struct TagIPCMessageItem &,unsigned int) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::SendIPCData4Global
+MODULE_OFFLINE recvMessageId=
+bool __cdecl IPCMessageClient::SendIPCData4Global(struct TagIPCMessageItem &,struct TagIPCMessageItem &,unsigned int) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::SendIPCData4Global
+sync. error to recv reply message. recvMessageId=
+bool __cdecl IPCMessageClient::SendIPCData4Global(struct TagIPCMessageItem &,struct TagIPCMessageItem &,unsigned int) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::SendIPCData4Global
+, wakeupMessageId=
+IPCMessage WaitForMessage error. fail to recv reply message. sendMessageId=
+bool __cdecl IPCMessageClient::SendIPCData4Global(struct TagIPCMessageItem &,struct TagIPCMessageItem &,unsigned int) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::SendIPCData4Global
+, wakeupMessageId=
+sync. fail to recv reply message. sendMessageId=
+bool __cdecl IPCMessageClient::SendIPCData4Global(struct TagIPCMessageItem &,struct TagIPCMessageItem &,unsigned int) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::SendIPCData
+CurProcessSignature false
+bool __cdecl IPCMessageClient::SendIPCData(struct TagIPCMessageItem &,struct TagIPCMessageItem &,unsigned int) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::SendIPCData
+ConvertMessageToPacketSharedMemory false
+bool __cdecl IPCMessageClient::SendIPCData(struct TagIPCMessageItem &,struct TagIPCMessageItem &,unsigned int) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::SendIPCData
+MODULE_OFFLINE recvMessageId=
+bool __cdecl IPCMessageClient::SendIPCData(struct TagIPCMessageItem &,struct TagIPCMessageItem &,unsigned int) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::SendIPCData
+sync. error to recv reply message. recvMessageId=
+bool __cdecl IPCMessageClient::SendIPCData(struct TagIPCMessageItem &,struct TagIPCMessageItem &,unsigned int) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessageClient::{ctor}::<lambda_d8a4e57e68f98941e863e9e7c5d22db3>::operator ()
+IPCMessage obj null
+auto __cdecl IPCMessageClient::{ctor}::<lambda_d8a4e57e68f98941e863e9e7c5d22db3>::operator ()(class std::shared_ptr<class BasePacket>) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\IPCMessageExport.cpp
+IPCMessage registerMsgCallback size 0
+void __cdecl IPCMessageClient::{ctor}::<lambda_d8a4e57e68f98941e863e9e7c5d22db3>::operator ()(class std::shared_ptr<class BasePacket>) const
+IPCMessage new IpcParam error
+QueueUserWorkItem error.code:
+IPCMessageClient::{ctor}::<lambda_7d4163acb2499eb0b2c35ec70ab2a7d0>::operator ()
+void __cdecl IPCMessageClient::{ctor}::<lambda_7d4163acb2499eb0b2c35ec70ab2a7d0>::operator ()(class std::shared_ptr<class BasePacket>) const
+MonProcess.dll
+HwCreateInstance
+components
+modules
+component
+NotifyProc
+ModuleMessageClient NotifyProc Thread Id:
+unsigned long __cdecl NotifyProc(void *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+WorkerProc
+ModuleMessageClient WorkerProc Thread Id:
+unsigned long __cdecl WorkerProc(void *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+BaseMessageClient::CreateReplyEvent
+.\config\local_config\ipc_module_cfg.json
+IPCMessage CReplyWait object alloc failed
+class ReplyWait *__cdecl BaseMessageClient::CreateReplyEvent(unsigned int,const class std::shared_ptr<class BasePacket> &)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+C:\Program Files\HONOR\HONORDeviceClone\config\local_config\datamigration_module_ipc_cfg.json
+.\config\local_config\performancecenter_module_ipc_cfg.json
+C:\Program Files\HONOR\HnUpdateService\config\hnUpdateService_module_ipc_cfg.json
+BaseMessageClient::WaitForMessage
+IPCMessage CReplyWait object alloc failed
+bool __cdecl BaseMessageClient::WaitForMessage(unsigned int,unsigned int,class ReplyWait *,class BasePacket &)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+BaseMessageClient::WaitForMessage
+, uniqMsgId=
+wait for event. msgId=
+bool __cdecl BaseMessageClient::WaitForMessage(unsigned int,unsigned int,class ReplyWait *,class BasePacket &)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+BaseMessageClient::WaitForMessage
+, uniqMsgId=
+success wait for event. msgId=
+bool __cdecl BaseMessageClient::WaitForMessage(unsigned int,unsigned int,class ReplyWait *,class BasePacket &)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+BaseMessageClient::GetPipeName
+IPCMessage fail to get IPCConfig.dll's full path.
+class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > __cdecl BaseMessageClient::GetPipeName(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+BaseMessageClient::GetPipeName
+IPCMessage not find IPCConfig.dll.
+class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > __cdecl BaseMessageClient::GetPipeName(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+GetIPCNamedPipeByPrc
+BaseMessageClient::GetPipeName
+IPCMessage Load GetIPCNamedPipeByPrc failed! error = 
+class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > __cdecl BaseMessageClient::GetPipeName(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+BaseMessageClient::GetPipeName
+ failed! error = 
+Load 
+class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > __cdecl BaseMessageClient::GetPipeName(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+BaseMessageClient::Connect
+IPCMessage CBaseMessageClient connect CreateFile failed. error=
+bool __cdecl BaseMessageClient::Connect(unsigned int)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+DispathJobProc
+, msgId=
+IPCMessage illegal messages moduleId not find:
+unsigned long __cdecl DispathJobProc(void *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+BaseMessageClient::DispatchRecvPackage
+IPCMessage job is empty
+bool __cdecl BaseMessageClient::DispatchRecvPackage(class BasePacket &)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+BaseMessageClient::DispatchRecvPackage
+IPCMessage job param is empty
+bool __cdecl BaseMessageClient::DispatchRecvPackage(class BasePacket &)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+BaseMessageClient::DispatchRecvPackage
+QueueUserWorkItem error.code:
+bool __cdecl BaseMessageClient::DispatchRecvPackage(class BasePacket &)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+BaseMessageClient::DispatchRecvPackage
+QueueUserWorkItem error.code:
+bool __cdecl BaseMessageClient::DispatchRecvPackage(class std::shared_ptr<class BasePacket>)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+BaseMessageClient::DispatchRecvPackageSync
+, msgId=
+IPCMessage illegal messages moduleId not find:
+void __cdecl BaseMessageClient::DispatchRecvPackageSync(class std::shared_ptr<class BasePacket>)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+BaseMessageClient::WakeupReplyMsg
+, uniqId=
+offline msg. msgId=
+void __cdecl BaseMessageClient::WakeupReplyMsg(class std::shared_ptr<class BasePacket>)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+BaseMessageClient::WakeupReplyMsg
+, uniqId=
+find not offline msg. msgId=
+void __cdecl BaseMessageClient::WakeupReplyMsg(class std::shared_ptr<class BasePacket>)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+BaseMessageClient::WakeupReplyMsg
+, uniqId=
+IPCMessage illegal messages.
+void __cdecl BaseMessageClient::WakeupReplyMsg(class std::shared_ptr<class BasePacket>)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+BaseMessageClient::NotifyThread
+Wait three second failed
+void __cdecl BaseMessageClient::NotifyThread(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+BaseMessageClient::NotifyThread
+,SyncMsgId:
+,MessageId:
+,toModuleId:
+BaseMessageClient, fromModuleId:
+void __cdecl BaseMessageClient::NotifyThread(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+BaseMessageClient::UpdatePidMid
+iter->moduleId convert char fail
+void __cdecl BaseMessageClient::UpdatePidMid(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+BaseMessageClient::VerifyCurProcessSignature
+IPCMessage CurProcessSignature false
+void __cdecl BaseMessageClient::VerifyCurProcessSignature(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageClient.cpp
+type must be string, but is 
+type must be number, but is 
+[json.exception.
+, column 
+ at line 
+cannot use operator[] with a numeric argument with 
+value
+bad conversion
+object
+array
+string
+boolean
+binary
+discarded
+number
+syntax error 
+while parsing 
+; last read: '
+unexpected 
+; expected 
+<U+%.4X>
+961c151d2e87f2686a955a9be24d316f1362bf21 3.10.5
+vector<bool> too long
+invalid BOM; must be 0xEF 0xBB 0xBF if given
+invalid literal
+<uninitialized>
+true literal
+false literal
+null literal
+string literal
+number literal
+<parse error>
+end of input
+'[', '{', or a literal
+unknown token
+invalid number; expected digit after '-'
+invalid number; expected digit after '.'
+invalid number; expected '+', '-', or digit after exponent
+invalid number; expected digit after exponent sign
+invalid comment; missing closing '*/'
+invalid comment; expecting '/' or '*' after '/'
+invalid string: missing closing quote
+invalid string: '\u' must be followed by 4 hex digits
+invalid string: surrogate U+D800..U+DBFF must be followed by U+DC00..U+DFFF
+invalid string: surrogate U+DC00..U+DFFF must follow U+D800..U+DBFF
+invalid string: forbidden character after backslash
+invalid string: control character U+0000 (NUL) must be escaped to \u0000
+invalid string: control character U+0001 (SOH) must be escaped to \u0001
+invalid string: control character U+0002 (STX) must be escaped to \u0002
+invalid string: control character U+0003 (ETX) must be escaped to \u0003
+invalid string: control character U+0004 (EOT) must be escaped to \u0004
+invalid string: control character U+0005 (ENQ) must be escaped to \u0005
+invalid string: control character U+0006 (ACK) must be escaped to \u0006
+invalid string: control character U+0007 (BEL) must be escaped to \u0007
+invalid string: control character U+0008 (BS) must be escaped to \u0008 or \b
+invalid string: control character U+0009 (HT) must be escaped to \u0009 or \t
+invalid string: control character U+000A (LF) must be escaped to \u000A or \n
+invalid string: control character U+000B (VT) must be escaped to \u000B
+invalid string: control character U+000C (FF) must be escaped to \u000C or \f
+invalid string: control character U+000D (CR) must be escaped to \u000D or \r
+invalid string: control character U+000E (SO) must be escaped to \u000E
+invalid string: control character U+000F (SI) must be escaped to \u000F
+invalid string: control character U+0010 (DLE) must be escaped to \u0010
+invalid string: control character U+0011 (DC1) must be escaped to \u0011
+invalid string: control character U+0012 (DC2) must be escaped to \u0012
+invalid string: control character U+0013 (DC3) must be escaped to \u0013
+invalid string: control character U+0014 (DC4) must be escaped to \u0014
+invalid string: control character U+0015 (NAK) must be escaped to \u0015
+invalid string: control character U+0016 (SYN) must be escaped to \u0016
+invalid string: control character U+0017 (ETB) must be escaped to \u0017
+invalid string: control character U+0018 (CAN) must be escaped to \u0018
+invalid string: control character U+0019 (EM) must be escaped to \u0019
+invalid string: control character U+001A (SUB) must be escaped to \u001A
+invalid string: control character U+001B (ESC) must be escaped to \u001B
+invalid string: control character U+001C (FS) must be escaped to \u001C
+invalid string: control character U+001D (GS) must be escaped to \u001D
+invalid string: control character U+001E (RS) must be escaped to \u001E
+invalid string: control character U+001F (US) must be escaped to \u001F
+invalid string: ill-formed UTF-8 byte
+cannot use operator[] with a string argument with 
+type_error
+list too long
+object key
+object separator
+number overflow parsing '
+parse error
+parse_error
+other_error
+excessive array size: 
+excessive object size: 
+cannot get value
+deque<T> too long
+out_of_range
+iterator does not fit current value
+iterator out of range
+cannot use erase() with 
+invalid_iterator
+cannot compare iterators of different containers
+ModuleMessageServer::PublishModuleStatus
+IPCMessage MODULE_OFFLINE id:
+void __cdecl ModuleMessageServer::PublishModuleStatus(class Connection *,const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageServer.cpp
+ModuleMessageServer::PublishModuleStatus
+MODULE_ONLINE id:
+void __cdecl ModuleMessageServer::PublishModuleStatus(class Connection *,const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageServer.cpp
+ModuleMessageServer::OnConnectionClose
+IPCMessage MODULE_OFFLINE id:
+void __cdecl ModuleMessageServer::OnConnectionClose(class IOCPContext *,struct IOCPBuffer *,int)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageServer.cpp
+ModuleMessageServer::OnConnectionClose
+ error:
+IPCMessage MODULE_OFFLINE moduleList:
+void __cdecl ModuleMessageServer::OnConnectionClose(class IOCPContext *,struct IOCPBuffer *,int)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageServer.cpp
+ModuleMessageServer::OnReadCompleted
+IPCMessage headHash Error
+void __cdecl ModuleMessageServer::OnReadCompleted(class IOCPContext *,struct IOCPBuffer *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageServer.cpp
+Recv Packet
+Send publish Packet .Pid. 
+Send broad Packet to Pid. 
+Send Packet To Module.Id. 
+ModuleMessageServer::ProcessMessage
+IPCMessage MODULE_OFFLINE id:
+void __cdecl ModuleMessageServer::ProcessMessage(class Connection *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageServer.cpp
+Miss Module:
+MonProcess.dll
+HwCreateInstance
+UnKnow
+WritePacketLog
+], Msg=
+], To=[
+, From=[
+, PacketIndex=
+title=
+void __cdecl WritePacketLog(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,const unsigned long,const unsigned long,const unsigned long,const unsigned long)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageServer.cpp
+BROADCAST
+MSGSERVER
+MAINFRAME
+MAINSERVICE
+MSGCENTER
+ModuleMessageServer::NewServerIdClient::<lambda_def141048b166527253179f2788a70d6>::operator ()
+IPCMessage MODULE_OFFLINE id:
+bool __cdecl ModuleMessageServer::NewServerIdClient::<lambda_def141048b166527253179f2788a70d6>::operator ()(struct TagIPCMessageItem &) const
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\ModuleMessageServer.cpp
+IOCPServer::VerifySignature
+ bResult:
+bool __cdecl IOCPServer::VerifySignature(class IOCPContext *,struct IOCPBuffer *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::VerifySignature
+bool __cdecl IOCPServer::VerifySignature(class IOCPContext *,struct IOCPBuffer *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::VerifySignature
+bool __cdecl IOCPServer::VerifySignature(class IOCPContext *,struct IOCPBuffer *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::SendText
+IPC SendText Package over 1M
+bool __cdecl IOCPServer::SendText(class IOCPContext *,char *,int)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::EmptySendQueue
+IPCMessage buffer copy failed
+void __cdecl IOCPServer::EmptySendQueue(class IOCPContext *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::EmptySendQueue
+IPCMessage PostSend Error
+void __cdecl IOCPServer::EmptySendQueue(class IOCPContext *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::EmptySendQueue
+IPCMessage AllocateBuffer Error
+void __cdecl IOCPServer::EmptySendQueue(class IOCPContext *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::CheckAccepting
+IPCMessage CheckAccepting:
+void __cdecl IOCPServer::CheckAccepting(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::CheckAccepting
+IPCMessage too big count. count=
+void __cdecl IOCPServer::CheckAccepting(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::CheckAccepting
+IPCMessage checkaccepting PostAccept error
+void __cdecl IOCPServer::CheckAccepting(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::CheckAccepting
+IPCMessage checkaccepting allocatebuffer error
+void __cdecl IOCPServer::CheckAccepting(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::PostAccept
+IPCMessage PostAccept ConnectNamedPipe error
+int __cdecl IOCPServer::PostAccept(struct IOCPBuffer *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::PostAccept
+IPCMessage PostAccept AssociateDeviceWithCompletionPort error
+int __cdecl IOCPServer::PostAccept(struct IOCPBuffer *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::PostAccept
+IPCMessage PostAccept AllocateContext error
+int __cdecl IOCPServer::PostAccept(struct IOCPBuffer *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::PostAccept
+IPCMessage PostAccept CreateNamedPipe error
+int __cdecl IOCPServer::PostAccept(struct IOCPBuffer *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::PostAccept
+IPCMessage pipe INVALID_HANDLE_VALUE
+int __cdecl IOCPServer::PostAccept(struct IOCPBuffer *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::PostRecv
+IPCMessage GetLastError:
+int __cdecl IOCPServer::PostRecv(class IOCPContext *,struct IOCPBuffer *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::PostSend
+IPCMessage GetLastError:
+int __cdecl IOCPServer::PostSend(class IOCPContext *,struct IOCPBuffer *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::Stop
+IPCMessage PostQueuedCompletionStatus failed
+void __cdecl IOCPServer::Stop(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::Stop
+void __cdecl IOCPServer::Stop(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::WorkerThreadProc
+unsigned long __cdecl IOCPServer::WorkerThreadProc(void *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::OperationAcceptProcess
+void __cdecl IOCPServer::OperationAcceptProcess(class IOCPContext &,unsigned long &,struct IOCPBuffer &,int &,bool &)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+IOCPServer::VerifyClientSignature
+ bResult:
+szPath:
+bool __cdecl IOCPServer::VerifyClientSignature(unsigned long)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\NamedPipeIOCP.cpp
+Qkkbal
+wn>Jj
+ShowMemory
+ WorkingSetSize: 
+void __cdecl ShowMemory(wchar_t *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SecurityAttribute.cpp
+SecurityAttribute::EveryoneSecAttr
+AllocateAndInitializeSid failed. error=
+struct _SECURITY_ATTRIBUTES *const __cdecl SecurityAttribute::EveryoneSecAttr(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SecurityAttribute.cpp
+SecurityAttribute::EveryoneSecAttr
+SetEntriesInAcl failed. error=
+struct _SECURITY_ATTRIBUTES *const __cdecl SecurityAttribute::EveryoneSecAttr(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SecurityAttribute.cpp
+SecurityAttribute::EveryoneSecAttr
+LocalAlloc failed. error=
+struct _SECURITY_ATTRIBUTES *const __cdecl SecurityAttribute::EveryoneSecAttr(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SecurityAttribute.cpp
+SecurityAttribute::EveryoneSecAttr
+InitializeSecurityDescriptor failed. error=
+struct _SECURITY_ATTRIBUTES *const __cdecl SecurityAttribute::EveryoneSecAttr(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SecurityAttribute.cpp
+SecurityAttribute::EveryoneSecAttr
+SetSecurityDescriptorDacl failed. error=
+struct _SECURITY_ATTRIBUTES *const __cdecl SecurityAttribute::EveryoneSecAttr(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SecurityAttribute.cpp
+DE::NamedMutexLock::NamedMutexLock
+NamedMutexLock Init Failed!
+__cdecl DE::NamedMutexLock::NamedMutexLock(const wchar_t *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::NamedMutexLock::Lock
+NamedMutexLock Lock Failed!
+void __cdecl DE::NamedMutexLock::Lock(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::Stream::ReadBuffer
+read buffer error!
+void __cdecl DE::Stream::ReadBuffer(void *,unsigned int)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::Stream::WriteBuffer
+write buffer error!
+void __cdecl DE::Stream::WriteBuffer(const void *,unsigned int)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::MemoryrStream::SetCapacity
+Can not set capacity!
+void __cdecl DE::MemoryrStream::SetCapacity(__int64)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::MemoryrStream::Realloc
+Realloc Failed!
+char *__cdecl DE::MemoryrStream::Realloc(__int64 &)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::MemoryrStream::Realloc
+Realloc Failed!
+char *__cdecl DE::MemoryrStream::Realloc(__int64 &)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::MemoryrStream::Realloc
+memcpy_s Capacity fail
+char *__cdecl DE::MemoryrStream::Realloc(__int64 &)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::MemoryrStream::MemoryrStream
+invalid argument!
+__cdecl DE::MemoryrStream::MemoryrStream(char *,int,bool)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::MemoryrStream::MemoryrStream
+stream write error!
+__cdecl DE::MemoryrStream::MemoryrStream(char *,int,bool)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::MemoryrStream::MemoryrStream
+stream write error!
+__cdecl DE::MemoryrStream::MemoryrStream(const char *,int)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::MemoryrStream::MemoryrStream
+stream write error!
+__cdecl DE::MemoryrStream::MemoryrStream(const char *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::MemoryrStream::MemoryrStream
+stream write error!
+__cdecl DE::MemoryrStream::MemoryrStream(class DE::MemoryrStream &)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::MemoryrStream::Read
+memmove_s buffer fail
+unsigned int __cdecl DE::MemoryrStream::Read(void *,unsigned int)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::MemoryrStream::Write
+point is nullptr
+unsigned int __cdecl DE::MemoryrStream::Write(const void *,unsigned int)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::MemoryrStream::Write
+memmove_s fail
+unsigned int __cdecl DE::MemoryrStream::Write(const void *,unsigned int)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::MemoryrStream::Assign
+stream write error!
+class DE::MemoryrStream &__cdecl DE::MemoryrStream::Assign(class DE::MemoryrStream &)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::MemoryrStream::Assign
+stream write error!
+class DE::MemoryrStream &__cdecl DE::MemoryrStream::Assign(const char *,int)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::MemoryrStream::Assign
+stream write error!
+class DE::MemoryrStream &__cdecl DE::MemoryrStream::Assign(const char *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::MemoryrStream::Append
+stream write error!
+class DE::MemoryrStream &__cdecl DE::MemoryrStream::Append(class DE::MemoryrStream &)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::MemoryrStream::Append
+stream write error!
+class DE::MemoryrStream &__cdecl DE::MemoryrStream::Append(const char *,int)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::MemoryrStream::Append
+stream write error!
+class DE::MemoryrStream &__cdecl DE::MemoryrStream::Append(const char *)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+DE::StreamReader::ReadWString
+stream error
+class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > __cdecl DE::StreamReader::ReadWString(void)
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\sdk\Common\IPCMessage\IPCMessage\SimpleStream.cpp
+qwjyc|
+Z4,VU
+xkh82
+n<P`J
+%|E704MK
+&OTlM
+8z70y4
+RA#N,[$
+%:8&i
+j)@5464?S
+Tx<J 
+HO}=O
+mLdq;
+KKzg[
+|,p/?
+"ki-~
+t9`\8U
+?r<^&NU
+t1BvP]])
+LdCO<
+h}W$7^
+_:!/P
+Y+]?]
+)=#a!
+i"j~Rzt
+/leJ?(
+\<KdY$'
+W=Vw}
+x<Nh>.
+>DihO
+vWGaV
+#_%whe\I
+vg~fL
+M?QxO
+*~fOYH
+)](XB}
+]~Nsn
+V9j&s[
+h4K!4
+qLC=6
+MF)#v
+xaeW?Y
+85zno
+o0wZ0
+kxPy:
+dv]ybX
+ [R3)
+Z\XJeIp
+<4yfx
+`w%ZDk
+h=)]]
+O-9=0.
+g3XX)
+U(Jx"s
+GuQIC7
+2-/tF&
+.ibyi
+W5NW((;
+PFi'i
+wjgUf
+*m*/a
+JLGxV
+_3IC;
+{&|{F
+,>wAw$`f
+w@n("
+y4aTl
+z}$Yg
+ixP<K
+o~b%%fP
+i2w3|
+9+F/k
+w7nPI
+C5'x(8
+wO>?u
+;GfO7
+N,qIW
+K]q>r
+O.VJD
+.y5:2
+'CP,rp
+_@.?vh
+8[Z-W
+n_/z"
+L|[h7
+O{~dA
+lQyp'
+Gn` -
+Abn8O
+q>4=7l
+,lqO"
+_x;wT
+Zu}P1
+f!0s7
+1k(}e~\8_
+FCkj{V
+WCNB&24
+G__Bn38D
+fwb.F
+|Xk"u
+Jg.A4v
+)9['!#3
+PI<Tf^
+G\enf
+DPH1>p
+2j0?x^l
+QA._[N
+Z{j3T
+\|6Lg
+9uT~H
+>UG;f
+323^4
+&Sy{M
+_y|):
+gJ ,jd
+c\;{w
+86pR/
+sI-#\
+1pPk4-
+.!0b4
+!%,$ 
+9t8)d
+0*oAIj"
++mUi)
+ew pL
+/PZaw
+ko$30N
+-!)3TJ6
+#<.di
+*g5}5
+}A"~_
+.>%um
+w1/i(F
+T$N(boj
+p]YQd
+X:lz^q<p
+$6{v)
+2RfP:
+z|%yBk
+s^z|H
+>VR~S
+ge&}l
+.>s>j
+r0="a
+qk1OBU
+'mOb<P:j
+0uFvq0
+N?#yXs8
+oDs$L
+ozkSZ
+1'!N3Y/
+)@U`'
+HxA)b
+\6f\|
+PIfky5
+bk/w'
+J9!upR
+KT=Fg
+vxk1@..s-
+UW@f`,R
+c'CV#
+1a{y"
+]=k/r)?
+E}}<eW
+!tVa9
+ujW'i
+L;wB&WQ.#
+56^MI
+zAf'#
+ds0;_
+W5pr8l
+!F+SeO 
+9Xp%$
+!Pd0*v
+I)9]xZ
+v$(Fz
+\oO`(
+{S{ e
+,2.CT
+4UXV:==
+h%vn1 
+Ab}k}IN
+48}WB
+kr79^
+7c;3j
+Ef483
+?N\UtX.
+_DIkMqg3
+jtvKs
+3w`_:b
+16<:}
+(e#9^
+h!BN|
+q{9-a5
+UsR>v
+37PfD
+~ycONC
+7"vYG}
+rCzlE
++{:8d*
+yPdvK
+VB>RM
+dpfoz
+|Z/3r
+q8"J|6
+EJqQ@7s
+i{Vc+
+1ST`4
+@?kM;
+j)r!yB
+lV'5% 
+y:6w@< D
+"\#r[
+}abT]|
+l6!bp
+P1Zfo
+%tv=0)
+"(g_wf>
+nov8%
+/06k^
+%' zM
+R0b]f
+o#%:y\@&
+k?3,yF'?}@
+h{0!<
+M~qaX
+p^Ms&
+>Fo}H
+&impn(
+wGfCV
+SJ@c[
+Jo'C=
+%X;,N
+l_jlF2v
+gNk:+
+Zfdld3
+XMs0'
+UiCL"
+x_|5Q]
+&K/ojr
+Tk\7hi
+X,$7O
+<6?uz
+q}SL2/H
+{`=+A
+swpZ1
+Pldo=
+zl]D,gJpC
+|eY11sF
+G^_g?
+F*qE<'
+WHy@^Z{
+/$:`"O
+qfe|T(
+lXL, ,
+*/Z*_
+"VniP
+f19)Y
+VeDFqF
+93p^]
+}c|wh
+E.T0 7
+Cucg|
+pj;?~
+P!3$sZ
+U(ogQ
+^b>5i
+pn@@j
+45ik5
+c74w_]
+E\2`A@
+mfL1u
+-hH)T
+M!qk>]
+,ZGYM
+xfggl
+5c(#`
+-/_/@
+Xf{{M
+zUOI]
+C$?8e
+\H0|`F
+f2>$v
+}?{,?;Ug8-8AD(IP
+(zTv3l
+L^XrGu
+J]\f:#w
+'dkX;
+gPqw6
+5mA>JYM#
+yXPgEf
+rXb$!r
+sG]r+
+>qQR)
+)g-(AT2
++WpHI
+jUS&>
+:EN_G
+l%%x^o'
+N~D5b
+=gy':
+T;J+wV
+5m8Xj
+]QxWT
+UKAW)
+K~dZ[
+rXnk0
+@qLvF
+?N(4s}
+qZ!ko
+_\/Jb
+zR;!w
+T$n{Wf
+\7fEr
+0PN_h;
+"-yRo
+ggyVL
+3gOi(6
+dL-}E^
+7wRG@
+Z=U'j
+IqAjr
+8,D>Dz
+xTzC3O6$
+BunnA
+:<zv/
+Pje@2
+\:=iW
+vdgru
+XSm0|\X
+2c16lWx
+tk:C1
+X;{l?
+;'<-J
+lo%RV
+Bdo,3txl
+0M1VM
+u)5hV
+fZGHi1
+i_mj&:
+FY@d|
+A-PpL
+?\#qe
+)_z=*
+h|P:!&
+<`Qig3
+djKv=
+)CS{/
+\WqIId
+1cN&tl
+#=^7$Gw
+]i'lG
+l0 A"l
+KDQk,
+8"E,hK
+o6;@p{J
+n:]SW
+Y+efM
+?\zsz
+_;S9C
+b-WlE
+p,M1u
+P-O2v
+sk=m%x
+gN"y~
+n[,*z
+R+S)s
+yoi(k
+JU_?<t
+)H3Rv
+G%YH)n
+:o~eG8YjQ
+w(-TU
+,q#e(
+gQV:(
+:x|-?
+(n\NOP
+zP~||
+<Rs$5
+raU|&
+gybO'
+mLlFS
+\19Sh
+^kX`v`
+ZX2*{|
+sAki;
+ioN\N
+&Vm*i
+~gD*[
+urdmv
+v)IP!
+9(|K4
+igw) 
+5I.RR
++Y8O 
+p'4VM
+,|>i;
+@^~gI
+bHl&'
+P\J+z
+812HVVK
+,RnmIM^eK5
+&LYKC
+VAtxc
+Q]nB'&
+788 0&
+a='HR
+rcU%}
+C2d~6BC
+Tmklf
+~yJ*=
+>?&\X
+2Wkz8
+qc)*Q
+o'NX~
+` i"55
+mE&s8
+j>}$M.
+eIszy
+2fqv,u
+'M\0O
+S:ylb
+UByhsT
+M3<|=
+c9ge@
+x^.<i
+`zoE8N
+,XZJI_
+nS}3a"
+!fT({
+PpC+.
++CFd5
+suy|Zj
+3w/!f
+*pwu9I58U
+KdY&*I
+sNEmP.
+|vM1h
+7Ufs@!
+l*\&,
+w?s!]5.jG
+L/-yq
+&Q[!l
+<*!@Q{
+mUUX6
+lQO5S
+Gv0{X
+AG*"U[
+!S0Od5}
+B/egW
+LJu{a
+fwVaA
+6iyl<m
+zg&jW
+l=t4}
+z*#(:3
+f~JY)}
+F ,^[
+eD|CA
+u.s)5
+]>a2d
+\?$if
+6] !q
+h#+C_
+*Qr}'`Z
+wk}V0
++x_15
+.q<Tt#gIW
+X%Qf$
+)[,Mz
+^Q>`: 
+%yizV(
+~=nQR
+W@R4L
+#lUH:Yo>
+01b]Q%&
+Ten^=7
+/ Xl+
+&vv!9q
+H!7e$
+^H_e\
+fxQ""
+:P#:'bO
+Wqm52U
+z jhZG
+S|T)_m
+&~Rlr*i
+N.t;GP
+]}^\i
+dN6K!
+[t:^5s
+kmE)y':A
+v/Tgx
+i5P.6
+s(Ecg
+5JY+y
+8qvRx
+;OZ!9M
+x; g]/X
++&DkK
+Sb$1j
+'$?|O
+@&&_&
+fl;z{
+ukdj0
+n-P=I1
+W40A`
+VX."u
+}L/8&
+r\xzX
+e-i_i
+fG,V9K
+GUnkT
+On'6j
+0iQ[)
+R-~vdev?
+%m#84MX
+y=f]w#
+?AT[~
+`ek%^
+L3.d+
+HJz"?
+X5"P5
+hpOV|
+C>}KWg
+Ll;c9+
+I\bRO
+N)hdM_
+W1e%_9F\
+^^OxZ|
+Yl @<(.
+<R,L9$
+sE ,V{|
+{_Q'(q
+d2uLI
+Ro1>t#
+Pr%]O
+^TIBM
+ki1;5*B
+CUg2$
+vN`A3Z:1
+G (wX
+}7pD7
+_.3r5P'G
+gcsNE
+}wV(W"
+"&g<B
+C5zyn
+h@A>/Z
+{p(Ls$yJ
+ R?6[P4
+W"Sa3
+7UdfC
+*<1g!
+[D\'S
+f_^U9B7
+n6NLm
+DQ0^I
+_C5DY
+N;pL9
+i%?M8
+n/Ny|
+K|uhg
+QlZlB
+1K0 h
+j5+c?
+O$f|MF
+&{IIQW
+M$vmt 
+C;UF5
+6IWMwS
+/&=)S
+W{mZ4
+u2Uol
+}b0Uu
+HV]qm
+%V(7*
+j"0d8
+orUoxRM
+B =%o
+H;@Z&s
+Ma(~F
+XE;59
+bkiv^N
+R)\W9x
+}Cm&h
+.h(lE4
+jB,^h
+X-M,q
+L;~=:AX
+#RJe-
+_ vBn!
+D_oJ2%I
+3G{gAJ
+q{Oa:
+KK0V'
+TC'6\
+0 a%8`
+\ ;19
+po+rW
+CAq}|I
+Ap7TJ
+ yf`y
+i\h^P>
+NV]c+
+zSPE5
+,lQN@w
+@{Bcm_
+tQwor
+i8} L%
+-bOm:"
+v-W' o
+!~$u2TR6
+&584{
+%Z02|
+wjzP-
+ k(`m
+Bj`ci
+yL}\K"i
+^CMs7
+7JN;?
+BK.\I
+Xz*2>
+?+Rl>
+oUphs
+bQU 'P5
+0AOju@/0j
+J&`fZ
+V<EL}
+(HOyl
+kB"5g
+!gT_Z
+.SM1Bm
+sjn|K
+w$yE.+vAJ
+4gy4}
+&M&QJ
+>hP;w
+iM-Tg
+B}Rfmn<56K
+{'yE'
+0T+_9
+6#9hw
+[<&+i
+.G2-e
+=inwL
+txKwF
+Jlc3|
+^NTio
+(k"&*
+Yxn(l
+Y?o9%
+8m9Wj
+uQg?q
+`pb({
+9Fw#^?1
+WmLM;c
+{MF<z
+L!E<.7
+AUhwQ
+4:tN;I~
+nF4zX0
+[xs)%
+u+:A-
+.@p/a
+m9OgU@
+#HM)}#
+QI/#O
+8h-8#
+{%e$W4P
+j,.=<
+^oH>@
+))g_te
+cabgYL
+V?|vS
+N*ubd
+l+TDF
+0Oj6e
+y'hU+
+k<W(w[
+*8)W1
+l\"d|
+Z)VY[
+W2qK2
+FuP~=
+X9(Cj
+nDb^<mH
+zT3b`
+j>$`w
+?(*;+/
+t>DtD
+~TAE>
+jJiMeU
+:t70n
+YT6s%R
+`7dh:
+0dQ'z
+Sx5-%$
+xE>Ni
+dQ}si
+';\.#
+p(xDd
+lkF`n
+b2t$QP
+T)`S`7y$>
+i_&l*
+_7@D]
+-!45P:
+d8Ckx
+G~5K;%[
+Ik>6U
+lr\ f
+)ID[NQ@_
+yRV,#
+Nh4lV"
+`SFwP8
+$vs:I
+!p} r
+LKCE9k
+MHt^]cs
+/<&|B
+TffX=
+PU-&y
+{R6`S
+sm5"-
+BwZ `
+$T=Yq
+Ven\}
+;Mx5z
+|gkSd
+}x,W2U
+!xlvW
+Y02",
+[ps{@
+qV+Tu
+|jOx'}
+/=IKS
+.FNvO
+aP@!t
+vs2\E
+ d55d
+)myY0
+_6-H@
+z> dK
+'\Ef/8g
+?zw%n
+D<<VhI
+5(Ueu
+!/`^J+i
+kzXH8*_f
+D=|$]
+t`M1RP
+FB0bv
+[^Rb{:
+s63])
+w"[|%
+Ygkh/
+e2?n1
+`r{#K
+<@$e2
+X^;\y
+5L[P^l
+|3V-)
+&7b|B
+lMpR!
+:,4<k_=K
+|t'Cxx
+b%$cW@
+5w@El
+]R.Ie
+@76rz
+(9wub
+X%8}3g
+eQ~"~
+ Bh%-<
+BOpj#W
+&k**cf
+NW@/5
+E|A:O
+&ViI+
+l,=+H
+.p:fe
++.A'SH
+p,2!0
+_};Ot
+-Eo,a
+]}-bE
+8>.\~
+V*JM_
+=@WI3
+r}"vCUN
+%^mLGy8#0
+6I]?S,
+U(M5u
+v(\-u
+.$^:%
+Yf<iA
+v`7_P
+{3"eX
+*n'FO
+a+b~2Jj
+h@6G^
+He&Vu
++7`8J|
+/s_i}(
+Ge^Dt
+9 &:V
+n-B%Y
+hSrPr
+vkZC!
+}9;~d`i 
+`/C])
+h/yM;[u
+8>!,Q
++M0#z
+Bu4cN
+<Gl6[9
+5xLFq
+zfIC,
+I*~Z{
+@=]Rt
+4j[/x
+u3VB9
+b:^lc
+<3NlU
+H\,\4
+",6fa&
+[dv+2
+7w*]b@
+mvUy:
+mxAm>
+}ckrd
+KOcX-
+,ZHv^
+Q1C*V&WU'
+sk[z?L
+;yeBU
+Pb(?7
+t|dR]
+h}Ex6x
+[SLI4
+I|'_u
+1NPIf\>
+a;5Pnf
+yO_S{I
+0 &+]
+@t^j2
+Z=E~G\&H~WF
+!*ha>&
+{MND#A
+CMRLp
+i1o0%
+Zg$m=
+`BGRf_
+d<|0w
+@oX7+
+)EN,/X
+"'xlB
+["YN\
+]Bu"R
+Sy@Tc
+|Epc"
+h&b]z
+V80gK
+o~FnH
+NstA{
+;juem
+6gx7[aaM/
+4C\ )iFE
+6Jaye
+91gz<
+5G%OUWC
+&CJ3\
+c92E\
+ixzRU:]
+Qt#TE{\
+cjq+6
+?Uam9
+M:QAKtu*7s
+12{C7
+A^C4C
+1dtpQ
+(Wz%%
+DjQH~
+52R=z3
+7El!n
+B]-`t
+5c1tOj
+4,kROk
+Uu"98
+O(g2dT
+B"~=#
+bJri1
+$koo@
+qh{S:
+D|~"n
+kPbKp
+@ys~s
+A96DA96
+A96hA96ZA96}A96
+A96 A96
+A961A96MA96qA96
+A96{A96
+A96?A96
+A966A96
+A96NA96
+A96PA96VA96oA96
+A96BA96
+A969A96
+A96YA965A96;A963A96
+A96bA96
+A962A96
+A964A96sA96
+A96lA96
+A96&A96
+A96TA96
+A96*A96
+A96cA96
+A96eA96
+A96FA960A96
+A96$A96
+A96WA96
+A96iA96
+A96tA96
+A96`A96
+A96SA96
+A96!A96.A96
+A967A96
+A96OA96
+A96IA96aA96
+A96'A96
+A96:A96
+A96(A96"A96
+A96uA96)A96=A96>A96
+A96JA96KA96@A96
+A96CA96
+A96HA96yA96
+A96#A96
+A96mA96[A96EA96
+A96RA96
+A96AA96
+A96kA96
+A96rA96
+A96gA96
+A96^A96
+A96vA96
+A96xA96
+A96wA96
+A96%A96
+A96nA96
+A96LA96|A96
+A96GA96
+A96fA96
+A96dA96\A96
+A96QA96
+A96]A96jA96
+A96pA96
+A96UA96
+A96,A96
+A96zA96<A96
+A968A96
+A96_A96
+A96XA96
+A96~A96-A96/A96
+|{D8.
+lXf@t
+"TL^px
+O7$t#M
+qwYMj
+zhH|1
+b+>$0
+*7}UZ2
+w'/wr
+KkF2\>
+K=:\R
+#$UDH
+"]k.g
+5vDY~e
+nh'MI
+QSd@3a
+p1;9+
+Y}s%B
+m]*<r
+R;2EQ
+!4F,:
+\tmD"
+ZMa%U
+.Y%IJ%
+e+!7|
+<H1*z
+Vs*v2
+W8V'bfS
+i%,4_1
+PcuUo
+WU[>-
+;V\me
+vZ1qf
+zX20nL
+l6vc3<LI!
+|Qfb$
+rgPm(I
+;h>mS
+mlGuI>v
+oM>:$
+V5,p_
+K_qPi
+u,w^+
+&3G01
+L#8X1
+/yjyC
+29KJ 
+\:LB;d[
+acD00
+^ouE6
+$PY j
+\/uB|2
+;d<8P
+4OWJ==
+zm&yY
+ 9c'W
+iH^tX
+Zkvbd
+CxXE5
+eMgy>
+$l$Tk
+zSDHy
+yChSB
+r}= 9
+M#(R]E
+'<yI\
+hx^eG
+Jb*gH9
+`X~WZ
+>C~m\I
+eLooS
+'*013
+zAv=Fj|
+)5%"J
+zoBF/
+<3T{C
+9Lhiv
+rVG9b;mz
+p=Y)nW-
+?4^)X
+DB(2~
+=`Psj?
+1l({|
+AvIgP
+Q!Zxx
+r7=s]
+L=UNu3
+>F?'n
+DNMaq
+,X]l[
+;Ih}|
+-(|XD<
+rK[J5
+LK]?:
+/lONU{z
+Ik1[y
+<Jaj>
+t3<Q-
+r[cCLU
+=lRy+
+StYnh
+g]jFn
+Z$Rg\a
+~]l'W
+|Je`'jS$
+;;tL6
+~~Ko.
+|,?xw
+7+*_[
+5t;X-/
+*Cj26
+Zm"@i
+,]Q0U
+Xlvv1f
+4[SE=A
+G/:o2
+'Af3(,}
+C{xb5
+%y~O=
+L+\GcB
+uSk*L
+OVYfe
+`7OGX
+]}}fc
+aQ%zG
+o$X[N))
+x?Qyp
+~+r6{
+sE<$3
+-'lIo
+-!JCB)
+RjN.zv
+QXE]}B
+i2#UN
+4FTr~
+5:yN{
+xZrpv%
+R$Hr]
+\(eh~
+tgz8so
+5>sR~
+YY],w
+ScO 4/7
+0!nlV50
+)1dxr
+k^"e}
+zWuE5
+L>Mc/
+4P`+F
+Uqwp?7
+RI.y2q
++:N|z 
+6k}9s
+wvKHP@_`
+NyW?mS
+P]jdn
+5S[]B
+T0S6VT
+EHqOU
+k'!be
+~gs\7G:
+ms;!)
+ZeFZSo9
+`cHTy` 
+F#y07
+4U8QB
+sx`&Y
+QC0OGU
+,Z"mc
+@8BjAF5
+t/GN~k
++hL~2
+\k6V0a
+zgG[2
+21z|,v-U
+5P8KqG
+9M\K8J
+0v~*H
+z%(tPC
+$S[v|v>@
+qs\nwx
+Mne}6V
+Q.K">r
+%BPtW
+W3Gx'
+3[5[u
+Md@eA0
+23]K+
+t%w$F
+hP:7/
+ITe]&
+v)3N=bZ
+izs%}
+!ckG<
+p??T}
+v2IUE5':
+z%_:HN
+h~NN.^
+t13G5
+[4D]?
+wrR>I8^<
+7!x1y
+:(I;#
+}MU|v
+I5k/Q
+(0^sY)
+]A)1WI
+xjc;F
+b#)&To
+U'/E>3v
+6X1L'
+\M/(;
+JYJf\
+[.P62
+"0Dk_
+4Hv#3hP4
+th)C!]v
+k9>/oy
+jX_f 1
+~kgBh
+@UI,Xt
+-'}')
+\/tW*
+i4heX
+>">M^F%
+|bfgN
+#J<(1
+,AONK
+`9hV%
+rid{-o
+/y8WB
+?+;}-WYk
+k$W E
+Ly{HlOQ(9*;[
+*Ia':
+38K".d`
+zX){`gi
+F!5yB}"
+YnX/u
+jLvuk
+p WsFyb
+&T,t7D
+mle("
+g%} r
+M'j"<
+D7&O~lz3w|
+#%,Q-
+/ZB|n
+2=lS&
+zAZ-C"z
+4.{!_
+@aB6r
+q&tpsuRD2+
+Z\EVU
+uX;EN
+qn$Oo
+F=eo,
+2G9"bM
+n|hb?
+14U6j?(
+;*@9F
+^KLd]7
+tE$RO
+Rv;):
+'A0K@
+%rUV(N
+X+B!<
+M0 q`
+}TA)F$1k
+@\j~9
+Mt=kg
+6bY-;:
+v_h%"
+iXaFC
+><,Zp
+sH"L/!uKv#
+Uj\^?s
+hZ)5k
+.'#4:
+Vuw:6E
+9Ixpz
+XuF!2
+|x}fRG
+^E$Ea
+o$e|\
+C:0SBgyR@V
+0Ma=8A
+$[":Pt
+>TwWJ
+2<Ujso
+sv|7IG
+g2Bz@Q
+91N5Z^
+!{iBT
+Z"3WS,O
+Cv&=U
+%1tlt
+`oOYK
+c2VSpT
+@;hmt
+8s|Hgh
+kU?yE
+^cj(M
+@3g"pr1
+`8 #1Fa*x_
+QtXLj
+cy;(4&
+.x\oQ
+[X7h9
+|tyX%
+a6lsO
+GF8KH}
+[l$-9v{Tc
+iirkr!
+}'9#&_v
+}Z5P9
+<cw'#SI
+Pl.y -n
+tmaw]h
+Xx?A!
+,!P$5*
+i`Zim9
+[QK'F
+[h"\b8/
+*dT'w
+DB;x|)
+E8@EP
+(jux#
+q*_p,
+ =E>0
+YP"="T
+Y)r|5
+LQ+H?=
+3.m}K
+#`Gd]%
+ <T!W
+L>QZyW=[\
++{^.)f
+H@GJ)9:
+ETW}'u
+R ]N_P
+<.K@+-p
+y\hV*0]
+=WUMo
+"At:q
+qy0.e5U
+Vb><#
+R K0*\O
+~bQV-!
+zH)Yq
+-8L,m
+x C2~
+C2|.(G
+J1m-f
+33?O#u
+l[lpI 
+;4'r_Z&
+;MQLs<
+r)}5p
+Wu{++
+A3T3`^
+17KyM
+:-PwI
+Fw%_q
+6kH6^A
+!2m&]F
+Vz=#(hl9y$
+_M1`9R
+f+}\v
+iV.82e6{
+R%8vCF
+Sv6D,D
+BP6pa&L
+_;UvhME6
+f+Lm?2<
+..pmf8
+CCZ0@
+R4Hq)
+`!V&Y
+X*eK:
+QTF?9
+;FfB\l
+6,^pozi
+=>OfS
+UmORhfXB
+%tJyzs
+ooDUc
+@^4+K{6
+%e ;V
+^H}rK`E
+"?@[V
+J(A&9
+4!2>1
+{#fCQQ
+R.qo"
+t61p-
+2OE;4
+hQuL9<
+7j~qR
+1I# !pQ
+dsEy?
+-?2\ 
+[2KmY{
+*A\pS
++b|`E|
+AN]B=?Y
+8I'ER+v\B
+a(tA0;
+dM=!E
+XLJoV
+\76x,
+\I_p"c|$
+[eA+-
+9;Dwp
+3T-PN
+|bh91MLH)~
++C}Td
+%2XJBK
+t[,uA
+B8g{'k`
+I%qcgq
+E}?Cp
+Pzg^i
+g]C%V
+l$Br 2
+0A}lw
+` 8P;99
+ra)1~
+[P?Q/N
+o{<DB
++i,p[
+[P!G,
+L;QhJX>
+|ge\M
+dx0Bm
+Q&Ox5
+tvRp%2$
+wT>)<
+@l{~P
+NcT+k
+AAkVE
+|b75Qn
+*:&#S
+F0g['
+Zn+/i
+tGoWEL
+IP #-F*
+Ko_ Ps
+`eyQ&
+i(vh;
+4xSpm3
+-rZ@@d
+l&1FT.
+D;Jh_
+RP24#
+^Mj|N
+"<0T 
+C",B,
+JdI~MnC
+ZZn88
+'D3|B
+Br$`O
+ D;m]S2R:5
+`VI3Y
+#l1g+
+e-_(a
+lm|oUs
+~c;#f
+3X@t)
+x9f84
+BN%A.*
+rsUASo
+(M>P2
+J57x@
+m)W_d
+l);1g2
+=Quc\
+$R1/e
+X|tZ9
+M0r#3
+sL|d9
+JF[ZoL8
+kIl-M
+x@{PV
+Djjqek
+8SFkO
+hs|+jUn
+zV$^&
+E+.>nH
+#oUOkE8c
+|OKjE0
+WY~.)
+@4,Cw
+`'fn/0
+MjAjZk9
+]U\%Vs
+Bg>BF{(
+'^X88
+RQb7@6)
+JYybm1
+MSW3h.*GSx
+;`g1>O
+nP?cSU
+%DhZXY
+bM3R]$6
+%?ICd
+jBigZJ
+UN&(6
+BDkQv
+p*i4*N
+DhewzyJ!
+;)xsz
+X`U|h
+urLG7
+Y`S_#
+'X?xWe
+RBg{0/
+&N:SEZ
+)jY<'S
+d&jz-
+9J9[6C
+<!otE
+#ZAJY
+-&(Y.WC
+4zJ\ 
+K1td6
+5fwYeG
+kMW)h
+Y8u*x
+31xt0G
+|Ds#FB
+k*d,ce
+aF!K};
++Hd>i"
+W#oh5j
+3_-Iq
+2h2p+ 
+4rdt3
+$u(Jgf
+mCyh,.x
+u"Q9$
+@Pilb<
+w2fN6d1
+x8KLT
+m/EcSAi
+mJi~C
+\-(,H
+"Py}u
+-+>(|
+/qwS!
+1P);~
+Co{Kg
+8xhI;wO
+ylUt:mem,
+}njJw
+}Yu"N$
+j!e%x
+Uj4`0
+CzK4"G
+PPmeb<
+h'yIs
+-o$Zx;
+/%yM*
+E}333
+5#`P`[,
+og<h@
+g&;rZ
+?sDC{
+6~=7}
+I?pl7
+=uh:#
+'QfAq.'
+wyhrnI(
+{mvX]
+3>`.#
+]?)L/
+.me6q
+eY[tr
+RCmSXJz
+Jo}^k
+HjSRc
+)s#_H0
+1iyxc
+mmjaS
+qT6{=
+"oLlN
+._q(E5"
+{oSu[
+OqM"[(5.
+?L]y 
+rjqNGn
+S~U+Q
+hd\%\!n/
+ZeU%M
+O/.+EY
+3/%(v
+T7Qo1
+}|7`f
+6DPiM
+DIt|&
+`YDf6A
+iz%U"a
+P@9Mj
+TR:$pr
+o3qM`n
+-[z=fo
+!\eLDi`h
+(Uk;4yq
+lC3n!PK
+tiJm~
+.njLU
+'qs?f
+4#Ikz
+5=RJ,
+^u)%t
+tIuF4
+w=b0t6
+T!=?p
+z-fyC
+}ZOFvQaT
+y'vn7
+vb|7@
+<I3[8
+PJ&ls
+:Z`@/i
+5u+CL5
+]<%SZJ
+|nOVy@lW
+?_Mk,
+`FFoS
+|[5Xm
+7H%5We
+]Ad\M
+|m^|Ag
+Q$U/NJH
+|Ibn}
+:j--j
+~?7`)5
+rT]e}Z
+&;)qLJ
+Z<fW6L
+A <{)y
+ #T}4
+Vs2jb_
+Z[MOaK
+8!NPEfnc
+xqj}#9
+OX>1e
+TrO 8`
+&n8ax
+P6o.]
+^Sot]
+L61;2,[H
+ldK-K
+@nv"J
+sgz%$<s
+adrKi0_
+U8%eN
+1]Dl.Fk
+tSrU6
+{+lxS
+4$ `c
+.Rs"S
+2h)re
+ {[)g)
+lAP;-
+>:oHQ
+y95-"5
+[A~0{
+bcR-h**
+nfHOw~
+:|*;$l
+|z|fvH]
+w; Ob
+?y2VS
+D%n]d
+,CRbw
+f~t4?v_
+NJ,wF
+35C$s
+M0p'J
+Ri-pI
+zW_e 
+RI{}M
+#[rTc
+1/{.{:
+g|H6P
+0]GIf
+)N3~7M
+"h_U=.*=
+iZF)z
+`k2xY
+frrcG
+I'oES2
+1){>RY4
+>Y19D
+]XP*6
+h5cU'
+[c$-E
+hk!C/
+n0C>\
+09I*UE
+:~5`^
+UI96l>
+A',PO
+& hS=c3K
+GzM/'{
+~syBN{
+2<4Tu
+b>|[#
+w?`/q
+^0R:O'7
+@?T@I[}
+GPYDo
+Y=mtd
+g\&8lW9
+;#+u"
+!B>/&w$
+[~'FL
+wTi,eZ
+]w7\5v
+M>S\6M
+K^yUc
+Y'3S"
+ a1HZ
+9u3p\
+6*I{X-
+0WGNV
+xo#i%
+!MBT<
+8,N2l
+YXFD+
+HM=U'
+_95#`8
+IX1{e
+cYN}F
+3|gh=
+-C=&`d
+T]MK;
+5nHO4
+1l*DG
+n<?#3(F
+ju/`n
+}b8cX^
+;]WrSCPuqB
++._I1
+VKk^/
+FAN6P}_YJ
+2+nIsWjW
+-z{h?e>*l
+qWT_F
+uJosB
+fL6\M(NI
+* %Go
+UB6ZHb
+tTY@|e
+I8Q4KOS
+CuJ^Q
+"5<3\
+K1mi!
+~/=\``L
+4[WAy
+T{L^A
+R{sN'Fx
+KJ_<O
+B2B<[
+9^nG|u\
+:_?'$o
+4;vs`W
+<i|v4M
+E'zcn &E
+$I'L)K
+a;= $
+s=ViZpU]
+smj`+
+VgqKi
+H*)/J
+DD8i&`y
+}9/Hu\V
+\Y}Ne
+quZ|`
+leA-p
+AIfM"
+B24O2\
+vd(E5
+tEv+X0ru
+>nF[(>&
+!{|v~
+[,.,`}
+irMmz*
+|w;@L
+^=9"]
+N %Os<4
+L6\$j]1
+7=7}K
+-1fsA<
+|KEK_3
+KEp'a
+Sf;# 
+v2&fub#
+HZ0_Pa
+N,j;V
+k1~]7
+x>NCy
+/m'%dQ
+GU|k9
+j5L5=
+A~g)S
+{L%f};5
+zO,M>7
+lm^*A
+Uyy|>`
+.k[M9V
+Zh|6U
+Dbj~V'
+Wa1@r;
+&rLC:
+idOy]
+cQ+'3
+^h|o\
+}8 6~
+ 9\"2D
+k*garV
+AEF3 
+VskR6
+(y%8q
+$3_&dD
+5cWX 
+.)*[&
+9*y::J
+tiBT8
+qLtVV{
+=c2\u
+,#:$q
+Q+)G=
+q#e1?
+&(m*[:
+_{SwPM
+#0D@f
+At;)E8
++8m5f
+?k{|^
+tKGq$
+1~a.n[
+scXMvZr$i%
+x0A}(
+XY8t?
+&8k<`
+o0=/\
+6D!fw
+{oksN
+(m@Ya
+G1or=
+u5U*7.Er'
+STER2a
+XnTAF`M4
+JKKE@m
+{ M{O
+2?:`;
+lR w=
+Kp=ev!
+w"&7Y
+Ck}lwH
+lMo|)
+zc(iG
+F}(;p
+e<:+.
+gI~95
+cLK[Wo
+X]xmv
+$WBJ:+u
+5f>F$<
+]& %|m
+{G%Ek
+!m)$H
+^a3{1
+D/V| ,4e
+ua-X}
+R@7%W
+;CCv$
+I%yq]:Q
+rzRtgK
+3Ezg&}R
+n?I<q
+T~|&6
+O^yoE
+bLp9y+
+xeID5
+p{8:<K
+,(YlxR
+D&Vrd/
+c>;3Gd
+!R'y4
+B |+Z
+t49-.u
+FLH)(
+kDn nK,
+[~|?e
+<Ll3%u
+hG PmH
+8wtxp
+7_Xr;
+)-VK4G
+InSzA
+oy?b1
+'d.w^yD<N
+s@$2x
+jM&RTQ
+:3rUW
+p>aVA
+^I,[U
+dx-SV
+}svre
+R"$xk3M@n
+AKI0H
+}\p?t
+sl%~z
+NJ5[?
+c>Ety
+:,oG@I~
+o\rx~
+_OzGB
+Z}a_9
+D3}fF{
+Mif4N
+)=#6M
+kdb?bz
+bad allocation
+RSDSC0
+D:\CDE_BetaBaseSDKOS\workspace\common_compile\src\increment\sourcecode\PCManager\output_temp\pdb\IPCMessage.pdb
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$CastGuardVftablesA
+.rdata$CastGuardVftablesC
+.rdata$T
+.rdata$r
+.rdata$voltmd
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.tls$
+.tls$ZZZ
+.xdata
+.xdata$x
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.data$rs
+.pdata
+.rsrc$01
+.rsrc$02
+B V"Y
+.(V*Y
+&^(`&:
+.&z*^,
+.(&L0^2
+0d4V6A
+.0P<P>V@A
+8FVHU
+` j"\ 
+..P8P:V<A
+8BVDU
+&*,a]
+.24h]
+6:<o]
+P&P(V*A
+80V2U
+4$N&p(
+*.N0v2
+X8N:v<
+BNDvF
+VLNNvP
+XVNXvZ
+4$N&p(
+*.N0v2
+X8N:v<
+BNDvF
+VLNNvP
+XVNXvZ
+IPCMessage.dll
+??0?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAA@XZ
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@$$QEAV01@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@$$QEAV01@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@_K1AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV01@_KAEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_W@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_WAEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_W_K@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@QEB_W_KAEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@U_String_constructor_concat_tag@1@AEAV01@1@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@U_String_constructor_concat_tag@1@AEBV01@QEB_W_K23@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@V?$initializer_list@_W@1@AEBV?$allocator@_W@1@@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@XZ
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@_K_W@Z
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@_K_WAEBV?$allocator@_W@1@@Z
+??0HNIpcPackage@@QEAA@PEAVIOChannel@@@Z
+??0IOChannel@@QEAA@AEBV0@@Z
+??0IOChannel@@QEAA@XZ
+??0IPCMessageClient@@QEAA@H_N0@Z
+??0IPCMessageServer@@QEAA@XZ
+??0IpcBufferBuild@@QEAA@AEBV0@@Z
+??0IpcBufferBuild@@QEAA@PEAXI_N@Z
+??1?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAA@XZ
+??1?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAA@XZ
+??1?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA@XZ
+??1HNIpcPackage@@QEAA@XZ
+??1IOChannel@@UEAA@XZ
+??1IPCMessageClient@@QEAA@XZ
+??1IPCMessageServer@@QEAA@XZ
+??1IpcBufferBuild@@UEAA@XZ
+??4?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAAAEAV01@$$QEAV01@@Z
+??4?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAAAEAV01@AEBV01@@Z
+??4?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAAEAV01@$$QEAV01@@Z
+??4?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAAEAV01@AEBV01@@Z
+??4?$_Wrap_alloc@V?$allocator@_W@std@@@std@@QEAAAEAU01@$$QEAU01@@Z
+??4?$_Wrap_alloc@V?$allocator@_W@std@@@std@@QEAAAEAU01@AEBU01@@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@$$QEAV01@@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@AEBV01@@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@QEB_W@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@V?$initializer_list@_W@1@@Z
+??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@_W@Z
+??4HNIpcPackage@@QEAAAEAV0@AEBV0@@Z
+??4IOChannel@@QEAAAEAV0@AEBV0@@Z
+??4IPCMessageServer@@QEAAAEAV0@AEBV0@@Z
+??4IpcBufferBuild@@QEAAAEAV0@AEBV0@@Z
+??A?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_W_K@Z
+??A?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_W_K@Z
+??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@AEBV01@@Z
+??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@QEB_W@Z
+??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@V?$initializer_list@_W@1@@Z
+??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV01@_W@Z
+??_7IOChannel@@6B@
+??_7IpcBufferBuild@@6B@
+?Bregister@IPCMessageClient@@IEAA_NAEAVBasePacket@@@Z
+?ConvertMessageToPacket@IPCMessageClient@@IEBA_NAEAV?$shared_ptr@VBasePacket@@@std@@AEBUTagIPCMessageItem@@@Z
+?ConvertMessageToPacketSharedMemory@IPCMessageClient@@IEBA_NAEAV?$shared_ptr@VBasePacket@@@std@@AEBUTagIPCMessageItem@@PEAVHSharedMemory@@@Z
+?ConvertPacketToMessage@IPCMessageClient@@IEBA_NAEAUTagIPCMessageItem@@AEBV?$shared_ptr@VBasePacket@@@std@@@Z
+?DecryptData@hn6@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAPEAEAEAIPEBE@Z
+?DecryptData@hn6@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAV23@0@Z
+?EncryptData@hn6@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAV23@1@Z
+?EncryptData@hn6@@YA_NPEBEIAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@1@Z
+?GetDataStream@HNIpcPackage@@QEAAPEAVDataStream@@XZ
+?Init@IPCMessageServer@@AEAAXXZ
+?ModuleId@IPCMessageClient@@QEAAHXZ
+?OnRecvIPCMessage@IPCMessageClient@@IEAAXV?$shared_ptr@VBasePacket@@@std@@@Z
+?OnRecvPublishIPCMessage@IPCMessageClient@@IEAAXV?$shared_ptr@VBasePacket@@@std@@@Z
+?PacketInt@HNIpcPackage@@QEAAHH@Z
+?PacketString@HNIpcPackage@@QEAAHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?PacketUInt@HNIpcPackage@@QEAAHI@Z
+?PostIPCMessage@IPCMessageClient@@QEBA_NAEBUTagIPCMessageItem@@@Z
+?PublishIPCMessage@IPCMessageClient@@QEBA_NAEAUTagIPCMessageItem@@@Z
+?QueryModuleStatus@IPCMessageClient@@QEAA_NH@Z
+?Read@IpcBufferBuild@@UEAAHPEADI@Z
+?RegisterMessageCallback@IPCMessageClient@@QEAAXHV?$function@$$A6AXAEAUTagIPCMessageItem@@@Z@std@@@Z
+?RegisterPublishMessageCallback@IPCMessageClient@@QEAAXV?$function@$$A6AXAEAUTagIPCMessageItem@@@Z@std@@@Z
+?SendIPCData4Global@IPCMessageClient@@QEBA_NAEAUTagIPCMessageItem@@0I@Z
+?SendIPCData@IPCMessageClient@@QEBA_NAEAUTagIPCMessageItem@@0I@Z
+?SendIPCMessage@IPCMessageClient@@QEBA_NAEAUTagIPCMessageItem@@0I@Z
+?SendIPCMessage@IPCMessageClient@@QEBA_NAEAUTagIPCMessageItem@@HAEAUTagIPCMessageItemRecv@@I@Z
+?SendIPCMessage@IPCMessageClient@@QEBA_NAEAUTagIPCMessageItem@@HIV?$function@$$A6AXAEAUTagIPCMessageItem@@@Z@std@@@Z
+?SetPipeName@IPCMessageClient@@QEAA_NAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
+?Start@IPCMessageServer@@QEAA_NV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
+?Stop@IPCMessageServer@@QEAAXXZ
+?StopIPCClient@@YAXXZ
+?SubscribeIPCMessage@IPCMessageClient@@QEAA_NII@Z
+?UnRegisterMessageCallback@IPCMessageClient@@QEAA_NH@Z
+?UnRegisterMessageCallbackAll@IPCMessageClient@@QEAA_NXZ
+?UnSubscribeIPCMessage@IPCMessageClient@@QEAA_NII@Z
+?UnpacketInt@HNIpcPackage@@QEAAHAEAH@Z
+?UnpacketString@HNIpcPackage@@QEAAHAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?UnpacketUInt@HNIpcPackage@@QEAAHAEAI@Z
+?Write@IpcBufferBuild@@UEAAHPEBDI@Z
+?_Activate_SSO_buffer@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAXXZ
+?_Become_small@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXXZ
+?_Calculate_growth@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBA_K_K@Z
+?_Calculate_growth@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@CA_K_K00@Z
+?_Check_offset@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBAX_K@Z
+?_Check_offset_exclusive@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBAX_K@Z
+?_Clamp_suffix_size@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBA_K_K0@Z
+?_Copy_s@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEA_W_K_K1@Z
+?_Deallocate_for_capacity@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@CAXAEAV?$allocator@_W@2@QEA_W_K@Z
+?_Eos@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAX_K@Z
+?_Equal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_NAEBV12@@Z
+?_Equal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_NQEB_W@Z
+?_Erase_noexcept@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAAEAV12@_K_K@Z
+?_Get_first@?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEAAAEAU?$_Wrap_alloc@V?$allocator@_W@std@@@2@XZ
+?_Get_first@?$_Compressed_pair@U?$_Wrap_alloc@V?$allocator@_W@std@@@std@@V?$_String_val@U?$_Simple_types@_W@std@@@2@$00@std@@QEBAAEBU?$_Wrap_alloc@V?$allocator@_W@std@@@2@XZ
+?_Getal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAAEAV?$allocator@_W@2@XZ
+?_Getal@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBAAEBV?$allocator@_W@2@XZ
+?_Large_mode_engaged@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBA_NXZ
+?_Memcpy_val_from@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXAEBV12@@Z
+?_Myptr@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEAAPEA_WXZ
+?_Myptr@?$_String_val@U?$_Simple_types@_W@std@@@std@@QEBAPEB_WXZ
+?_Orphan_all@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?_Swap_bx_large_with_small@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@SAXAEAV?$_String_val@U?$_Simple_types@_W@std@@@2@0@Z
+?_Swap_data@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXAEAV12@@Z
+?_Swap_proxy_and_iterators@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXAEAV12@@Z
+?_Take_contents@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXAEAV12@@Z
+?_Tidy_deallocate@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXXZ
+?_Tidy_init@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEAAXXZ
+?_Unchecked_begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAPEA_WXZ
+?_Unchecked_begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?_Unchecked_end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAPEA_WXZ
+?_Unchecked_end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?_Xran@?$_String_val@U?$_Simple_types@_W@std@@@std@@SAXXZ
+?__autoclassinit2@HNIpcPackage@@QEAAX_K@Z
+?__autoclassinit2@HSharedMemory@@QEAAX_K@Z
+?__autoclassinit2@IPCMessageClient@@QEAAX_K@Z
+?__autoclassinit2@IPCMessageServer@@QEAAX_K@Z
+?__autoclassinit2@IpcBufferBuild@@QEAAX_K@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@_K_K@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W_K@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$initializer_list@_W@2@@Z
+?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_W@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@$$QEAV12@@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@AEBV12@_K_K@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@QEB_W_K@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$initializer_list@_W@2@@Z
+?assign@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_W@Z
+?at@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_W_K@Z
+?at@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_W_K@Z
+?back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_WXZ
+?back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_WXZ
+?begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?c_str@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?capacity@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?cbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?cend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?clear@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAHAEBV12@@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAHQEB_W@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0AEBV12@00@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0AEBV12@@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0QEB_W0@Z
+?compare@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAH_K0QEB_W@Z
+?copy@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEA_W_K_K@Z
+?crbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?crend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?data@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAPEB_WXZ
+?empty@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_NXZ
+?end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@XZ
+?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0@Z
+?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@@Z
+?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0@Z
+?erase@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_first_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_first_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_last_not_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?front@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEA_WXZ
+?front@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBAAEB_WXZ
+?get_allocator@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$allocator@_W@2@XZ
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$initializer_list@_W@2@@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@_K_W@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@_W@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0_W@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KAEBV12@0_K@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KAEBV12@@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KQEB_W0@Z
+?insert@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_KQEB_W@Z
+?length@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?max_size@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?pop_back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?push_back@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_W@Z
+?rbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$reverse_iterator@V?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?rbegin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?rend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAA?AV?$reverse_iterator@V?$_String_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?rend@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV?$reverse_iterator@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@std@@@2@XZ
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0AEBV12@@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0QEB_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0QEB_W_K@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0V?$initializer_list@_W@2@@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@_W@std@@@std@@@2@0_K_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0AEBV12@@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K0QEB_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_K0_W@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_KAEBV12@01@Z
+?replace@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_KQEB_W0@Z
+?reserve@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_K@Z
+?resize@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_K_W@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KAEBV12@_K@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K1@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KQEB_W_K@Z
+?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_K_W_K@Z
+?shrink_to_fit@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXXZ
+?size@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA_KXZ
+?substr@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEBA?AV12@_K0@Z
+?swap@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAXAEAV12@@Z
+CreateDirectoryA
+GetLastError
+SetEvent
+WaitForSingleObject
+CreateEventW
+GetCurrentThreadId
+Sleep
+QueueUserWorkItem
+GetLocalTime
+CreateFileW
+FlushFileBuffers
+ReadFile
+WriteFile
+CloseHandle
+DisconnectNamedPipe
+SetNamedPipeHandleState
+WaitNamedPipeW
+GetOverlappedResult
+InitializeSRWLock
+ReleaseSRWLockExclusive
+ReleaseSRWLockShared
+AcquireSRWLockExclusive
+AcquireSRWLockShared
+ResetEvent
+WaitForMultipleObjects
+GetCurrentProcessId
+CreateThread
+TerminateThread
+FreeLibrary
+GetProcAddress
+LoadLibraryW
+GetTickCount64
+ConnectNamedPipe
+CreateNamedPipeW
+HeapAlloc
+HeapFree
+GetProcessHeap
+CreateIoCompletionPort
+GetQueuedCompletionStatus
+PostQueuedCompletionStatus
+ExitThread
+OpenProcess
+GetSystemInfo
+GetNamedPipeClientProcessId
+K32GetModuleFileNameExW
+GetCurrentProcess
+LocalAlloc
+LocalFree
+K32GetProcessMemoryInfo
+VerSetConditionMask
+InitializeCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+TryEnterCriticalSection
+DeleteCriticalSection
+ReleaseMutex
+CreateMutexW
+OpenMutexW
+GetVersionExW
+GetNativeSystemInfo
+VerifyVersionInfoW
+MultiByteToWideChar
+WideCharToMultiByte
+KERNEL32.dll
+GetSystemMetrics
+USER32.dll
+AllocateAndInitializeSid
+FreeSid
+InitializeSecurityDescriptor
+SetSecurityDescriptorDacl
+SetEntriesInAclW
+ConvertStringSecurityDescriptorToSecurityDescriptorW
+ADVAPI32.dll
+?_Xbad_alloc@std@@YAXXZ
+?_Xlength_error@std@@YAXPEBD@Z
+?_Xout_of_range@std@@YAXPEBD@Z
+_Mbrtowc
+?_Getcvt@_Locinfo@std@@QEBA?AU_Cvtvec@@XZ
+?_Getdays@_Locinfo@std@@QEBAPEBDXZ
+?_Getmonths@_Locinfo@std@@QEBAPEBDXZ
+?_W_Getdays@_Locinfo@std@@QEBAPEBGXZ
+?_W_Getmonths@_Locinfo@std@@QEBAPEBGXZ
+??0_Lockit@std@@QEAA@H@Z
+??1_Lockit@std@@QEAA@XZ
+?uncaught_exception@std@@YA_NXZ
+_Mtx_init_in_situ
+_Mtx_destroy_in_situ
+_Mtx_lock
+_Mtx_unlock
+?_Throw_Cpp_error@std@@YAXH@Z
+??Bid@locale@std@@QEAA_KXZ
+?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ
+?widen@?$ctype@_W@std@@QEBA_WD@Z
+?_Getcat@?$ctype@_W@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z
+?good@ios_base@std@@QEBA_NXZ
+?flags@ios_base@std@@QEBAHXZ
+?width@ios_base@std@@QEBA_JXZ
+?width@ios_base@std@@QEAA_J_J@Z
+?getloc@ios_base@std@@QEBA?AVlocale@2@XZ
+?sputc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEAAG_W@Z
+?eback@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?gptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?pbase@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?pptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?egptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?epptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?setstate@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEAAXH_N@Z
+?tie@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEBAPEAV?$basic_ostream@_WU?$char_traits@_W@std@@@2@XZ
+?rdbuf@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEBAPEAV?$basic_streambuf@_WU?$char_traits@_W@std@@@2@XZ
+?fill@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEBA_WXZ
+?_Osfx@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAXXZ
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@H@Z
+?flush@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV12@XZ
+?id@?$ctype@_W@std@@2V0locale@2@A
+_Xtime_get_ticks
+_Thrd_join
+_Thrd_id
+_Cnd_do_broadcast_at_thread_exit
+?always_noconv@codecvt_base@std@@QEBA_NXZ
+?in@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEBD1AEAPEBDPEAD3AEAPEAD@Z
+?out@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEBD1AEAPEBDPEAD3AEAPEAD@Z
+?unshift@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEAD1AEAPEAD@Z
+?_Getcat@?$codecvt@DDU_Mbstatet@@@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z
+??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAA@XZ
+??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ
+?getloc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEBA?AVlocale@2@XZ
+?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z
+?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z
+?eback@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ
+?gptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ
+?pptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ
+?egptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ
+?gbump@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXH@Z
+?setg@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAD00@Z
+?epptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ
+?_Gndec@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ
+?_Gninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ
+?_Gnavail@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBA_JXZ
+?pbump@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXH@Z
+?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ
+?_Pnavail@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBA_JXZ
+?_Init@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXXZ
+?_Init@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAPEAD0PEAH001@Z
+?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z
+?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z
+??1?$basic_ios@DU?$char_traits@D@std@@@std@@UEAA@XZ
+?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z
+?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ
+?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ
+?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ
+??0?$basic_ios@DU?$char_traits@D@std@@@std@@IEAA@XZ
+??0?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
+??1?$basic_ostream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ
+?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ
+?_Fiopen@std@@YAPEAU_iobuf@@PEBDHH@Z
+?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JXZ
+?id@?$codecvt@DDU_Mbstatet@@@std@@2V0locale@2@A
+?_Xbad_function_call@std@@YAXXZ
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@I@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@K@Z
+_Query_perf_counter
+_Query_perf_frequency
+_Mtx_current_owns
+_Cnd_init_in_situ
+_Cnd_destroy_in_situ
+_Cnd_wait
+_Cnd_timedwait
+_Cnd_broadcast
+??4?$_Yarn@D@std@@QEAAAEAV01@PEBD@Z
+?_New_Locimp@_Locimp@locale@std@@CAPEAV123@AEBV123@@Z
+?_Addfac@_Locimp@locale@std@@AEAAXPEAVfacet@23@_K@Z
+?_Init@locale@std@@CAPEAV_Locimp@12@_N@Z
+?in@?$codecvt@_WDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEBD1AEAPEBDPEA_W3AEAPEA_W@Z
+??0?$codecvt@_WDU_Mbstatet@@@std@@QEAA@_K@Z
+??1?$codecvt@_WDU_Mbstatet@@@std@@MEAA@XZ
+?rdstate@ios_base@std@@QEBAHXZ
+?sbumpc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHXZ
+?sputn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEAA_JPEB_W_J@Z
+?clear@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z
+??0?$basic_istream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
+??1?$basic_istream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+?_Incref@facet@locale@std@@UEAAXXZ
+?_Decref@facet@locale@std@@UEAAPEAV_Facet_base@3@XZ
+?id@?$codecvt@_WDU_Mbstatet@@@std@@2V0locale@2@A
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@PEBX@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@_N@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@_J@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@_K@Z
+?eof@ios_base@std@@QEBA_NXZ
+?write@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@PEBD_J@Z
+?read@?$basic_istream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@PEAD_J@Z
+?gcount@?$basic_istream@DU?$char_traits@D@std@@@std@@QEBA_JXZ
+?out@?$codecvt@_WDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEB_W1AEAPEB_WPEAD3AEAPEAD@Z
+?pbase@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ
+?setp@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAD0@Z
+?setp@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAD00@Z
+??0?$basic_iostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z
+??1?$basic_iostream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAXAEBVlocale@2@@Z
+?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAPEAV12@PEAD_J@Z
+?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+MSVCP140.dll
+?isEnabledFor@Logger@log4cplus@@QEBA_NH@Z
+??0Logger@log4cplus@@QEAA@AEBV01@@Z
+??1Logger@log4cplus@@UEAA@XZ
+?get_macro_body_oss@detail@log4cplus@@YAAEAV?$basic_ostringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ
+?macro_forced_log@detail@log4cplus@@YAXAEBVLogger@2@HAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEBDH2@Z
+?GetLogger@@YAAEBVLogger@log4cplus@@XZ
+log4cplus.dll
+WS2_32.dll
+??0HSharedMemory@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N1@Z
+??1HSharedMemory@@QEAA@XZ
+?Create@HSharedMemory@@QEAA_NK@Z
+?SetNativeKey@HSharedMemory@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?GetNativeKey@HSharedMemory@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?Attach@HSharedMemory@@QEAA_NW4AccessMode@1@@Z
+?Detach@HSharedMemory@@QEAA_NXZ
+?CreateNativeKey@HSharedMemory@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV23@_N@Z
+?Data@HSharedMemory@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_K@Z
+?SetData@HSharedMemory@@QEAA_NPEBEH@Z
+?GetSize@HSharedMemory@@QEAA_KXZ
+?ErrorString@HSharedMemory@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+HSharedMemory.dll
+?VerifyDigitalSignature@FileInfo@@YA_NPEB_W_N@Z
+HFileInfo.dll
+?GetSelfFullFilePath@HELPER@HNPROCESS@@YA_NAEAV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@AEBV34@@Z
+?FileExists@DE@@YA_NAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
+Util.dll
+NetWkstaGetInfo
+NetApiBufferFree
+NETAPI32.dll
+GetFileVersionInfoSizeW
+GetFileVersionInfoW
+VerQueryValueW
+VERSION.dll
+memcpy
+memmove
+__std_exception_copy
+__std_exception_destroy
+_CxxThrowException
+__CxxFrameHandler4
+_purecall
+memset
+memcmp
+memchr
+__current_exception
+__current_exception_context
+__C_specific_handler
+__std_type_info_destroy_list
+VCRUNTIME140.dll
+VCRUNTIME140_1.dll
+_invalid_parameter_noinfo_noreturn
+wcslen
+strlen
+calloc
+_invalid_parameter_noinfo
+_errno
+_get_stream_buffer_pointers
+fclose
+fflush
+fgetc
+fgetpos
+fputc
+fread
+fsetpos
+_fseeki64
+fwrite
+rename
+setvbuf
+ungetc
+_lock_file
+_unlock_file
+terminate
+_localtime64_s
+strftime
+_beginthreadex
+_mktime64
+_dtest
+strtod
+strtoll
+strtoull
+_itoa_s
+__stdio_common_vsprintf
+localeconv
+__stdio_common_vsprintf_s
+_memicmp
+malloc
+_callnewh
+_seh_filter_dll
+_configure_narrow_argv
+_initialize_narrow_environment
+_initialize_onexit_table
+_register_onexit_function
+_execute_onexit_table
+_crt_atexit
+_crt_at_quick_exit
+_cexit
+_initterm
+_initterm_e
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+WakeAllConditionVariable
+SleepConditionVariableSRW
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+TerminateProcess
+IsProcessorFeaturePresent
+IsDebuggerPresent
+GetStartupInfoW
+GetModuleHandleW
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+DisableThreadLibraryCalls
+InitializeSListHead
+CryptAcquireContextA
+CryptReleaseContext
+CryptGenRandom
+.?AVbad_array_new_length@std@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVbad_cast@std@@
+.?AV<lambda_491ede5d7764aef60d6ecc36647273b4>@@
+.?AV<lambda_7dd80329403e586edc788e2be7292288>@@
+.?AV<lambda_7d4163acb2499eb0b2c35ec70ab2a7d0>@@
+.?AV<lambda_d8a4e57e68f98941e863e9e7c5d22db3>@@
+.?AVrange_error@std@@
+.?AVruntime_error@std@@
+.?AVtype_error@detail@nlohmann@@
+.?AVexception@detail@nlohmann@@
+.?AVparse_error@detail@nlohmann@@
+.?AVother_error@detail@nlohmann@@
+.?AVout_of_range@detail@nlohmann@@
+.?AVinvalid_iterator@detail@nlohmann@@
+.?AV<lambda_def141048b166527253179f2788a70d6>@@
+.?AVStreamWriter@DE@@
+.?AVStreamReader@DE@@
+.?AVIOStream@@
+.?AVIOChannel@@
+.?AVDataStream@@
+.?AVIpcBufferBuild@@
+.?AV?$basic_filebuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ofstream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AVios_base@std@@
+.?AV?$_Iosb@H@std@@
+.?AV_Ref_count_base@std@@
+.?AV?$_Func_base@XAEAUTagIPCMessageItem@@@std@@
+.?AV?$_Func_base@XV?$shared_ptr@VBasePacket@@@std@@@std@@
+.?AV?$_Ref_count@VBasePacket@@@std@@
+.?AV?$_Ref_count_obj2@VBasePacket@@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_d8a4e57e68f98941e863e9e7c5d22db3>@@XV?$shared_ptr@VBasePacket@@@std@@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_7d4163acb2499eb0b2c35ec70ab2a7d0>@@XV?$shared_ptr@VBasePacket@@@std@@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_7dd80329403e586edc788e2be7292288>@@XAEAUTagIPCMessageItem@@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_491ede5d7764aef60d6ecc36647273b4>@@XAEAUTagIPCMessageItem@@@std@@
+.?AV?$basic_ifstream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AVcodecvt_base@std@@
+.?AVfacet@locale@std@@
+.?AV_Facet_base@std@@
+.?AU_Crt_new_delete@std@@
+.?AV?$codecvt@_WDU_Mbstatet@@@std@@
+.?AV?$LockList@PEAVReplyWait@@@DE@@
+.?AVCommonLock@DE@@
+.?AVBaseLock@DE@@
+.?AV?$list@PEAVReplyWait@@V?$allocator@PEAVReplyWait@@@std@@@std@@
+.?AV?$LockQueue@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@DE@@
+.?AV?$queue@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$deque@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@2@@std@@
+.?AV?$codecvt_utf8@_W$0BAPPPP@$0A@@std@@
+.?AV?$wstring_convert@V?$codecvt_utf8@_W$0BAPPPP@$0A@@std@@_WV?$allocator@_W@2@V?$allocator@D@2@@std@@
+.?AV?$_Ref_count_obj2@VBaseMessageClient@@@std@@
+.?AVModuleMessageServer@@
+.?AVIOCPServer@@
+.?AVConnection@@
+.?AV?$LockMap@_KPEAVConnection@@@DE@@
+.?AV?$map@_KPEAVConnection@@U?$less@_K@std@@V?$allocator@U?$pair@$$CB_KPEAVConnection@@@std@@@3@@std@@
+.?AV?$_Tree@V?$_Tmap_traits@_KPEAVConnection@@U?$less@_K@std@@V?$allocator@U?$pair@$$CB_KPEAVConnection@@@std@@@3@$0A@@std@@@std@@
+.?AV?$LockMap@HPEAD@DE@@
+.?AV?$map@HPEADU?$less@H@std@@V?$allocator@U?$pair@$$CBHPEAD@std@@@2@@std@@
+.?AV?$_Tree@V?$_Tmap_traits@HPEADU?$less@H@std@@V?$allocator@U?$pair@$$CBHPEAD@std@@@2@$0A@@std@@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_def141048b166527253179f2788a70d6>@@XAEAUTagIPCMessageItem@@@std@@
+.?AVIOCPContext@@
+.?AV?$LockQueue@PEAUIOCPBuffer@@@DE@@
+.?AV?$queue@PEAUIOCPBuffer@@V?$deque@PEAUIOCPBuffer@@V?$allocator@PEAUIOCPBuffer@@@std@@@std@@@std@@
+.?AV?$LockQueue@PEAVIOCPContext@@@DE@@
+.?AV?$queue@PEAVIOCPContext@@V?$deque@PEAVIOCPContext@@V?$allocator@PEAVIOCPContext@@@std@@@std@@@std@@
+.?AV?$LockMap@_KPEAVIOCPContext@@@DE@@
+.?AV?$map@_KPEAVIOCPContext@@U?$less@_K@std@@V?$allocator@U?$pair@$$CB_KPEAVIOCPContext@@@std@@@3@@std@@
+.?AV?$_Tree@V?$_Tmap_traits@_KPEAVIOCPContext@@U?$less@_K@std@@V?$allocator@U?$pair@$$CB_KPEAVIOCPContext@@@std@@@3@$0A@@std@@@std@@
+.?AVNamedMutexLock@DE@@
+.?AVAutoLock@DE@@
+.?AVStream@DE@@
+.?AVMemoryrStream@DE@@
+.?AVBaseItem@DE@@
+.?AVSimpleFileItem@DE@@
+.?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@
+.?AVtype_info@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0L1 0
+GlobalSign Root CA - R31
+GlobalSign1
+GlobalSign0
+200728000000Z
+290318000000Z0S1
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+p\$x %
+Bng~B
+tsg1z
+n0l0-
+!http://ocsp.globalsign.com/rootr30;
+/http://secure.globalsign.com/cacert/root-r3.crt06
+/0-0+
+%http://crl.globalsign.com/root-r3.crl0G
+@0>0<
+&https://www.globalsign.com/repository/0
+b wul
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+200728000000Z
+300728000000Z0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+-http://ocsp.globalsign.com/codesigningrootr450F
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+:0806
+0http://crl.globalsign.com/codesigningrootr45.crl0U
+N0L0A
+&https://www.globalsign.com/repository/0
+jh4%B
+wF*=#}(s
+1R95)
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+231215073510Z
+261128091510Z0
+Private Organization1
+91440300MA5G49LC9K1
+Guangdong1
+Shenzhen1
+Guangdong1
+Shenzhen1^0\
+34011
+Honor Device Co., Ltd.1
+Honor Device Co., Ltd.0
+6![%~u
+,IT1(Ct
+UCd.d6
+@http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+3http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+N0L0A
+&https://www.globalsign.com/repository/0
+@0>0<
+6http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+{<5T.
+>^WX6z
+8N7cm
+ACJL9
+9V8qDXJ
+0l0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 2020
+8s_$WPw
+cEzfN
+20250220161240Z0
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 2025
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+250109084043Z
+360107084043Z0P1
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 20250
+xc#|(
+[fC@*82
+i0g0;
+/http://subca.repository.certum.pl/ctsca2021.cer0(
+http://subca.ocsp-certum.com0
+2000.
+(http://subca.crl.certum.pl/ctsca2021.crl0
+\8=x;
+&n|<j
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+210519053207Z
+360518053207Z0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+g!5 e
+)0'0%
+http://crl.certum.pl/ctnca2.crl0l
+`0^0(
+http://subca.ocsp-certum.com02
+&http://repository.certum.pl/ctnca2.cer09
+2000.
+http://www.certum.pl/CPS0
+iMi=}B
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1"0 
+Certum Trusted Network CA0
+210531064306Z
+290917064306Z0
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+dg?":
+cyD~Kc$
+.4?)LR
+(0&0$
+http://crl.certum.pl/ctnca.crl0k
+_0]0(
+http://subca.ocsp-certum.com01
+%http://repository.certum.pl/ctnca.cer09
+2000.
+http://www.certum.pl/CPS0
+[.&iB<
+Se"u-
+0k0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+250220161240Z07
+/1(0&0$0"
+jj0o0Z
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+T<o[Fn
+El,neh
+ L)2o4
+H?O:%
+
+### UTF16 strings (67)
+n:AM:am:PM:pm
+pbody
+\\.\Pipe\iMateBookAssistant
+MonProcess.dll
+\\.\Pipe\
+\\.\Pipe\iMateBookAssistant
+\\.\Pipe\MBADataMigration
+\\.\Pipe\PerformanceCenter
+IPCConfig.dll
+OnNewConnection
+\\.\Pipe\iMateBookAssistant
+OnConnectionClose
+MonProcess.dll
+CModuleMessageServer
+~CModuleMessageServer
+IPCMessage HandleIO VerifyClientSignature nPID:
+IPCMessage HandleIO VerifyClientSignature False nPID:
+IPCMessage HandleIO VerifyClientSignature true nPID:
+CheckAccepting
+\\.\Pipe\iMateBookAssistant
+WaitForMultipleObjects,ret=
+IPCMessage GetQueuedCompletionStatus error:
+IPCMessage Reconnect NamedPipe failed
+IPCMessage VerifyDigitalSignature nPID:
+ PagefileUsage: 
+ QuotaNonPagedPoolUsage: 
+ QuotaPagedPoolUsage: 
+[MemoryInfo] 
+D:(D;OICI;GA;;;BG)(D;OICI;GA;;;AN)(A;OICI;GA;;;AU)(A;OICI;GA;;;BA)
+Windows 2000
+Windows XP
+Windows XP
+Windows Server 2003
+Windows Server 2003 R2
+Windows Vista
+Windows Server 2008
+Windows 7
+Windows Server 2008 R2
+Windows 8
+Windows Server 2012
+Windows 8.1
+Windows Server 2012 R2
+Windows 10
+kernel32.dll
+Windows
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+VS_VERSION_INFO
+StringFileInfo
+080404b0
+CompanyName
+Honor Device Co., Ltd.
+FileDescription
+IPCMessage
+FileVersion
+11.0.0.0
+InternalName
+IPCMessage.dll
+LegalCopyright
+Copyright (C) Honor Device Co., Ltd. 2016-2020. All rights reserved.
+OriginalFilename
+IPCMessage.dll
+ProductName
+IPCMessage
+ProductVersion
+11.0.0.0
+VarFileInfo
+Translation
+
+### GUIDs found (0)

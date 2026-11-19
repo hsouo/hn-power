@@ -1,0 +1,627 @@
+### ASCII strings (598)
+!This program cannot be run in DOS mode.
+q~yyq{
+qRichw
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+t$ UH
+@SUWAVAWH
+fD9<Zu
+ A_A^_][
+l$ VWAVH
+ A^_^
+@VWAUAVH
+\$pE3
+8A^A]_^
+L$hH3
+L$XH;
+L$(H;
+t$ WATAUAVAWH
+L$pH3
+A_A^A]A\_
+@SVAVAWH
+d$ E3
+8A_A^^[
+@SVAVAWH
+|$ H;
+(A_A^^[
+L$ SUVWH
+8_^][
+L$HH3
+UVWATAUAVAWH
+|$ L;
+A_A^A]A\_^]
+VWATAUAVAWL
+D$@E)E
+l$PA_A^A]A\_^
+UVWATAUAVAWH
+(D$0L
+`A_A^A]A\_^]
+@SUAUAVAWH
+D$pE3
+L$pH3
+A_A^A]][
+|$ UATAUAVAWH
+T$0H;
+T$0H;
+A_A^A]A\]
+UVWATAUAVAWH
+S 9P s
+A 9C 
+CHM+F H
+CPI+F(M
+A_A^A]A\_^]
+J(H+C0H+K(H;
+J H+K 
+UVWATAUAVAWH
+D$H9p s
+"""""""
+)D$pL
+A_A^A]A\_^]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+|$ AVH
+@SUWH
+System32L90t
+SysWOW64H9(tyH
+UVWATAUAVAWH
+D$ Hc
+A_A^A]A\_^]
+@SWATAUAWH
+D$PE3
+t$hff
+L$PH3
+pA_A]A\_[
+|$ UATAUAVAWH
+C@H;}
+C@H;U
+A_A^A]A\]
+|$8H+
+l$ VWATH
+@A\_^
+|$ UATAUAVAWH
+D9h }
+D;o }ZH
+vb'vb'v
+T$0H;
+T$0H;
+A_A^A]A\]
+@UVWH
+t$ E3
+@SUVAWH
+(A_^][
+@UVWAUH
+8A]_^]
+@SVATAWH
+t$ H;
+8A_A\^[
+@UVWH
+t$ E3
+|$ UH
+l$ VAVAWH
+|$HH+
+ A_A^^
+t$ UWATAVAWH
+T$PE3
+d$ E3
+A_A^A\_]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+|$(E3
+|$(E3
+t$(E3
+|$ E3
+t$(E3
+|$ E3
+tDfff
+l$(E3
+l$(E3
+)T$PH
+I9:u7A
+UVWATAUAVAWH
+A_A^A]A\_^]
+I9Khs
+M9Chs
+t$ WAVAWH
+ A_A^_
+L$(H;
+@SUVWAVH
+ A^_^][
+ A^_^][
+ A^_^][
+@UVWH
+t$ E3
+@SVAVAWH
+d$ H;
+8A_A^^[
+@SVATAVH
+(A^A\^[
+\$ UVWH
+UVWAVAWH
+@A_A^_^]
+@USVWAVH
+pA^_^[]
+t$ WH
+UVWATAUAVAWH
+3333333
+)D$ L
+PA_A^A]A\_^]
+SVWAVH
+8A^_^[
+WAVAWH
+\$8H;
+A_A^_
+|$ AVH
+VWAVH
+@A^_^
+@SVWH
+ntelA
+ineID
+x AVH
+bad allocation
+Unknown exception
+bad array new length
+string too long
+RegisterPlugin
+UnRegisterPlugin
+MonProcess.dll
+HwCreateInstance
+A49A1BA2-243B-4FA6-A278-51C77165BACA
+PowerManagerUIPlugin
+bad cast
+processId
+currentCpu
+currentMemory
+saveTime
+windowType
+nameLength
+procName
+ProcessDllManager::ProcessDllManager
+fail to get full path of 
+__cdecl ProcessDllManager::ProcessDllManager(void)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\MonProcessPlugin\ProcessDllManager.cpp
+ProcessDllManager::Init
+initResult=
+bool __cdecl ProcessDllManager::Init(void)
+map/set too long
+false
+[json.exception.
+ProcessMsgManager::GetProcessSysTimeById
+, error=
+fail to open process. dwProcId=
+__int64 __cdecl ProcessMsgManager::GetProcessSysTimeById(unsigned long)
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\MonProcessPlugin\ProcessMsgManager.cpp
+fail to get process times. dwProcId=
+WindowsCamera.exe
+vector too long
+961c151d2e87f2686a955a9be24d316f1362bf21 3.10.5
+other_error
+"bytes": [
+"subtype": 
+{"bytes":[
+],"subtype":
+null}
+<discarded>
+\u%04x
+invalid UTF-8 byte at index 
+incomplete UTF-8 string; last byte: 0x
+array
+object
+type_error
+string
+boolean
+binary
+discarded
+number
+cannot use operator[] with a string argument with 
+00010203040506070809101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899
+U1(\Q
+~)p$w
+11eU%
+ifrqF
+D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\output_temp\pdb\MonProcessPlugin.pdb
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$T
+.rdata$r
+.rdata$voltmd
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.tls$
+.tls$ZZZ
+.xdata
+.xdata$x
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.data$rs
+.pdata
+.rsrc$01
+.rsrc$02
+MonProcessPlugin.dll
+InitializePluginModule
+UninitializePluginModule
+?PublishIPCMessage@IPCMessageClient@@QEBA_NAEAUTagIPCMessageItem@@@Z
+?PostIPCMessage@IPCMessageClient@@QEBA_NAEBUTagIPCMessageItem@@@Z
+??1IPCMessageClient@@QEAA@XZ
+??0IPCMessageClient@@QEAA@H_N0@Z
+IPCMessage.dll
+?IsSupportPlugin@MBASoftShelf@@QEBA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?GetInstance@MBASoftShelf@@SAPEAV1@XZ
+?GetSelfFullFilePath@HELPER@HNPROCESS@@YA_NAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV34@@Z
+?WStringToString@StringProc@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z
+?WStringToStringByUTF8@StringProc@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z
+?EnumAllProcess@HELPER@HNPROCESS@@YAJAEAV?$function@$$A6AXAEBUtagPROCESSENTRY32W@@@Z@std@@@Z
+?QueryProcessNameByPid@HELPER@HNPROCESS@@YAHKAEAV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
+?EnumAllProcessFullPathOfUtf8@HELPER@HNPROCESS@@YAJAEAV?$map@KV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@U?$less@K@2@V?$allocator@U?$pair@$$CBKV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@std@@@2@@std@@@Z
+Util.dll
+GetModuleFileNameW
+LoadLibraryW
+GetProcAddress
+GetModuleHandleW
+FreeLibrary
+LoadLibraryA
+EnterCriticalSection
+GetSystemTimes
+LeaveCriticalSection
+InitializeCriticalSection
+OpenProcess
+MultiByteToWideChar
+GetLastError
+K32GetProcessMemoryInfo
+CloseHandle
+GetSystemInfo
+DeleteCriticalSection
+WideCharToMultiByte
+GetSystemTimeAsFileTime
+GetProcessTimes
+KERNEL32.dll
+?_Xlength_error@std@@YAXPEBD@Z
+??1_Lockit@std@@QEAA@XZ
+??0_Lockit@std@@QEAA@H@Z
+?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ
+?uncaught_exception@std@@YA_NXZ
+?id@?$ctype@_W@std@@2V0locale@2@A
+?sputc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEAAG_W@Z
+?_Osfx@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAXXZ
+?flush@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV12@XZ
+?setstate@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEAAXH_N@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@H@Z
+?getloc@ios_base@std@@QEBA?AVlocale@2@XZ
+?good@ios_base@std@@QEBA_NXZ
+?_Getcat@?$ctype@_W@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z
+?widen@?$ctype@_W@std@@QEBA_WD@Z
+??Bid@locale@std@@QEAA_KXZ
+?_Throw_Cpp_error@std@@YAXH@Z
+?setw@std@@YA?AU?$_Smanip@_J@1@_J@Z
+_Mtx_lock
+_Mtx_unlock
+??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAA@XZ
+??0?$basic_ios@DU?$char_traits@D@std@@@std@@IEAA@XZ
+??0?$basic_iostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAVios_base@1@AEAV21@@Z@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z
+??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ
+?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JXZ
+?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z
+?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z
+?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAPEAV12@PEAD_J@Z
+?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAXAEBVlocale@2@@Z
+??1?$basic_ios@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@K@Z
+??1?$basic_iostream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+MSVCP140.dll
+PathCchRemoveFileSpec
+api-ms-win-core-path-l1-1-0.dll
+?GetLogger@@YAAEBVLogger@log4cplus@@XZ
+??1Logger@log4cplus@@UEAA@XZ
+??0Logger@log4cplus@@QEAA@AEBV01@@Z
+?isEnabledFor@Logger@log4cplus@@QEBA_NH@Z
+?get_macro_body_oss@detail@log4cplus@@YAAEAV?$basic_ostringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ
+?macro_forced_log@detail@log4cplus@@YAXAEBVLogger@2@HAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEBDH2@Z
+log4cplus.dll
+CallNtPowerInformation
+POWRPROF.dll
+__CxxFrameHandler4
+__std_exception_destroy
+__std_exception_copy
+__std_terminate
+__current_exception
+__current_exception_context
+__C_specific_handler
+_CxxThrowException
+memset
+__std_type_info_destroy_list
+VCRUNTIME140_1.dll
+VCRUNTIME140.dll
+_invalid_parameter_noinfo_noreturn
+_dsign
+_invalid_parameter_noinfo
+localeconv
+_errno
+__stdio_common_vsprintf
+_callnewh
+malloc
+terminate
+_seh_filter_dll
+_configure_narrow_argv
+_initialize_narrow_environment
+_initialize_onexit_table
+_register_onexit_function
+_execute_onexit_table
+_crt_atexit
+_cexit
+_initterm
+_initterm_e
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+ReleaseSRWLockExclusive
+AcquireSRWLockExclusive
+WakeAllConditionVariable
+SleepConditionVariableSRW
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+IsDebuggerPresent
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+InitializeSListHead
+memchr
+memcmp
+memcpy
+memmove
+.?AVbad_alloc@std@@
+.P6A?AV?$shared_ptr@VMBAPlugin@@@std@@XZ
+.?AVexception@std@@
+.?AVbad_array_new_length@std@@
+.?AVbad_cast@std@@
+.?AVruntime_error@std@@
+.?AV?$_Binder@U_Unforced@std@@AEAP8ProcessMsgManager@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV3@AEBU?$_Ph@$00@2@@std@@
+.?AVother_error@detail@nlohmann@@
+.?AV?$_Binder@U_Unforced@std@@P8ProcessMsgManager@@EAAXAEBUtagPROCESSENTRY32W@@@ZPEAV3@AEBU?$_Ph@$00@2@@std@@
+.?AVexception@detail@nlohmann@@
+.?AVtype_error@detail@nlohmann@@
+.?AVtype_info@@
+.?AV?$_Func_base@V?$shared_ptr@VMBAPlugin@@@std@@$$V@std@@
+.?AVMonProcessPlugin@@
+.?AV?$_Func_impl_no_alloc@P6A?AV?$shared_ptr@VMBAPlugin@@@std@@XZV12@$$V@std@@
+.?AVMBAPlugin@@
+.?AV_Ref_count_base@std@@
+.?AV?$_Ref_count_obj2@VMonProcessPlugin@@@std@@
+.?AV?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AVios_base@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8ProcessMsgManager@@EAAXAEBUtagPROCESSENTRY32W@@@ZPEAV3@AEBU?$_Ph@$00@2@@std@@XAEBUtagPROCESSENTRY32W@@@std@@
+.?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@
+.?AV?$_Iosb@H@std@@
+.?AV?$_Ref_count_obj2@V?$output_string_adapter@DV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@detail@nlohmann@@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$output_string_adapter@DV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@detail@nlohmann@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@AEAP8ProcessMsgManager@@EAAXAEAUTagIPCMessageItem@@@ZAEAPEAV3@AEBU?$_Ph@$00@2@@std@@XAEAUTagIPCMessageItem@@@std@@
+.?AV?$_Func_base@XAEBUtagPROCESSENTRY32W@@@std@@
+.?AV?$_Func_base@XAEAUTagIPCMessageItem@@@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AVMonProcCallBack@@
+.?AU?$output_adapter_protocol@D@detail@nlohmann@@
+.?AVProcessMsgManager@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0L1 0
+GlobalSign Root CA - R31
+GlobalSign1
+GlobalSign0
+200728000000Z
+290318000000Z0S1
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+p\$x %
+Bng~B
+tsg1z
+n0l0-
+!http://ocsp.globalsign.com/rootr30;
+/http://secure.globalsign.com/cacert/root-r3.crt06
+/0-0+
+%http://crl.globalsign.com/root-r3.crl0G
+@0>0<
+&https://www.globalsign.com/repository/0
+b wul
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+200728000000Z
+300728000000Z0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+-http://ocsp.globalsign.com/codesigningrootr450F
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+:0806
+0http://crl.globalsign.com/codesigningrootr45.crl0U
+N0L0A
+&https://www.globalsign.com/repository/0
+jh4%B
+wF*=#}(s
+1R95)
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+231215073510Z
+261128091510Z0
+Private Organization1
+91440300MA5G49LC9K1
+Guangdong1
+Shenzhen1
+Guangdong1
+Shenzhen1^0\
+34011
+Honor Device Co., Ltd.1
+Honor Device Co., Ltd.0
+6![%~u
+,IT1(Ct
+UCd.d6
+@http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+3http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+N0L0A
+&https://www.globalsign.com/repository/0
+@0>0<
+6http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+{<5T.
+>^WX6z
+8N7cm
+ACJL9
+9V8qDXJ
+0l0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 2020
+'a^M:u~q
+5 v4Br
+/-vc2
+20250214045757Z0
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 2025
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+250109084043Z
+360107084043Z0P1
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 20250
+xc#|(
+[fC@*82
+i0g0;
+/http://subca.repository.certum.pl/ctsca2021.cer0(
+http://subca.ocsp-certum.com0
+2000.
+(http://subca.crl.certum.pl/ctsca2021.crl0
+\8=x;
+&n|<j
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+210519053207Z
+360518053207Z0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+g!5 e
+)0'0%
+http://crl.certum.pl/ctnca2.crl0l
+`0^0(
+http://subca.ocsp-certum.com02
+&http://repository.certum.pl/ctnca2.cer09
+2000.
+http://www.certum.pl/CPS0
+iMi=}B
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1"0 
+Certum Trusted Network CA0
+210531064306Z
+290917064306Z0
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+dg?":
+cyD~Kc$
+.4?)LR
+(0&0$
+http://crl.certum.pl/ctnca.crl0k
+_0]0(
+http://subca.ocsp-certum.com01
+%http://repository.certum.pl/ctnca.cer09
+2000.
+http://www.certum.pl/CPS0
+[.&iB<
+Se"u-
+0k0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+250214045757Z07
+/1(0&0$0"
+jj0o0Z
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+Ul65/
+
+### UTF16 strings (23)
+gMBAPluginsManager.dll
+MonProcess.dll
+VS_VERSION_INFO
+StringFileInfo
+080404b0
+CompanyName
+Honor Device Co., Ltd.
+FileDescription
+MonProcessPlugin
+FileVersion
+11.0.0.0
+InternalName
+MonProcessPlugin.dll
+LegalCopyright
+Copyright (C) Honor Device Co., Ltd. 2016-2020. All rights reserved.
+OriginalFilename
+MonProcessPlugin.dll
+ProductName
+MonProcessPlugin
+ProductVersion
+11.0.0.0
+VarFileInfo
+Translation
+
+### GUIDs found (1)
+A49A1BA2-243B-4FA6-A278-51C77165BACA

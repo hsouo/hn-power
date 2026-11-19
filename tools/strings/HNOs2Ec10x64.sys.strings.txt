@@ -1,0 +1,532 @@
+### ASCII strings (478)
+!This program cannot be run in DOS mode.
+Rich&
+.text
+h.rdata
+H.data
+.pdata
+HPAGE
+`INIT
+b.rsrc
+B.reloc
+x UATAUAVAWH
+WmiTL
+fE9$Fu
+WmiTI
+A_A^A]A\]
+x UATAUAVAWH
+WmiTL
+fD9,Gu
+WmiTH
+A_A^A]A\]
+L$8E3
+WAVAWH
+A_A^_
+10oPH
+10oPH
+IHA9A
+x AVH
+L95^5
+10cEH
+10cEH
+tPH9s
+H!y8H
+L$XE3
+tvH9=_-
+x AVH
+10oSH
+WAVAWH
+@A_A^_
+10oRH
+WATAUAVAWH
+10oSI
+10oSI
+ A_A^A]A\_
+x AUH
+x ATH
+L$@H3
+L$@H3
+k VWAWH
+ A__^
+fffff
+AQAPRQPH
+(D$ H
+0XYZAXAY
+-fffffff
+fffffff
+fffffff
+fffffff
+.fffffff
+fffffff
+fffffff
+D:\code_driver_trunk\PCBiosEcDriver\HNOs2E\output_temp\pdb\HNOs2Ec10x64.pdb
+.text$mn
+.text$mn$00
+.text$mn$21
+.text$s
+.idata$5
+.00cfg
+.rdata
+.rdata$zzzdbg
+.xdata
+.data
+.pdata
+PAGE$s
+INIT$s
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+r-$@"
+D$0E3
+D$XE3
+D$ E3
+|$ UATAUAVAWH
+fA94Ht
+fA94@u:
+fA94Ht
+fA94@u:
+fA94Ht
+fA94@u:
+fA94Ht
+fA94@u6
+fA94Ht
+fA94@u-
+A_A^A]A\]
+UATAUAVAWH
+H9]ht
+A_A^A]A\]
+@USWH
+D$0E3
+UWAVH
+E(H9]
+0A^_]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+D8mHt
+@A_A^A]A\_^]
+D$0E3
+x AVH
+fF94Iu
+SeTsH
+WATAUAVAWH
+ A_A^A]A\_
+h VWAVH
+ A^_^
+@USVWATAUAVAWH
+fD9$Cu
+SeAlA
+;tffA;
+XA_A^A]A\_^[]
+WATAUAVAWH
+ A_A^A]A\_
+WAVAWH
+ A_A^_
+n0fD;
+UWAVH
+SeSdH
+L$(E3
+L$HH3
+VWATAVAWH
+PpRbH
+0A_A^A\_^
+x AVH
+L$8fD
+L$0E3
+PpUcH
+[Os2EC] Enter unloaded Start.
+[Os2EC] Enter unloaded End.
+[Os2EC] Enter DriverEntry.
+[Os2EC] Driver initialized 0x%x
+RtlInitUnicodeString
+DbgPrint
+IofCompleteRequest
+IoCreateSymbolicLink
+IoDeleteDevice
+IoDeleteSymbolicLink
+IoGetCurrentProcess
+InitSafeBootMode
+wcscat_s
+ExAllocatePoolWithTag
+ExFreePoolWithTag
+MmMapIoSpace
+MmUnmapIoSpace
+IoWMIOpenBlock
+IoWMIQueryAllData
+IoWMIExecuteMethod
+ObfDereferenceObject
+MmGetSystemRoutineAddress
+RtlGetVersion
+KeGetCurrentIrql
+ObReferenceObjectByHandle
+ZwClose
+ZwTerminateProcess
+ZwOpenProcess
+__C_specific_handler
+PsProcessType
+KeInitializeEvent
+ExAcquireFastMutex
+ExReleaseFastMutex
+PsSetCreateProcessNotifyRoutine
+KeSetEvent
+KeWaitForMultipleObjects
+KeWaitForSingleObject
+PsCreateSystemThread
+PsTerminateSystemThread
+RtlCompareUnicodeStrings
+wcscpy_s
+_wcsnicmp
+RtlCompareUnicodeString
+RtlAppendUnicodeStringToString
+ExAllocatePool
+ZwCreateFile
+ZwQueryInformationProcess
+ObOpenObjectByPointer
+ObQueryNameString
+IoFileObjectType
+ntoskrnl.exe
+HalGetBusDataByOffset
+HAL.dll
+ZwSetSecurityObject
+IoDeviceObjectType
+IoCreateDevice
+RtlGetDaclSecurityDescriptor
+RtlGetGroupSecurityDescriptor
+RtlGetOwnerSecurityDescriptor
+RtlGetSaclSecurityDescriptor
+SeCaptureSecurityDescriptor
+_snwprintf
+RtlLengthSecurityDescriptor
+SeExports
+RtlCreateSecurityDescriptor
+wcschr
+RtlAbsoluteToSelfRelativeSD
+RtlAddAccessAllowedAce
+RtlLengthSid
+IoIsWdmVersionAvailable
+RtlSetDaclSecurityDescriptor
+ZwOpenKey
+ZwSetValueKey
+ZwQueryValueKey
+ZwCreateKey
+RtlFreeUnicodeString
+0L1 0
+GlobalSign Root CA - R31
+GlobalSign1
+GlobalSign0
+200728000000Z
+290318000000Z0S1
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+p\$x %
+Bng~B
+tsg1z
+n0l0-
+!http://ocsp.globalsign.com/rootr30;
+/http://secure.globalsign.com/cacert/root-r3.crt06
+/0-0+
+%http://crl.globalsign.com/root-r3.crl0G
+@0>0<
+&https://www.globalsign.com/repository/0
+b wul
+GlobalSign nv-sa1)0'
+ GlobalSign Code Signing Root R450
+200728000000Z
+300728000000Z0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+-http://ocsp.globalsign.com/codesigningrootr450F
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+:0806
+0http://crl.globalsign.com/codesigningrootr45.crl0U
+N0L0A
+&https://www.globalsign.com/repository/0
+jh4%B
+wF*=#}(s
+1R95)
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 20200
+231201103747Z
+261128091510Z0
+Private Organization1
+91440300MA5G49LC9K1
+Guangdong1
+Shenzhen1
+Guangdong1
+Shenzhen1^0\
+34011
+Honor Device Co., Ltd.1
+Honor Device Co., Ltd.0
+Gwlcs
+R.MAj
+@http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+3http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+N0L0A
+&https://www.globalsign.com/repository/0
+@0>0<
+6http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+8/WM@
+!apH,<
+0l0\1
+GlobalSign nv-sa1200
+)GlobalSign GCC R45 EV CodeSigning CA 2020
+rx$>0
+20241028064116Z0
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 2023
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+231102083223Z
+341030083223Z0P1
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 20230
+7~79c
+n0C#E
+#rbt1
+&98"W
+,0*0(
+"http://crl.certum.pl/ctsca2021.crl0o
+c0a0(
+http://subca.ocsp-certum.com05
+)http://repository.certum.pl/ctsca2021.cer0A
+:0806
+https://www.certum.pl/CPS0
+h"!z[
+c 09K
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+210519053207Z
+360518053207Z0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+g!5 e
+)0'0%
+http://crl.certum.pl/ctnca2.crl0l
+`0^0(
+http://subca.ocsp-certum.com02
+&http://repository.certum.pl/ctnca2.cer09
+2000.
+http://www.certum.pl/CPS0
+iMi=}B
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1"0 
+Certum Trusted Network CA0
+210531064306Z
+290917064306Z0
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+dg?":
+cyD~Kc$
+.4?)LR
+(0&0$
+http://crl.certum.pl/ctnca.crl0k
+_0]0(
+http://subca.ocsp-certum.com01
+%http://repository.certum.pl/ctnca.cer09
+2000.
+http://www.certum.pl/CPS0
+[.&iB<
+Se"u-
+0j0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+241028064116Z07
+/1(0&0$0"
+w0n0Z
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+3q_q6
+e,PRf
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20140
+240111200914Z
+250110200914Z0
+Washington1
+Redmond1
+Microsoft Corporation1;09
+2Microsoft Windows Hardware Compatibility Publisher0
+b)69$
+s=>gH
+e.B`Z<<
+I0G1-0+
+$Microsoft Ireland Operations Limited1
+232147+5019350
+m0k0i
+chttp://www.microsoft.com/pkiops/crl/Microsoft%20Windows%20Third%20Party%20Component%20CA%202014.crl0
+u0s0q
+ehttp://www.microsoft.com/pkiops/certs/Microsoft%20Windows%20Third%20Party%20Component%20CA%202014.crt0
+ce @j:
+;MhqNC
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+141015203127Z
+291015204127Z0
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20140
+=)x(0t
+R'5s?
+uHD3I
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+iE'?s#2
+w*Uu'
+UYd`3>.
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 2014
+rx$>0P
+(https://www.microsoft.com/en-us/windows 0
+20241028070405.316Z0
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1'0%
+nShield TSS ESN:2D1A-05E0-D9471%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+240725183116Z
+251022183116Z0
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1'0%
+nShield TSS ESN:2D1A-05E0-D9471%0#
+Microsoft Time-Stamp Service0
+cbtGE
+X0V0T
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+`0^0\
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+ga|/r
+q?la9
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+q\Q17
+&S|9a
+!]_0t
+U0S0Q
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>NGdx
+fg:SM
+xSu$W
+as.,k{n?,
+J>f;O
+!TkjE
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1'0%
+nShield TSS ESN:2D1A-05E0-D9471%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20241027195303Z
+20241028195303Z0t0:
+1,0*0
+1(0&0
+F_%tI,Z
+f\\=~
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+V3`z}~
+(Ce_);i
+
+### UTF16 strings (49)
+PsSuspendProcess
+PsResumeProcess
+ZwQuerySystemInformation
+ZwQueryInformationProcess
+IoCreateDeviceSecure
+IoValidateDeviceIoControlAccess
+Properties
+Class
+NoDisplayClass
+NoUseClass
+Security
+DeviceType
+DeviceCharacteristics
+Exclusive
+\Registry\Machine\System\CurrentControlSet\Control\Class
+{%08X-%04X-%04X-%02X%02X-%02X%02X%02X%02X%02X%02X}
+SeConvertStringSecurityDescriptorToSecurityDescriptor
+\DosDevices\HNOs2EcX64
+\Device\HNOs2EcDevX64
+D:P(A;; GA;;; SY)(A;; GA;;; BA)
+C:\Program Files\HONOR\PCManager\PCManagerMainService.exe
+C:\Program Files\HONOR\BasicService\PCManagerMainService.exe
+\PCManagerMainService.exe
+MBAMessageCenter.exe
+MBAMonitorService.exe
+PCManager.exe
+MBALogSampleService.exe
+HnPerformanceCenter.exe
+VS_VERSION_INFO
+StringFileInfo
+080404b0
+CompanyName
+Honor Device Co., Ltd.
+FileDescription
+HNOs2Ec
+FileVersion
+1.0.0.1
+InternalName
+HNOs2Ec
+LegalCopyright
+Copyright (C) Honor Device Co., Ltd. 2016-2020. All rights reserved.
+OriginalFilename
+HNOs2Ec.sys
+ProductName
+Honor
+ProductVersion
+1.0.0.1
+VarFileInfo
+Translation
+
+### GUIDs found (0)

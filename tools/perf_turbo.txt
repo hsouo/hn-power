@@ -1,0 +1,183 @@
+﻿
+@@@@@ STRING 'TurboMode::SetFanSpeed' referenced from 1 sites in 1 functions
+==============================================================================================================
+### TurboMode::SetFanSpeed  func 0x18002b4c0-0x18002b7fc
+0x18002b4c0: mov qword ptr [rsp + 0x18], rbx
+0x18002b4c5: mov qword ptr [rsp + 0x20], rsi
+0x18002b4ca: push rdi
+0x18002b4cb: push r14
+0x18002b4cd: push r15
+0x18002b4cf: sub rsp, 0x220
+0x18002b4d6: mov rax, qword ptr [rip + 0x36263]
+0x18002b4dd: xor rax, rsp
+0x18002b4e0: mov qword ptr [rsp + 0x210], rax
+0x18002b4e8: movzx r14d, dl
+0x18002b4ec: mov rdi, rcx
+0x18002b4ef: cmp byte ptr [rcx + 0x118], 0
+0x18002b4f6: je 0x18002b7f5
+0x18002b4fc: xorps xmm0, xmm0
+0x18002b4ff: movups xmmword ptr [rsp + 0x30], xmm0
+0x18002b504: xor r15d, r15d
+0x18002b507: mov qword ptr [rsp + 0x40], r15
+0x18002b50c: mov qword ptr [rsp + 0x48], r15
+0x18002b511: lea r8d, [r15 + 8]
+0x18002b515: lea rdx, [rip + 0x1f3b4]   ; "ROOT\WMI"
+0x18002b51c: lea rcx, [rsp + 0x30]
+0x18002b521: call 0x1800062e0
+0x18002b526: lea rdx, [rsp + 0x30]
+0x18002b52b: lea rcx, [rsp + 0x80]
+0x18002b533: call qword ptr [rip + 0x1d097]
+0x18002b539: nop 
+0x18002b53a: xorps xmm0, xmm0
+0x18002b53d: movups xmmword ptr [rsp + 0xd0], xmm0
+0x18002b545: movups xmmword ptr [rsp + 0xe0], xmm0
+0x18002b54d: movups xmmword ptr [rsp + 0xf0], xmm0
+0x18002b555: movups xmmword ptr [rsp + 0x100], xmm0
+0x18002b55d: xor edx, edx
+0x18002b55f: mov r8d, 0x100
+0x18002b565: lea rcx, [rsp + 0x110]
+0x18002b56d: call 0x180038eff
+0x18002b572: mov byte ptr [rsp + 0xd0], 7
+0x18002b57a: call qword ptr [rip + 0x1d2b0]
+0x18002b580: mov rsi, rax
+0x18002b583: lea rbx, [rdi + 0xb8]
+0x18002b58a: cmp qword ptr [rbx + 0x18], 0xf
+0x18002b58f: jbe 0x18002b594
+0x18002b591: mov rbx, qword ptr [rbx]
+0x18002b594: mov dword ptr [rax], r15d
+0x18002b597: mov r8d, 0x10
+0x18002b59d: lea rdx, [rsp + 0x60]
+0x18002b5a2: mov rcx, rbx
+0x18002b5a5: call qword ptr [rip + 0x1d1bd]
+0x18002b5ab: cmp rbx, qword ptr [rsp + 0x60]
+0x18002b5b0: jne 0x18002b5c0
+0x18002b5b2: lea rcx, [rip + 0x2172f]   ; "invalid stoi argument"
+0x18002b5b9: call qword ptr [rip + 0x1cdf9]
+0x18002b5bf: int3 
+0x18002b5c0: cmp dword ptr [rsi], 0x22
+0x18002b5c3: jne 0x18002b5d3
+0x18002b5c5: lea rcx, [rip + 0x21734]   ; "stoi argument out of range"
+0x18002b5cc: call qword ptr [rip + 0x1cd76]
+0x18002b5d2: int3 
+0x18002b5d3: mov byte ptr [rsp + 0xd1], al
+0x18002b5da: lea rcx, [rdi + 0xd8]
+0x18002b5e1: mov dword ptr [rsp + 0x60], r14d
+0x18002b5e6: lea r8, [rsp + 0x60]
+0x18002b5eb: lea rdx, [rsp + 0x50]
+0x18002b5f0: call 0x180032dc0
+0x18002b5f5: mov rbx, qword ptr [rax]
+0x18002b5f8: add rbx, 0x18
+0x18002b5fc: call qword ptr [rip + 0x1d22e]
+0x18002b602: mov rsi, rax
+0x18002b605: cmp qword ptr [rbx + 0x18], 0xf
+0x18002b60a: jbe 0x18002b60f
+0x18002b60c: mov rbx, qword ptr [rbx]
+0x18002b60f: mov dword ptr [rax], r15d
+0x18002b612: mov r8d, 0x10
+0x18002b618: lea rdx, [rsp + 0x68]
+0x18002b61d: mov rcx, rbx
+0x18002b620: call qword ptr [rip + 0x1d142]
+0x18002b626: cmp rbx, qword ptr [rsp + 0x68]
+0x18002b62b: jne 0x18002b63b
+0x18002b62d: lea rcx, [rip + 0x216b4]   ; "invalid stoi argument"
+0x18002b634: call qword ptr [rip + 0x1cd7e]
+0x18002b63a: int3 
+0x18002b63b: cmp dword ptr [rsi], 0x22
+0x18002b63e: jne 0x18002b64e
+0x18002b640: lea rcx, [rip + 0x216b9]   ; "stoi argument out of range"
+0x18002b647: call qword ptr [rip + 0x1ccfb]
+0x18002b64d: int3 
+0x18002b64e: mov byte ptr [rsp + 0xd2], al
+0x18002b655: mov dword ptr [rsp + 0x20], 0x100
+0x18002b65d: lea r9, [rsp + 0x110]
+0x18002b665: mov r8d, 0x40
+0x18002b66b: lea rdx, [rsp + 0xd0]
+0x18002b673: lea rcx, [rsp + 0x80]
+0x18002b67b: call qword ptr [rip + 0x1cf37]
+0x18002b681: test al, al
+0x18002b683: je 0x18002b69c
+0x18002b685: cmp byte ptr [rsp + 0x110], 0
+0x18002b68d: jne 0x18002b6d5
+0x18002b68f: movzx edx, r14b
+0x18002b693: mov rcx, rdi
+0x18002b696: call 0x18002df20
+0x18002b69b: nop 
+0x18002b69c: lea rcx, [rsp + 0x80]
+0x18002b6a4: call qword ptr [rip + 0x1cf16]
+0x18002b6aa: mov al, 1
+0x18002b6ac: mov rcx, qword ptr [rsp + 0x210]
+0x18002b6b4: xor rcx, rsp
+0x18002b6b7: call 0x180037cd0
+0x18002b6bc: lea r11, [rsp + 0x220]
+0x18002b6c4: mov rbx, qword ptr [r11 + 0x30]
+0x18002b6c8: mov rsi, qword ptr [r11 + 0x38]
+0x18002b6cc: mov rsp, r11
+0x18002b6cf: pop r15
+0x18002b6d1: pop r14
+0x18002b6d3: pop rdi
+0x18002b6d4: ret 
+0x18002b6d5: call qword ptr [rip + 0x1d1c5]
+0x18002b6db: mov rdx, rax
+0x18002b6de: lea rcx, [rsp + 0x68]
+0x18002b6e3: call qword ptr [rip + 0x1d1c7]
+0x18002b6e9: nop 
+0x18002b6ea: mov edx, 0x9c40
+0x18002b6ef: lea rcx, [rsp + 0x68]
+0x18002b6f4: call qword ptr [rip + 0x1d1c6]
+0x18002b6fa: test al, al
+0x18002b6fc: je 0x18002b7db
+0x18002b702: call qword ptr [rip + 0x1d1c0]
+0x18002b708: mov rbx, rax
+0x18002b70b: lea rdx, [rip + 0x22d96]   ; "TurboMode: fanSpeed GetOutPutUIntEx fial output[0] = "
+0x18002b712: mov rcx, rax
+0x18002b715: call 0x180005e10
+0x18002b71a: movzx edx, byte ptr [rsp + 0x110]
+0x18002b722: mov rcx, rax
+0x18002b725: call qword ptr [rip + 0x1cc6d]
+0x18002b72b: lea rdx, [rip + 0x1ea5a]
+0x18002b732: mov rcx, rax
+0x18002b735: call 0x180005e10
+0x18002b73a: lea rdx, [rip + 0x22cd7]   ; "TurboMode::SetFanSpeed"
+0x18002b741: mov rcx, rax
+0x18002b744: call 0x180005e10
+0x18002b749: lea rdx, [rip + 0x1ea38]
+0x18002b750: mov rcx, rax
+0x18002b753: call 0x180005e10
+0x18002b758: lea rdx, [rsp + 0x30]
+0x18002b75d: mov rcx, rbx
+0x18002b760: call 0x180005980
+0x18002b765: nop 
+0x18002b766: lea rcx, [rip + 0x22cf3]   ; "bool __cdecl TurboMode::SetFanSpeed(unsigned char,unsigned char)"
+0x18002b76d: mov qword ptr [rsp + 0x28], rcx
+0x18002b772: mov dword ptr [rsp + 0x20], 0x10d
+0x18002b77a: lea r9, [rip + 0x22bbf]   ; "D:\CDE_Patch9.0\workspace\common_compile\src\increment\sourcecode\PCManager\feature\PerformanceManager\PerfCom"
+0x18002b781: mov r8, rax
+0x18002b784: mov edx, 0x9c40
+0x18002b789: lea rcx, [rsp + 0x68]
+0x18002b78e: call qword ptr [rip + 0x1d124]
+0x18002b794: nop 
+0x18002b795: mov rdx, qword ptr [rsp + 0x48]
+0x18002b79a: cmp rdx, 7
+0x18002b79e: jbe 0x18002b7db
+0x18002b7a0: lea rdx, [rdx*2 + 2]
+0x18002b7a8: mov rcx, qword ptr [rsp + 0x30]
+0x18002b7ad: mov rax, rcx
+0x18002b7b0: cmp rdx, 0x1000
+0x18002b7b7: jb 0x18002b7d5
+0x18002b7b9: add rdx, 0x27
+0x18002b7bd: mov rcx, qword ptr [rcx - 8]
+0x18002b7c1: sub rax, rcx
+0x18002b7c4: add rax, -8
+0x18002b7c8: cmp rax, 0x1f
+0x18002b7cc: jbe 0x18002b7d5
+0x18002b7ce: call qword ptr [rip + 0x1d01c]
+0x18002b7d4: int3 
+0x18002b7d5: call 0x18003816c
+0x18002b7da: nop 
+0x18002b7db: lea rcx, [rsp + 0x68]
+0x18002b7e0: call qword ptr [rip + 0x1d0c2]
+0x18002b7e6: nop 
+0x18002b7e7: lea rcx, [rsp + 0x80]
+0x18002b7ef: call qword ptr [rip + 0x1cdcb]
+0x18002b7f5: xor al, al
+0x18002b7f7: jmp 0x18002b6ac
