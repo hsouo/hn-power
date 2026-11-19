@@ -7,6 +7,10 @@
 > 同接口家族机型（华为/荣耀 MagicBook，HWMI WMI 数据块相同）大概率兼容，未逐一验证。
 >
 > 完整逆向过程、证据分级（静态 / 社区互证 / 实机验证）见 [ANALYSIS.md](ANALYSIS.md)。
+>
+> **本项目主要由本地 AI Agent 完成**（逆向分析、工具编写、真机联调与文档均由 Agent 执行，人类负责提供
+> 目标设备、真机操作与方向把关）。Agent 部署在一台 RTX 5060 Ti 16G + 96GB 内存的主机上，
+> 实际部署方式见 [5060ti-strata-basalt-dsh-deploy](https://github.com/hsouo/5060ti-strata-basalt-dsh-deploy)。
 
 ## 目录
 
